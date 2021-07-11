@@ -7,7 +7,7 @@ const { t } = useI18n()
 <template>
   <Container>
     <div class="my-16 grid gap-16 justify-items-center">
-      <h1 class="flex flex-col gap-1 items-center">
+      <h1 class="flex flex-col text-center gap-1 items-center">
         <span
           class="font-semibold text-lg tracking-wider text-accent-500 uppercase"
           dark="text-accent-400"
