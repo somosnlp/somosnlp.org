@@ -40,7 +40,7 @@ And you will see the generated file in `dist` that ready to be served.
 
 ### Deploy on Netlify
 
-Go to [Netlify](https://app.netlify.com/start) and select your clone, `OK` along the way, and your App will be live in a minute.
+The page is automatically deployed by [Netlify](https://app.netlify.com/start) everytime you push to the `main` branch. All other branches will be depoyed to a preview URL (the link is visible in the corresponding Pull Request).
 
 ## License
 [MIT License](https://github.com/nlp-en-es/pagina-web/blob/main/LICENSE)
