@@ -1,8 +1,10 @@
 landing-page:
+  banner: Check out our new hands-on course "NLP de cero a cien"!
   heading: Natural Language Processing in Spanish
   heading-2: >-
     "NLP en ES 🤗" is the Spanish-speaking community of the "Languages at
-    Hugging Face" initiative.
+    Hugging Face" initiative. We are an international network of practitioners,
+    researchers and students accelerating the advancement of NLP in Spanish.
   introducing: Introducing
   read-the-announcement: Read the announcement
 navbar:

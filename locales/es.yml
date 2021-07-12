@@ -1,8 +1,10 @@
 landing-page:
+  banner: ¡Vea nuestro nuevo curso práctico "PNL de cero a cien"!
   heading: Procesamiento del Lenguage Natural en Español
   heading-2: >-
     "NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa
-    "Languages at Hugging Face".
+    "Languages at Hugging Face". Somos una red internacional de profesionales,
+    investigadores y estudiantes acelerando el avance del NLP en Español.
   introducing: Presentamos
   read-the-announcement: Leer el anuncio
 navbar:
