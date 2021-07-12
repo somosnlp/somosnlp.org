@@ -20,5 +20,11 @@ useHead({
 </script>
 
 <template>
+  <Container class="overflow-x-auto" border="b gray-200 dark:gray-700">
+    <NavBar />
+  </Container>
   <router-view />
+  <Container border="t gray-200 dark:gray-700">
+    <Footer />
+  </Container>
 </template>

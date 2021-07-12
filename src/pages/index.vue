@@ -15,11 +15,16 @@ const { t } = useI18n()
         <span class="font-bold text-xl tracking-tight text-3xl">{{ t('landing-page.heading') }}</span>
       </h1>
       <img alt="NLP en ES logo" src="../assets/logo.svg" />
+      <div class="flex gap-4">
+        <div
+          class="rounded-lg cursor-pointer bg-accent-300 shadow py-3 px-6 text-accent-900 hover:shadow-lg"
+          border="1 accent-400 dark:2 dark:accent-500"
+        >{{ t('landing-page.read-the-announcement') }}</div>
+        <div
+          class="rounded-lg cursor-pointer shadow py-3 px-6 hover:shadow-lg"
+          border="1 gray-200 dark:gray-700 dark:2"
+        >Another Button</div>
+      </div>
     </div>
   </Container>
 </template>
-
-<route lang="yaml">
-meta:
-  layout: default
-</route>
