@@ -1,5 +1,11 @@
 landing-page:
   heading: Natural Language Processing in Spanish
+  heading-2: >-
+    "NLP en ES 🤗" is the Spanish-speaking community of the "Languages at
+    Hugging Face" initiative.
   introducing: Introducing
   read-the-announcement: Read the announcement
+navbar:
+  about: About
+  blog: Blog
 not-found: Not found

@@ -1,4 +1,5 @@
 import path from 'path'
+import fs from 'fs-extra'
 import { defineConfig } from 'vite'
 import Vue from '@vitejs/plugin-vue'
 import Pages from 'vite-plugin-pages'
@@ -9,6 +10,7 @@ import WindiCSS from 'vite-plugin-windicss'
 import { VitePWA } from 'vite-plugin-pwa'
 import VueI18n from '@intlify/vite-plugin-vue-i18n'
 import Prism from 'markdown-it-prism'
+import matter from 'gray-matter'
 // @ts-expect-error missing types
 import LinkAttributes from 'markdown-it-link-attributes'
 
@@ -26,11 +28,23 @@ export default defineConfig({
     // https://github.com/hannoeru/vite-plugin-pages
     Pages({
       extensions: ['vue', 'md'],
+      pagesDir: 'pages',
+      extendRoute(route) {
+        const path_ = path.resolve(__dirname, route.component.slice(1))
+
+        if (path_.endsWith('.md')) {
+          const md = fs.readFileSync(path_, 'utf-8')
+          const { data } = matter(md)
+          route.meta = Object.assign(route.meta || {}, { frontmatter: data })
+        }
+
+        return route
+      },
     }),
 
     // https://github.com/antfu/vite-plugin-md
     Markdown({
-      wrapperClasses: 'prose prose-sm m-auto text-left',
+      wrapperComponent: 'BlogPost',
       headEnabled: true,
       markdownItSetup(md) {
         // https://prismjs.com/

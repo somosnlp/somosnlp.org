@@ -1,5 +1,11 @@
 landing-page:
   heading: Procesamiento del Lenguage Natural en Español
+  heading-2: >-
+    "NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa
+    "Languages at Hugging Face".
   introducing: Presentamos
   read-the-announcement: Leer el anuncio
+navbar:
+  about: Acerca de
+  blog: Blog
 not-found: No se ha encontrado

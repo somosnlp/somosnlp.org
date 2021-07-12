@@ -4,6 +4,9 @@ import defaultTheme from 'windicss/defaultTheme'
 import typography from 'windicss/plugin/typography'
 
 export default defineConfig({
+  extract: {
+    include: ['pages/**/*.{md,vue}', 'src/**/*.{vue,ts,css}'],
+  },
   darkMode: 'class',
   plugins: [
     typography(),
@@ -42,6 +45,7 @@ export default defineConfig({
             h3: { color: 'inherit' },
             h4: { color: 'inherit' },
             code: { color: 'inherit' },
+            blockquote: { color: 'inherit' },
           },
         },
       },

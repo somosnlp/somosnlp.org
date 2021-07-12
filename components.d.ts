@@ -3,12 +3,16 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
+    BlogItem: typeof import('./src/components/BlogItem.vue')['default']
+    BlogList: typeof import('./src/components/BlogList.vue')['default']
+    BlogPost: typeof import('./src/components/BlogPost.vue')['default']
     CarbonLogoGithub: typeof import('virtual:vite-icons/carbon/logo-github')['default']
     CarbonLogoLinkedin: typeof import('virtual:vite-icons/carbon/logo-linkedin')['default']
+    CarbonLogoSlack: typeof import('virtual:vite-icons/carbon/logo-slack')['default']
     CarbonLogoTwitter: typeof import('virtual:vite-icons/carbon/logo-twitter')['default']
-    CarbonWarning: typeof import('virtual:vite-icons/carbon/warning')['default']
     Container: typeof import('./src/components/Container.vue')['default']
     DarkThemeToggle: typeof import('./src/components/DarkThemeToggle.vue')['default']
+    'Fluent:documentBulletList24Regular': typeof import('virtual:vite-icons/fluent/document-bullet-list24-regular')['default']
     FluentWeatherMoon24Regular: typeof import('virtual:vite-icons/fluent/weather-moon24-regular')['default']
     FluentWeatherSunny24Regular: typeof import('virtual:vite-icons/fluent/weather-sunny24-regular')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
