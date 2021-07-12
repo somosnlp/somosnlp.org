@@ -19,12 +19,12 @@ const { t } = useI18n()
       <div class="flex gap-4">
         <router-link to="/blog/examples/announcement">
           <div
-            class="rounded-lg cursor-pointer flex bg-accent-300 shadow py-3 px-6 text-accent-900 gap-2 items-center"
+            class="rounded-lg cursor-pointer bg-accent-300 shadow py-3 px-6 text-accent-900 gap-2"
             border="1 accent-400 dark:accent-500"
             hover="shadow-md dark:ring"
           >
             {{ t('landing-page.read-the-announcement') }}
-            <fluent:document-bullet-list-24-regular />
+            <fluent:document-bullet-list-24-regular class="inline" />
           </div>
         </router-link>
         <!-- <div

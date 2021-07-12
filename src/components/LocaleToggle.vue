@@ -4,18 +4,12 @@ const { locale } = useI18n()
 </script>
 
 <template>
-    <div class="flex gap-2">
-        <IconButton @click="locale = 'es'">
-            <div class="flex font-medium text-sm gap-1 items-center">
-                <twemoji:flag-for-flag-spain />
-                <span>ES</span>
-            </div>
-        </IconButton>
-        <IconButton @click="locale = 'en'">
-            <div class="flex font-medium text-sm gap-1 items-center">
-                <twemoji:flag-for-flag-united-kingdom />
-                <span>EN</span>
-            </div>
-        </IconButton>
-    </div>
+    <IconButton @click="locale = 'es'" class="flex gap-2 items-center">
+        <twemoji:flag-for-flag-spain />
+        <span class="font-medium text-sm">Español</span>
+    </IconButton>
+    <IconButton @click="locale = 'en'" class="flex gap-2 items-center">
+        <twemoji:flag-for-flag-united-kingdom />
+        <span class="font-medium text-sm">English</span>
+    </IconButton>
 </template>

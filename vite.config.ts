@@ -80,7 +80,7 @@ export default defineConfig({
     }),
 
     // https://github.com/antfu/vite-plugin-icons
-    ViteIcons(),
+    ViteIcons({ scale: 1.25 }),
 
     // https://github.com/antfu/vite-plugin-windicss
     WindiCSS({

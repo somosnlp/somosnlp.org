@@ -4,10 +4,10 @@
     <div
       class="text-sm lg:justify-self-start"
     >© {{ (new Date()).getFullYear() }} nlp-en-es.org All rights reserved.</div>
-    <div class="flex flex-wrap gap-2 items-center justify-self-center">
+    <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
       <SocialMediaButtons />
     </div>
-    <div class="flex flex-wrap gap-4 items-center lg:justify-self-end">
+    <div class="flex gap-4 items-center <md:(flex-wrap justify-center) lg:justify-self-end">
       <LocaleToggle />
       <DarkThemeToggle />
     </div>

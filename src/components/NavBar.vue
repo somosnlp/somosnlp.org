@@ -3,7 +3,7 @@ import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
 </script><template>
-    <nav class="flex gap-4 items-center justify-between">
+    <nav class="flex gap-4 items-center justify-between select-none">
         <div class="flex gap-8 items-center">
             <Logo />
             <router-link
@@ -16,7 +16,7 @@ const { t } = useI18n()
             >{{ t('navbar.about') }}</router-link>
         </div>
         <div class="flex gap-4 items-center">
-            <div class="flex gap-2">
+            <div class="flex gap-2" text="lg">
                 <SocialMediaButtons />
             </div>
             <DarkThemeToggle />
