@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite-plugin-windicss'
 import colors from 'windicss/colors'
+import defaultTheme from 'windicss/defaultTheme'
 import typography from 'windicss/plugin/typography'
 
 export default defineConfig({
@@ -9,6 +10,10 @@ export default defineConfig({
   ],
   attributify: true,
   theme: {
+    fontFamily: {
+      sans: ['Inter', ...defaultTheme.fontFamily.sans],
+      mono: ['JetBrains Mono', ...defaultTheme.fontFamily.mono],
+    },
     extend: {
       colors: {
         ...colors,
