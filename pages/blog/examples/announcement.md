@@ -1,5 +1,5 @@
 ---
-title: ¡Hola mundo!
+title: Example Announcement
 description: “NLP en ES 🤗” es la comunidad de hispanohablantes de la iniciativa “Languages at Hugging Face”.
 date: 2021-07-11T16:00:00.000+00:00
 lang: es
