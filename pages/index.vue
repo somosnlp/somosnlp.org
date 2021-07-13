@@ -12,12 +12,12 @@ const { t } = useI18n()
           class="font-semibold text-lg tracking-wider text-accent-500 uppercase"
           dark="text-accent-400"
         >{{ t('landing-page.introducing') }}</span>
-        <span class="font-bold text-xl tracking-tight text-3xl">{{ t('landing-page.heading') }}</span>
+        <span class="font-bold tracking-tight text-2xl">{{ t('landing-page.heading') }}</span>
       </h1>
       <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />
       <h2 class="text-center max-w-65ch">{{ t('landing-page.heading-2') }}</h2>
       <div class="flex gap-4">
-        <router-link to="/blog/examples/announcement">
+        <router-link to="/blog/hola-mundo">
           <div
             class="rounded-lg cursor-pointer bg-accent-300 shadow py-3 px-6 text-accent-900 gap-2"
             border="1 accent-400 dark:accent-500"

@@ -6,6 +6,7 @@ declare module 'vue' {
     BlogItem: typeof import('./src/components/BlogItem.vue')['default']
     BlogList: typeof import('./src/components/BlogList.vue')['default']
     BlogPost: typeof import('./src/components/BlogPost.vue')['default']
+    'Carbon:close': typeof import('virtual:vite-icons/carbon/close')['default']
     'Carbon:moon': typeof import('virtual:vite-icons/carbon/moon')['default']
     'Carbon:sun': typeof import('virtual:vite-icons/carbon/sun')['default']
     CarbonLogoGithub: typeof import('virtual:vite-icons/carbon/logo-github')['default']
