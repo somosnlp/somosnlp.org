@@ -12,3 +12,4 @@ En esta página encontrarás los enlaces a las grabaciones, notebooks y recursos
 ## Índice del curso
 
 * [Introducción](/blog/nlp-de-cero-a-cien/introduction)
+* [Sesión 1: Word Embeddings](/blog/nlp-de-cero-a-cien/session-01)
