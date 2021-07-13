@@ -14,8 +14,8 @@ const { t } = useI18n()
         >{{ t('landing-page.introducing') }}</span>
         <span class="font-bold text-xl tracking-tight text-3xl">{{ t('landing-page.heading') }}</span>
       </h1>
-      <img alt="NLP en ES logo" src="/images/logo.svg" />
-      <h2 class="text-center text-lg">{{ t('landing-page.heading-2') }}</h2>
+      <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />
+      <h2 class="text-center max-w-65ch">{{ t('landing-page.heading-2') }}</h2>
       <div class="flex gap-4">
         <router-link to="/blog/examples/announcement">
           <div

@@ -1,7 +1,7 @@
 ---
 title: Example Tutorial
 description: This is an example tutorial to test the layout and syntax highlighting.
-date: 2021-07-13T16:00:00.000+00:00
+date: 1900-01-02T16:00:00.000+00:00
 lang: en
 duration: 7min
 cover: https://cdn.analyticsvidhya.com/wp-content/uploads/2019/06/Screenshot-from-2019-06-17-19-53-10.png

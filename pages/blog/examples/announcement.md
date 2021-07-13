@@ -1,15 +1,16 @@
 ---
 title: Example Announcement
 description: “NLP en ES 🤗” es la comunidad de hispanohablantes de la iniciativa “Languages at Hugging Face”.
-date: 2021-07-11T16:00:00.000+00:00
+date: 1900-01-01T16:00:00.000+00:00
 lang: es
 duration: 7min
+cover: https://nlp-en-es.github.io/assets/logo.svg
 ---
 
 "NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa "Languages at Hugging Face".
 
 <div class="flex justify-center">
-    <img alt="NLP en ES logo" src="/images/logo.svg" />
+    <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />
 </div>
 
 

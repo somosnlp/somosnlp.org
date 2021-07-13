@@ -7,3 +7,7 @@ dist-ssr
 node_modules
 # intellij stuff
 .idea/
+
+# symlink public/assets -> assets repo for local development
+public/assets
+
