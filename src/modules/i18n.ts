@@ -17,6 +17,24 @@ export const install: UserModule = ({ app }) => {
     legacy: false,
     locale: 'es',
     messages,
+    datetimeFormats: {
+      'en': {
+        long: {
+          weekday: "long",
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        }
+      },
+      'es': {
+        long: {
+          weekday: "long",
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        }
+      }
+    },
   })
 
   app.use(i18n)
