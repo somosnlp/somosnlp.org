@@ -10,10 +10,10 @@ const { t } = useI18n()
                 to="/blog"
                 class="whitespace-nowrap hover:text-accent-500"
             >{{ t('navbar.blog') }}</router-link>
-            <router-link
+            <!-- <router-link
                 to="/about"
                 class="whitespace-nowrap hover:text-accent-500"
-            >{{ t('navbar.about') }}</router-link>
+            >{{ t('navbar.about') }}</router-link>-->
         </div>
         <div class="flex gap-4 items-center">
             <div class="flex gap-2" text="lg">
