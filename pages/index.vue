@@ -1,10 +1,29 @@
 <script setup lang="ts">
+import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
+const showBanner = ref(true);
 </script>
 
 <template>
+  <Container
+    v-show="showBanner"
+    class="bg-accent-50 -top-1px text-accent-900 relative"
+    border="b t accent-200 dark:accent-600"
+    dark="bg-accent-400 text-accent-900"
+  >
+    <div
+      @click="showBanner = false"
+      class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center"
+    >
+      <router-link
+        to="/blog/nlp-de-cero-a-cien"
+        hover="text-accent-700"
+      >{{ t('landing-page.banner') }}</router-link>
+      <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
+    </div>
+  </Container>
   <Container>
     <div class="my-16 grid gap-10 justify-items-center">
       <h1 class="flex flex-col text-center gap-1 items-center">
