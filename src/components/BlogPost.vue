@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { useI18n } from "vue-i18n";
+const { d } = useI18n();
+
 const { frontmatter } = defineProps<{ frontmatter: any }>()
 </script>
 
@@ -8,7 +11,7 @@ const { frontmatter } = defineProps<{ frontmatter: any }>()
             <h1>{{ frontmatter.title }}</h1>
             <p class="text-lg">{{ frontmatter.description }}</p>
             <div class="text-lg opacity-50">
-                <i18n-d v-if="frontmatter.date" :value="new Date(frontmatter.date)" format="long" />
+                <span v-if="frontmatter.date">{{ d(frontmatter.date, 'long') }}</span>
                 <span v-if="frontmatter.duration">· {{ frontmatter.duration }}</span>
             </div>
         </header>

@@ -1,5 +1,5 @@
 <template>
-    <Container class="my-8">
+    <Container>
         <BlogList />
     </Container>
 </template>

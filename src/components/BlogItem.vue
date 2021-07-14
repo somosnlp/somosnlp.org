@@ -1,11 +1,13 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import type { RouteRecordNormalized } from 'vue-router'
+import { useI18n } from "vue-i18n";
 
 const props = defineProps<{
     route: RouteRecordNormalized
 }>()
 
+const { d } = useI18n();
 const frontmatter = computed(() => (props.route.meta as any).frontmatter)
 </script>
 
@@ -25,11 +27,7 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
             <div class="text-center grid gap-2">
                 <div class="font-bold text-lg mb-1">{{ frontmatter.title }}</div>
                 <div class="text-sm opacity-60">
-                    <i18n-d
-                        v-if="frontmatter.date"
-                        :value="new Date(frontmatter.date)"
-                        format="long"
-                    />
+                    <span v-if="frontmatter.date">{{ d(frontmatter.date, 'long') }}</span>
                     <span v-if="frontmatter.duration">· {{ frontmatter.duration }}</span>
                 </div>
                 <div class="text-sm mb-1">{{ frontmatter.description }}</div>
