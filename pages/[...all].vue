@@ -6,7 +6,8 @@ const { t } = useI18n()
 
 <template>
   <Container>
-    <div class="my-64 grid text-2xl gap-4 place-items-center">
+    <div class="mx-auto my-16 text-center max-w-600px grid text-2xl gap-4 place-items-center">
+      <img src="https://nlp-en-es.github.io/assets/images/undraw_not_found_60pq.svg" />
       <div class="font-bold tracking-wide text-4xl">404</div>
       <div class="tracking-tight">{{ t('not-found') }} :(</div>
     </div>
