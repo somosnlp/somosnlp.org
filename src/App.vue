@@ -12,6 +12,7 @@ useHead({
 
     },
     { property: 'og:title', content: 'NLP en ES' },
+    { property: 'og:description', content: 'Comunidad de profesionales, investigadores y estudiantes acelerando el avance del NLP en Español.' },
     { property: 'og:image', content: 'https://nlp-en-es.github.io/assets/logo.png' },
     { name: 'twitter:card', content: 'summary' },
     { name: 'twitter:creator', content: '@NLP_en_ES' },
