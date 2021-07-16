@@ -6,6 +6,7 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
+  /* @apply leading-relaxed; */
 }
 
 html.dark {
@@ -29,16 +30,18 @@ html.dark {
   height: 2px;
 }
 
-.btn {
-  @apply px-4 py-1 rounded inline-block
-    bg-yellow-400 text-white cursor-pointer
-    hover:bg-yellow-600
-    disabled:cursor-default disabled:bg-gray-400 disabled:opacity-50;
+.button {
+  @apply rounded-lg cursor-pointer flex text-center py-3 px-6 gap-2 justify-center items-center;
 }
 
-.icon-btn {
-  @apply inline-block cursor-pointer select-none
-    opacity-75 transition duration-200 ease-in-out
-    hover:opacity-100 hover:text-yellow-400;
-  font-size: 0.9em;
+.button-accent {
+  @apply button text-accent-900 bg-accent-50 border-2 border-accent-100
+    dark:bg-accent-300 dark:border-accent-600
+    transform hover:scale-102 active:scale-98;
+}
+
+.button-gray {
+  @apply button text-gray-900 bg-gray-50 border-2 border-gray-100
+    dark:text-white dark:bg-gray-800 dark:border-gray-900
+    transform hover:scale-102 active:scale-98;
 }

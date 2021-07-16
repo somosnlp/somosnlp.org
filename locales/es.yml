@@ -1,12 +1,21 @@
 landing-page:
   banner: ¡Nuevo curso práctico "NLP de cero a cien"!
+  contribute:
+    button: Leer más
+    github: Trabaja con nosotros en GitHub
+    linkedin: ¡Conéctese con nosotros en LinkedIn!
+    slack: ' ¡Únete a nuestra comunidad de Slack!'
+    twitter: ¡Síganos en Twitter!
   heading: Procesamiento del Lenguage Natural en Español
   heading-2: >-
     "NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa
     "Languages at Hugging Face". Somos una red internacional de profesionales,
     investigadores y estudiantes acelerando el avance del NLP en Español.
   introducing: Presentamos
+  join-us: Unirme
   read-the-announcement: Leer el anuncio
+  why:
+    heading: Más de 570M de hispanohablantes
 navbar:
   about: Acerca de
   blog: Blog

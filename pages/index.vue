@@ -10,7 +10,7 @@ const showBanner = ref(true);
   <Container
     v-show="showBanner"
     class="bg-accent-50 -top-1px text-accent-900 relative"
-    border="b t accent-200 dark:accent-600"
+    border="b-1 t-1 accent-100 dark:accent-600"
     dark="bg-accent-400 text-accent-900"
   >
     <div
@@ -25,31 +25,130 @@ const showBanner = ref(true);
     </div>
   </Container>
   <Container>
-    <div class="my-16 grid gap-10 justify-items-center">
-      <h1 class="flex flex-col text-center gap-1 items-center">
+    <!-- <div grid="~ md:cols-2 gap-8" class="place-items-center md:my-32">
+    <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />-->
+    <div class="mx-auto my-8 text-center lg:max-w-1/2">
+      <h1 class="flex flex-col mb-6 gap-1">
         <span
-          class="font-semibold text-lg tracking-wider text-accent-500 uppercase"
+          class="font-medium text-xl tracking-wider text-accent-500 uppercase"
           dark="text-accent-400"
         >{{ t('landing-page.introducing') }}</span>
-        <span class="font-bold tracking-tight text-2xl">{{ t('landing-page.heading') }}</span>
+        <span class="font-medium tracking-tighter text-3xl">{{ t('landing-page.heading') }}</span>
       </h1>
-      <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />
-      <h2 class="text-center max-w-65ch">{{ t('landing-page.heading-2') }}</h2>
-      <div class="flex gap-4">
-        <router-link to="/blog/hola-mundo">
-          <div
-            class="rounded-lg cursor-pointer bg-accent-300 shadow py-3 px-6 text-accent-900 gap-2"
-            border="1 accent-400 dark:accent-500"
-            hover="shadow-md dark:ring"
-          >
-            {{ t('landing-page.read-the-announcement') }}
-            <fluent:document-bullet-list-24-regular class="inline" />
-          </div>
+      <img
+        class="mx-auto my-8"
+        alt="NLP en ES logo"
+        src="https://nlp-en-es.github.io/assets/logo.svg"
+      />
+      <p text="lg">{{ t('landing-page.heading-2') }}</p>
+      <div class="mt-10 grid gap-4 lg:grid-cols-2">
+        <a href="https://bitly.com/nlp-en-es" target="_blank" class="button-accent">
+          <carbon:user-multiple />
+          {{ t('landing-page.join-us') }}
+        </a>
+        <router-link to="/blog/hola-mundo" class="button-gray">
+          <carbon:bullhorn />
+          {{ t('landing-page.read-the-announcement') }}
         </router-link>
-        <!-- <div
-          class="rounded-lg cursor-pointer shadow py-3 px-6 hover:shadow-lg"
-          border="1 gray-200 dark:gray-700 "
-        >Another Button</div>-->
+      </div>
+    </div>
+    <!-- </div> -->
+  </Container>
+  <Container class="bg-gray-50 dark:bg-dark-700">
+    <div grid="~ lg:cols-2" class="my-16 place-items-center">
+      <div class="px-4">
+        <h1
+          class="font-medium text-center mb-8 tracking-tight text-3xl"
+        >{{ t('landing-page.why.heading') }}</h1>
+        <p>{{ t('landing-page.why.text') }}</p>
+        <div class="my-8 grid gap-y-8 gap-x-6 grid-cols-[auto,1fr] items-center">
+          <div
+            class="rounded-md p-2 text-accent-900"
+            bg="accent-100 dark:accent-300"
+            border="2 accent-200 dark:accent-600"
+          >
+            <carbon:earth text="lg" />
+          </div>
+          {{ t('landing-page.why.community') }}
+          <div
+            class="rounded-md p-2 text-accent-900"
+            bg="accent-100 dark:accent-300"
+            border="2 accent-200 dark:accent-600"
+          >
+            <carbon:education text="lg" />
+          </div>
+          {{ t('landing-page.why.education') }}
+          <div
+            class="rounded-md p-2 text-accent-900"
+            bg="accent-100 dark:accent-300"
+            border="2 accent-200 dark:accent-600"
+          >
+            <carbon:share-knowledge text="lg" />
+          </div>
+          <div>
+            {{ t('landing-page.why.jobs') }}
+            <span
+              text="xs accent-900"
+              class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+              border="2 accent-300"
+            >Coming soon</span>
+          </div>
+        </div>
+      </div>
+      <img src="https://nlp-en-es.github.io/assets/images/undraw_Traveling_re_weve.svg" />
+    </div>
+  </Container>
+  <Container class="bg-gray-white dark:bg-dark-900">
+    <div class="my-16">
+      <h1
+        class="font-medium text-center mb-6 tracking-wider text-4xl"
+      >{{ t('landing-page.contribute.heading') }}</h1>
+      <p
+        class="mx-auto text-lg text-center max-w-65ch opacity-75"
+      >{{ t('landing-page.contribute.text') }}</p>
+      <div class="grid gap-16 place-items-center lg:grid-cols-2 my-8">
+        <img
+          class="p-8"
+          src="https://nlp-en-es.github.io/assets/images/undraw_content_team_3epn.svg"
+        />
+        <div class="grid gap-6 justify-center md:grid-cols-2">
+          <a
+            href="https://bitly.com/nlp-en-es"
+            target="_blank"
+            class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
+          >
+            <carbon:logo-slack text="xl" />
+            <span text="center">{{ t('landing-page.contribute.slack') }}</span>
+          </a>
+          <a
+            href="https://github.com/nlp-en-es"
+            target="_blank"
+            class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
+          >
+            <carbon:logo-github text="xl" />
+            <span text="center">{{ t('landing-page.contribute.github') }}</span>
+          </a>
+          <a
+            href="https://twitter.com/NLP_en_ES"
+            target="_blank"
+            class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
+          >
+            <carbon:logo-twitter text="xl" />
+            <span text="center">{{ t('landing-page.contribute.twitter') }}</span>
+          </a>
+          <a
+            href="https://www.linkedin.com/company/nlp-en-es/"
+            target="_blank"
+            class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
+          >
+            <carbon:logo-linkedin text="xl" />
+            <span text="center">{{ t('landing-page.contribute.linkedin') }}</span>
+          </a>
+          <router-link to="/blog/como-contribuir" class="col-span-full button-accent">
+            <carbon:binoculars />
+            {{ t('landing-page.contribute.button') }}
+          </router-link>
+        </div>
       </div>
     </div>
   </Container>

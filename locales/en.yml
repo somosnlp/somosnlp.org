@@ -1,12 +1,35 @@
 landing-page:
   banner: Check out our new hands-on course "NLP de cero a cien"!
+  contribute:
+    button: Read more
+    github: Work with us on GitHub!
+    heading: Get involved!
+    linkedin: Connect with us on LinkedIn!
+    slack: Join our community on Slack!
+    text: 'We are an open community around the globe and everything we do is 100% open source! Getting involed is just one mouse click away!'
+    twitter: Follow us on Twitter!
   heading: Natural Language Processing in Spanish
   heading-2: >-
     "NLP en ES 🤗" is the Spanish-speaking community of the "Languages at
     Hugging Face" initiative. We are an international network of practitioners,
     researchers and students accelerating the advancement of NLP in Spanish.
   introducing: Introducing
+  join-us: Join us
   read-the-announcement: Read the announcement
+  why:
+    community: >-
+      Building the largest international network of Spanish-speaking NLP
+      students, researchers and enthusiasts.
+    education: >-
+      Creating tutorials, organize talks & workshops and discuss the state of
+      the art of NLP in Spanish.
+    heading: More than 570M Spanish speakers
+    jobs: Providing a marketplace for NLP jobs in Spanish
+    text: >-
+      NLP research is focused on English and neglects the particular
+      difficulties of other languages. Let's give our widespread (and beautiful)
+      language a fair representation in the field of NLP. Our mission is to
+      accelerate the advancement of NLP in Spanish by:
 navbar:
   about: About
   blog: Blog
