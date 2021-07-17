@@ -1,8 +1,20 @@
 <script setup lang="ts">
+import { computed } from 'vue';
+import { useHead } from '@vueuse/head'
 import { useI18n } from "vue-i18n";
 const { d } = useI18n();
 
 const { frontmatter } = defineProps<{ frontmatter: any }>()
+
+useHead({
+    meta: [{
+        property: 'og:image',
+        content: computed(
+            () => frontmatter.cover
+                ? frontmatter.cover
+                : 'https://nlp-en-es.github.io/assets/logo.png')
+    }]
+})
 </script>
 
 <template>
