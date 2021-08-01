@@ -2,10 +2,14 @@ landing-page:
   banner: ¡Nuevo curso práctico "NLP de cero a cien"!
   contribute:
     button: Leer más
-    github: Trabaja con nosotros en GitHub
-    linkedin: ¡Conéctese con nosotros en LinkedIn!
-    slack: ' ¡Únete a nuestra comunidad de Slack!'
-    twitter: ¡Síganos en Twitter!
+    github: Contribuye a nuestros proyectos en GitHub
+    heading: ¡Contribuye!
+    linkedin: Conecta con la comunidad en LinkedIn
+    slack: ' Únete a nuestra comunidad de Slack'
+    text: >-
+      Somos una comunidad internacional y todos nuestros proyectos son open
+      source. 
+    twitter: Síguenos en Twitter
   heading: Procesamiento del Lenguage Natural en Español
   heading-2: >-
     "NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa
@@ -13,9 +17,22 @@ landing-page:
     investigadores y estudiantes acelerando el avance del NLP en Español.
   introducing: Presentamos
   join-us: Unirme
-  read-the-announcement: Leer el anuncio
+  read-the-announcement: Leer más sobre la comunidad
   why:
+    coming-soon: Próximamente
+    community: >-
+      Creando la mayor red internacional de hispanohablantes estudiando,
+      investigando y trabajando en el ámbito del NLP.
+    education: >-
+      Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
+      el estado del arte del NLP en español.
     heading: Más de 570M de hispanohablantes
+    jobs: Proporcionando oportunidades profesionales relacionadas con el NLP
+    text: >-
+      La investigación en NLP está centrada en el inglés y descuida las
+      dificultades particulares de los otros idiomas. Vamos a darle a nuestro
+      idioma tan extendido (y bonito) una representación justa en el ámbito del
+      NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
 navbar:
   about: Acerca de
   blog: Blog

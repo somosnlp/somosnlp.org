@@ -91,7 +91,7 @@ const showBanner = ref(true);
               text="xs accent-900"
               class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
               border="2 accent-300"
-            >Coming soon</span>
+            >{{ t('landing-page.why.coming-soon') }}</span>
           </div>
         </div>
       </div>

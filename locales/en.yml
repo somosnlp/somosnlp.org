@@ -6,7 +6,9 @@ landing-page:
     heading: Get involved!
     linkedin: Connect with us on LinkedIn!
     slack: Join our community on Slack!
-    text: 'We are an open community around the globe and everything we do is 100% open source! Getting involed is just one mouse click away!'
+    text: >-
+      We are an open community around the globe and everything we do is 100%
+      open source! Getting involed is just one mouse click away!
     twitter: Follow us on Twitter!
   heading: Natural Language Processing in Spanish
   heading-2: >-
@@ -15,11 +17,12 @@ landing-page:
     researchers and students accelerating the advancement of NLP in Spanish.
   introducing: Introducing
   join-us: Join us
-  read-the-announcement: Read the announcement
+  read-the-announcement: Read more about us
   why:
+    coming-soon: Coming soon
     community: >-
       Building the largest international network of Spanish-speaking NLP
-      students, researchers and enthusiasts.
+      students, researchers and professionals.
     education: >-
       Creating tutorials, organize talks & workshops and discuss the state of
       the art of NLP in Spanish.
