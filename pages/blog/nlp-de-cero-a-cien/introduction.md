@@ -1,12 +1,13 @@
 ---
 title: "Presentamos: NLP de cero a cien"
+description: Contenidos, calendario, formadores, organizadores y enlaces útiles.
 date: 2021-07-07T16:00:00.000+00:00
 lang: es
 duration: 9min
 cover: "https://nlp-en-es.github.io/assets/images/undraw_happy_announcement_ac67.svg"
 ---
 
-Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Transformers, Word Embeddings, Attention, Sequential Models y Language Modeling.
+Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.
 
 ➡️ Regístrate (¡es gratis!) https://bit.ly/nlp-de-cero-a-cien
 
