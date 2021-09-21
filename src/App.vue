@@ -5,16 +5,16 @@ import { useHead } from '@vueuse/head'
 // you can use this to manipulate the document head in any components,
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
-  title: 'NLP en ES',
+  title: 'NLP en ES - Democratizando el NLP en español',
   meta: [
     {
-      name: 'description', content: 'Comunidad de profesionales, investigadores y estudiantes acelerando el avance del NLP en Español.'
+      name: 'description', content: 'Comunidad internacional de profesionales, investigadores y estudiantes acelerando el avance del NLP en español, ¡únete!'
 
     },
-    { property: 'og:title', content: 'NLP en ES' },
-    { property: 'og:description', content: 'Comunidad de profesionales, investigadores y estudiantes acelerando el avance del NLP en Español.' },
+    { property: 'og:title', content: 'NLP en ES - Democratizando el NLP en español' },
+    { property: 'og:description', content: 'Comunidad internacional de profesionales, investigadores y estudiantes acelerando el avance del NLP en español, ¡únete!' },
     { property: 'og:image', content: 'https://nlp-en-es.github.io/assets/logo.png' },
-    { name: 'twitter:card', content: 'summary' },
+    { name: 'twitter:card', content: 'NLP en ES - Democratizando el NLP en español' },
     { name: 'twitter:creator', content: '@NLP_en_ES' },
   ],
 })

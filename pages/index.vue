@@ -17,10 +17,7 @@ const showBanner = ref(true);
       @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center"
     >
-      <router-link
-        to="/nlp-de-cero-a-cien"
-        hover="text-accent-700"
-      >{{ t('landing-page.banner') }}</router-link>
+      <router-link to="/nlp-de-cero-a-cien" hover="text-accent-700">{{ t('landing-page.banner') }}</router-link>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
     </div>
   </Container>
@@ -57,9 +54,9 @@ const showBanner = ref(true);
   <Container class="bg-gray-50 dark:bg-dark-700">
     <div grid="~ lg:cols-2" class="my-16 place-items-center">
       <div class="px-4">
-        <h1
+        <h2
           class="font-medium text-center mb-8 tracking-tight text-3xl"
-        >{{ t('landing-page.why.heading') }}</h1>
+        >{{ t('landing-page.why.heading') }}</h2>
         <p>{{ t('landing-page.why.text') }}</p>
         <div class="my-8 grid gap-y-8 gap-x-6 grid-cols-[auto,1fr] items-center">
           <div
@@ -95,14 +92,17 @@ const showBanner = ref(true);
           </div>
         </div>
       </div>
-      <img src="https://nlp-en-es.github.io/assets/images/undraw_Traveling_re_weve.svg" />
+      <img
+        src="https://nlp-en-es.github.io/assets/images/undraw_Traveling_re_weve.svg"
+        alt="Comunidad internacional"
+      />
     </div>
   </Container>
   <Container class="bg-gray-white dark:bg-dark-900">
     <div class="my-16">
-      <h1
+      <h2
         class="font-medium text-center mb-6 tracking-wider text-4xl"
-      >{{ t('landing-page.contribute.heading') }}</h1>
+      >{{ t('landing-page.contribute.heading') }}</h2>
       <p
         class="mx-auto text-lg text-center max-w-65ch opacity-75"
       >{{ t('landing-page.contribute.text') }}</p>
@@ -110,6 +110,7 @@ const showBanner = ref(true);
         <img
           class="p-8"
           src="https://nlp-en-es.github.io/assets/images/undraw_content_team_3epn.svg"
+          alt="Proyectos open-source"
         />
         <div class="grid gap-6 justify-center md:grid-cols-2">
           <a
