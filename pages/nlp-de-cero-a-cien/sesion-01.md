@@ -1,9 +1,9 @@
 ---
 title: "Sesión 1: Word Embeddings"
+description: ""
 date: 2021-07-13T16:00:00.000+00:00
 lang: es
 duration: 42min
-cover: "https://nlp-en-es.github.io/assets/images/undraw_Online_learning_re_qw08.svg"
 ---
 
 <iframe class="mx-auto my-8" width="560" height="315" src="https://www.youtube.com/embed/RunqyndjEbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
