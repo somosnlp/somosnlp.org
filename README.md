@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1a287d2-c2b8-4a1f-991d-0c1c73d2aa72/deploy-status)](https://app.netlify.com/sites/nlp-en-es/deploys)
+
 # Página Web
 
 <p align='center'>
@@ -8,21 +10,24 @@
 
 ### Development
 
-Just run and visit http://localhost:3333
+First, install the dependencies with
+```bash
+pnpm install
+```
 
+Then just run
 ```bash
 pnpm dev
 ```
+and visit http://localhost:3333.
 
 ### Build
 
-To build the App, run
-
+To build the website run
 ```bash
 pnpm build
 ```
-
-And you will see the generated file in `dist` that ready to be served.
+This will generate files in `dist` that are ready to be served.
 
 ### Deploy on Netlify
 
