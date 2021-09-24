@@ -21,6 +21,7 @@ declare module 'vue' {
     'Carbon:sun': typeof import('virtual:vite-icons/carbon/sun')['default']
     'Carbon:userMultiple': typeof import('virtual:vite-icons/carbon/user-multiple')['default']
     Container: typeof import('./src/components/Container.vue')['default']
+    CourseSummary: typeof import('./src/components/CourseSummary.vue')['default']
     DarkThemeToggle: typeof import('./src/components/DarkThemeToggle.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
     IconButton: typeof import('./src/components/IconButton.vue')['default']

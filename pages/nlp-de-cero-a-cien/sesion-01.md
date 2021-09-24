@@ -5,13 +5,15 @@ lang: es
 duration: 42min
 ---
 
-Tras una introducción al Procesamiento de Lenguaje Natural, veremos cómo funcionan los Word Embeddings y Word2Vec, así como sus posibles usos y sesgos.
-
-<iframe class="mx-auto my-8" width="560" height="315" src="https://www.youtube.com/embed/RunqyndjEbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<div class="text-lg mb-8">
-    Ponente:
-    <a class="font-regular" href="https://twitter.com/osanseviero">@osanseviero</a>
+<div>
+    <CourseSummary
+        description="Tras una introducción al Procesamiento de Lenguaje Natural, veremos cómo funcionan los Word Embeddings y Word2Vec, así como sus posibles usos y sesgos."
+        video="https://www.youtube.com/embed/RunqyndjEbg"
+        name="Omar Sanseviero"
+        twitter="https://twitter.com/osanseviero"
+        linkedin="https://www.linkedin.com/in/omarsanseviero/"
+        github="https://github.com/osanseviero"
+    />
 </div>
 
 ---
