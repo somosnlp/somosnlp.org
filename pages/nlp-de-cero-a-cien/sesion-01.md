@@ -9,6 +9,7 @@ duration: 42min
     <CourseSummary
         description="Tras una introducción al Procesamiento de Lenguaje Natural, veremos cómo funcionan los Word Embeddings y Word2Vec, así como sus posibles usos y sesgos."
         video="https://www.youtube.com/embed/RunqyndjEbg"
+        slides="https://github.com/nlp-en-es/nlp-de-cero-a-cien/blob/main/1_word_embeddings/presentacion.pdf"
         name="Omar Sanseviero"
         twitter="https://twitter.com/osanseviero"
         linkedin="https://www.linkedin.com/in/omarsanseviero/"
