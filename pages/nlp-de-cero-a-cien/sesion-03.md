@@ -7,7 +7,7 @@ duration: 32min
 
 <div>
     <CourseSummary
-        description=""
+        description='Hoy introduciremos la arquitectura Transformer, explicaremos por qué ha revolucionado el mundo del NLP y entenderemos por qué "attention is all you need".'
         video="https://www.youtube.com/embed/tVLwC4XKGeU"
         name="María Grandury"
         twitter="https://twitter.com/mariagrandury"
@@ -15,6 +15,11 @@ duration: 32min
         github="https://github.com/mariagrandury"
     />
 </div>
+
+---
+
+## Papers
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762): paper donde se introdujo la arquitectura Transformer.
 
 ---
 

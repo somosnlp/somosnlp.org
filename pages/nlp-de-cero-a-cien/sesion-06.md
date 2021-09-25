@@ -7,7 +7,7 @@ duration: 61min
 
 <div>
     <CourseSummary
-        description=""
+        description="El tema de esta semana es el modelado del lenguaje. Vamos a ver cómo utilizar las bibliotecas de Hugging Face para entrenar desde cero un modelo del lenguaje tan potente como GPT-2."
         video="https://www.youtube.com/embed/b2uvWZR2Ru4"
         name="Manuel Romero"
         twitter="https://twitter.com/mrm8488"

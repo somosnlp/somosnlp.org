@@ -23,3 +23,8 @@ En esta página encontrarás los enlaces a las grabaciones, diapositivas, notebo
 * [Sesión 5: Transformers y Generación de Texto](/nlp-de-cero-a-cien/sesion-05)
 * [Sesión 6: Transformers y Modelado del Lenguaje](/nlp-de-cero-a-cien/sesion-06)
 * [Sesión 7: NLP en Producción con FastAPI](/nlp-de-cero-a-cien/sesion-07)
+
+## Enlaces útiles
+
+* [Repositorio de GitHub](https://github.com/nlp-en-es/nlp-de-cero-a-cien)
+* [Canal de Slack #nlp-de-cero-a-cien](https://bitly.com/nlp-en-es)
