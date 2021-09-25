@@ -15,3 +15,7 @@ duration: 32min
         github="https://github.com/mariagrandury"
     />
 </div>
+
+---
+
+Siguiente sesión: [Transformers y Aprendizaje por Transferencia](/nlp-de-cero-a-cien/sesion-04)

@@ -15,3 +15,7 @@ duration: 61min
         github="https://github.com/lewtun"
     />
 </div>
+
+---
+
+Siguiente sesión: [Transformers y Modelado del Lenguaje](/nlp-de-cero-a-cien/sesion-06)

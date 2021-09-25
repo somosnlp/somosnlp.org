@@ -15,3 +15,7 @@ duration: 66min
         github="https://github.com/lewtun"
     />
 </div>
+
+---
+
+Siguiente sesión: [Transformers y Generación de Texto](/nlp-de-cero-a-cien/sesion-05)

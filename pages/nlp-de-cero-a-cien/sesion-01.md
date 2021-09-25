@@ -129,6 +129,6 @@ model.most_similar(positive=["king", "woman"], negative=["man"], topn=1)
 model.most_similar(positive=["Mexico", "burger"], negative=["USA"], topn=1)
 ```
 
-## Impartido por Omar Sanseviero
+---
 
-Omar es un Ingeniero de Machine Learning con 7 años de experiencia en la industria de la tecnología. Actualmente trabaja en Hugging Face en el equipo de open-source democratizando el uso de Machine Learning. Previamente, Omar trabajó como Ingeniero de Software en Google en Suiza en el equipo de Assistant. Omar es un apasionado de la educación y co-fundó AI Learners, una comunidad de personas que buscan aprender y discutir temas sobre Inteligencia Artificial y sus diferentes aplicaciones.
+Siguiente sesión: [Modelos Secuenciales (RNNs y LSTMs)](/nlp-de-cero-a-cien/sesion-02)

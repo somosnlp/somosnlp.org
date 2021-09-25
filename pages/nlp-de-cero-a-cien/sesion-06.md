@@ -15,3 +15,7 @@ duration: 61min
         github="https://github.com/mrm8488"
     />
 </div>
+
+---
+
+Siguiente sesión: [NLP en Producción con FastAPI](/nlp-de-cero-a-cien/sesion-07)
