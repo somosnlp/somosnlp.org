@@ -19,6 +19,11 @@ duration: 66min
 
 ---
 
+## Notebook
+
+<a href="https://colab.research.google.com/drive/17630ohLuzpQ3jJRp1YSb-05fcbi8STql
+" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Recursos adicionales
 
 * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/): guía ilustrada que explica de manera muy intuitiva los conceptos de aprendizaje por transferencia y clasificación de textos.

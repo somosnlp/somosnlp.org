@@ -18,4 +18,10 @@ duration: 61min
 
 ---
 
+## Notebook
+
+<a href="https://colab.research.google.com/drive/1znryluywdTfVT4uoYgav96w0FmVb3dyL?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+---
+
 Siguiente sesión: [NLP en Producción con FastAPI](/nlp-de-cero-a-cien/sesion-07)

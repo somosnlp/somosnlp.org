@@ -18,6 +18,10 @@ duration: 32min
 
 ---
 
+## Notebook
+
+<a href="https://colab.research.google.com/drive/1VNrocz_hLS-iF4cqFiKhzCXaXwRofefZ" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 ## Papers
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762): paper donde se introdujo la arquitectura Transformer.
 

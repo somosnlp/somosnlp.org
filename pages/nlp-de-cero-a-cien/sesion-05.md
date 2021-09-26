@@ -19,6 +19,11 @@ duration: 61min
 
 ---
 
+## Notebook
+
+<a href="https://colab.research.google.com/github/nlp-en-es/nlp-de-cero-a-cien/blob/main/5_transformers_3/generacion_de_textos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
 ## Recursos adicionales
 
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/): guía ilustrada que explica de manera muy intuitiva los conceptos de decoders y generacion de textos.
