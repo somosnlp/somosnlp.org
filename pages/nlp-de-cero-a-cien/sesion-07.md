@@ -1,5 +1,5 @@
 ---
-title: "Sesión 7: NLP en Producción con FastAPI"
+title: "Sesión 7: Demos de NLP con 🤗 Spaces"
 date: 2021-10-05T16:00:00.000+00:00
 lang: es
 duration: 60min

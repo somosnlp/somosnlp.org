@@ -22,7 +22,7 @@ En esta página encontrarás los enlaces a las grabaciones, diapositivas, notebo
 * [Sesión 4: Transformers y Aprendizaje por Transferencia](/nlp-de-cero-a-cien/sesion-04)
 * [Sesión 5: Transformers y Generación de Texto](/nlp-de-cero-a-cien/sesion-05)
 * [Sesión 6: Transformers y Modelado del Lenguaje](/nlp-de-cero-a-cien/sesion-06)
-* [Sesión 7: NLP en Producción con FastAPI](/nlp-de-cero-a-cien/sesion-07)
+* [Sesión 7: Demos de NLP con 🤗 Spaces](/nlp-de-cero-a-cien/sesion-07)
 
 ## Enlaces útiles
 
