@@ -9,7 +9,6 @@ declare module 'vue' {
     'Carbon:binoculars': typeof import('virtual:vite-icons/carbon/binoculars')['default']
     'Carbon:bullhorn': typeof import('virtual:vite-icons/carbon/bullhorn')['default']
     'Carbon:close': typeof import('virtual:vite-icons/carbon/close')['default']
-    'Carbon:connectionTwoWay': typeof import('virtual:vite-icons/carbon/connection-two-way')['default']
     'Carbon:earth': typeof import('virtual:vite-icons/carbon/earth')['default']
     'Carbon:education': typeof import('virtual:vite-icons/carbon/education')['default']
     'Carbon:logoGithub': typeof import('virtual:vite-icons/carbon/logo-github')['default']
