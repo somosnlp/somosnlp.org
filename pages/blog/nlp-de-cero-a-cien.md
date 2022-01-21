@@ -1,6 +1,6 @@
 ---
 title: "Presentamos: NLP de 0 a 100 con 🤗"
-description: Contenidos, calendario, formadores, organizadores y enlaces útiles.
+description: El curso gratuito y open-source más completo de NLP en español.
 date: 2021-07-07T16:00:00.000+00:00
 lang: es
 duration: 9min
@@ -9,7 +9,7 @@ cover: "https://nlp-en-es.github.io/assets/images/undraw_Graduation_re_gthn.svg"
 
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.
 
-➡️ Regístrate (¡es gratis!) https://bit.ly/nlp-de-cero-a-cien
+➡️ Puedes encontrar las grabaciones de los talleres y todo el material del curso [aquí](https://nlp-en-es.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
     <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/images/undraw_Graduation_re_gthn.svg" />
@@ -19,13 +19,13 @@ Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP 
 ## Calendario
 El curso está dividido en 7 sesiones que se impartirán cada dos martes a las 18h CET a partir del 13 de Julio. Dependiendo de tu nivel actual puedes unirte al curso en la sesión que quieras.
 
-- 13 Jul: Introducción y Word Embeddings
-- 27 Jul: Modelos secuenciales (RNNs, LSTMs)
-- 10 Ag: Transformers I. Mecanismo de atención y arquitectura Transformer
-- 24 Ag: Transformers II. Aprendizaje por transferencia
-- 7 Sep: Transformers III. Generación de texto
-- 21 Sep: Modelado del lenguaje: pre-entrenar y fine-tune un modelo
-- 5 Oct: NLP en producción con [FastAPI](https://fastapi.tiangolo.com/)
+- 13 Jul: Introducción al NLP y Word Embeddings
+- 27 Jul: Modelos secuenciales (RNNs y LSTMs)
+- 10 Ag: Arquitectura Transformer
+- 24 Ag: Transformers y Aprendizaje por Transferencia
+- 7 Sep: Transformers y Generación de Texto
+- 21 Sep: Transformers y Modelado del lenguaje
+- 5 Oct: Demos de NLP con [Spaces](https://huggingface.co/spaces)
 
 Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver dudas de los asistentes.
 
