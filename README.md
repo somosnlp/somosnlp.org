@@ -6,13 +6,13 @@
   <img src='https://raw.githubusercontent.com/nlp-en-es/design/main/logo.svg' />
 </p>
 
-## Contribuye al blog
+## 💡 Contribuye al blog
 
-Contribuir a nuestro blog es muy fácil y te invitamos a compartir con la comunidad tu conocimiento y experiencia.
+Contribuir a nuestro blog es muy fácil, te invitamos a compartir con la comunidad tu conocimiento y experiencia.
 
 Solo tienes que
-1. escribir tu artículo en un archivo markdown `.md`
-2. incluir los metadatos como el título o tu nombre en el encabezamiento (ejemplo a continuación)
+1. escribir tu artículo en un archivo markdown `.md`,
+2. incluir los metadatos como el título o tu nombre en el encabezamiento (ejemplo a continuación) y
 3. abrir una PR para añadir tu artículo a `./pages/blog`
 
 ¡Anímate!
@@ -60,7 +60,9 @@ Para mayor claridad, te pedimos que la rama empiece por "blog/" (e.g. `blog/hola
 ¡Estamos impacientes por leer lo que tienes que contarnos!
 
 
-## Desarrollo
+## 🚀 Mejora la página web
+
+También puedes contribuir al diseño y mejora de la propia página web. Si estás buscando ideas, échale un vistazo a los [issues abiertos](https://github.com/nlp-en-es/nlp-en-es.org/issues).
 
 ### Development
 
@@ -87,5 +89,5 @@ This will generate files in `dist` that are ready to be served.
 
 The page is automatically deployed by [Netlify](https://app.netlify.com/start) everytime you push to the `main` branch. All other branches will be depoyed to a preview URL (the link is visible in the corresponding Pull Request).
 
-## Licencia
+## 📜 Licencia
 [MIT License](https://github.com/nlp-en-es/pagina-web/blob/main/LICENSE)
