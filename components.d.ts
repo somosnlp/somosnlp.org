@@ -19,6 +19,7 @@ declare module 'vue' {
     'Carbon:moon': typeof import('virtual:vite-icons/carbon/moon')['default']
     'Carbon:shareKnowledge': typeof import('virtual:vite-icons/carbon/share-knowledge')['default']
     'Carbon:sun': typeof import('virtual:vite-icons/carbon/sun')['default']
+    'Carbon:userAvatarFilledAlt': typeof import('virtual:vite-icons/carbon/user-avatar-filled-alt')['default']
     'Carbon:userMultiple': typeof import('virtual:vite-icons/carbon/user-multiple')['default']
     Container: typeof import('./src/components/Container.vue')['default']
     CourseSummary: typeof import('./src/components/CourseSummary.vue')['default']
