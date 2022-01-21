@@ -17,7 +17,7 @@ const showBanner = ref(true);
       @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center"
     >
-      <router-link to="/nlp-de-cero-a-cien" hover="text-accent-700">{{ t('landing-page.banner') }}</router-link>
+      <router-link to="/hackathon" hover="text-accent-700">{{ t('landing-page.banner') }}</router-link>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
     </div>
   </Container>
