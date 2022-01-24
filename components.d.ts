@@ -25,6 +25,7 @@ declare module 'vue' {
     CourseSummary: typeof import('./src/components/CourseSummary.vue')['default']
     DarkThemeToggle: typeof import('./src/components/DarkThemeToggle.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
+    HackathonList: typeof import('./src/components/HackathonList.vue')['default']
     IconButton: typeof import('./src/components/IconButton.vue')['default']
     LinkIconButton: typeof import('./src/components/LinkIconButton.vue')['default']
     LocaleToggle: typeof import('./src/components/LocaleToggle.vue')['default']
