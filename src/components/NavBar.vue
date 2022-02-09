@@ -14,6 +14,10 @@ const { t } = useI18n()
                 to="/nlp-de-cero-a-cien"
                 class="whitespace-nowrap hover:text-accent-500"
             >{{ "NLP de 0 a 100" }}</router-link>
+            <router-link
+                to="/hackathon"
+                class="whitespace-nowrap hover:text-accent-500"
+            >{{ "Hackathon" }}</router-link>
             <!-- <router-link
                 to="/about"
                 class="whitespace-nowrap hover:text-accent-500"
