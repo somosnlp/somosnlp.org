@@ -5,9 +5,7 @@
 dist
 dist-ssr
 node_modules
-# intellij stuff
+
+# IDE folders
 .idea/
-
-# symlink public/assets -> assets repo for local development
-public/assets
-
+.vscode/
