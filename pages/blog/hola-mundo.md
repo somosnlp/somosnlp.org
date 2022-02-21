@@ -31,6 +31,6 @@ Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa 
 
 ## Y, sobre todo...
 
-🚀 Compartiendo experiencia y recursos en la comunidad de Slack.
+🚀 Compartiendo experiencia y recursos en la comunidad de Discord.
 
-👉 [¡Únete a Somos NLP!](https://bit.ly/nlp-en-es) 👈
+👉 [¡Únete a Somos NLP!](https://discord.gg/u2wWMHsc) 👈

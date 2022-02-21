@@ -5,8 +5,8 @@
     <LinkIconButton url="https://www.linkedin.com/company/somosnlp">
         <carbon:logo-linkedin />
     </LinkIconButton>
-    <LinkIconButton url="https://bitly.com/nlp-en-es">
-        <carbon:logo-slack />
+    <LinkIconButton url="https://discord.gg/u2wWMHsc">
+        <carbon:logo-discord />
     </LinkIconButton>
     <LinkIconButton url="https://github.com/somosnlp">
         <carbon:logo-github />

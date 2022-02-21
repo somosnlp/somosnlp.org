@@ -44,11 +44,11 @@ Si quieres añadir una base de datos a la librería de HF, solo tienes que:
 Si quieres sugerir la adición de una base de datos a la librería añade una nueva fila en la hoja de cálculo* y 
 deja la columna "Contribuyente" en blanco para que otra persona pueda trabajar en ello.
 
-*El enlace a la hoja de cálculo está en la descripción del canal #datasets del grupo de Slack.
+*El enlace a la hoja de cálculo está en la descripción del canal #datasets de la comunidad de Discord.
 
 #### Crear una nueva base de datos
 Si tienes una idea para crear una nueva base de datos de NLP en español estás en el sitio adecuado:
-1. Comparte tu idea en el canal #tutoriales de la comunidad de [Slack](https://join.slack.com/t/nlpenespaol/shared_invite/zt-n0cpcd87-hdAR_qiHtDcCAlCyZtwDKQ)
+1. Comparte tu idea en el canal #datasets de la comunidad de [Discord](https://discord.gg/u2wWMHsc)
 2. Reúne un equipo para hacerla realidad
 3. Añádela a la librería de Hugging Face
 
@@ -66,12 +66,12 @@ Si tienes más dudas echa un vistazo a [Model Hub docs](https://huggingface.co/d
 
 ## Tutoriales
 Tanto si quieres crear un tutorial desde cero como si quieres traducir uno:
-1. Comparte tu idea en el canal #tutoriales de la comunidad de [Slack](http://bit.ly/nlp-en-es)
+1. Comparte tu idea en el canal #tutoriales de la comunidad de [Discord](https://discord.gg/u2wWMHsc)
 2. Reúne un equipo para hacerla realidad
 3. Crea un repositorio con el nombre del nuevo tutorial
 4. Crea un README.md con la información del tutorial
 5. ¡Y a trabajar!
-Al terminar, te animamos a abrir una [PR](https://github.com/nlp-en-es/nlp-en-es.org) para añadir el tutorial a nuestro blog.
+Al terminar, te animamos a abrir una [PR](https://github.com/somosnlp/somosnlp.org) para añadir el tutorial a nuestro blog.
 
 ## Eventos
 Si te interesa dar una charla (ya sea teórica o práctica) contáctanos, estaremos encantados de aprender de tu experiencia.
