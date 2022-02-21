@@ -3,7 +3,7 @@
     <Logo class="col-span-full lg:justify-self-start" />
     <div
       class="text-sm lg:justify-self-start"
-    >© {{ (new Date()).getFullYear() }} nlp-en-es.org All rights reserved.</div>
+    >© {{ (new Date()).getFullYear() }} somosnlp.org All rights reserved.</div>
     <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
       <SocialMediaButtons />
     </div>
