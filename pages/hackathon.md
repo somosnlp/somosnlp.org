@@ -6,7 +6,7 @@ description: Contruye al lado de mentores, expertas y hackers la siguiente gener
 ¡Únete al mayor hackathon de Procesamiento del Lenguaje Natural en español!
 
 <div class="flex justify-center">
-    <img src='https://github.com/nlp-en-es/assets/raw/main/images/hackathon_pln_es_2.png' />
+    <img src='https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_2.png' />
 </div>
 
 La democratización del PLN en español es el objetivo principal de nuestra comunidad y una de las mejores maneras de avanzar hacia este objetivo es creando más recursos de PLN en nuestro idioma.
@@ -32,7 +32,7 @@ Un jurado formado por especialistas en PLN (por anunciar) elegirá los tres equi
 
 ## Charlas y Talleres
 
-Durante el hackathon tendrán lugar diversas charlas y talleres impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Iremos anunciando los eventos uno a uno así que atención a [Twitter](https://twitter.com/nlp_en_es) y [LinkedIn](https://www.linkedin.com/company/nlp-en-es)!🔥
+Durante el hackathon tendrán lugar diversas charlas y talleres impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Iremos anunciando los eventos uno a uno así que atención a [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)!🔥
 
 <HackathonList />
 

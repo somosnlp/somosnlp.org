@@ -23,7 +23,7 @@ const showBanner = ref(true);
   </Container>
   <Container>
     <!-- <div grid="~ md:cols-2 gap-8" class="place-items-center md:my-32">
-    <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />-->
+    <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/logo.svg" />-->
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <h1 class="flex flex-col mb-6 gap-1">
         <span
@@ -34,8 +34,8 @@ const showBanner = ref(true);
       </h1>
       <img
         class="mx-auto my-8"
-        alt="NLP en ES logo"
-        src="https://nlp-en-es.github.io/assets/logo.svg"
+        alt="Somos NLP logo"
+        src="https://somosnlp.github.io/assets/logo.svg"
       />
       <p text="lg">{{ t('landing-page.heading-2') }}</p>
       <div class="mt-10 grid gap-4 lg:grid-cols-2">
@@ -93,7 +93,7 @@ const showBanner = ref(true);
         </div>
       </div>
       <img
-        src="https://nlp-en-es.github.io/assets/images/undraw_Traveling_re_weve.svg"
+        src="https://somosnlp.github.io/assets/images/undraw_Traveling_re_weve.svg"
         alt="Comunidad internacional"
       />
     </div>
@@ -109,7 +109,7 @@ const showBanner = ref(true);
       <div class="grid gap-16 place-items-center lg:grid-cols-2 my-8">
         <img
           class="p-8"
-          src="https://nlp-en-es.github.io/assets/images/undraw_content_team_3epn.svg"
+          src="https://somosnlp.github.io/assets/images/undraw_content_team_3epn.svg"
           alt="Proyectos open-source"
         />
         <div class="grid gap-6 justify-center md:grid-cols-2">
@@ -122,7 +122,7 @@ const showBanner = ref(true);
             <span text="center">{{ t('landing-page.contribute.slack') }}</span>
           </a>
           <a
-            href="https://github.com/nlp-en-es"
+            href="https://github.com/somosnlp"
             target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
           >
@@ -130,7 +130,7 @@ const showBanner = ref(true);
             <span text="center">{{ t('landing-page.contribute.github') }}</span>
           </a>
           <a
-            href="https://twitter.com/NLP_en_ES"
+            href="https://twitter.com/somosnlp_"
             target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
           >
@@ -138,7 +138,7 @@ const showBanner = ref(true);
             <span text="center">{{ t('landing-page.contribute.twitter') }}</span>
           </a>
           <a
-            href="https://www.linkedin.com/company/nlp-en-es/"
+            href="https://www.linkedin.com/company/somosnlp"
             target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
           >

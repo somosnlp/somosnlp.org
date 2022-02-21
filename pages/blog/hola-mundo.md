@@ -4,11 +4,11 @@ description: Somos la red internacional de hispanohablantes acelerarando el avan
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
 duration: 3min
-cover: https://nlp-en-es.github.io/assets/logo.svg
+cover: https://somosnlp.github.io/assets/logo.svg
 ---
 
 <div class="flex justify-center">
-    <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />
+    <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
 </div>
 
 Somos la comunidad de hispanohablantes de la iniciativa "[Languages at HuggingFace](https://huggingface.co/)" y queremos democratizar el NLP en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español.
@@ -33,4 +33,4 @@ Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa 
 
 🚀 Compartiendo experiencia y recursos en la comunidad de Slack.
 
-👉 [¡Únete a NLP en ES!](https://bit.ly/nlp-en-es) 👈
+👉 [¡Únete a Somos NLP!](https://bit.ly/nlp-en-es) 👈

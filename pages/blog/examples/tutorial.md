@@ -18,7 +18,7 @@ class NLPCommunity:
     def __init__(self, lang):
         self.lang = lang
 
-nlp_en_es = NLPCommunity(lang="es")
+somosnlp = NLPCommunity(lang="es")
 ```
 
 

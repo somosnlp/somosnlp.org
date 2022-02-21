@@ -1,20 +1,20 @@
 ---
 title: Example Announcement
-description: “NLP en ES 🤗” es la comunidad de hispanohablantes de la iniciativa “Languages at Hugging Face”.
+description: “Somos NLP 🤗” es la comunidad de hispanohablantes de la iniciativa “Languages at Hugging Face”.
 date: 1900-01-01T16:00:00.000+00:00
 lang: es
 duration: 7min
-cover: https://nlp-en-es.github.io/assets/logo.svg
+cover: https://somosnlp.github.io/assets/logo.svg
 ---
 
-"NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa "Languages at Hugging Face".
+"Somos NLP 🤗" es la comunidad de hispanohablantes de la iniciativa "Languages at Hugging Face".
 
 <div class="flex justify-center">
-    <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/logo.svg" />
+    <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
 </div>
 
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit a [Github](https://github.com/nlp-en-es). Nulla provident non tempore consectetur, distinctio architecto nihil accusantium iure possimus, nisi enim minus necessitatibus ducimus quis ipsam ipsum. 
+Lorem ipsum, dolor sit amet consectetur adipisicing elit a [Github](https://github.com/somosnlp). Nulla provident non tempore consectetur, distinctio architecto nihil accusantium iure possimus, nisi enim minus necessitatibus ducimus quis ipsam ipsum. 
 
 > Natus dolorem sequi illo nisi pariatur non, ducimus optio. Nostrum repudiandae tempore deleniti eum modi quidem obcaecati at.
 

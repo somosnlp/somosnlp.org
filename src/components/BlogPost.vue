@@ -12,7 +12,7 @@ useHead({
         content: computed(
             () => frontmatter.cover
                 ? frontmatter.cover
-                : 'https://nlp-en-es.github.io/assets/logo.png')
+                : 'https://somosnlp.github.io/assets/logo.png')
     }]
 })
 </script>

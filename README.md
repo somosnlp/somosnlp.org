@@ -1,9 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a1a287d2-c2b8-4a1f-991d-0c1c73d2aa72/deploy-status)](https://app.netlify.com/sites/nlp-en-es/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1a287d2-c2b8-4a1f-991d-0c1c73d2aa72/deploy-status)](https://app.netlify.com/sites/somosnlp/deploys)
 
-# NLP en ES
+# Somos NLP
 
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/nlp-en-es/design/main/logo.svg' />
+  <img src='https://raw.githubusercontent.com/somosnlp/assets/main/logo.svg' />
 </p>
 
 ## 💡 Contribuye al blog
@@ -41,9 +41,9 @@ description: Somos la red internacional de hispanohablantes acelerarando el avan
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
 duration: 3min
-cover: https://nlp-en-es.github.io/assets/logo.svg
+cover: https://raw.githubusercontent.com/somosnlp/assets/main/logo.svg
 author: María Grandury
-bio: ML Research Engineer y fundadora de NLP en ES
+bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
@@ -62,7 +62,7 @@ Para mayor claridad, te pedimos que la rama empiece por "blog/" (e.g. `blog/hola
 
 ## 🚀 Mejora la página web
 
-También puedes contribuir al diseño y mejora de la propia página web. Si estás buscando ideas, échale un vistazo a los [issues abiertos](https://github.com/nlp-en-es/nlp-en-es.org/issues).
+También puedes contribuir al diseño y mejora de la propia página web. Si estás buscando ideas, échale un vistazo a los [issues abiertos](https://github.com/somosnlp/somosnlp.org/issues).
 
 ### Development
 
@@ -90,4 +90,4 @@ This will generate files in `dist` that are ready to be served.
 The page is automatically deployed by [Netlify](https://app.netlify.com/start) everytime you push to the `main` branch. All other branches will be depoyed to a preview URL (the link is visible in the corresponding Pull Request).
 
 ## 📜 Licencia
-[MIT License](https://github.com/nlp-en-es/pagina-web/blob/main/LICENSE)
+[MIT License](https://github.com/somosnlp/somosnlp.org/blob/main/LICENSE)

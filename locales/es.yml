@@ -1,5 +1,33 @@
+navbar:
+  about: Acerca de
+  blog: Blog
+  course: NLP de 0 a 100
+  hackathon: Hackathon
 landing-page:
   banner: ¡Apúntate al Hackathon de PLN en Español!
+  heading: NLP en Español
+  heading-2: >-
+    Somos NLP 🤗 es la red internacional de estudiantes, profesionales e
+    investigadores acelerando el avance del NLP en español. Somos la comunidad de
+    hispanohablantes que nació de la iniciativa "Languages at Hugging Face".
+  introducing: Presentamos
+  join-us: Unirme
+  read-the-announcement: Leer más sobre la comunidad
+  why:
+    coming-soon: Próximamente
+    text: >-
+      La investigación en NLP está centrada en el inglés y descuida las
+      dificultades particulares de los otros idiomas. Vamos a darle a nuestro
+      idioma tan extendido (y bonito) una representación justa en el ámbito del
+      NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
+    community: >-
+      Creando la mayor red internacional de hispanohablantes estudiando,
+      trabajando e investigando en el ámbito del NLP.
+    education: >-
+      Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
+      el estado del arte del NLP en español.
+    heading: Más de 570M de hispanohablantes
+    jobs: Proporcionando oportunidades profesionales relacionadas con el NLP
   contribute:
     button: Leer más
     github: Contribuye a nuestros proyectos en GitHub
@@ -10,30 +38,4 @@ landing-page:
       Somos una comunidad internacional y todos nuestros proyectos son open
       source. 
     twitter: Síguenos en Twitter
-  heading: NLP en Español
-  heading-2: >-
-    "NLP en ES 🤗" es la comunidad de hispanohablantes de la iniciativa
-    "Languages at Hugging Face". Somos una red internacional de profesionales,
-    investigadores y estudiantes acelerando el avance del NLP en Español.
-  introducing: Presentamos
-  join-us: Unirme
-  read-the-announcement: Leer más sobre la comunidad
-  why:
-    coming-soon: Próximamente
-    community: >-
-      Creando la mayor red internacional de hispanohablantes estudiando,
-      investigando y trabajando en el ámbito del NLP.
-    education: >-
-      Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
-      el estado del arte del NLP en español.
-    heading: Más de 570M de hispanohablantes
-    jobs: Proporcionando oportunidades profesionales relacionadas con el NLP
-    text: >-
-      La investigación en NLP está centrada en el inglés y descuida las
-      dificultades particulares de los otros idiomas. Vamos a darle a nuestro
-      idioma tan extendido (y bonito) una representación justa en el ámbito del
-      NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
-navbar:
-  about: Acerca de
-  blog: Blog
 not-found: No se ha encontrado

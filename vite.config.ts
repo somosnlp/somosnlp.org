@@ -92,8 +92,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'robots.txt', 'safari-pinned-tab.svg'],
       manifest: {
-        name: 'NLP en ES',
-        short_name: 'NLP en ES',
+        name: 'Somos NLP',
+        short_name: 'Somos NLP',
         theme_color: '#ffffff',
         icons: [
           {

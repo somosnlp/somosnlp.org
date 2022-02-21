@@ -1,14 +1,14 @@
 <template>
-    <LinkIconButton url="https://twitter.com/NLP_en_ES">
+    <LinkIconButton url="https://twitter.com/somosnlp_">
         <carbon:logo-twitter />
     </LinkIconButton>
-    <LinkIconButton url="https://www.linkedin.com/company/nlp-en-es/">
+    <LinkIconButton url="https://www.linkedin.com/company/somosnlp">
         <carbon:logo-linkedin />
     </LinkIconButton>
     <LinkIconButton url="https://bitly.com/nlp-en-es">
         <carbon:logo-slack />
     </LinkIconButton>
-    <LinkIconButton url="https://github.com/nlp-en-es">
+    <LinkIconButton url="https://github.com/somosnlp">
         <carbon:logo-github />
     </LinkIconButton>
 </template>

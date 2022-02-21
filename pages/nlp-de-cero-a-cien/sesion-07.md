@@ -9,9 +9,9 @@ duration: 60min
     <CourseSummary
         description=""
         video="https://www.youtube.com/embed/wSI8shazYaA"
-        name="NLP en ES"
-        twitter="https://twitter.com/nlp_en_es"
-        linkedin="https://www.linkedin.com/company/nlp-en-es"
-        github="https://github.com/nlp-en-es"
+        name="SomosNLP"
+        twitter="https://twitter.com/somosnlp_"
+        linkedin="https://www.linkedin.com/company/somosnlp"
+        github="https://github.com/somosnlp"
     />
 </div>

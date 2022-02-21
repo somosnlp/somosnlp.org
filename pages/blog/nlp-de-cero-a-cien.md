@@ -4,7 +4,7 @@ description: El curso gratuito y open-source más completo de NLP en español.
 date: 2021-07-07T16:00:00.000+00:00
 lang: es
 duration: 9min
-cover: "https://nlp-en-es.github.io/assets/images/undraw_Graduation_re_gthn.svg"
+cover: "https://somosnlp.github.io/assets/images/undraw_Graduation_re_gthn.svg"
 ---
 
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.
@@ -12,7 +12,7 @@ Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP 
 ➡️ Puedes encontrar las grabaciones de los talleres y todo el material del curso [aquí](https://nlp-en-es.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
-    <img alt="NLP en ES logo" src="https://nlp-en-es.github.io/assets/images/undraw_Graduation_re_gthn.svg" />
+    <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/images/undraw_Graduation_re_gthn.svg" />
 </div>
 
 
@@ -39,7 +39,7 @@ Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver d
 Por orden alfabético:
 
 [María Grandury](https://www.linkedin.com/in/mariagrandury):
-María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad "NLP en ES 🤗" con el objetivo de acelerar el avance del NLP en español.
+María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad "Somos NLP 🤗" con el objetivo de acelerar el avance del NLP en español.
 
 [Manuel Romero](https://www.linkedin.com/in/manuel-romero-cs/):
 Manuel tiene una "mente inquieta y un alma emprendedora". Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con más de 200 modelos.
