@@ -9,7 +9,7 @@ duration: 61min
     <CourseSummary
         description="Esta semana nos vamos a centrar en una aplicación muy interesante de los Transformers : la generación de texto. Vamos a ver cómo generar un chiste o un párrafo de El Quijote con las librerías de Hugging Face."
         video="https://www.youtube.com/embed/IPJCFALWJcs"
-        slides="https://github.com/nlp-en-es/nlp-de-cero-a-cien/blob/main/5_transformers_3/decoders_y_generacion_de_textos.pdf"
+        slides="https://github.com/somosnlp/nlp-de-cero-a-cien/blob/main/5_transformers_generacion_de_texto/decoders_y_generacion_de_texto.pdf"
         name="Lewis Tunstall"
         twitter="https://twitter.com/_lewtun"
         linkedin="https://www.linkedin.com/in/lewis-tunstall"
@@ -21,7 +21,7 @@ duration: 61min
 
 ## Notebook
 
-<a href="https://colab.research.google.com/github/nlp-en-es/nlp-de-cero-a-cien/blob/main/5_transformers_3/generacion_de_textos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/5_transformers_generacion_de_texto/generacion_de_texto.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Recursos adicionales

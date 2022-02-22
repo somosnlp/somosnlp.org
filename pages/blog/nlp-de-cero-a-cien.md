@@ -9,7 +9,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_Graduation_re_gthn.svg"
 
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.
 
-➡️ Puedes encontrar las grabaciones de los talleres y todo el material del curso [aquí](https://nlp-en-es.org/nlp-de-cero-a-cien).
+➡️ Puedes encontrar las grabaciones de los talleres y todo el material del curso [aquí](https://somosnlp.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
     <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/images/undraw_Graduation_re_gthn.svg" />
@@ -33,7 +33,7 @@ Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver d
 
 - Subimos las grabaciones a esta [playlist de YouTube](https://www.youtube.com/playlist?list=PLBILcz47fTtPspj9QDm2E0oHLe1p67tMz).
 - En nuestro [repositorio de GitHub](https://github.com/somosnlp/nlp-de-cero-a-cien) puedes consultar todo el material del curso y recursos extra.
-- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de [Slack](https://bit.ly/nlp-en-es).
+- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de Slack. Actualización: ahora estamos en [Discord](https://discord.gg/u2wWMHsc), seguimos respondiendo tus dudas en el canal #ayuda.
 
 ## Formadores
 Por orden alfabético:

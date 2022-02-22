@@ -9,7 +9,7 @@ duration: 66min
     <CourseSummary
         description="Continuamos hablando de Transformers, esta semana explicaremos qué es el aprendizaje por transferencia y el modelado del lenguaje, y cómo utilizar fine-tuning para adaptar modelos preentrenados a nuestro caso de uso particular."
         video="https://www.youtube.com/embed/XeFDEokiK3c"
-        slides="https://github.com/nlp-en-es/nlp-de-cero-a-cien/blob/main/4_transformers_2/aprendizaje_de_transferencia.pdf"
+        slides="https://github.com/somosnlp/nlp-de-cero-a-cien/blob/main/4_transformers_aprendizaje_por_transferencia/aprendizaje_por_transferencia.pdf"
         name="Lewis Tunstall"
         twitter="https://twitter.com/_lewtun"
         linkedin="https://www.linkedin.com/in/lewis-tunstall"
