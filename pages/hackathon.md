@@ -17,12 +17,12 @@ Con este hackathon te animamos a unirte a nuestro esfuerzo. Te invitamos a entre
 
 Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy sencillo, ¡anímate!
 
-1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) si todavía no tienes una y regístrate [aquí](./hackathon_wip) 🚀.
+1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) si todavía no tienes una y regístrate [aquí](https://hackathon-pln-es.eventbrite.com/?aff=website) 🚀.
 2. Únete a nuestra comunidad de [Discord](https://discord.gg/u2wWMHsc) y acepta la invitación que te mandemos para unirte a la organización [hackathon-pln-es](https://huggingface.co/hackathon-pln-es) de Hugging Face.
 3. Echa un vistazo a los diferentes canales de Discord, sobre todo a los de la sección "HACKATHON", ya que iremos anunciando talleres y material con el que preparar el hackathon y también resolveremos las dudas que te puedan surgir durante el evento.
-4. Reúne tu equipo (de 1 a 5 personas) y añádelo a [esta lista](./hackathon_wip). Si todavía no tienes equipo puedes utilizar el canal #encuentra-equipo para crear uno nuevo o unirte a uno existente.
+4. Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes equipo puedes utilizar el canal #encuentra-equipo para crear uno nuevo o unirte a uno existente.
 5. Junto con tu equipo, entrena y sube al [Hub](https://huggingface.co/models) uno o varios modelos. Desde la comunidad queremos animar a todos los equipos a entrenar modelos que sirvan para abordar alguno de los [Objetivos de Desarrollo Sostenible de la ONU](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/).
-6. Asegúrate de incluir una "Model Card" explicando, entre otras cosas, el origen de los datos utilizados y el proceso de entrenamiento del modelo. Aquí te dejamos un [ejemplo](./hackathon_wip) de referencia.
+6. Asegúrate de incluir una "Model Card" explicando, entre otras cosas, el origen de los datos utilizados y el proceso de entrenamiento del modelo. Antes del comienzo del hackathon publicaremos un ejemplo de referencia.
 7. Crea una demo de el/los modelo/s utilizando la tecnología que prefieras (e.g. FastAPI, Flask, Gradio, Streamlit).
 8. Por último, rellena este [formulario](./hackathon_wip) para presentar el proyecto.
 

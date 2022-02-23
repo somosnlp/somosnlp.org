@@ -1,6 +1,6 @@
 ---
 title: ¡Hola, mundo! 🤗
-description: Somos la red internacional de hispanohablantes acelerarando el avance del NLP en español.
+description: Somos la red internacional de hispanohablantes democratizando el NLP en español.
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
 duration: 3min
@@ -11,7 +11,7 @@ cover: https://somosnlp.github.io/assets/logo.svg
     <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
 </div>
 
-Somos la comunidad de hispanohablantes de la iniciativa "[Languages at HuggingFace](https://huggingface.co/)" y queremos democratizar el NLP en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español.
+Somos NLP es la comunidad de estudiantes, profesionales e investigadores hispanohablantes democratizando el NLP en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español.
 
 ## ¿Por qué?
 
@@ -25,9 +25,9 @@ Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa 
 
 * Creando bases de datos
 * Entrenando y "fine-tuning" modelos
-* Ofreciendo formación
-* Organizando charlas, paneles y talleres
-* Grupos de lectura y debate (#Transformers)
+* Ofreciendo formación gratuita y open-source
+* Organizando charlas, talleres, paneles y hackathones
+* Grupos de lectura y debate
 
 ## Y, sobre todo...
 
