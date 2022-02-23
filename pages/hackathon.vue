@@ -196,7 +196,7 @@ useHead({
                         v-if="isDark"
                         class="w-screen"
                         src="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png"
-                        alt="UNL"
+                        alt="Narrativa"
                     />
                 </a>
                 <a href="https://gplsi.dlsi.ua.es/pln/" target="_blank">
