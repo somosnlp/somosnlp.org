@@ -34,6 +34,7 @@ declare module 'vue' {
     NavBar: typeof import('./src/components/NavBar.vue')['default']
     README: typeof import('./src/components/README.md')['default']
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
+    SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
   }
