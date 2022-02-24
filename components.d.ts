@@ -22,6 +22,7 @@ declare module 'vue' {
     'Carbon:userAvatarFilledAlt': typeof import('virtual:vite-icons/carbon/user-avatar-filled-alt')['default']
     'Carbon:userMultiple': typeof import('virtual:vite-icons/carbon/user-multiple')['default']
     Container: typeof import('./src/components/Container.vue')['default']
+    CoreTeamItem: typeof import('./src/components/CoreTeamItem.vue')['default']
     CoreTeamList: typeof import('./src/components/CoreTeamList.vue')['default']
     CourseSummary: typeof import('./src/components/CourseSummary.vue')['default']
     DarkThemeToggle: typeof import('./src/components/DarkThemeToggle.vue')['default']
