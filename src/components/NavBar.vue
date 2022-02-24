@@ -18,6 +18,10 @@ const { t } = useI18n()
                 to="/hackathon"
                 class="whitespace-nowrap hover:text-accent-500"
             >{{ t('navbar.hackathon') }}</router-link>
+            <router-link
+                to="/core-team"
+                class="whitespace-nowrap hover:text-accent-500"
+            >{{ t('navbar.team') }}</router-link>
             <!-- <router-link
                 to="/about"
                 class="whitespace-nowrap hover:text-accent-500"
