@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { isDark } from "~/logic"
 import { useHead } from '@vueuse/head'
 
 useHead({
@@ -175,163 +174,87 @@ useHead({
             </p>
             <h3>🥇 Platrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <a href="https://www.paperspace.com/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_paperspace.svg"
-                        alt="Paperspace"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_paperspace_dark.svg"
-                        alt="Paperspace"
-                    />
-                </a>
-                <a href="https://platzi.com/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_platzi.png"
-                        alt="Platzi"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_platzi_dark.png"
-                        alt="Platzi"
-                    />
-                </a>
-                <a href="https://huggingface.co/" target="_blank">
-                    <img
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg"
-                        alt="Hugging Face"
-                    />
-                </a>
+                <SponsorInfo
+                    sponsor="Paperspace"
+                    url="https://www.paperspace.com/"
+                    logo="https://somosnlp.github.io/assets/images/logo_paperspace.svg"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_paperspace_dark.svg"
+                />
+                <SponsorInfo
+                    sponsor="Platzi"
+                    url="https://platzi.com/"
+                    logo="https://somosnlp.github.io/assets/images/logo_platzi.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_platzi_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="Hugging Face"
+                    url="https://huggingface.co/"
+                    logo="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg"
+                />
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <a href="https://www.bsc.es/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_BSC.png"
-                        alt="BSC"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_BSC_dark.png"
-                        alt="BSC"
-                    />
-                </a>
-                <a href="https://gplsi.dlsi.ua.es/pln/divertles" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_DiverTLes.png"
-                        alt="DiverTLes"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_DiverTLes_dark.png"
-                        alt="DiverTLes"
-                    />
-                </a>
-                <a href="https://ibidat.es/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_IBiDat.png"
-                        alt="IBiDat"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png"
-                        alt="IBiDat"
-                    />
-                </a>
-                <a href="https://www.narrativa.com/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_Narrativa.png"
-                        alt="Narrativa"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png"
-                        alt="Narrativa"
-                    />
-                </a>
-                <a href="https://plantl.mineco.gob.es/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_PlanTL.png"
-                        alt="Plan TL"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_PlanTL_dark.png"
-                        alt="Plan TL"
-                    />
-                </a>
-                <a href="https://gplsi.dlsi.ua.es/pln/" target="_blank">
-                    <img
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_PLNnet.svg"
-                        alt="PLN.net"
-                    />
-                </a>
-                <a href="https://saturdays.ai/" target="_blank">
-                    <img
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
-                        alt="Saturdays AI"
-                    />
-                </a>
-                <a href="https://www.spain-ai.com/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
-                        alt="Spain AI"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png"
-                        alt="Spain AI"
-                    />
-                </a>
-                <a href="https://www.unam.mx/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_UNAM.png"
-                        alt="UNAM"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png"
-                        alt="UNAM"
-                    />
-                </a>
-                <a href="https://www.unl.edu.ec/" target="_blank">
-                    <img
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_UNL_square.png"
-                        alt="UNL"
-                    />
-                </a>
+                <SponsorInfo
+                    sponsor="BSC"
+                    url="https://www.bsc.es/"
+                    logo="https://somosnlp.github.io/assets/images/logo_BSC.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_BSC_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="DiverTLes"
+                    url="https://gplsi.dlsi.ua.es/pln/divertles"
+                    logo="https://somosnlp.github.io/assets/images/logo_DiverTLes.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_DiverTLes_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="IBiDat"
+                    url="https://ibidat.es/"
+                    logo="https://somosnlp.github.io/assets/images/logo_IBiDat.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="Narrativa"
+                    url="https://www.narrativa.com/"
+                    logo="https://somosnlp.github.io/assets/images/logo_Narrativa.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="Plan TL"
+                    url="https://plantl.mineco.gob.es/"
+                    logo="https://somosnlp.github.io/assets/images/logo_PlanTL.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_PlanTL_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="PLNnet"
+                    url="https://gplsi.dlsi.ua.es/pln/"
+                    logo="https://somosnlp.github.io/assets/images/logo_PLNnet.svg"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_PLNnet.svg"
+                />
+                <SponsorInfo
+                    sponsor="Saturdays AI"
+                    url="https://saturdays.ai/"
+                    logo="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
+                />
+                <SponsorInfo
+                    sponsor="Spain AI"
+                    url="https://www.spain-ai.com/"
+                    logo="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="UNAM"
+                    url="https://www.unam.mx/"
+                    logo="https://somosnlp.github.io/assets/images/logo_UNAM.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png"
+                />
+                <SponsorInfo
+                    sponsor="UNL"
+                    url="https://www.unl.edu.ec/"
+                    logo="https://somosnlp.github.io/assets/images/logo_UNL_square.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_UNL_square.png"
+                />
             </div>
         </article>
     </Container>

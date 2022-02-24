@@ -40,6 +40,7 @@ declare module 'vue' {
     ResourceItem: typeof import('./src/components/ResourceItem.vue')['default']
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
+    SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
   }
