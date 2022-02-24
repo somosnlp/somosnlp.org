@@ -18,7 +18,10 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
             <img
                 class="bg-white rounded-md object-cover max-h-200px"
                 dark="bg-gray-900"
+                width="180"
+                height="180"
                 :src="frontmatter.cover ? frontmatter.cover : 'images/logo.svg'"
+                :alt="frontmatter.name"
             />
         </div>
         <div class="text-center grid gap-2">
