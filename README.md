@@ -64,6 +64,8 @@ Para mayor claridad, te pedimos que la rama empiece por "blog/" (e.g. `blog/hola
 
 También puedes contribuir al diseño y mejora de la propia página web. Si estás buscando ideas, échale un vistazo a los [issues abiertos](https://github.com/somosnlp/somosnlp.org/issues).
 
+Por favor, utiliza ["Semantic Commit Messages"](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716).
+
 ### Development
 
 First, install the dependencies with
