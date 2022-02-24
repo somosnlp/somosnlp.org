@@ -36,34 +36,34 @@ useHead({
             <h3 class="text-lg" v-if="frontmatter.author">{{ frontmatter.author }}</h3>
             <p class="text-md" v-if="frontmatter.bio">{{ frontmatter.bio }}</p>
             <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
-                <LinkIconButton
+                <IconButtonLink
                     v-if="frontmatter.website"
                     :url="frontmatter.website"
                     class="contents"
                 >
                     <carbon:user-avatar-filled-alt />
-                </LinkIconButton>
-                <LinkIconButton
+                </IconButtonLink>
+                <IconButtonLink
                     v-if="frontmatter.twitter"
                     :url="frontmatter.twitter"
                     class="contents"
                 >
                     <carbon:logo-twitter />
-                </LinkIconButton>
-                <LinkIconButton
+                </IconButtonLink>
+                <IconButtonLink
                     v-if="frontmatter.linkedin"
                     :url="frontmatter.linkedin"
                     class="contents"
                 >
                     <carbon:logo-linkedin />
-                </LinkIconButton>
-                <LinkIconButton
+                </IconButtonLink>
+                <IconButtonLink
                     v-if="frontmatter.github"
                     :url="frontmatter.github"
                     class="contents"
                 >
                     <carbon:logo-github />
-                </LinkIconButton>
+                </IconButtonLink>
             </div>
         </footer>
     </Container>

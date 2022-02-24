@@ -190,7 +190,7 @@ useHead({
                         v-if="!isDark"
                         class="w-screen"
                         src="https://somosnlp.github.io/assets/images/logo_Narrativa.png"
-                        alt="UNL"
+                        alt="Narrativa"
                     />
                     <img
                         v-if="isDark"

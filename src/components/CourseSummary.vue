@@ -32,15 +32,15 @@ defineProps<{
             <p class="contents" :name="name">Imparte: {{ name }}</p>
 
             <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
-                <LinkIconButton :url="twitter" class="contents">
+                <IconButtonLink :url="twitter" class="contents">
                     <carbon:logo-twitter />
-                </LinkIconButton>
-                <LinkIconButton :url="linkedin" class="contents">
+                </IconButtonLink>
+                <IconButtonLink :url="linkedin" class="contents">
                     <carbon:logo-linkedin />
-                </LinkIconButton>
-                <LinkIconButton :url="github" class="contents">
+                </IconButtonLink>
+                <IconButtonLink :url="github" class="contents">
                     <carbon:logo-github />
-                </LinkIconButton>
+                </IconButtonLink>
             </div>
         </div>
         <div class="flex justify-end">
