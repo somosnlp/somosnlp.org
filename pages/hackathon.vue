@@ -42,7 +42,22 @@ useHead({
                 y poner en producción un modelo de PLN en español.
             </p>
 
-            <h2>Bases del hackathon</h2>
+            <h2>🚀 Evento</h2>
+            <p>Al unirte a este evento tendrás la oportunidad de:</p>
+            <ul>
+                <li>Ayudar al avance y la democratización del PLN en español</li>
+                <li>Asistir a charlas y talleres impartidas por profesionales trabajando e investigando en el mundo del PLN</li>
+                <li>Consultar tus dudas sobre PLN con mentores y expertas</li>
+                <li>Conseguir acceso gratis a GPUs patrocinadas por Paperspace</li>
+                <li>Participar en un sorteo de copias del libro "Natural Language Processing with Transformers" de Lewis Tunstall, Leandro von Werra y Thomas Wolf</li>
+                <li>Conseguir acceso gratis a las plataformas de e-learning de Platzi y O'Reilly</li>
+                <li>Canjear bonos por swag de Hugging Face especialmente diseñado para el evento</li>
+            </ul>
+            <a
+                href="https://hackathon-pln-es.eventbrite.com/?aff=website"
+                target="_blank"
+            >¡Regístrate ya!</a>
+            <h2>💻 Bases del hackathon</h2>
             <p>
                 Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy
                 sencillo, ¡anímate!
@@ -55,7 +70,7 @@ useHead({
                     <a
                         href="https://hackathon-pln-es.eventbrite.com/?aff=website"
                         target="_blank"
-                    >aquí</a> 🚀.
+                    >aquí</a>.
                 </li>
                 <li>
                     Únete a nuestra comunidad de
@@ -93,8 +108,7 @@ useHead({
                 </li>
                 <li>
                     Asegúrate de incluir una "Model Card" explicando, entre otras cosas, el
-                    origen de los datos utilizados y el proceso de entrenamiento del modelo. Antes
-                    del comienzo del hackathon publicaremos un ejemplo de referencia.
+                    origen de los datos utilizados y el proceso de entrenamiento del modelo.
                 </li>
                 <li>
                     Crea una demo de el/los modelo/s utilizando la tecnología que prefieras
@@ -113,7 +127,19 @@ useHead({
             </p>
             <p>¡Buena suerte!</p>
 
-            <h2>Charlas y Talleres</h2>
+            <h2>📖 Recursos</h2>
+            <p>
+                Desde el equipo de Somos NLP queremos animarte a participar independientemente de
+                tus conocimientos actuales. Estamos creando
+                <b>tutoriales</b> que compartiremos en Discord y GitHub.
+                También daremos un
+                <b>taller práctico</b> al principio del hackathon en el cual
+                crearemos una base de datos, entrenaremos un modelo y desarrollaremos una demo para
+                que tengas un ejemplo de referencia.
+                Además, durante las dos semanas que dura el hackathon estaremos a tu disposición en
+                Discord para guiarte y ayudarte a desarrollar tu proyecto.
+            </p>
+            <h2>💡 Charlas y Talleres</h2>
             <p>
                 Durante el hackathon tendrán lugar diversas charlas y talleres impartidas por
                 profesionales del mundo del Procesamiento del Lenguaje Natural. Iremos anunciando
@@ -126,7 +152,7 @@ useHead({
             </p>
             <HackathonList />
 
-            <h2>Patrocinadores</h2>
+            <h2>👏 Patrocinadores</h2>
             <p>
                 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa
                 llegue más lejos. ¡Vamos a democratizar el PLN en español!
