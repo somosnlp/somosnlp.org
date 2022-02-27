@@ -1,25 +1,25 @@
-navbar:
-  about: Acerca de
-  blog: Blog
-  course: NLP de 0 a 100
-  hackathon: Hackathon
 landing-page:
   banner: ¡Apúntate al Hackathon de PLN en Español!
+  contribute:
+    button: Leer más
+    discord: Únete a nuestra comunidad de Discord
+    github: Contribuye a nuestros proyectos en GitHub
+    heading: ¡Contribuye!
+    linkedin: Conecta con la comunidad en LinkedIn
+    text: >-
+      Somos una comunidad internacional y todos nuestros proyectos son open
+      source. 
+    twitter: Síguenos en Twitter
   heading: NLP en Español
   heading-2: >-
     Somos NLP 🤗 es la red internacional de estudiantes, profesionales e
-    investigadores acelerando el avance del NLP en español. Somos la comunidad de
-    hispanohablantes que nació de la iniciativa "Languages at Hugging Face".
+    investigadores acelerando el avance del NLP en español. Somos la comunidad
+    de hispanohablantes que nació de la iniciativa "Languages at Hugging Face".
   introducing: Presentamos
   join-us: Unirme
   read-the-announcement: Leer más sobre la comunidad
   why:
     coming-soon: Próximamente
-    text: >-
-      La investigación en NLP está centrada en el inglés y descuida las
-      dificultades particulares de los otros idiomas. Vamos a darle a nuestro
-      idioma tan extendido (y bonito) una representación justa en el ámbito del
-      NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
     community: >-
       Creando la mayor red internacional de hispanohablantes estudiando,
       trabajando e investigando en el ámbito del NLP.
@@ -28,14 +28,15 @@ landing-page:
       el estado del arte del NLP en español.
     heading: Más de 570M de hispanohablantes
     jobs: Proporcionando oportunidades profesionales relacionadas con el NLP
-  contribute:
-    button: Leer más
-    github: Contribuye a nuestros proyectos en GitHub
-    heading: ¡Contribuye!
-    linkedin: Conecta con la comunidad en LinkedIn
-    discord: ' Únete a nuestra comunidad de Discord'
     text: >-
-      Somos una comunidad internacional y todos nuestros proyectos son open
-      source. 
-    twitter: Síguenos en Twitter
+      La investigación en NLP está centrada en el inglés y descuida las
+      dificultades particulares de los otros idiomas. Vamos a darle a nuestro
+      idioma tan extendido (y bonito) una representación justa en el ámbito del
+      NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
+navbar:
+  about: Acerca de
+  blog: Blog
+  course: NLP de 0 a 100
+  hackathon: Hackathon
+  team: Equipo
 not-found: No se ha encontrado

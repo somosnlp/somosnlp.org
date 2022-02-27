@@ -1,10 +1,15 @@
-navbar:
-  about: About
-  blog: Blog
-  course: NLP from 0 to hero
-  hackathon: Hackathon
 landing-page:
   banner: Join our hackathon!
+  contribute:
+    button: Read more
+    discord: Join our community on Discord!
+    github: Work with us on GitHub!
+    heading: Get involved!
+    linkedin: Connect with us on LinkedIn!
+    text: >-
+      We are an open community around the globe and everything we do is 100%
+      open source! Getting involed is just one mouse click away!
+    twitter: Follow us on Twitter!
   heading: NLP in Spanish
   heading-2: >-
     "Somos NLP 🤗" is the international network of studets, practitioners and
@@ -13,29 +18,25 @@ landing-page:
   introducing: Introducing
   join-us: Join us
   read-the-announcement: Read more about us
-  contribute:
-    button: Read more
-    github: Work with us on GitHub!
-    heading: Get involved!
-    linkedin: Connect with us on LinkedIn!
-    discord: Join our community on Discord!
-    text: >-
-      We are an open community around the globe and everything we do is 100%
-      open source! Getting involed is just one mouse click away!
-    twitter: Follow us on Twitter!
   why:
     coming-soon: Coming soon
-    heading: More than 570M Spanish speakers
-    text: >-
-      NLP research is focused on English and neglects the particular
-      difficulties of other languages. Let's give our widespread (and beautiful)
-      language a fair representation in the field of NLP. Our mission is to
-      accelerate the advancement of NLP in Spanish by:
     community: >-
       Building the largest international network of Spanish-speaking NLP
       students, professionals and researchers.
     education: >-
       Creating tutorials, organize talks & workshops and discuss the state of
       the art of NLP in Spanish.
+    heading: More than 570M Spanish speakers
     jobs: Providing a marketplace for NLP jobs in Spanish
+    text: >-
+      NLP research is focused on English and neglects the particular
+      difficulties of other languages. Let's give our widespread (and beautiful)
+      language a fair representation in the field of NLP. Our mission is to
+      accelerate the advancement of NLP in Spanish by:
+navbar:
+  about: About
+  blog: Blog
+  course: NLP from 0 to hero
+  hackathon: Hackathon
+  team: Core Team
 not-found: Not found
