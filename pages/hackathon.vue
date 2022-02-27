@@ -29,6 +29,8 @@ useHead({
             <div class="flex justify-center">
                 <img
                     src="https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png"
+                    width="650"
+                    height="365"
                 />
             </div>
 
@@ -171,6 +173,20 @@ useHead({
                         class="w-screen"
                         src="https://somosnlp.github.io/assets/images/logo_paperspace_white.svg"
                         alt="Paperspace"
+                    />
+                </a>
+                <a href="https://platzi.com/" target="_blank">
+                    <img
+                        v-if="!isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo-platzi.svg"
+                        alt="Platzi"
+                    />
+                    <img
+                        v-if="isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo-platzi-dark.svg"
+                        alt="Platzi"
                     />
                 </a>
                 <a href="https://huggingface.co/" target="_blank">
