@@ -165,13 +165,13 @@ useHead({
                     <img
                         v-if="!isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_paperspace_black.svg"
+                        src="https://somosnlp.github.io/assets/images/logo_paperspace.svg"
                         alt="Paperspace"
                     />
                     <img
                         v-if="isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_paperspace_white.svg"
+                        src="https://somosnlp.github.io/assets/images/logo_paperspace_dark.svg"
                         alt="Paperspace"
                     />
                 </a>
@@ -179,13 +179,13 @@ useHead({
                     <img
                         v-if="!isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo-platzi.svg"
+                        src="https://somosnlp.github.io/assets/images/logo_platzi.png"
                         alt="Platzi"
                     />
                     <img
                         v-if="isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo-platzi-dark.svg"
+                        src="https://somosnlp.github.io/assets/images/logo_platzi_dark.png"
                         alt="Platzi"
                     />
                 </a>
@@ -200,13 +200,13 @@ useHead({
                     <img
                         v-if="!isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SpainAI_black.png"
+                        src="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
                         alt="Spain AI"
                     />
                     <img
                         v-if="isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SpainAI_white.png"
+                        src="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png"
                         alt="Spain AI"
                     />
                 </a>
@@ -223,7 +223,7 @@ useHead({
                     <img
                         v-if="isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_IBiDat_neg.png"
+                        src="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png"
                         alt="IBiDat"
                     />
                 </a>
@@ -259,13 +259,13 @@ useHead({
                     <img
                         v-if="!isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png"
+                        src="https://somosnlp.github.io/assets/images/logo_UNAM.png"
                         alt="UNAM"
                     />
                     <img
                         v-if="isDark"
                         class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_UNAM_light.png"
+                        src="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png"
                         alt="UNAM"
                     />
                 </a>
