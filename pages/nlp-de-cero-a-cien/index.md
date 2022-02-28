@@ -27,4 +27,4 @@ En esta página encontrarás los enlaces a las grabaciones, diapositivas, notebo
 ## Enlaces útiles
 
 * [Repositorio de GitHub](https://github.com/somosnlp/nlp-de-cero-a-cien)
-* [Canal de Discord #ayuda](https://discord.gg/u2wWMHsc)
+* [Canal de Discord #ayuda](https://discord.gg/dvczUPa7)

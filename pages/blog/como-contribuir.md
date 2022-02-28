@@ -48,7 +48,7 @@ deja la columna "Contribuyente" en blanco para que otra persona pueda trabajar e
 
 #### Crear una nueva base de datos
 Si tienes una idea para crear una nueva base de datos de NLP en español estás en el sitio adecuado:
-1. Comparte tu idea en el canal #datasets de la comunidad de [Discord](https://discord.gg/u2wWMHsc)
+1. Comparte tu idea en el canal #datasets de la comunidad de [Discord](https://discord.gg/dvczUPa7)
 2. Reúne un equipo para hacerla realidad
 3. Añádela a la librería de Hugging Face
 
@@ -66,7 +66,7 @@ Si tienes más dudas echa un vistazo a [Model Hub docs](https://huggingface.co/d
 
 ## Tutoriales
 Tanto si quieres crear un tutorial desde cero como si quieres traducir uno:
-1. Comparte tu idea en el canal #tutoriales de la comunidad de [Discord](https://discord.gg/u2wWMHsc)
+1. Comparte tu idea en el canal #tutoriales de la comunidad de [Discord](https://discord.gg/dvczUPa7)
 2. Reúne un equipo para hacerla realidad
 3. Crea un repositorio con el nombre del nuevo tutorial
 4. Crea un README.md con la información del tutorial

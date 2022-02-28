@@ -77,7 +77,7 @@ useHead({
                 <li>
                     Únete a nuestra comunidad de
                     <a
-                        href="https://discord.gg/u2wWMHsc"
+                        href="https://discord.gg/dvczUPa7"
                         target="_blank"
                     >Discord</a>
                     y acepta la invitación que te mandemos para unirte a la organización
