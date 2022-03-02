@@ -39,7 +39,7 @@ const showBanner = ref(true);
       />
       <p text="lg">{{ t('landing-page.heading-2') }}</p>
       <div class="mt-10 grid gap-4 lg:grid-cols-2">
-        <a href="https://discord.gg/dvczUPa7" target="_blank" class="button-accent">
+        <a href="https://discord.com/invite/eUEkKpSw7d" target="_blank" class="button-accent">
           <carbon:user-multiple />
           {{ t('landing-page.join-us') }}
         </a>
@@ -114,7 +114,7 @@ const showBanner = ref(true);
         />
         <div class="grid gap-6 justify-center md:grid-cols-2">
           <a
-            href="https://discord.gg/dvczUPa7"
+            href="https://discord.com/invite/eUEkKpSw7d"
             target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
           >
