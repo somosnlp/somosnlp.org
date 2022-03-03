@@ -18,7 +18,7 @@ useHead({
         <header class="m-auto text-center prose">
             <h1>Hackathon 2022 de PLN en Español</h1>
             <p class="text-lg">
-                Contruye al lado de mentores, expertas y hackers la siguiente generación de modelos
+                Construye al lado de mentores, expertas y hackers la siguiente generación de modelos
                 de Procesamiento del Lenguaje Natural
             </p>
         </header>
