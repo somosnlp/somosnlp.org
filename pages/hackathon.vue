@@ -213,6 +213,34 @@ useHead({
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
+                <a href="https://www.bsc.es/" target="_blank">
+                    <img
+                        v-if="!isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_BSC.png"
+                        alt="BSC"
+                    />
+                    <img
+                        v-if="isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_BSC_dark.png"
+                        alt="BSC"
+                    />
+                </a>
+                <a href="https://gplsi.dlsi.ua.es/pln/divertles" target="_blank">
+                    <img
+                        v-if="!isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_DiverTLes.png"
+                        alt="DiverTLes"
+                    />
+                    <img
+                        v-if="isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_DiverTLes_dark.png"
+                        alt="DiverTLes"
+                    />
+                </a>
                 <a href="https://ibidat.es/" target="_blank">
                     <img
                         v-if="!isDark"
@@ -239,6 +267,20 @@ useHead({
                         class="w-screen"
                         src="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png"
                         alt="Narrativa"
+                    />
+                </a>
+                <a href="https://plantl.mineco.gob.es/" target="_blank">
+                    <img
+                        v-if="!isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_PlanTL.png"
+                        alt="Plan TL"
+                    />
+                    <img
+                        v-if="isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_PlanTL_dark.png"
+                        alt="Plan TL"
                     />
                 </a>
                 <a href="https://gplsi.dlsi.ua.es/pln/" target="_blank">
