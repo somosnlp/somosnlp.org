@@ -5,7 +5,7 @@
     <IconButtonLink url="https://www.linkedin.com/company/somosnlp">
         <carbon:logo-linkedin />
     </IconButtonLink>
-    <IconButtonLink url="https://discord.gg/dvczUPa7">
+    <IconButtonLink url="https://discord.com/invite/my8w7JUxZR">
         <carbon:logo-discord />
     </IconButtonLink>
     <IconButtonLink url="https://github.com/somosnlp">

@@ -33,4 +33,4 @@ Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa 
 
 🚀 Compartiendo experiencia y recursos en la comunidad de Discord.
 
-👉 [¡Únete a Somos NLP!](https://discord.gg/dvczUPa7) 👈
+👉 [¡Únete a Somos NLP!](https://discord.com/invite/my8w7JUxZR) 👈

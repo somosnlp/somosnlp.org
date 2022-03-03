@@ -33,7 +33,7 @@ Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver d
 
 - Subimos las grabaciones a esta [playlist de YouTube](https://www.youtube.com/playlist?list=PLBILcz47fTtPspj9QDm2E0oHLe1p67tMz).
 - En nuestro [repositorio de GitHub](https://github.com/somosnlp/nlp-de-cero-a-cien) puedes consultar todo el material del curso y recursos extra.
-- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de Slack. Actualización: ahora estamos en [Discord](https://discord.gg/dvczUPa7), seguimos respondiendo tus dudas en el canal #ayuda.
+- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de Slack. Actualización: ahora estamos en [Discord](https://discord.com/invite/my8w7JUxZR), seguimos respondiendo tus dudas en el canal #ayuda.
 
 ## Formadores
 Por orden alfabético:
