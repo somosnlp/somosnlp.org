@@ -1,6 +1,6 @@
 ---
 name: Oscar Cumbicus
-title: Master en Ingeniería Computacional y Sistemas Inteligentes @UNL
+title: Professor @UNL Researcher @IxaGroup
 cover: https://oskrmiguel.github.io/profile/images/user-3.jpg
 website: https://oskrmiguel.github.io/profile/
 twitter: https://twitter.com/OscarCumbicus
