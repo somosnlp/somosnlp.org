@@ -36,6 +36,7 @@ landing-page:
 navbar:
   about: About
   blog: Blog
+  resources: Resources
   course: NLP from 0 to hero
   hackathon: Hackathon
   team: Core Team
