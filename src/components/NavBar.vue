@@ -11,6 +11,10 @@ const { t } = useI18n()
                 class="whitespace-nowrap hover:text-accent-500"
             >{{ t('navbar.blog') }}</router-link>
             <router-link
+                to="/resources"
+                class="whitespace-nowrap hover:text-accent-500"
+            >{{ t('navbar.resources') }}</router-link>
+            <router-link
                 to="/nlp-de-cero-a-cien"
                 class="whitespace-nowrap hover:text-accent-500"
             >{{ t('navbar.course') }}</router-link>
