@@ -4,6 +4,7 @@ description: Introducción al Hub de Hugging Face
 author: Omar Sanseviero
 bio: Ingeniero de ML @Hugging Face
 twitter: https://twitter.com/osanseviero
+tradducción: @espejelomar
 ---
 
 Este notebook se encuentra originalmente en el [Kit Educativo de Hugging Face](https://github.com/huggingface/education-toolkit/edit/main/tutorials/ES/).
