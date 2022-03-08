@@ -1,9 +1,13 @@
 ---
 title: Un recorrido por el Hub de Hugging Face
 description: Introducción a los Modelos, Datasets, y trabajo con el Hub
+cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 author: Omar Sanseviero
 bio: Ingeniero de ML @Hugging Face
+website:
 twitter: https://twitter.com/osanseviero
+linkedin:
+github:
 ---
 
 Este notebook se encuentra originalmente en el [Kit Educativo de Hugging Face](https://github.com/huggingface/education-toolkit/edit/main/tutorials/ES/).
