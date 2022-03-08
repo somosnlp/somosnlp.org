@@ -1,10 +1,9 @@
 ---
 title: Un recorrido por el Hub de Hugging Face
-description: Introducción al Hub de Hugging Face
+description: Introducción a los Modelos, Datasets, y trabajo con el Hub
 author: Omar Sanseviero
 bio: Ingeniero de ML @Hugging Face
 twitter: https://twitter.com/osanseviero
-tradducción: @espejelomar
 ---
 
 Este notebook se encuentra originalmente en el [Kit Educativo de Hugging Face](https://github.com/huggingface/education-toolkit/edit/main/tutorials/ES/).
@@ -233,3 +232,5 @@ Existen frameworks de Python de código abierto como Gradio y Streamlit que perm
 > **_Duración: 20-40 minutos_**
 >
 > 👉 [Clic aquí para acceder al tutorial](https://colab.research.google.com/drive/1K5tP5NBWwtezBg3Kp4wpD5KI6JZ6oCg9)
+
+Traducción del notebook original al español hecha por @espejelomar.
