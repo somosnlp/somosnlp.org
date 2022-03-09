@@ -16,7 +16,6 @@ declare module 'vue' {
     'Carbon:logoDiscord': typeof import('virtual:vite-icons/carbon/logo-discord')['default']
     'Carbon:logoGithub': typeof import('virtual:vite-icons/carbon/logo-github')['default']
     'Carbon:logoLinkedin': typeof import('virtual:vite-icons/carbon/logo-linkedin')['default']
-    'Carbon:logoSlack': typeof import('virtual:vite-icons/carbon/logo-slack')['default']
     'Carbon:logoTwitter': typeof import('virtual:vite-icons/carbon/logo-twitter')['default']
     'Carbon:moon': typeof import('virtual:vite-icons/carbon/moon')['default']
     'Carbon:shareKnowledge': typeof import('virtual:vite-icons/carbon/share-knowledge')['default']
@@ -32,7 +31,6 @@ declare module 'vue' {
     HackathonList: typeof import('./src/components/HackathonList.vue')['default']
     IconButton: typeof import('./src/components/IconButton.vue')['default']
     IconButtonLink: typeof import('./src/components/IconButtonLink.vue')['default']
-    ListItem: typeof import('./src/components/CoreTeamItem.vue')['default']
     LocaleToggle: typeof import('./src/components/LocaleToggle.vue')['default']
     Logo: typeof import('./src/components/Logo.vue')['default']
     LogoMark: typeof import('./src/components/LogoMark.vue')['default']
@@ -42,7 +40,6 @@ declare module 'vue' {
     ResourceItem: typeof import('./src/components/ResourceItem.vue')['default']
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
-    SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
   }
