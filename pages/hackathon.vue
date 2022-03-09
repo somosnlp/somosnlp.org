@@ -80,7 +80,7 @@ useHead({
                         href="https://discord.com/invite/my8w7JUxZR"
                         target="_blank"
                     >Discord</a>
-                    y acepta la invitación que te mandemos para unirte a la organización
+                    y haz click en "request to join this org" en la organización
                     <a
                         href="https://huggingface.co/hackathon-pln-es"
                         target="_blank"
@@ -132,15 +132,28 @@ useHead({
             <h2>📖 Recursos</h2>
             <p>
                 Desde el equipo de Somos NLP queremos animarte a participar independientemente de
-                tus conocimientos actuales. Estamos creando
-                <b>tutoriales</b> que compartiremos en Discord y GitHub.
-                También daremos un
-                <b>taller práctico</b> al principio del hackathon en el cual
-                crearemos una base de datos, entrenaremos un modelo y desarrollaremos una demo para
-                que tengas un ejemplo de referencia.
-                Además, durante las dos semanas que dura el hackathon estaremos a tu disposición en
-                Discord para guiarte y ayudarte a desarrollar tu proyecto.
+                tus conocimientos actuales.
             </p>
+            <ul>
+                <li>
+                    Hemos creando listas de
+                    <b>datasets y modelos open-source</b>
+                    que puedes utilizar para hacer fine-tuning como te explicamos en nuestros
+                    <b>tutoriales</b>: puedes encontrar estos recursos
+                    <a href="recursos">aquí</a>.
+                </li>
+                <li>
+                    También daremos un
+                    <b>taller práctico</b> el primer día del hackathon en el cual
+                    crearemos una base de datos, entrenaremos un modelo y desarrollaremos una demo
+                    para que tengas un ejemplo de proyecto de referencia.
+                </li>
+                <li>
+                    Además, durante las dos semanas que dura el hackathon estaremos a tu disposición
+                    en Discord para guiarte y ayudarte a desarrollar tu proyecto.
+                </li>
+            </ul>
+
             <h2>💡 Charlas y Talleres</h2>
             <p>
                 Durante el hackathon tendrán lugar diversas charlas y talleres impartidas por
@@ -194,20 +207,6 @@ useHead({
                         class="w-screen"
                         src="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg"
                         alt="Hugging Face"
-                    />
-                </a>
-                <a href="https://www.spain-ai.com/" target="_blank">
-                    <img
-                        v-if="!isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
-                        alt="Spain AI"
-                    />
-                    <img
-                        v-if="isDark"
-                        class="w-screen"
-                        src="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png"
-                        alt="Spain AI"
                     />
                 </a>
             </div>
@@ -295,6 +294,20 @@ useHead({
                         class="w-screen"
                         src="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
                         alt="Saturdays AI"
+                    />
+                </a>
+                <a href="https://www.spain-ai.com/" target="_blank">
+                    <img
+                        v-if="!isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
+                        alt="Spain AI"
+                    />
+                    <img
+                        v-if="isDark"
+                        class="w-screen"
+                        src="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png"
+                        alt="Spain AI"
                     />
                 </a>
                 <a href="https://www.unam.mx/" target="_blank">
