@@ -311,7 +311,7 @@ los textos de un lote de forma concurrente.
 
 
 
-## Fine-tuning the model
+## Fine-tune el modelo
 
 
 
