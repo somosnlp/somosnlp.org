@@ -117,7 +117,7 @@ useHead({
                 </li>
                 <li>
                     Por último, rellena este
-                    <a href="./hackathon_wip" target="_blank">formulario</a> para
+                    <a href="./wip" target="_blank">formulario</a> para
                     presentar el proyecto.
                 </li>
             </ol>
@@ -165,7 +165,7 @@ useHead({
                 >Twitter</a> y
                 <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a>🔥
             </p>
-            <HackathonList />
+            <EventHackathonList />
 
             <h2>👏 Patrocinadores</h2>
             <p>
