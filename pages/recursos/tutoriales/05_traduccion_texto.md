@@ -96,7 +96,7 @@ utilizando 🤗 Datasets y cómo afinar un modelo sobre él utilizando la API
 
 
 
-## Loading the dataset
+## Cargar la base de datos
 
 
 
