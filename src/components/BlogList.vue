@@ -13,7 +13,7 @@ const routes = router.getRoutes()
 </script>
 
 <template>
-    <div class="auto-rows-fr grid gap-2 lg:grid-cols-3">
-        <BlogItem v-for="route in routes" :key="route.path" :route="route" />
+    <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
+        <EventHackathonItem v-for="route in routes" :key="route.path" :route="route" />
     </div>
 </template>
