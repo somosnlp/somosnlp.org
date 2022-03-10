@@ -139,8 +139,8 @@ useHead({
                     Hemos creando listas de
                     <b>datasets y modelos open-source</b>
                     que puedes utilizar para hacer fine-tuning como te explicamos en nuestros
-                    <b>tutoriales</b>: puedes encontrar estos recursos
-                    <a href="recursos">aquí</a>.
+                    <b>tutoriales</b>
+                    <a href="recursos">(somosnlp.org/recursos)</a>.
                 </li>
                 <li>
                     También daremos un
@@ -150,7 +150,8 @@ useHead({
                 </li>
                 <li>
                     Además, durante las dos semanas que dura el hackathon estaremos a tu disposición
-                    en Discord para guiarte y ayudarte a desarrollar tu proyecto.
+                    en
+                    <b>Discord</b> para guiarte y ayudarte a desarrollar tu proyecto.
                 </li>
             </ul>
 
