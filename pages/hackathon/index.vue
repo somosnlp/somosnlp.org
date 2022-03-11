@@ -50,7 +50,10 @@ useHead({
                         <a href="#evento">Evento</a>
                     </li>
                     <li>
-                        <a href="#bases-del-hackathon">Bases del hackathon</a>
+                        <a href="#bases-del-hackathon">Bases del Hackathon</a>
+                    </li>
+                    <li>
+                        <a href="#evaluacion-y-premios">Evaluación y Premios</a>
                     </li>
                     <li>
                         <a href="#recursos">Recursos</a>
@@ -80,7 +83,7 @@ useHead({
                 href="https://hackathon-pln-es.eventbrite.com/?aff=website"
                 target="_blank"
             >¡Regístrate ya!</a>
-            <h2 id="bases-del-hackathon">💻 Bases del hackathon</h2>
+            <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
             <p>
                 Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy
                 sencillo, ¡anímate!
@@ -149,6 +152,44 @@ useHead({
                 Objetivo de Desarrollo Sostenible y otra al modelo con más ❤️ en el Hub de Hugging Face.
             </p>
             <p>¡Buena suerte!</p>
+
+            <h2 id="evaluacion-y-premios">🏆 Evaluación y Premios</h2>
+            <p>
+                A la hora de evaluar los proyectos, dado que cada equipo utilizará un dataset
+                diferente y entrenará su modelo para resolver una tarea diferente, además de tener
+                en cuanta el valor de las métricas, los criterios de evaluación incluirán el impacto
+                social del proyecto, la originalidad de la idea y la dificultad técnica.
+            </p>
+            <p>
+                Gracias al patrocinio de Platzi, todas las personas que presenten un proyecto
+                ganarán una beca en su plataforma de e-learning:
+            </p>
+            <ul>
+                <li>Participación: Beca de 3 meses</li>
+                <li>Segundo y tercer puesto: Beca de 6 meses</li>
+                <li>Equipo ganador: Beca Expert de 1 año</li>
+            </ul>
+            <p>El resto de premios incluirán:</p>
+            <ul>
+                <li>Certificado de participación/equipo ganador del Hackathon 2022 de PLN en Español</li>
+                <li>Rol honorífico en el servidor de Discord, e.g.: "Hackathon 🥇"</li>
+                <li>Swag de Hugging Face diseñado especialmente para el hackathon</li>
+                <li>Tiempo de computación en GPUs patrocinadas por Paperspace</li>
+                <li>Copias del libro "NLP with Transformers"</li>
+            </ul>
+            <p>
+                Nota: Seguimos hablando con nuestros patrocinadores, mantendremos esta
+                sección actualizada.
+            </p>
+            <p>
+                Además de estos premios, podrás conseguir un mes de acceso gratis a la plataforma de
+                e-learning de O'Reilly y participar en el sorteo de copias del libro
+                <a
+                    href="https://transformersbook.com/"
+                    target="_blank"
+                >"Natural Language Processing with Transformers" de Lewis Tunstall, Leandro von Werra y Thomas Wolf</a>
+                al asistir a uno de nuestros eventos 🎁
+            </p>
 
             <h2 id="recursos">📖 Recursos</h2>
             <p>
