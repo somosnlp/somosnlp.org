@@ -43,7 +43,29 @@ useHead({
                 y poner en producción un modelo de PLN en español.
             </p>
 
-            <h2>🚀 Evento</h2>
+            <hr class="mx-auto my-12 prose" />
+            <div class="m-12">
+                <ul>
+                    <li>
+                        <a href="#evento">Evento</a>
+                    </li>
+                    <li>
+                        <a href="#bases-del-hackathon">Bases del hackathon</a>
+                    </li>
+                    <li>
+                        <a href="#recursos">Recursos</a>
+                    </li>
+                    <li>
+                        <a href="#charlas-y-talleres">Charlas y Talleres</a>
+                    </li>
+                    <li>
+                        <a href="#patrocinadores">Patrocinadores</a>
+                    </li>
+                </ul>
+            </div>
+            <hr class="mx-auto my-12 prose" />
+
+            <h2 id="evento">🚀 Evento</h2>
             <p>Al unirte a este evento tendrás la oportunidad de:</p>
             <ul>
                 <li>Ayudar al avance y la democratización del PLN en español</li>
@@ -58,7 +80,7 @@ useHead({
                 href="https://hackathon-pln-es.eventbrite.com/?aff=website"
                 target="_blank"
             >¡Regístrate ya!</a>
-            <h2>💻 Bases del hackathon</h2>
+            <h2 id="bases-del-hackathon">💻 Bases del hackathon</h2>
             <p>
                 Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy
                 sencillo, ¡anímate!
@@ -128,18 +150,20 @@ useHead({
             </p>
             <p>¡Buena suerte!</p>
 
-            <h2>📖 Recursos</h2>
+            <h2 id="recursos">📖 Recursos</h2>
             <p>
                 Desde el equipo de Somos NLP queremos animarte a participar independientemente de
                 tus conocimientos actuales.
             </p>
             <ul>
                 <li>
-                    Hemos creando listas de
+                    Hemos creando una nueva sección "Recursos"
+                    <a
+                        href="recursos"
+                    >(somosnlp.org/recursos)</a> con listas de
                     <b>datasets y modelos open-source</b>
                     que puedes utilizar para hacer fine-tuning como te explicamos en nuestros
-                    <b>tutoriales</b>
-                    <a href="recursos">(somosnlp.org/recursos)</a>.
+                    <b>tutoriales</b>.
                 </li>
                 <li>
                     También daremos un
@@ -154,11 +178,18 @@ useHead({
                 </li>
             </ul>
 
-            <h2>💡 Charlas y Talleres</h2>
+            <h2 id="charlas-y-talleres">💡 Charlas y Talleres</h2>
             <p>
                 Durante el hackathon tendrán lugar diversas charlas y talleres impartidas por
-                profesionales del mundo del Procesamiento del Lenguaje Natural. Iremos anunciando
-                los eventos uno a uno así que atención a
+                profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos están
+                abiertos a todas las personas, independientemente de si participan en el hackathon,
+                <a
+                    href="https://hackathon-pln-es.eventbrite.com/?aff=website"
+                    target="_blank"
+                >¡apúntate!</a>
+            </p>
+            <p>
+                Iremos anunciando los eventos uno a uno así que atención a
                 <a
                     href="https://twitter.com/somosnlp_"
                     target="_blank"
@@ -167,7 +198,7 @@ useHead({
             </p>
             <EventHackathonList />
 
-            <h2>👏 Patrocinadores</h2>
+            <h2 id="patrocinadores">👏 Patrocinadores</h2>
             <p>
                 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa
                 llegue más lejos. ¡Vamos a democratizar el PLN en español!
