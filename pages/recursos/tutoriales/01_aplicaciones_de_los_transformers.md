@@ -1,12 +1,9 @@
 ---
 title: Tareas de NLP
 description: Un recorrido por las aplicaciones de los Transformers
+cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 author: Omar Sanseviero y Lewis Tunstall
-bio: Ingenieros de Machine Learning @Hugging Face
-website: https://osanseviero.github.io/hackerllama/
-twitter: https://twitter.com/osanseviero
-linkedin: https://www.linkedin.com/in/omarsanseviero
-github: https://github.com/osanseviero
+bio: Ingenieros de Machine Learning @HuggingFace
 ---
 
 <a href="https://colab.research.google.com/github/somosnlp/recursos-nlp-es/blob/main/aplicaciones_de_los_transformers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>

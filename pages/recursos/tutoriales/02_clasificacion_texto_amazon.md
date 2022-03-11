@@ -1,6 +1,6 @@
 ---
 title: Clasificación de texto
-description: Cómo afinar un modelo de RoBERTa en español para clasificar las reseñas de Amazon.
+description: Cómo afinar un modelo de RoBERTa en español para clasificar las reseñas de Amazon
 cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 author: Lewis Tunstall
 bio: Ingeniero de Machine Learning @HuggingFace 
