@@ -31,7 +31,7 @@ ejecútala.
 
 
 Si estás abriendo este cuaderno localmente, asegúrate de que tu entorno
-tiene una instalación de la última versión de esas librerías.
+tiene una instalación de la última versión de esas bibliotecas.
 
 Para poder compartir tu modelo con la comunidad y generar resultados
 como el que se muestra en la imagen de abajo a través de la API de
@@ -100,7 +100,7 @@ utilizando 🤗 Datasets y cómo afinar un modelo sobre él utilizando la API
 
 
 
-Utilizaremos la librería [🤗
+Utilizaremos la biblioteca [🤗
 Datasets](https://github.com/huggingface/datasets) para descargar los
 datos y obtener la métrica que necesitamos utilizar para la evaluación
 (para comparar nuestro modelo con el benchmark). Esto se puede hacer
