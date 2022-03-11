@@ -1,10 +1,10 @@
 ---
 title: Generación de Texto
-description: Cómo afinar un modelo GPT-2 en español para generar letras de RAP.
+description: Cómo afinar un modelo GPT-2 en español para generar letras de RAP
 cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 author: Manuel Romero
 bio: Ingeniero de NLP/NLG @Narrativa.AI
-website: hf.co/mrm8488
+website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
 linkedin: https://www.linkedin.com/in/manuel-romero-cs/
 github: https://github.com/mrm8488
