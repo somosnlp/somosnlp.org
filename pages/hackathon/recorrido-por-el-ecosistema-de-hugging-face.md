@@ -2,7 +2,7 @@
 title: "Taller Práctico: Recorrido por el ecosistema de Hugging Face"
 speaker: Manuel Romero
 speaker_bio: Ingeniero de NLP/NLG @Narrativa.AI | Head Collaborator @HuggingFace
-speaker_pic: https://pbs.twimg.com/profile_images/1453814294299267085/AQHJI5nS_400x400.jpg
+speaker_pic: https://somosnlp.github.io/assets/images/core_team_manuel_romero.jpg
 date: 2022-03-14T18:00:00.000+00:00
 lang: es
 time: 18h CET
