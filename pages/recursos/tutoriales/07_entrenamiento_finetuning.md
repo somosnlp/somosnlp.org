@@ -4,8 +4,8 @@ description: Cómo aplicar fine-tuning a un modelo pre-entrenado.
 cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 author: Yhary Arias
 bio: Estudiante de maestría en IA de la Universidad Politécnica de Valencia, España.
+website: https://www.linkedin.com/in/yharyarias/
 twitter: https://twitter.com/yharyarias5
-linkedin: https://www.linkedin.com/in/yharyarias/
 github: https://github.com/yharyarias
 ---
 
