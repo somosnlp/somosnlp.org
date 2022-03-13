@@ -32,11 +32,8 @@ github: https://github.com/yharyarias
 - Comprensión de Machine Learning.
 - (Opcional, pero recomendado) Experiencia con Git ([recurso](https://learngitbranching.js.org/)).
 
----
 
 # Fine-tuning a un modelo pre-entrenado
-
-[[open-in-colab]]
 
 El uso de un modelo pre-entrenado tiene importantes ventajas. Reduce los costos de computación, la huella de carbono, y te permite utilizar modelos de última generación sin tener que entrenar uno desde cero. 🤗 Transformers proporciona acceso a miles de modelos pre-entrenados en una amplia gama de tareas. Cuando utilizas un modelo pre-entrenado, lo entrenas con un dataset específico para tu tarea. Esto se conoce como fine-tuning, una técnica de entrenamiento increíblemente poderosa. En este tutorial haremos fine-tuning a un modelo pre-entrenado con un framework de Deep Learning de tu elección:
 
@@ -44,11 +41,9 @@ El uso de un modelo pre-entrenado tiene importantes ventajas. Reduce los costos 
 * Fine-tuning a un modelo pre-entrenado en TensorFlow con Keras.
 * Fine-tuning a un modelo pre-entrenado en PyTorch nativo.
 
-<a id='data-processing'></a>
 
 ## Prepara un dataset
 
-<Youtube id="_BZearw7f0w"/>
 
 Antes de aplicar fine-tuning a un modelo pre-entrenado, descarga un dataset y prepáralo para el entrenamiento. El tutorial anterior nos enseñó cómo procesar los datos para el entrenamiento, y ahora es la oportunidad de poner a prueba estas habilidades.
 
@@ -85,11 +80,9 @@ small_train_dataset = tokenized_datasets["train"].shuffle(seed=42).select(range(
 small_eval_dataset = tokenized_datasets["test"].shuffle(seed=42).select(range(1000))
 ```
 
-<a id='trainer'></a>
 
 ## Fine-tuning con `Trainer`
 
-<Youtube id="nvBXf7s7vTI"/>
 
 🤗 Transformers proporciona una clase [`Trainer`] optimizada para el entrenamiento de modelos de 🤗 Transformers, haciendo más fácil el inicio del entrenamiento sin necesidad de escribir manualmente tu propio ciclo. La API del [`Trainer`] soporta una amplia gama de opciones de entrenamiento y características como el logging, el gradient accumulation y el mixed precision.
 
@@ -101,12 +94,8 @@ from transformers import AutoModelForSequenceClassification
 model = AutoModelForSequenceClassification.from_pretrained("bert-base-cased", num_labels=5)
 ```
 
-<Tip>
-
-Verás una advertencia acerca de que algunos de los pesos pre-entrenados que no están siendo utilizados y que algunos pesos están siendo inicializados al azar. 
+Tip: Verás una advertencia acerca de que algunos de los pesos pre-entrenados que no están siendo utilizados y que algunos pesos están siendo inicializados al azar. 
 No te preocupes, esto es completamente normal. El head/cabezal pre-entrenado del modelo BERT se descarta y se sustituye por un head de clasificación inicializado aleatoriamente. Puedes aplicar fine-tuning a este nuevo head del modelo en tu tarea de clasificación de secuencias haciendo transfer learning del modelo pre-entrenado.
-
-</Tip>
 
 ### Hiperparámetros de entrenamiento
 
@@ -168,11 +157,8 @@ A continuación, aplica fine-tuning a tu modelo llamando a [`~transformers.Train
 trainer.train()
 ```
 
-<a id='keras'></a>
-
 ## Fine-tuning con Keras
 
-<Youtube id="rnTGBy2ax1c"/>
 
 Los modelos de 🤗 Transformers también permite realizar el entrenamiento en TensorFlow con la API de Keras. Sólo es necesario hacer algunos cambios antes de hacer fine-tuning.
 
@@ -186,13 +172,11 @@ from transformers import DefaultDataCollator
 data_collator = DefaultDataCollator(return_tensors="tf")
 ```
 
-<Tip>
 
-[`Trainer`] utiliza [`DataCollatorWithPadding`] por defecto, por lo que no es necesario especificar explícitamente un intercalador de datos.
+Tip: [`Trainer`] utiliza [`DataCollatorWithPadding`] por defecto, por lo que no es necesario especificar explícitamente un intercalador de datos.
 
-</Tip>
 
-A continuación, convierte los datasets0 tokenizados en datasets de TensorFlow con el método [`to_tf_dataset`](https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.to_tf_dataset). Especifica tus entradas en `columns`, y tu etiqueta en `label_cols`:
+A continuación, convierte los datasets tokenizados en datasets de TensorFlow con el método [`to_tf_dataset`](https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.to_tf_dataset). Especifica tus entradas en `columns`, y tu etiqueta en `label_cols`:
 
 ```python
 tf_train_dataset = small_train_dataset.to_tf_dataset(
@@ -235,11 +219,9 @@ model.compile(
 model.fit(tf_train_dataset, validation_data=tf_validation_dataset, epochs=3)
 ```
 
-<a id='pytorch_native'></a>
 
 ## Fine-tune en PyTorch nativo
 
-<Youtube id="Dh9CL8fyG80"/>
 
 El [`Trainer`] se encarga del ciclo de entrenamiento y permite aplicar fine-tuning a un modelo en una sola línea de código. Para los usuarios que prefieren escribir tu propio ciclo de entrenamiento, también puedes aplicar fine-tuning a un modelo de 🤗 Transformers en PyTorch nativo.
 
@@ -329,11 +311,9 @@ device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 model.to(device)
 ```
 
-<Tip>
 
-Consigue acceso gratuito a una GPU en la nube si es que no tienes este recurso de forma local, con un notebook alojado como [Colaboratory](https://colab.research.google.com/) o [SageMaker StudioLab](https://studiolab.sagemaker.aws/).
+Tip: Consigue acceso gratuito a una GPU en la nube si es que no tienes este recurso de forma local, con un notebook alojado como [Colaboratory](https://colab.research.google.com/) o [SageMaker StudioLab](https://studiolab.sagemaker.aws/).
 
-</Tip>
 
 Genial, ¡ahora podemos entrenar! 🥳
 
@@ -378,8 +358,6 @@ for batch in eval_dataloader:
 
 metric.compute()
 ```
-
-<a id='additional-resources'></a>
 
 ## Recursos adicionales
 
