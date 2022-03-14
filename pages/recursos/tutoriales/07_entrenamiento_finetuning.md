@@ -1,5 +1,5 @@
 ---
-title: Fine-tuning a un modelo pre-entrenado
+title: Fine-tuning un modelo pre-entrenado
 description: Cómo aplicar fine-tuning a un modelo pre-entrenado.
 cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 author: Yhary Arias
@@ -8,6 +8,8 @@ website: https://www.linkedin.com/in/yharyarias/
 twitter: https://twitter.com/yharyarias5
 github: https://github.com/yharyarias
 ---
+
+Esta una traducción hecha de la [documentación de Transformers](https://huggingface.co/docs/transformers/training).
 
 ## Acerca de este tutorial
 
@@ -37,7 +39,7 @@ github: https://github.com/yharyarias
 
 El uso de un modelo pre-entrenado tiene importantes ventajas. Reduce los costos de computación, la huella de carbono, y te permite utilizar modelos de última generación sin tener que entrenar uno desde cero. 🤗 Transformers proporciona acceso a miles de modelos pre-entrenados en una amplia gama de tareas. Cuando utilizas un modelo pre-entrenado, lo entrenas con un dataset específico para tu tarea. Esto se conoce como fine-tuning, una técnica de entrenamiento increíblemente poderosa. En este tutorial haremos fine-tuning a un modelo pre-entrenado con un framework de Deep Learning de tu elección:
 
-* Fine-tuning a un modelo pre-entrenado con 🤗 Transformers [`Trainer`].
+* Fine-tuning a un modelo pre-entrenado con 🤗 Transformers [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer).
 * Fine-tuning a un modelo pre-entrenado en TensorFlow con Keras.
 * Fine-tuning a un modelo pre-entrenado en PyTorch nativo.
 
@@ -84,7 +86,7 @@ small_eval_dataset = tokenized_datasets["test"].shuffle(seed=42).select(range(10
 ## Fine-tuning con `Trainer`
 
 
-🤗 Transformers proporciona una clase [`Trainer`] optimizada para el entrenamiento de modelos de 🤗 Transformers, haciendo más fácil el inicio del entrenamiento sin necesidad de escribir manualmente tu propio ciclo. La API del [`Trainer`] soporta una amplia gama de opciones de entrenamiento y características como el logging, el gradient accumulation y el mixed precision.
+🤗 Transformers proporciona una clase [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) optimizada para el entrenamiento de modelos de 🤗 Transformers, haciendo más fácil el inicio del entrenamiento sin necesidad de escribir manualmente tu propio ciclo. La API del [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) soporta una amplia gama de opciones de entrenamiento y características como el logging, el gradient accumulation y el mixed precision.
 
 Comienza cargando tu modelo y especifica el número de labels previstas. A partir del [Card Dataset](https://huggingface.co/datasets/yelp_review_full#data-fields) de Yelp Review, que como ya sabemos tiene 5 labels:
 
@@ -99,7 +101,7 @@ No te preocupes, esto es completamente normal. El head/cabezal pre-entrenado del
 
 ### Hiperparámetros de entrenamiento
 
-A continuación, crea una clase [`TrainingArguments`] que contenga todos los hiperparámetros que puedes ajustar así como los indicadores para activar las diferentes opciones de entrenamiento. Para este tutorial puedes empezar con los [hiperparámetros](https://huggingface.co/docs/transformers/main_classes/trainer#transformers.TrainingArguments) de entrenamiento por defecto, pero siéntete libre de experimentar con ellos para encontrar tu configuración óptima.
+A continuación, crea una clase [`TrainingArguments`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.TrainingArguments) que contenga todos los hiperparámetros que puedes ajustar así como los indicadores para activar las diferentes opciones de entrenamiento. Para este tutorial puedes empezar con los [hiperparámetros](https://huggingface.co/docs/transformers/main_classes/trainer#transformers.TrainingArguments) de entrenamiento por defecto, pero siéntete libre de experimentar con ellos para encontrar tu configuración óptima.
 
 Especifica dónde vas a guardar los checkpoints de tu entrenamiento:
 
@@ -111,7 +113,7 @@ training_args = TrainingArguments(output_dir="test_trainer")
 
 ### Métricas
 
-El [`Trainer`] no evalúa automáticamente el rendimiento del modelo durante el entrenamiento. Tendrás que pasarle a [`Trainer`] una función para calcular y hacer un reporte de las métricas. La librería de 🤗 Datasets proporciona una función de [`accuracy`](https://huggingface.co/metrics/accuracy) simple que puedes cargar con la función `load_metric` (ver este [tutorial](https://huggingface.co/docs/datasets/metrics.html) para más información):
+El [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) no evalúa automáticamente el rendimiento del modelo durante el entrenamiento. Tendrás que pasarle a [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) una función para calcular y hacer un reporte de las métricas. La librería de 🤗 Datasets proporciona una función de [`accuracy`](https://huggingface.co/metrics/accuracy) simple que puedes cargar con la función `load_metric` (ver este [tutorial](https://huggingface.co/docs/datasets/metrics.html) para más información):
 
 ```python
 import numpy as np
@@ -139,7 +141,7 @@ training_args = TrainingArguments(output_dir="test_trainer", evaluation_strategy
 
 ### Trainer
 
-Crea un objeto [`Trainer`] con tu modelo, argumentos de entrenamiento, conjuntos de datos de entrenamiento y de prueba, y tu función de evaluación:
+Crea un objeto [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) con tu modelo, argumentos de entrenamiento, conjuntos de datos de entrenamiento y de prueba, y tu función de evaluación:
 
 ```python
 trainer = Trainer(
@@ -151,7 +153,7 @@ trainer = Trainer(
 )
 ```
 
-A continuación, aplica fine-tuning a tu modelo llamando a [`~transformers.Trainer.train`]:
+A continuación, aplica fine-tuning a tu modelo llamando [`~transformers.Trainer.train`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer.train):
 
 ```python
 trainer.train()
@@ -164,7 +166,7 @@ Los modelos de 🤗 Transformers también permite realizar el entrenamiento en T
 
 ### Convierte el dataset al formato de TensorFlow
 
-El [`DefaultDataCollator`] junta los tensores en un batch para que el modelo se entrene en él. Asegúrate de especificar `return_tensors` para devolver los tensores de TensorFlow:
+El [`DefaultDataCollator`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/data_collator#transformers.DataCollatorWithPadding) junta los tensores en un batch para que el modelo se entrene en él. Asegúrate de especificar `return_tensors` para devolver los tensores de TensorFlow:
 
 ```python
 from transformers import DefaultDataCollator
@@ -173,10 +175,10 @@ data_collator = DefaultDataCollator(return_tensors="tf")
 ```
 
 
-Tip: [`Trainer`] utiliza [`DataCollatorWithPadding`] por defecto, por lo que no es necesario especificar explícitamente un intercalador de datos.
+Tip: [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) utiliza [`DataCollatorWithPadding`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/data_collator#transformers.DataCollatorWithPadding) por defecto por lo que no es necesario especificar explícitamente un intercalador de datos (data collator, en inglés).
 
 
-A continuación, convierte los datasets tokenizados en datasets de TensorFlow con el método [`to_tf_dataset`](https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.to_tf_dataset). Especifica tus entradas en `columns`, y tu etiqueta en `label_cols`:
+A continuación, convierte los datasets tokenizados en datasets de TensorFlow con el método [`to_tf_dataset`](https://huggingface.co/docs/datasets/package_reference/main_classes.html#datasets.Dataset.to_tf_dataset). Especifica tus entradas en `columns` y tu etiqueta en `label_cols`:
 
 ```python
 tf_train_dataset = small_train_dataset.to_tf_dataset(
@@ -207,7 +209,7 @@ from transformers import TFAutoModelForSequenceClassification
 model = TFAutoModelForSequenceClassification.from_pretrained("bert-base-cased", num_labels=5)
 ```
 
-A continuación, compila y aplica fine-tuning a tu modelo con [`fit`](https://keras.io/api/models/model_training_apis/) como lo harías con cualquier otro modelo Keras:
+A continuación, compila y aplica fine-tuning a tu modelo con [`fit`](https://keras.io/api/models/model_training_apis/) como lo harías con cualquier otro modelo de Keras:
 
 ```python
 model.compile(
@@ -223,7 +225,7 @@ model.fit(tf_train_dataset, validation_data=tf_validation_dataset, epochs=3)
 ## Fine-tune en PyTorch nativo
 
 
-El [`Trainer`] se encarga del ciclo de entrenamiento y permite aplicar fine-tuning a un modelo en una sola línea de código. Para los usuarios que prefieren escribir tu propio ciclo de entrenamiento, también puedes aplicar fine-tuning a un modelo de 🤗 Transformers en PyTorch nativo.
+El [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer) se encarga del ciclo de entrenamiento y permite aplicar fine-tuning a un modelo en una sola línea de código. Para los usuarios que prefieren escribir tu propio ciclo de entrenamiento, también puedes aplicar fine-tuning a un modelo de 🤗 Transformers en PyTorch nativo.
 
 En este punto, es posible que necesites reiniciar tu notebook o ejecutar el siguiente código para liberar algo de memoria:
 
@@ -234,7 +236,7 @@ del trainer
 torch.cuda.empty_cache()
 ```
 
-A continuación, haz un post-proceso manualmente al `tokenized_dataset` y así prepararlo para el entrenamiento.
+A continuación, haremos un post-proceso manualmente al `tokenized_dataset` y así prepararlo para el entrenamiento.
 
 1. Elimina la columna de `text` porque el modelo no acepta texto en crudo como entrada:
 
@@ -290,7 +292,7 @@ from torch.optim import AdamW
 optimizer = AdamW(model.parameters(), lr=5e-5)
 ```
 
-Crea el learning rate por defecto desde el [`Trainer`]:
+Crea el learning rate desde el [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer):
 
 ```python
 from transformers import get_scheduler
@@ -302,7 +304,7 @@ lr_scheduler = get_scheduler(
 )
 ```
 
-Por último, especifique el `device` o entorno de ejecución para utilizar una GPU si tiene acceso a una. De lo contrario, el entrenamiento en una CPU puede llevar varias horas en lugar de un par de minutos.
+Por último, especifica el `device` o entorno de ejecución para utilizar una GPU si tienes acceso a una. De lo contrario, el entrenamiento en una CPU puede llevar varias horas en lugar de un par de minutos.
 
 ```python
 import torch
@@ -312,10 +314,10 @@ model.to(device)
 ```
 
 
-Tip: Consigue acceso gratuito a una GPU en la nube si es que no tienes este recurso de forma local, con un notebook alojado como [Colaboratory](https://colab.research.google.com/) o [SageMaker StudioLab](https://studiolab.sagemaker.aws/).
+Tip: Consigue acceso gratuito a una GPU en la nube si es que no tienes este recurso de forma local con un notebook alojado en [Colaboratory](https://colab.research.google.com/) o [SageMaker StudioLab](https://studiolab.sagemaker.aws/).
 
 
-Genial, ¡ahora podemos entrenar! 🥳
+Genial, ¡ahora estamos listos entrenar! 🥳
 
 ### Ciclo de entrenamiento
 
@@ -342,7 +344,7 @@ for epoch in range(num_epochs):
 
 ### Métricas
 
-De la misma manera que necesitas añadir una función de evaluación al [`Trainer`], necesitas hacer lo mismo cuando escribas tu propio ciclo de entrenamiento. Pero en lugar de calcular y reportar la métrica al final de cada época, esta vez acumularás todos los batches con [`add_batch`](https://huggingface.co/docs/datasets/package_reference/main_classes.html?highlight=add_batch#datasets.Metric.add_batch) y calcularás la métrica al final.
+De la misma manera que necesitas añadir una función de evaluación al [`Trainer`](https://huggingface.co/docs/transformers/v4.17.0/en/main_classes/trainer#transformers.Trainer), necesitas hacer lo mismo cuando escribas tu propio ciclo de entrenamiento. Pero en lugar de calcular y reportar la métrica al final de cada época, esta vez acumularás todos los batches con [`add_batch`](https://huggingface.co/docs/datasets/package_reference/main_classes.html?highlight=add_batch#datasets.Metric.add_batch) y calcularás la métrica al final.
 
 ```python
 metric = load_metric("accuracy")
