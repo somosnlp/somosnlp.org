@@ -22,6 +22,7 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
                     class="bg-white rounded-md object-cover max-h-200px"
                     dark="bg-gray-900"
                     :src="frontmatter.speaker_pic"
+                    :alt="frontmatter.speaker"
                 />
             </div>
             <div class="text-center grid gap-2">
