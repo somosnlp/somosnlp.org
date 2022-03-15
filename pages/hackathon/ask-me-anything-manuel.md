@@ -10,7 +10,7 @@ time: 19h CET
 
 <EventSummary
     description="Pregúntale lo que quieras a Manuel Romero, Ingeniero de NLP/NLG en Narrativa y el mayor contribuidor del Model Hub de Hugging Face. Además, el host de este AMA será Lewis Tunstall, Ingeniero de ML en Hugging Face y Co-Autor del libro 'Natural Language Processing with Transformers'. Te resolverán todas tus dudas relacionadas con el ecosistema de Hugging Face y el desarrollo tu proyecto. ¡No te pierdas esta oportunidad!"
-    poster="https://somosnlp.github.io/assets/images/evento_17_03_ama.png"
+    poster="https://somosnlp.github.io/assets/images/evento_ama_manu.png"
     name="Manuel Romero"
     website="https://hf.co/mrm8488"
     twitter="https://twitter.com/mrm8488"
