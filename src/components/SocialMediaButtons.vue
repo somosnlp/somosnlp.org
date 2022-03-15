@@ -11,4 +11,7 @@
     <IconButtonLink url="https://github.com/somosnlp">
         <carbon:logo-github />
     </IconButtonLink>
+    <IconButtonLink url="https://www.youtube.com/channel/UCnvcxysBFeTCofT-1r6SieQ">
+        <carbon:logo-youtube />
+    </IconButtonLink>
 </template>

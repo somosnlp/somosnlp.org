@@ -17,6 +17,7 @@ declare module 'vue' {
     'Carbon:logoGithub': typeof import('virtual:vite-icons/carbon/logo-github')['default']
     'Carbon:logoLinkedin': typeof import('virtual:vite-icons/carbon/logo-linkedin')['default']
     'Carbon:logoTwitter': typeof import('virtual:vite-icons/carbon/logo-twitter')['default']
+    'Carbon:logoYoutube': typeof import('virtual:vite-icons/carbon/logo-youtube')['default']
     'Carbon:moon': typeof import('virtual:vite-icons/carbon/moon')['default']
     'Carbon:shareKnowledge': typeof import('virtual:vite-icons/carbon/share-knowledge')['default']
     'Carbon:sun': typeof import('virtual:vite-icons/carbon/sun')['default']
