@@ -8,10 +8,10 @@ lang: es
 time: 18h CET
 ---
 
-<!--TODO: Add second speaker -->
 <EventSummary
     description="En esta charla resumiremos nuestros últimos trabajos desarrollando modelos del lenguaje para redes sociales, con un énfasis en Twitter."
     poster="https://somosnlp.github.io/assets/images/evento_cardiff.png"
+    video="https://www.youtube.com/embed/j4qfRljYNYI"
     name="Jose Camacho Collados y Luis Espinosa-Anke"
     twitter="https://twitter.com/CamachoCollados"
     bio="Investigadores en PLN de la Universidad de Cardiff."
