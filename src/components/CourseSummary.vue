@@ -30,8 +30,7 @@ defineProps<{
     <div class="grid grid-cols-2">
         <div>
             <p class="contents" :name="name">Imparte: {{ name }}</p>
-
-            <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
+            <div class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                 <IconButtonLink :url="twitter" target="_blank" class="contents">
                     <carbon:logo-twitter />
                 </IconButtonLink>

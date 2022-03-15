@@ -10,15 +10,12 @@ defineProps<{
     linkedin: string
     github: string
     bio: string
+    lista: string
 }>()
 </script>
 
 <template>
     <p class="contents" :description="description">{{ description }}</p>
-
-    <div v-if="poster" class="flex justify-center">
-        <img alt="Cartel Evento" :src="poster" />
-    </div>
 
     <div v-if="video" class="contents">
         <iframe
@@ -33,22 +30,24 @@ defineProps<{
             allowfullscreen
         ></iframe>
     </div>
+    <div v-else="poster" class="flex justify-center">
+        <img alt="Cartel Evento" :src="poster" />
+    </div>
 
     <div class="grid grid-cols-2">
         <div>
-            <p class="contents" :name="name">Ponente: {{ name }}</p>
-
-            <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
-                <IconButtonLink :url="website" target="_blank" class="contents">
+            <p class="contents" :name="name">{{ name }}</p>
+            <div class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
+                <IconButtonLink v-if="website" :url="website" target="_blank" class="contents">
                     <carbon:user-avatar-filled-alt />
                 </IconButtonLink>
-                <IconButtonLink :url="twitter" target="_blank" class="contents">
+                <IconButtonLink v-if="twitter" :url="twitter" target="_blank" class="contents">
                     <carbon:logo-twitter />
                 </IconButtonLink>
-                <IconButtonLink :url="linkedin" target="_blank" class="contents">
+                <IconButtonLink v-if="linkedin" :url="linkedin" target="_blank" class="contents">
                     <carbon:logo-linkedin />
                 </IconButtonLink>
-                <IconButtonLink :url="github" target="_blank" class="contents">
+                <IconButtonLink v-if="github" :url="github" target="_blank" class="contents">
                     <carbon:logo-github />
                 </IconButtonLink>
             </div>
@@ -58,4 +57,7 @@ defineProps<{
         </div>
     </div>
     <div class="my-8">{{ bio }}</div>
+    <div class="flex justify-center">
+        <a :href="lista" target="_blank">Más charlas y talleres</a>
+    </div>
 </template>
