@@ -15,4 +15,5 @@ time: 13h CET
     twitter="https://twitter.com/dvilasuero"
     linkedin="https://www.linkedin.com/in/daniel-vila-suero-484b6b45/"
     bio="Daniel es co-fundador y CEO de Recognai, una startup nacida en España y creadora de Rubrix, la herramienta open-source para PLN centrado en los datos."
+    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

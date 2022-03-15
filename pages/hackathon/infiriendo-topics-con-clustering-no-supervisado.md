@@ -15,4 +15,5 @@ time: 13h CET
     twitter="https://twitter.com/victorianoi"
     linkedin="https://www.linkedin.com/in/victorianoizquierdo/?originalSubdomain=es"
     bio="Co-Fundador y CEO de Graphext."
+    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />
