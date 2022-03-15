@@ -118,19 +118,35 @@ useHead({
                 </li>
                 <li>
                     Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes equipo puedes utilizar
-                    el canal #encuentra-equipo para crear uno nuevo o unirte a uno existente.
+                    el canal #encuentra-equipo para crear uno nuevo o unirte a uno existente. Apunta
+                    tu proyecto y los handles de HF de los miembros del equipo en la hoja de cálculo
+                    que está en la descripción del canal #encuentra-equipo, os mandaremos por correo
+                    el código de vuestra GPU de Paperspace.
                 </li>
                 <li>
-                    Junto con tu equipo, entrena y sube al
+                    Busca una base de datos para entrenar tu modelo. Puede estar en
                     <a
-                        href="https://huggingface.co/models"
+                        href="https://hf.co/datasets"
                         target="_blank"
-                    >Hub</a> uno o varios modelos. Desde la comunidad queremos animar a todos los
-                    equipos a entrenar modelos que sirvan para abordar alguno de los
+                    >datasets</a>, en otra plataforma online o la puedes crear desde cero y subirla
+                    a
+                    <a
+                        href="https://hf.co/hackathon-pln-es"
+                        target="_blank"
+                    >hackathon-pln-es</a>.
+                </li>
+                <li>
+                    Junto con tu equipo, entrena y sube a
+                    <a
+                        href="https://hf.co/hackathon-pln-es"
+                        target="_blank"
+                    >hackathon-pln-es</a> uno o varios modelos. Desde la comunidad
+                    queremos animar a todos los equipos a entrenar modelos que sirvan para abordar
+                    alguno de los
                     <a
                         href="https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/"
                         target="_blank"
-                    >Objetivos de Desarrollo Sostenible de la ONU</a>".
+                    >Objetivos de Desarrollo Sostenible de la ONU</a>.
                 </li>
                 <li>
                     Asegúrate de incluir una "Model Card" explicando, entre otras cosas, el
@@ -138,7 +154,12 @@ useHead({
                 </li>
                 <li>
                     Crea una demo de el/los modelo/s utilizando la tecnología que prefieras
-                    (e.g. FastAPI, Flask, Gradio, Streamlit).
+                    (e.g. Gradio, Streamlit, Flask, FastAPI). Puedes utilizar Spaces de Hugging Face
+                    para crear tu demo en
+                    <a
+                        href="https://hf.co/hackathon-pln-es"
+                        target="_blank"
+                    >hackathon-pln-es</a>.
                 </li>
                 <li>
                     Por último, rellena este
@@ -149,7 +170,7 @@ useHead({
             <p>
                 Un jurado formado por especialistas en PLN (por anunciar) elegirá los tres equipos
                 ganadores. Además, se concederá una mención de honor al mejor proyecto enfocado a un
-                Objetivo de Desarrollo Sostenible y otra al modelo con más ❤️ en el Hub de Hugging Face.
+                Objetivo de Desarrollo Sostenible y otra al que consiga más ❤️ en el Hub de Hugging Face.
             </p>
             <p>¡Buena suerte!</p>
 
