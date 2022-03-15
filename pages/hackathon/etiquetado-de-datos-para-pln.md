@@ -11,6 +11,7 @@ time: 13h CET
 <EventSummary
     description="En este taller práctico mostraremos como usar Rubrix para construir y mejorar datos de entrenamiento para PLN, a partir de ejemplos prácticos de clasificación de texto y reconocimiento de entidades nombradas, en Español. ¿Qué es Rubrix? 👉 https://github.com/recognai/rubrix"
     poster="https://somosnlp.github.io/assets/images/evento_daniel.png"
+    video="https://www.youtube.com/embed/UR6MHBbPA3g"
     name="Daniel Vila Suero"
     twitter="https://twitter.com/dvilasuero"
     linkedin="https://www.linkedin.com/in/daniel-vila-suero-484b6b45/"

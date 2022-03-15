@@ -11,6 +11,7 @@ time: 13h CET
 <EventSummary
     description="Veremos cómo inferir topics de tweets, noticias o cualquier tipo de textos a partir de embeddings usando models alojados en HuggingFace y sin escribir una línea de código con Graphext."
     poster="https://somosnlp.github.io/assets/images/evento_victoriano.png"
+    video="https://www.youtube.com/embed/7ckg10QUHLw"
     name="Victoriano Izquierdo"
     twitter="https://twitter.com/victorianoi"
     linkedin="https://www.linkedin.com/in/victorianoizquierdo/?originalSubdomain=es"
