@@ -15,4 +15,5 @@ time: 18h CET
     name="Jose Camacho Collados y Luis Espinosa-Anke"
     twitter="https://twitter.com/CamachoCollados"
     bio="Investigadores en PLN de la Universidad de Cardiff."
+    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />
