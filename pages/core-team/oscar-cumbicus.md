@@ -1,6 +1,6 @@
 ---
 name: Oscar Cumbicus
-title: Professor @UNL Researcher @IxaGroup
+title: Professor and Researcher
 cover: https://oskrmiguel.github.io/profile/images/user-3.jpg
 website: https://oskrmiguel.github.io/profile/
 twitter: https://twitter.com/OscarCumbicus
