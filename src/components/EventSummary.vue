@@ -57,7 +57,7 @@ defineProps<{
         </div>
     </div>
     <div class="my-8">{{ bio }}</div>
-    <div class="flex justify-center">
+    <div v-if="lista" class="flex justify-center">
         <a :href="lista" target="_blank">Más charlas y talleres</a>
     </div>
 </template>
