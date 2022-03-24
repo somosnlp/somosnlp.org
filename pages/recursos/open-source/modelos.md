@@ -57,6 +57,19 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 ---
 
 <ResourceItem
+    name="BioMedtra"
+    :tags="['Electra', 'small', 'textos bioclínicos']"
+    description
+    website
+    github
+    paper
+    hf_contributor_handle="mrm8488"
+    hf_model_name="biomedtra-small-es" 
+/>
+
+---
+
+<ResourceItem
     name="RoBERTalex"
     :tags="['RoBERTa', 'base', 'legal']"
     description
@@ -162,7 +175,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 
 <ResourceItem
     name="Legalectra"
-    :tags="['Electra', 'small, base', 'propósito general']"
+    :tags="['Electra', 'small, base', 'legal']"
     description
     website
     github
