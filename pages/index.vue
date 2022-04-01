@@ -122,6 +122,22 @@ const showBanner = ref(true);
             <span text="center">{{ t('landing-page.contribute.discord') }}</span>
           </a>
           <a
+            href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f"
+            target="_blank"
+            class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
+          >
+            <carbon:microphone-filled text="xl" />
+            <span text="center">{{ t('landing-page.contribute.speaker') }}</span>
+          </a>
+          <a
+            href="https://github.com/somosnlp/somosnlp.org#-contribuye-al-blog"
+            target="_blank"
+            class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"
+          >
+            <carbon:document text="xl" />
+            <span text="center">{{ t('landing-page.contribute.blog') }}</span>
+          </a>
+          <a
             href="https://github.com/somosnlp"
             target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)"

@@ -35,9 +35,11 @@ landing-page:
     text: >-
       We are an open community around the globe and everything we do is 100%
       open source! Getting involed is just one mouse click away!
-    discord: Join our community on Discord!
-    github: Work with us on GitHub!
-    twitter: Follow us on Twitter!
-    linkedin: Follow us on LinkedIn!
+    discord: Join our community on Discord
+    speaker: Give a talk or workshop
+    blog: Write ar article or tutorial
+    github: Work with us on GitHub
+    twitter: Follow us on Twitter
+    linkedin: Follow us on LinkedIn
     button: Read more
 not-found: Not found
