@@ -163,7 +163,10 @@ useHead({
                 </li>
                 <li>
                     Por último, rellena este
-                    <a href="./wip" target="_blank">formulario</a> para
+                    <a
+                        href="https://kq8ietkql1m.typeform.com/to/BS6HBfy7"
+                        target="_blank"
+                    >formulario</a> para
                     presentar el proyecto.
                 </li>
             </ol>
@@ -229,9 +232,26 @@ useHead({
                 </li>
                 <li>
                     También daremos un
-                    <b>taller práctico</b> el primer día del hackathon en el cual
+                    <b>
+                        <a
+                            href="https://www.youtube.com/watch?v=_TbNgSodiPY&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
+                        >taller práctico</a>
+                    </b> el primer día del hackathon en el cual
                     crearemos una base de datos, entrenaremos un modelo y desarrollaremos una demo
                     para que tengas un ejemplo de proyecto de referencia.
+                </li>
+                <li>
+                    Organizaremos dos
+                    <b>AMAs</b> (del inglés, Ask Me Anything) con dos expertos en NLP
+                    para que puedan solucionar tus dudas.
+                </li>
+                <li>
+                    Hemos creado vídeo tutoriales explicando cómo utilizar las GPUs patrocinadas por
+                    Paperspace y cómo crear demos en Spaces: echa un vistazo a la lista de YouTube
+                    <a
+                        href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta"
+                        target="_blank"
+                    >"Tutoriales".</a>
                 </li>
                 <li>
                     Además, durante las dos semanas que dura el hackathon estaremos a tu disposición
@@ -257,6 +277,14 @@ useHead({
                     target="_blank"
                 >Twitter</a> y
                 <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a>🔥
+            </p>
+            <p>
+                ➡️ Subimos las grabaciones de todas las charlas y talleres a la lista de YouTube
+                <a
+                    href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
+                    target="_blank"
+                >Hackathon de PLN en Español</a>
+                para que las puedas ver cuando te venga bien.
             </p>
             <EventHackathonList />
 
