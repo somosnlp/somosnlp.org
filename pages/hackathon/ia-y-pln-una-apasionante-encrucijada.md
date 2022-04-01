@@ -16,5 +16,4 @@ time: 13h CET
     twitter="https://twitter.com/cris_aranda_"
     linkedin="https://www.linkedin.com/in/cristinaaranda-businessdevelopment/"
     bio="Cristina Aranda es doctora en Lingüística Teórica y Aplicada, máster en Internet Business y licenciada en Filología Hispánica. Cofundadora de MujeresTech y  cofundadora de Big Onion, un equipo de solucionadores cuya experiencia les hace capaces de activar, poner en marcha o acelerar tecnologías más nuevas, la  innovación y/o la transformación cultural de las empresas de cualquier tipo y sector siempre pensando en el impacto positivo de la tecnología en las personas."
-    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

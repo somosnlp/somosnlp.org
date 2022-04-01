@@ -19,5 +19,4 @@ time: 19h CET
     bio="Eva es Doctora en Inteligencia Artificial especializada en Procesamiento del Lenguaje Natural y en Traducción Automática en particular. 
     Ha trabajado en varios proyectos de investigación relacionados con la traducción automática tanto con motores estadísticos como basados en redes neuronales, centrándose en el estudio de los problemas derivados de trabajar con lenguas con pocos recursos, adaptación al dominio y de gestionar la información a nivel de documento.
     Actualmente trabaja como Senior Research Scientist en el equipo de Fundamental Research en NielsenIQ buscando mejoras en los diferentes modelos que tratan los datos textuales.  Además, también es profesora en el máster de Inteligencia Artificial de la UNIR."
-    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

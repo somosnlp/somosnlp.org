@@ -18,5 +18,4 @@ time: 19h CET
     linkedin="https://www.linkedin.com/in/omarsanseviero"
     github="https://github.com/osanseviero"
     bio="Omar es Ingeniero de Machine Learning con 7 años de experiencia. Trabaja en Hugging Face en el equipo Open Source democratizando el uso de ML. Anteriormente, Omar trabajó como Ingeniero de Software en Google en los equipos de Assistant y TensorFlow Graphics."
-    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

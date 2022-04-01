@@ -15,5 +15,4 @@ time: 19h CET
     name="Paulo Villegas"
     linkedin="https://linkedin.com/in/paulovn"
     bio="Experto tecnológico senior en Chief Digital Office de Telefónica. Profesor asociado en la Universidad Autónoma de Madrid. Interesado en ciencia de datos, Machine Learning, NLP e impacto de las tecnologías."
-    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

@@ -18,5 +18,4 @@ time: 18h CET
     linkedin="https://www.linkedin.com/in/manuel-romero-cs/"
     github="https://github.com/mrm8488"
     bio="Manuel tiene una “mente inquieta y un alma emprendedora”. Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con casi 300 modelos."
-    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

@@ -16,5 +16,4 @@ time: 13h CET
     twitter="https://twitter.com/XimGutierrez"
     website="https://sites.google.com/site/xgutierrezv/home"
     bio="Doctora en lingüística computacional por la UNAM, actualmente posdoctorante en la Universidad de Zürich (URPP Language and Space). Sus intereses de investigación comprenden la  lingüística cuantitativa, la morfología, el Procesamiento del Lenguaje natural multilingüe. Adicionalmente colabora en iniciativas que promuevan el desarrollo de tecnologías de lenguaje para las lenguas minorizadas habladas en México (comunidad Elotl)."
-    lista="https://somosnlp.org/hackathon#charlas-y-talleres"
 />

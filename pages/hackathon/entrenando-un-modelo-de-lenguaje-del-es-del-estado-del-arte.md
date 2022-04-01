@@ -38,7 +38,3 @@ time: 18h CET
     linkedin="https://www.linkedin.com/in/%C3%A1lvaro-barbero-jim%C3%A9nez-6056005/"
     bio="Álvaro Barbero es el Chief Data Scientist en el Instituto de Ingeniería del Conocimiento (IIC). Cuenta con titulaciones de Ingeniero Superior, Máster y Doctor en Ingeniería Informática por la UAM, con especialidad en Aprendizaje Automático. Ha sido dos veces finalista en la competición Texata Big Data Analytics World Championships, y también finalista en el hackathon de NLP de Spain AI en 2020."
 />
-
-<div class="flex justify-center">
-    <a href="https://somosnlp.org/hackathon#charlas-y-talleres" target="_blank">Más charlas y talleres</a>
-</div>

@@ -31,7 +31,3 @@ time: 18h CET
 <SpeakerSummary
     bio="Luis Espinosa-Anke y Jose Camacho-Collados son dos investigadores españoles de la Universidad de Cardiff en Gales (Reino Unido), y concretamente, Jose lidera el laboratorio de procesamiento de lenguaje natural CardiffNLP. Su investigación ha estado ligada desde sus inicios al Procesamiento del Lenguaje Natural, en particular la semántica y, en los últimos años, el análisis de redes sociales. Además del aspecto académico, tienen importantes conexiones con la industria, siendo Luis el actual responsable de aprendizaje automático de AMPLYFI, y Jose habiendo recibido una Google AI PhD Fellowship. En el ámbito de esta charla, la mayoría de los temas que se tocarán han surgido de colaboraciones con el equipo de investigación de Snap Inc. (creadores de Snapchat) en California."
 />
-
-<div class="flex justify-center">
-    <a href="https://somosnlp.org/hackathon#charlas-y-talleres" target="_blank">Más charlas y talleres</a>
-</div>
