@@ -1,23 +1,20 @@
+navbar:
+  about: About
+  blog: Blog
+  course: NLP from 0 to hero
+  hackathon: Hackathon
+  resources: Resources
+  team: Core Team
 landing-page:
   banner: Join our hackathon!
-  contribute:
-    button: Read more
-    discord: Join our community on Discord!
-    github: Work with us on GitHub!
-    heading: Get involved!
-    linkedin: Connect with us on LinkedIn!
-    text: >-
-      We are an open community around the globe and everything we do is 100%
-      open source! Getting involed is just one mouse click away!
-    twitter: Follow us on Twitter!
+  introducing: Introducing
   heading: NLP in Spanish
   heading-2: >-
     "Somos NLP 🤗" is the international network of studets, practitioners and
     researchers accelerating the advancement of NLP in Spanish. We are the
     Spanish-speaking community of the "Languages at Hugging Face" initiative. 
-  introducing: Introducing
-  join-us: Join us
   read-the-announcement: Read more about us
+  join-us: Join us
   why:
     coming-soon: Coming soon
     community: >-
@@ -33,11 +30,14 @@ landing-page:
       difficulties of other languages. Let's give our widespread (and beautiful)
       language a fair representation in the field of NLP. Our mission is to
       accelerate the advancement of NLP in Spanish by:
-navbar:
-  about: About
-  blog: Blog
-  resources: Resources
-  course: NLP from 0 to hero
-  hackathon: Hackathon
-  team: Core Team
+  contribute:
+    heading: Get involved!
+    text: >-
+      We are an open community around the globe and everything we do is 100%
+      open source! Getting involed is just one mouse click away!
+    discord: Join our community on Discord!
+    github: Work with us on GitHub!
+    twitter: Follow us on Twitter!
+    linkedin: Follow us on LinkedIn!
+    button: Read more
 not-found: Not found

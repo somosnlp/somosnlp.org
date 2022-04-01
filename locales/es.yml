@@ -1,23 +1,20 @@
+navbar:
+  about: Acerca de
+  blog: Blog
+  course: NLP de 0 a 100
+  hackathon: Hackathon
+  resources: Recursos
+  team: Equipo
 landing-page:
   banner: ¡Apúntate al Hackathon de PLN en Español!
-  contribute:
-    button: Leer más
-    discord: Únete a nuestra comunidad de Discord
-    github: Contribuye a nuestros proyectos en GitHub
-    heading: ¡Contribuye!
-    linkedin: Conecta con la comunidad en LinkedIn
-    text: >-
-      Somos una comunidad internacional y todos nuestros proyectos son open
-      source. 
-    twitter: Síguenos en Twitter
   heading: NLP en Español
   heading-2: >-
     Somos NLP 🤗 es la red internacional de estudiantes, profesionales e
     investigadores acelerando el avance del NLP en español. Somos la comunidad
     de hispanohablantes que nació de la iniciativa "Languages at Hugging Face".
   introducing: Presentamos
-  join-us: Unirme
   read-the-announcement: Leer más sobre la comunidad
+  join-us: Unirme
   why:
     coming-soon: Próximamente
     community: >-
@@ -33,11 +30,14 @@ landing-page:
       dificultades particulares de los otros idiomas. Vamos a darle a nuestro
       idioma tan extendido (y bonito) una representación justa en el ámbito del
       NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
-navbar:
-  about: Acerca de
-  blog: Blog
-  resources: Recursos
-  course: NLP de 0 a 100
-  hackathon: Hackathon
-  team: Equipo
+  contribute:
+    heading: ¡Contribuye!
+    text: >-
+      Somos una comunidad internacional y todos nuestros proyectos son open
+      source. 
+    discord: Únete a nuestra comunidad de Discord
+    github: Contribuye a nuestros proyectos en GitHub
+    twitter: Síguenos en Twitter
+    linkedin: Síguenos en LinkedIn
+    button: Leer más
 not-found: No se ha encontrado
