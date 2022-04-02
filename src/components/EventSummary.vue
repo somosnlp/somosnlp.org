@@ -4,6 +4,7 @@ defineProps<{
     poster: string
     video: string
     slides: string
+    notebook: string
     name: string
     website: string
     twitter: string
@@ -52,8 +53,13 @@ defineProps<{
                 </IconButtonLink>
             </div>
         </div>
-        <div v-if="slides" class="flex justify-end">
-            <a class="contents" :href="slides" target="_blank" rel="noreferrer">Diapositivas</a>
+        <div>
+            <div v-if="slides" class="flex justify-end">
+                <a class="contents" :href="slides" target="_blank" rel="noreferrer">Diapositivas</a>
+            </div>
+            <div v-if="notebook" class="flex justify-end">
+                <a class="contents" :href="notebook" target="_blank" rel="noreferrer">Notebook</a>
+            </div>
         </div>
     </div>
     <div class="my-8">{{ bio }}</div>
