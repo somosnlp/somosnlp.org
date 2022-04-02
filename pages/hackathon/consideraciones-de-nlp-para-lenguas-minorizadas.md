@@ -12,6 +12,7 @@ time: 13h CET
     description="El Procesamiento del Lenguaje Natural ha empezado a poner atención en la gran diversidad de lenguas que se hablan en el mundo. Lo anterior abre una ventana de posibilidades, sin embargo, también implica importantes retos tecnológicos y sociales. En esta charla abordaré algunas de las consideraciones que debemos tener en cuenta cuando desarrollamos tecnología enfocada a lenguas minorizadas, particularmente desde mi experiencia con las lenguas indígenas habladas en México."
     poster="https://somosnlp.github.io/assets/images/evento_ximena.png"
     video="https://www.youtube.com/embed/aNR7UM-E6vA"
+    slides="https://drive.google.com/file/d/1GPj9BYlov8qe2IZR0SzhwRrYZ0YW3_Ul/view"
     name="Ximena Gutierrez-Vasques"
     twitter="https://twitter.com/XimGutierrez"
     website="https://sites.google.com/site/xgutierrezv/home"
