@@ -1,6 +1,6 @@
 ---
-title: Cómo contribuir
-description: Nuestra misión es democratizar el NLP en español. 
+title: Cómo contribuir 🚀
+description: Ayúdanos a democratizar el NLP en español. 
 date: 2021-07-03T16:00:00.000+00:00
 lang: es
 duration: 12min

@@ -1,5 +1,5 @@
 ---
-title: ¡Hola, mundo! 🤗
+title: ¡Hola, mundo! 👋
 description: Somos la red internacional de hispanohablantes democratizando el NLP en español.
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
