@@ -14,6 +14,6 @@ const routes = router.getRoutes()
 
 <template>
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
-        <EventHackathonItem v-for="route in routes" :key="route.path" :route="route" />
+        <BlogItem v-for="route in routes" :key="route.path" :route="route" />
     </div>
 </template>
