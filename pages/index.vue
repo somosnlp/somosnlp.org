@@ -7,17 +7,13 @@ const showBanner = ref(true);
 </script>
 
 <template>
-  <Container
-    v-show="showBanner"
-    class="bg-accent-50 -top-1px text-accent-900 relative"
-    border="b-1 t-1 accent-100 dark:accent-600"
-    dark="bg-accent-400 text-accent-900"
-  >
-    <div
-      @click="showBanner = false"
-      class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center"
-    >
-      <router-link to="/hackathon" hover="text-accent-700">{{ t('landing-page.banner') }}</router-link>
+  <Container v-show="showBanner" class="bg-accent-50 -top-1px text-accent-900 relative"
+    border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
+    <div @click="showBanner = false"
+      class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
+      <a href="https://www.youtube.com/c/somosnlp" target="_blank" hover="text-accent-700">
+        {{ t('landing-page.banner') }}
+      </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
     </div>
   </Container>

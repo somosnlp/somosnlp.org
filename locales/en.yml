@@ -6,13 +6,14 @@ navbar:
   resources: Resources
   team: Core Team
 landing-page:
-  banner: Join our hackathon!
+  banner: Learn with us!
   introducing: Introducing
   heading: Somos NLP
   heading-2: >-
-    "Somos NLP 🤗" is the international network of students, practitioners and
-    researchers accelerating the advancement of NLP in Spanish. We are the
-    Spanish-speaking community of the "Languages at Hugging Face" initiative. 
+    We are the international network of students, practitioners and researchers
+    democratizing NLP in Spanish.
+    A Spanish-speaking community creating and sharing resources to
+    accelerate the advancement of NLP in our language.   
   read-the-announcement: Read more about us
   join-us: Join us
   why:
@@ -37,8 +38,8 @@ landing-page:
       open source! Getting involed is just one mouse click away!
     discord: Join our community on Discord
     speaker: Give a talk or workshop
-    blog: Write ar article or tutorial
-    github: Work with us on GitHub
+    blog: Write an article or tutorial
+    github: Collaborate with us on GitHub
     twitter: Follow us on Twitter
     linkedin: Follow us on LinkedIn
     button: Read more

@@ -6,12 +6,13 @@ navbar:
   resources: Recursos
   team: Equipo
 landing-page:
-  banner: ¡Apúntate al Hackathon de PLN en Español!
+  banner: ¡Fórmate con nuestro equipo!
   heading: Somos NLP
   heading-2: >-
-    Somos NLP 🤗 es la red internacional de estudiantes, profesionales e
-    investigadores acelerando el avance del NLP en español. Somos la comunidad
-    de hispanohablantes que nació de la iniciativa "Languages at Hugging Face".
+    Somos la red internacional de estudiantes, profesionales e investigadores
+    democratizando el NLP en español.
+    Una comunidad hispanohablante creando y compartiendo recursos
+    con el objetivo de acelerar el avance del NLP en nuestro idioma.
   introducing: Presentamos
   read-the-announcement: Leer más sobre la comunidad
   join-us: Unirme
