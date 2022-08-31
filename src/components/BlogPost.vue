@@ -20,11 +20,11 @@ useHead({
 <template>
     <Container class="my-12">
         <header class="m-auto text-center prose">
-            <h1>{{ frontmatter.title }}</h1>
-            <p class="text-lg">{{ frontmatter.description }}</p>
+            <h1>{{  frontmatter.title  }}</h1>
+            <p class="text-lg">{{  frontmatter.description  }}</p>
             <div class="text-lg opacity-50">
-                <span v-if="frontmatter.date">{{ d(frontmatter.date, 'long') }}</span>
-                <span v-if="frontmatter.duration">· {{ frontmatter.duration }}</span>
+                <span v-if="frontmatter.date">{{  d(frontmatter.date, 'long')  }}</span>
+                <span v-if="frontmatter.duration">· {{  frontmatter.duration  }}</span>
             </div>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
@@ -33,35 +33,19 @@ useHead({
         </article>
         <hr v-if="frontmatter.author" class="mx-auto mt-8 mb-12 prose" />
         <footer class="m-auto prose">
-            <h3 class="text-lg" v-if="frontmatter.author">{{ frontmatter.author }}</h3>
-            <p class="text-md" v-if="frontmatter.bio">{{ frontmatter.bio }}</p>
+            <h3 class="text-lg" v-if="frontmatter.author">{{  frontmatter.author  }}</h3>
+            <p class="text-md" v-if="frontmatter.bio">{{  frontmatter.bio  }}</p>
             <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
-                <IconButtonLink
-                    v-if="frontmatter.website"
-                    :url="frontmatter.website"
-                    class="contents"
-                >
+                <IconButtonLink v-if="frontmatter.website" :url="frontmatter.website" class="contents">
                     <carbon:user-avatar-filled-alt />
                 </IconButtonLink>
-                <IconButtonLink
-                    v-if="frontmatter.twitter"
-                    :url="frontmatter.twitter"
-                    class="contents"
-                >
+                <IconButtonLink v-if="frontmatter.twitter" :url="frontmatter.twitter" class="contents">
                     <carbon:logo-twitter />
                 </IconButtonLink>
-                <IconButtonLink
-                    v-if="frontmatter.linkedin"
-                    :url="frontmatter.linkedin"
-                    class="contents"
-                >
+                <IconButtonLink v-if="frontmatter.linkedin" :url="frontmatter.linkedin" class="contents">
                     <carbon:logo-linkedin />
                 </IconButtonLink>
-                <IconButtonLink
-                    v-if="frontmatter.github"
-                    :url="frontmatter.github"
-                    class="contents"
-                >
+                <IconButtonLink v-if="frontmatter.github" :url="frontmatter.github" class="contents">
                     <carbon:logo-github />
                 </IconButtonLink>
             </div>

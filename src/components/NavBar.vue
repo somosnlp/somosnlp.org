@@ -6,26 +6,15 @@ const { t } = useI18n()
     <nav class="flex gap-4 items-center justify-between select-none">
         <div class="flex gap-8 items-center">
             <Logo />
-            <router-link
-                to="/blog"
-                class="whitespace-nowrap hover:text-accent-500"
-            >{{ t('navbar.blog') }}</router-link>
-            <router-link
-                to="/recursos"
-                class="whitespace-nowrap hover:text-accent-500"
-            >{{ t('navbar.resources') }}</router-link>
-            <router-link
-                to="/nlp-de-cero-a-cien"
-                class="whitespace-nowrap hover:text-accent-500"
-            >{{ t('navbar.course') }}</router-link>
-            <router-link
-                to="/hackathon"
-                class="whitespace-nowrap hover:text-accent-500"
-            >{{ t('navbar.hackathon') }}</router-link>
-            <router-link
-                to="/core-team"
-                class="whitespace-nowrap hover:text-accent-500"
-            >{{ t('navbar.team') }}</router-link>
+            <router-link to="/blog" class="whitespace-nowrap hover:text-accent-500">{{  t('navbar.blog')  }}</router-link>
+            <router-link to="/recursos" class="whitespace-nowrap hover:text-accent-500">{{  t('navbar.resources')  }}
+            </router-link>
+            <router-link to="/nlp-de-cero-a-cien" class="whitespace-nowrap hover:text-accent-500">{{  t('navbar.course') 
+                }}</router-link>
+            <router-link to="/hackathon" class="whitespace-nowrap hover:text-accent-500">{{  t('navbar.hackathon')  }}
+            </router-link>
+            <router-link to="/core-team" class="whitespace-nowrap hover:text-accent-500">{{  t('navbar.team')  }}
+            </router-link>
             <!-- <router-link
                 to="/about"
                 class="whitespace-nowrap hover:text-accent-500"

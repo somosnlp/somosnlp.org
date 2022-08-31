@@ -4,7 +4,7 @@ import { useHead } from '@vueuse/head'
 useHead({
     meta: [
         { property: 'og:title', content: 'Hackathon de NLP en Español' },
-        { property: 'og:description', content: '¡Únete al mayor hackathon de Procesamiento del Lenguaje Natural en español!' },
+        { property: 'og:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
         { property: 'og:image', content: 'https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png' },
         { name: 'twitter:card', content: 'Hackathon de NLP en Español' },
         { name: 'twitter:creator', content: '@somosnlp_' },

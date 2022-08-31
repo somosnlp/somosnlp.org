@@ -12,7 +12,7 @@ defineProps<{
 <template>
     <div>
         <div class="grid grid-cols-2">
-            <p class="contents font-bold" :name="name">{{ name }}</p>
+            <p class="contents font-bold" :name="name">{{  name  }}</p>
             <div class="mt-2 flex flex-wrap gap-2 justify-end" text="lg">
                 <IconButtonLink v-if="website" :url="website" target="_blank" class="contents">
                     <carbon:user-avatar-filled-alt />
@@ -28,6 +28,6 @@ defineProps<{
                 </IconButtonLink>
             </div>
         </div>
-        <div class="mb-8">{{ bio }}</div>
+        <div class="mb-8">{{  bio  }}</div>
     </div>
 </template>

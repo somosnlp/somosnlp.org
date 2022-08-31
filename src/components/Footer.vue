@@ -1,9 +1,8 @@
 <template>
   <nav class="my-6 grid gap-6 place-items-center lg:grid-cols-3">
     <Logo class="col-span-full lg:justify-self-start" />
-    <div
-      class="text-sm lg:justify-self-start"
-    >© {{ (new Date()).getFullYear() }} somosnlp.org All rights reserved.</div>
+    <div class="text-sm lg:justify-self-start">© {{  (new Date()).getFullYear()  }} somosnlp.org All rights reserved.
+    </div>
     <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
       <SocialMediaButtons />
     </div>

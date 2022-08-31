@@ -16,20 +16,12 @@ defineProps<{
 </script>
 
 <template>
-    <p class="contents" :description="description">{{ description }}</p>
+    <p class="contents" :description="description">{{  description  }}</p>
 
     <div v-if="video" class="contents">
-        <iframe
-            class="mx-auto my-8"
-            width="560"
-            height="315"
-            :src="video"
-            title="YouTube video player"
-            frameborder="0"
+        <iframe class="mx-auto my-8" width="560" height="315" :src="video" title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-            gyroscope; picture-in-picture"
-            allowfullscreen
-        ></iframe>
+            gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div v-else="poster" class="flex justify-center">
         <img alt="Cartel Evento" :src="poster" />
@@ -37,7 +29,7 @@ defineProps<{
 
     <div class="grid grid-cols-2">
         <div>
-            <p class="contents" :name="name">{{ name }}</p>
+            <p class="contents" :name="name">{{  name  }}</p>
             <div class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                 <IconButtonLink v-if="website" :url="website" target="_blank" class="contents">
                     <carbon:user-avatar-filled-alt />
@@ -62,7 +54,7 @@ defineProps<{
             </div>
         </div>
     </div>
-    <div class="my-8">{{ bio }}</div>
+    <div class="my-8">{{  bio  }}</div>
     <div v-if="lista" class="flex justify-center">
         <a :href="lista" target="_blank">Más charlas y talleres</a>
     </div>
