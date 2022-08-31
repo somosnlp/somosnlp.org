@@ -26,7 +26,7 @@ const routes_notebooks = router.getRoutes()
     )
     .sort((a, b) => sort_alphabetically(a, b))
 </script>
-
+        
 <template>
     <header class="m-auto text-center prose">
         <h1>Recursos Open-Source</h1>
@@ -37,7 +37,8 @@ const routes_notebooks = router.getRoutes()
         <BlogItem v-for="route in routes_open_source" :key="route.path" :route="route" />
     </div>
     <div class="my-12 flex justify-center">
-        <img src="https://somosnlp.github.io/assets/images/undraw_education_edited.svg" width="300" height="365" />
+        <img src="https://somosnlp.github.io/assets/images/undraw_education_edited.svg" alt="Recursos" width="300"
+            height="365" />
     </div>
 
     <hr class="mx-auto mt-12 mb-12 prose" />
@@ -45,13 +46,15 @@ const routes_notebooks = router.getRoutes()
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
         <BlogItem v-for="route in routes_notebooks" :key="route.path" :route="route" />
     </div>
-    <div class="mx-auto text-center">
+    <div class="mx-auto mt-12 text-center max-w-100">
         <a href="https://youtube.com/c/somosnlp" target="_blank" class="button-accent">
             <carbon:logo-youtube />
             Vídeo Tutoriales
         </a>
     </div>
     <div class="my-12 flex justify-center">
-        <img src="undraw_video_upload_3d4u.svg" width="300" height="365" />
+        <img src="https://somosnlp.github.io/assets/images/undraw_video_upload_3d4u.svg" alt="Tutoriales" width="300"
+            height="365" />
     </div>
 </template>
+        
