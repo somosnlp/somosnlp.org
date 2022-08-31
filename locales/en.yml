@@ -16,6 +16,11 @@ landing-page:
     accelerate the advancement of NLP in our language.   
   read-the-announcement: Read more about us
   join-us: Join us
+  events:
+    upcoming-event: Upcoming event
+    join-event: Join the event!
+    recorded-events: Recorded events
+    more-events: More events
   why:
     coming-soon: Coming soon
     community: >-
