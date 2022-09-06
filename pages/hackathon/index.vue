@@ -25,9 +25,9 @@ useHead({
 
         <div class="m-auto text-center prose">
             EVENTO FINALIZADO: El hackathon 2022 ya ha finalizado, puedes ver los
-            <a href="https://hf.co/hackathon-pln-es">proyectos</a>
+            <a href="https://hf.co/hackathon-pln-es" target="_blank">proyectos</a>
             de los equipos participantes y las grabaciones de
-            <a href="https://www.youtube.com/c/SomosNLP">todas las charlas y talleres</a>.
+            <a href="https://www.youtube.com/c/SomosNLP" target="_blank">todas las charlas y talleres</a>.
             ¡Únete a la comunidad en Discord y síguenos en RRSS para participar en futuros eventos!
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
@@ -36,7 +36,7 @@ useHead({
             ¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
             <div class="flex justify-center">
                 <img src="https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png" width="650"
-                    height="365" />
+                    height="365" alt="Cartel del hackathon" />
             </div>
 
             <p>
@@ -96,7 +96,7 @@ useHead({
             <ol>
                 <li>
                     Crea una cuenta en
-                    <a href="https://huggingface.co/join">Hugging Face</a> si
+                    <a href="https://huggingface.co/join" target="_blank">Hugging Face</a> si
                     todavía no tienes una y regístrate
                     <a href="https://hackathon-pln-es.eventbrite.com/?aff=website" target="_blank">aquí</a>.
                 </li>
@@ -211,7 +211,8 @@ useHead({
                 <li>
                     También daremos un
                     <b>
-                        <a href="https://www.youtube.com/watch?v=_TbNgSodiPY&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG">taller
+                        <a href="https://www.youtube.com/watch?v=_TbNgSodiPY&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
+                            target="_blank">taller
                             práctico</a>
                     </b> el primer día del hackathon en el cual
                     crearemos una base de datos, entrenaremos un modelo y desarrollaremos una demo
