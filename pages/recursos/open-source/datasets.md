@@ -95,4 +95,4 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 
 ---
 
-¿Echas en falta alguna base de datos? Te animamos a abrir una PR [aquí](https://github.com/somosnlp/somosnlp.org/blob/main/pages/recursos/open-source/datasets.md) y contribuir a la lista 🚀
+¿Echas en falta alguna base de datos? Te animamos a **abrir una PR** [aquí](https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.md) y contribuir a la lista 🚀

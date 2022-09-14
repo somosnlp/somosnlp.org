@@ -201,4 +201,4 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 
 En esta lista solo hemos incluido modelos grandes con los que puedes hacer fine-tuning para aplicarlos a tareas específicas. La lista completa de modelos disponibles en el Hub de Hugging Face está [aquí](https://huggingface.co/models?language=es&sort=downloads).
 
-¿Echas en falta algún modelo? Te animamos a abrir una PR [aquí](https://github.com/somosnlp/somosnlp.org/blob/main/pages/recursos/open-source/modelos.md) y contribuir a la lista 🚀
+¿Echas en falta algún modelo? Te animamos a **abrir una PR** [aquí](https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/modelos.md) y contribuir a la lista 🚀
