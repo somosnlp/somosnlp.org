@@ -1,3 +1,6 @@
+jobs:
+  not_found: No se han encontrado resultados.
+  search: Buscar
 landing-page:
   banner: ¡Feliz 2023! Mira lo que hemos conseguido hasta ahora 🚀
   contribute:
@@ -47,6 +50,7 @@ navbar:
   blog: Blog
   course: NLP de 0 a 100
   hackathon: Hackathon
+  jobs: Empleo
   resources: Recursos
   team: Comunidad
 not-found: No se ha encontrado

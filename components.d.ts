@@ -3,6 +3,7 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
+    '4dd0580 (feat': crear bolsa de empleo)
     BlogItem: typeof import('./src/components/BlogItem.vue')['default']
     BlogList: typeof import('./src/components/BlogList.vue')['default']
     BlogPost: typeof import('./src/components/BlogPost.vue')['default']
@@ -47,6 +48,7 @@ declare module 'vue' {
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
     SpeakerSummary: typeof import('./src/components/SpeakerSummary.vue')['default']
     SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
+    Table: typeof import('./src/components/Table.vue')['default']
     'Tabler:externalLink': typeof import('virtual:vite-icons/tabler/external-link')['default']
     'Tabler:link': typeof import('virtual:vite-icons/tabler/link')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
