@@ -1,3 +1,6 @@
+jobs:
+  not_found: No matches found.
+  search: Search
 landing-page:
   banner: Happy 2023! Look at what we have achieved so far 🚀
   contribute:
@@ -10,7 +13,7 @@ landing-page:
     speaker: Give a talk or workshop
     text: >-
       We are an open community around the globe and everything we do is 100%
-      open source! Getting involed is just one mouse click away!
+      open source! Getting involved is just one mouse click away!
     twitter: Follow us on Twitter
   events:
     join-event: Join the event!
@@ -46,6 +49,7 @@ navbar:
   blog: Blog
   course: NLP from 0 to hero
   hackathon: Hackathon
+  jobs: Jobs
   resources: Resources
   team: Community
 not-found: Not found
