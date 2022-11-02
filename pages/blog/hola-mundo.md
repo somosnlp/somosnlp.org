@@ -5,6 +5,12 @@ date: 2021-07-01T16:00:00.000+00:00
 lang: es
 duration: 3min
 cover: https://somosnlp.github.io/assets/logo.svg
+author: María Grandury
+bio: ML Research Engineer y fundadora de Somos NLP
+website: https://mariagrandury.com
+twitter: https://twitter.com/mariagrandury
+linkedin: https://www.linkedin.com/in/mariagrandury
+github: https://github.com/mariagrandury
 ---
 
 <div class="flex justify-center">

@@ -3,7 +3,7 @@ title: Finaliza nuestro hackathon 2022
 description: El mayor hackathon open-source de NLP en español.
 date: 2022-05-03T18:00:00.000+00:00
 lang: es
-duration: 3min
+duration: 7min
 cover: https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
@@ -31,15 +31,13 @@ Antes de nada, un aplauso para [TODOS los equipos participantes](https://hf.co/h
 
 A continuación, los proyectos ganadores de la primera edición del hackatho de PLN en español de Somos NLP:
 
-💜 La mención de honor al mejor proyecto enfocado a uno de los Objetivos de Desarrollo Sostenible de la ONU fue para el proyecto [Detector de Sexismo](https://hf.co/spaces/hackathon-pln-es/Sexismdetection), desarrollado por María Isabel Limaylla, Manuel Rojas, Lucel Da Silva y Roberto Del Campo.
+💜 La mención de honor al mejor proyecto enfocado a uno de los Objetivos de Desarrollo Sostenible de la ONU fue para el proyecto [Detector de Sexismo](https://hf.co/spaces/hackathon-pln-es/Sexismdetection) por su contribución a la eliminación de comentarios sexistas, una forma de violencia de género. El proyecto fue desarrollado por María Isabel Limaylla, Manuel Rojas, Lucel Da Silva y Roberto Del Campo. 
 
-<!-- El objetivo de este proyecto es ... -->
+🥉 El tercer puesto fue para el proyecto [Neutralización de género](https://hf.co/spaces/hackathon-pln-es/es_nlp_gender_neutralizer), desarrollado por Cibeles Redondo, Javier Blasco, Fernando Velasco, Madgadela Iwona y Juan Julián Cea. Este equipo desarrolló un modelo que permite reescribir textos de manera inclusiva, una solución con un gran impacto positivo en el panorama social actual.
 
-🥉 El tercer puesto fue para el proyecto [Neutralización de género](https://hf.co/spaces/hackathon-pln-es/es_nlp_gender_neutralizer), desarrollado por Cibeles Redondo, Javier Blasco, Fernando Velasco, Madgadela Iwona y Juan Julián Cea.
+🥈 El segundo puesto fue para el proyecto [Modelo Jurídico Mexicano](https://hf.co/spaces/hackathon-pln-es/modelo-juridico-mexicano), desarrollado por Ana Gabriela Palomeque, Aurelio Vázquez, Cecilia Macías y Giovanna Madariaga, con el objetivo de promover el conocimiento jurídico y agilizar la labor de quienes imparten justicia.
 
-🥈 El segundo puesto fue para el proyecto [Modelo Jurídico Mexicano](https://hf.co/spaces/hackathon-pln-es/modelo-juridico-mexicano), desarrollado por Ana Gabriela Palomeque, Aurelio Vázquez, Cecilia Macías y Giovanna Madariaga.
-
-🥇 El proyecto ganador del hackathon fue [BiomedIA](https://hf.co/spaces/hackathon-pln-es/BioMedIA), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García.
+🥇 El proyecto ganador del hackathon fue [BiomedIA](https://hf.co/spaces/hackathon-pln-es/BioMedIA), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García. BiomedIA genera, con gran precisión, respuestas a preguntas biomédicas formuladas tanto de manera escrita como oral.
 
 *En caso de que queráis darles visibilidad a estos increíbles proyectos, os dejo el hilo del [anuncio en Twitter](https://twitter.com/SomosNLP_/status/1525165918594158595).*
 

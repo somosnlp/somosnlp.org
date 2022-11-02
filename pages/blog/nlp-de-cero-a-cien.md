@@ -3,21 +3,27 @@ title: "Presentamos: NLP de 0 a 100 con 🤗"
 description: El curso gratuito y open-source más completo de NLP en español.
 date: 2021-07-07T16:00:00.000+00:00
 lang: es
-duration: 9min
-cover: "https://somosnlp.github.io/assets/images/undraw_Graduation_re_gthn.svg"
+duration: 4min
+cover: "https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg"
+author: María Grandury
+bio: ML Research Engineer y fundadora de Somos NLP
+website: https://mariagrandury.com
+twitter: https://twitter.com/mariagrandury
+linkedin: https://www.linkedin.com/in/mariagrandury
+github: https://github.com/mariagrandury
 ---
 
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.
 
-➡️ Puedes encontrar las grabaciones de los talleres y todo el material del curso [aquí](https://somosnlp.org/nlp-de-cero-a-cien).
+➡️ Puedes encontrar tanto las grabaciones de los talleres como las diapositivas y los notebooks [aquí](https://somosnlp.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
-    <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/images/undraw_Graduation_re_gthn.svg" />
+    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" heigth="289.71" />
 </div>
 
 
 ## Calendario
-El curso está dividido en 7 sesiones que se impartirán cada dos martes a las 18h CET a partir del 13 de Julio. Dependiendo de tu nivel actual puedes unirte al curso en la sesión que quieras.
+El curso está dividido en 7 sesiones que se impartirán en directo cada dos martes a las 18h CET a partir del 13 de Julio. Dependiendo de tu nivel actual puedes unirte al curso en la sesión que quieras.
 
 - 13 Jul: Introducción al NLP y Word Embeddings
 - 27 Jul: Modelos secuenciales (RNNs y LSTMs)

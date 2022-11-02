@@ -3,8 +3,14 @@ title: Cómo contribuir 🚀
 description: Ayúdanos a democratizar el NLP en español. 
 date: 2021-07-03T16:00:00.000+00:00
 lang: es
-duration: 12min
+duration: 7min
 cover: "https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.svg"
+author: María Grandury
+bio: ML Research Engineer y fundadora de Somos NLP
+website: https://mariagrandury.com
+twitter: https://twitter.com/mariagrandury
+linkedin: https://www.linkedin.com/in/mariagrandury
+github: https://github.com/mariagrandury
 ---
 
 <div class="flex justify-center">
@@ -12,14 +18,14 @@ cover: "https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.
 </div>
 
 Nuestra misión es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español. Es un objetivo muy amplio que se puede traducir en:
+- Ofrecer formación gratuita y open-source en español
+- Promover el interés y el avance del NLP en español con hackathones y otros eventos
 - Crear bases de datos o añadir las ya existentes a 🤗 Datasets para hacerlas más accesibles
 - Entrenar/fine-tune modelos utilizando dichas bases de datos y añadirlos al 🤗 Model Hub
 - Crear tutoriales explicando cómo hacer uso de estos recursos o traducir tutoriales ya existentes
+- Dar visibilidad a los proyectos de nuestros miembros
+- Organizar grupos de estudio para aprender en comunidad y grupos donde debatir el estado del arte del NLP
 - Compartir eventos, artículos y proyectos interesantes para la comunidad
-- Organizar charlas y grupos de estudio donde debatir el estado del arte del NLP
-- Ofrecer formación en español
-- Organizar webinars en los que dar visibilidad a los proyectos de nuestros miembros
-- Promover el interés y el avance del NLP en español con hackathones y otros eventos
 
 ## Datasets
 Ahora mismo hay [7 datasets monolingües en español](https://huggingface.co/datasets?filter=languages:es,multilinguality:monolingual).
@@ -74,4 +80,6 @@ Tanto si quieres crear un tutorial desde cero como si quieres traducir uno:
 Al terminar, te animamos a abrir una [PR](https://github.com/somosnlp/somosnlp.org) para añadir el tutorial a nuestro blog.
 
 ## Eventos
-Si te interesa dar una charla (ya sea teórica o práctica) contáctanos, estaremos encantados de aprender de tu experiencia.
+Si te interesa dar una charla o taller relacionado con el NLP contáctanos, estaremos encantados de aprender de tu experiencia.
+
+➡️ **[Call for speakers](https://kq8ietkql1m.typeform.com/to/BYH9KG3f?typeform-source=localhost)**
