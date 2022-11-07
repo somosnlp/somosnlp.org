@@ -13,7 +13,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="https://www.youtube.com/c/somosnlp" target="_blank" hover="text-accent-700">
+      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
@@ -84,7 +84,7 @@ const showPastEvents = ref(true);
             src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
         </a>
       </div>
-      <a href="https://www.youtube.com/c/SomosNLP" target="_blank" class="button-accent max-w-100 mx-auto">
+      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" class="button-accent max-w-100 mx-auto">
         <span text="center">{{ t('landing-page.events.more-events') }}</span>
       </a>
     </div>

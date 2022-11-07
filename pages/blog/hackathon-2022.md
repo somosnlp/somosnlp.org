@@ -61,7 +61,7 @@ A continuación la lista de charlas y talleres y lxs grandes profesionales que l
 - *Infiriendo topics con clustering no supervisado* con **Victoriano Izquierdo**, Co-Fundador y CEO de Graphext
 - *Taller de escritura de abstracts* con **Laura N Montoya**, Presidenta de LatinX in AI, y **Javier Turek**, Senior Research Scientist en Intel Labs
 
-En nuestro canal [youtube.com/c/somosnlp](https://www.youtube.com/c/somosnlp") puedes encontrar las grabaciones de todos estos eventos.
+En nuestro canal [youtube.com/c/somosnlp?sub_confirmation=1](https://www.youtube.com/c/somosnlp?sub_confirmation=1") puedes encontrar las grabaciones de todos estos eventos.
 
 ## ¡Gracias por vuestro apoyo, patrocinadores!
 

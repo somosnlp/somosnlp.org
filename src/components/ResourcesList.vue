@@ -47,7 +47,7 @@ const routes_notebooks = router.getRoutes()
         <BlogItem v-for="route in routes_notebooks" :key="route.path" :route="route" />
     </div>
     <div class="mx-auto mt-12 text-center max-w-100">
-        <a href="https://youtube.com/c/somosnlp" target="_blank" class="button-accent">
+        <a href="https://youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" class="button-accent">
             <carbon:logo-youtube />
             Vídeo Tutoriales
         </a>
