@@ -152,18 +152,18 @@ Si usted realiza un Envío de Usuario, o si usted nos proporciona (en un correo 
 
 Si usted es un Usuario Participante y envía una entrada a una Competición ("Entrada de Competición"), entonces concede a Somos NLP la licencia anteriormente descrita, así como una licencia para mostrar, realizar y distribuir su Entrada de Competición con el propósito de hacer esa Entrada de Competición accesible al Usuario Anfitrión, haciendo esa Entrada de Competición disponible a otros usuarios de Somos NLP como un Conjunto de Datos, y proporcionando los Servicios necesarios para hacerlo. Además, usted otorga a dicho Usuario Anfitrión una licencia limitada para acceder y usar la Entrada de la Competencia únicamente con el propósito de evaluar la Entrada de la Competencia bajo las Reglas de la Competencia y como se establece en las Reglas de la Competencia. Si usted gana una Competición, su Participación en dicha Competición estará sujeta a una licencia adicional ya que los derechos de propiedad intelectual de sus Participaciones y Envíos, así como el Código que haya usado para generar los envíos para la Competición, deberán ser cedidos a Somos NLP, y al Patrocinador de la Competición o al Usuario Anfitrión. Esto únicamente aplica en el caso de que usted sea reconocido como premiado y acepte el pago del premio aplicable indicado en las Reglas de la Competición.
 
-## ¿CUÁLES SON LOS TÉRMINOS ESPECIALES DE LOS EMPLEOS SOMOS NLP?
-Estos términos se aplican a los usuarios de Somos NLP que deseen publicar un empleo en la Bolsa de Trabajo de Somos NLP. La Bolsa de empleos de Somos NLP es un servicio gratuito y quienes envían ofertas de trabajo son responsables de tales envíos como se establece en estos términos. Además, si usted publica un anuncio de trabajo en la Bolsa de Trabajo de Somos NLP está de acuerdo con lo siguiente:
+## ¿CUÁLES SON LOS TÉRMINOS ESPECIALES DE LAS OFERTAS DE EMPLEO PUBLICADAS EN SOMOS NLP?
+Estos términos se aplican a los usuarios de Somos NLP que deseen publicar una oferta en la Bolsa de Empleo de Somos NLP. La Bolsa de Empleo de Somos NLP es un servicio gratuito y quienes envían ofertas de trabajo son responsables de tales envíos como se establece en estos términos. Además, si usted publica un anuncio de trabajo en la Bolsa de Empleo de Somos NLP está de acuerdo con lo siguiente:
 
-Alcance de las ofertas de trabajo. Solo puede publicar trabajos relacionados con los campos de ciencia de datos, análisis de datos, aprendizaje automático o inteligencia artificial.
+Alcance de las ofertas de empleo. Solo puede publicar trabajos relacionados con los campos de procesamiento del lenguaje natural, lingüística, ciencia de datos, análisis de datos, aprendizaje automático o inteligencia artificial.
 
-Cumplimiento de la ley. Usted representa, garantiza y acuerda solo enviará ofertas de trabajo que:
+Cumplimiento de la ley. Usted representa, garantiza y acuerda que solo enviará ofertas de trabajo que:
 
-Cumplen con las leyes locales, nacionales e internacionales aplicables, incluidas las leyes relacionadas con el trabajo y el empleo, la igualdad de oportunidades de empleo y los requisitos de elegibilidad para el empleo, la privacidad de los datos, el acceso y el uso de los datos y la propiedad intelectual;
+Contienen información correcta, y no hay datos falsos ni engañosos;
 
-Las ofertas publicadas contienen información correcta, y no hay datos falsos ni engañosos.
+Cumplen con las leyes locales, nacionales e internacionales aplicables, incluidas las leyes relacionadas con el empleo, la igualdad de oportunidades de empleo y los requisitos de elegibilidad para el empleo, la privacidad de los datos, el acceso y el uso de los datos y la propiedad intelectual.
 
-Somos NLP puede eliminar en cualquier momento si detecta cualquier irregularidad, la oferta deja de estar vigente o Somos NLP decide por alguna otra razón que la oferta debe ser eliminada.
+Somos NLP puede eliminar la oferta en cualquier momento si detecta cualquier irregularidad, la oferta deja de estar vigente o Somos NLP decide por alguna otra razón que la oferta debe ser eliminada.
 
 ## ¿Y SI QUIERO DEJAR DE USAR SOMOS NLP?
 Si no tiene ninguna Competición activa que esté alojando, entonces es libre de dejar de usar el Servicio en cualquier momento. Si está organizando Concursos activos, debe completar los Concursos en su totalidad antes de dejar de utilizar los Servicios.

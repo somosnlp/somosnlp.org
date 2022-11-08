@@ -1,6 +1,6 @@
 ---
 title: Política de Privacidad
-description: En Somos NLP nos tomamos la privacidad muy en serio.
+description: Nos tomamos la privacidad muy en serio.
 ---
 
 ## PRIVACIDAD
