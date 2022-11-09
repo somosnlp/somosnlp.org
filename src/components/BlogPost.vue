@@ -2,6 +2,7 @@
 import { computed } from 'vue';
 import { useHead } from '@vueuse/head'
 import { useI18n } from "vue-i18n";
+import { useRoute } from 'vue-router';
 const { d } = useI18n();
 
 const { frontmatter } = defineProps<{ frontmatter: any }>()
@@ -35,6 +36,10 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
     ]
 })
+
+const route = useRoute()
+const base = 'https://somosnlp.org'
+const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeURIComponent(`¡Qué interesante este artículo de @SomosNLP_! \n\n ${base}${route.path}`)}`)
 </script>
 
 <template>
@@ -51,9 +56,17 @@ useHead({
         <article class="m-auto prose">
             <slot />
         </article>
-        <hr v-if="frontmatter.author" class="mx-auto mt-8 mb-12 prose" />
+        <hr v-if="frontmatter.author" class="mx-auto mt-8 mb-4 prose" />
         <footer class="m-auto prose">
-            <h3 class="text-lg" v-if="frontmatter.author">{{ frontmatter.author }}</h3>
+            <div class="grid grid-cols-2 items-baseline">
+                <h3 text="lg" v-if="frontmatter.author">{{ frontmatter.author }}</h3>
+                <div class="justify-self-end border-2 border-accent-400 rounded">
+                    <IconButtonLink :url="tweetUrl">
+                        <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
+                        <span class="font-medium text-sm">Compartir</span>
+                    </IconButtonLink>
+                </div>
+            </div>
             <p class="text-md" v-if="frontmatter.bio">{{ frontmatter.bio }}</p>
             <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                 <IconButtonLink v-if="frontmatter.website" :url="frontmatter.website" class="contents">

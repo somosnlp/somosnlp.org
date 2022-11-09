@@ -3,7 +3,7 @@
 
     <Logo class=" lg:justify-self-start" />
 
-    <div class="flex flex-wrap gap-2 items-center flex-wrap justify-center" text="lg">
+    <div class="flex flex-wrap gap-2 items-center justify-center" text="lg">
       <SocialMediaButtons />
     </div>
 
