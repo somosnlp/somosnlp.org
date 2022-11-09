@@ -10,7 +10,7 @@ github: https://github.com/oskrmiguel
 ---
 
 <a href="https://colab.research.google.com/github/oskrmiguel/Traductor_T5_Spanish_to_Portuguese/blob/main/T5_Espa%C3%B1ol_a_Portugues.ipynb
-" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Configuración
 Este cuaderno es una adaptación de [How to fine-tune a model on

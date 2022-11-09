@@ -21,7 +21,7 @@ duration: 61min
 
 ## Notebook
 
-<a href="https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/5_transformers_generacion_de_texto/generacion_de_texto.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/5_transformers_generacion_de_texto/generacion_de_texto.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Recursos adicionales

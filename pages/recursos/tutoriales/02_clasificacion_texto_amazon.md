@@ -10,7 +10,7 @@ github: https://github.com/lewtun
 ---
 
 <a href="https://colab.research.google.com/drive/17630ohLuzpQ3jJRp1YSb-05fcbi8STql
-" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Configuración
 

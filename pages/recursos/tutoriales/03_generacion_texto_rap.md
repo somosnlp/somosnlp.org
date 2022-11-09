@@ -10,7 +10,7 @@ linkedin: https://www.linkedin.com/in/manuel-romero-cs/
 github: https://github.com/mrm8488
 ---
 
-<a href="https://colab.research.google.com/github/nlp-en-es/nlp-de-cero-a-cien/blob/main/6_transformers_4/fine_tune_Spanish_GPT_2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/nlp-en-es/nlp-de-cero-a-cien/blob/main/6_transformers_4/fine_tune_Spanish_GPT_2.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Este notebook es una adaptación del [Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/language_modeling_from_scratch.ipynb) de Sylvain Gugger.
 

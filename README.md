@@ -26,7 +26,7 @@ jupyter nbconvert --to markdown <nombre_de_tu_notebook>.ipynb
 
 Para añadir el enlace al Colab puedes incluir al comienzo de tu artículo lo siguiente:
 ```
-<a href="<colab_url>" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<a href="<colab_url>" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 ```
 
 ### YAML header

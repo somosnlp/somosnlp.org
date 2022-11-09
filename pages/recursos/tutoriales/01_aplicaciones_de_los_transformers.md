@@ -6,7 +6,7 @@ author: Omar Sanseviero y Lewis Tunstall
 bio: Ingenieros de Machine Learning @HuggingFace
 ---
 
-<a href="https://colab.research.google.com/github/somosnlp/recursos-nlp-es/blob/main/aplicaciones_de_los_transformers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/somosnlp/recursos-nlp-es/blob/main/aplicaciones_de_los_transformers.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 En este notebook hacemos un recorrido por las aplicaciones de los Transformers. La arquitectura de los Transformers es muy versátil y permite realizar muchas tareas de PLN con sólo pequeñas modificaciones. Por esta razón se han aplicado a una amplia gama de tareas de PLN como la clasificación, el reconocimiento de entidades con nombre o la traducción.
 

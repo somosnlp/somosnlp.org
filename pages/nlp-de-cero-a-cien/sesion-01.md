@@ -34,7 +34,7 @@ En esta primera sesión el tema es Word Embeddings, un concepto fundamental del 
 
 ## Ejercicios: Word2Vec con Gensim
 
-<a href="https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/1_word_embeddings/word2vec.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/1_word_embeddings/word2vec.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 En este cuaderno de Jupyter vas a utilizar la biblioteca [Gensim](https://radimrehurek.com/gensim/index.html) para experimentar con Word2Vec. Este cuaderno está enfocado en la intuición de los conceptos y no en los detalles de implementación. Este cuaderno está inspirado en esta [guía](https://radimrehurek.com/gensim/auto_examples/tutorials/run_Word2Vec.html).
 
