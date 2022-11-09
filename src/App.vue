@@ -14,7 +14,8 @@ useHead({
     { property: 'og:title', content: 'Somos NLP - Democratizando el NLP en español' },
     { property: 'og:description', content: 'Comunidad internacional de estudiantes, profesionales y investigadores acelerando el avance del NLP en español, ¡únete!' },
     { property: 'og:image', content: 'https://somosnlp.github.io/assets/logo.png' },
-    { name: 'twitter:card', content: 'Somos NLP - Democratizando el NLP en español' },
+    { name: 'twitter:card', content: 'summary' },
+    { name: 'twitter:site', content: '@somosnlp_' },
     { name: 'twitter:creator', content: '@somosnlp_' },
   ],
 })

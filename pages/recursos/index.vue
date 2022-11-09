@@ -2,11 +2,13 @@
 import { useHead } from '@vueuse/head'
 
 useHead({
+    title: 'Somos NLP - Recursos open-source de NLP en español',
     meta: [
-        { property: 'og:title', content: 'Recursos Open-Source de NLP en Español' },
+        { property: 'og:title', content: 'Somos NLP - Recursos open-source de NLP en español' },
         { property: 'og:description', content: '¡Fórmate con el equipo de Somos NLP!' },
         { property: 'og:image', content: 'https://somosnlp.github.io/assets/logo.svg' },
-        { name: 'twitter:card', content: 'Recursos Open-Source de NLP en Español' },
+        { name: 'twitter:card', content: 'summary' },
+        { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
     ]
 })

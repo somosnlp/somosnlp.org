@@ -2,11 +2,13 @@
 import { useHead } from '@vueuse/head'
 
 useHead({
+    title: 'Hackathon Somos NLP 2022 - Democratizando el NLP en español',
     meta: [
-        { property: 'og:title', content: 'Hackathon de NLP en Español' },
+        { property: 'og:title', content: 'Hackathon Somos NLP 2022' },
         { property: 'og:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
         { property: 'og:image', content: 'https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png' },
-        { name: 'twitter:card', content: 'Hackathon de NLP en Español' },
+        { name: 'twitter:card', content: 'summary' },
+        { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
     ]
 })
@@ -27,7 +29,8 @@ useHead({
             EVENTO FINALIZADO: El hackathon 2022 ya ha finalizado, puedes ver los
             <a href="https://hf.co/hackathon-pln-es" target="_blank">proyectos</a>
             de los equipos participantes y las grabaciones de
-            <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">todas las charlas y talleres</a>.
+            <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">todas las charlas y
+                talleres</a>.
             ¡Únete a la comunidad en Discord y síguenos en RRSS para participar en futuros eventos!
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
