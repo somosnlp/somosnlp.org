@@ -1,6 +1,6 @@
 ---
 title: Example Tutorial
-description: This is an example tutorial to test the layout and syntax highlighting.
+description: This is an example tutorial to test the layout and syntax highlighting
 date: 1900-01-02T16:00:00.000+00:00
 lang: en
 duration: 7min

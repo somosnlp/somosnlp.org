@@ -29,6 +29,7 @@ declare module 'vue' {
     CoreTeamList: typeof import('./src/components/CoreTeamList.vue')['default']
     CourseSummary: typeof import('./src/components/CourseSummary.vue')['default']
     DarkThemeToggle: typeof import('./src/components/DarkThemeToggle.vue')['default']
+    EmbededYouTubeVideo: typeof import('./src/components/EmbededYouTubeVideo.md')['default']
     EventHackathonItem: typeof import('./src/components/EventHackathonItem.vue')['default']
     EventHackathonList: typeof import('./src/components/EventHackathonList.vue')['default']
     EventSummary: typeof import('./src/components/EventSummary.vue')['default']
@@ -48,6 +49,7 @@ declare module 'vue' {
     SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
+    YouTubeVideo: typeof import('./src/components/YouTubeVideo.md')['default']
   }
 }
 

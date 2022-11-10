@@ -1,6 +1,6 @@
 ---
 title: Política de Cookies
-description: Solo utilizamos Google Analytics.
+description: Solo utilizamos Google Analytics
 ---
 
 Este Portal utiliza cookies, archivos que se pueden descargar en su equipo a través de las páginas web. Son herramientas que tienen un papel esencial para la prestación de numerosos servicios de la sociedad de la información. Entre otros, permiten a una página web almacenar y recuperar información sobre los hábitos de navegación de un usuario o de su equipo y, dependiendo de la información obtenida, se pueden utilizar para reconocer al usuario y mejorar el servicio ofrecido.

@@ -1,6 +1,6 @@
 ---
 title: Example Announcement
-description: “Somos NLP 🤗” es la comunidad de hispanohablantes de la iniciativa “Languages at Hugging Face”.
+description: “Somos NLP 🤗” es la comunidad de hispanohablantes de la iniciativa “Languages at Hugging Face”
 date: 1900-01-01T16:00:00.000+00:00
 lang: es
 duration: 7min

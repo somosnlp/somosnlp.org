@@ -1,9 +1,9 @@
 ---
 title: ¡Hola, mundo! 👋
-description: Somos la red internacional de hispanohablantes democratizando el NLP en español.
+description: Somos la red internacional de hispanohablantes democratizando el NLP en español
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
-duration: 3min
+duration: 1min
 cover: https://somosnlp.github.io/assets/logo.svg
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP

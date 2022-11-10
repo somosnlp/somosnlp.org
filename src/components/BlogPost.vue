@@ -1,9 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useHead } from '@vueuse/head'
-import { useI18n } from "vue-i18n";
 import { useRoute } from 'vue-router';
-const { d } = useI18n();
 
 const { frontmatter } = defineProps<{ frontmatter: any }>()
 
@@ -46,10 +44,18 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
     <Container class="my-12">
         <header class="m-auto text-center prose">
             <h1>{{ frontmatter.title }}</h1>
-            <p class="text-lg">{{ frontmatter.description }}</p>
+            <p v-if="frontmatter.description" class="text-lg">{{ frontmatter.description }}.</p>
             <div class="text-lg opacity-50">
-                <span v-if="frontmatter.date">{{ d(frontmatter.date, 'long') }}</span>
-                <span v-if="frontmatter.duration">· {{ frontmatter.duration }}</span>
+                <span v-if="frontmatter.author">{{ frontmatter.author }}</span>
+                <span v-if="frontmatter.duration"> · {{ frontmatter.duration }}</span>
+            </div>
+            <div v-if="frontmatter.author" class="grid items-baseline">
+                <div class="justify-self-end">
+                    <IconButtonLink :url="tweetUrl">
+                        <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
+                        <span class="font-medium text-sm">Compartir</span>
+                    </IconButtonLink>
+                </div>
             </div>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
@@ -58,8 +64,8 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
         </article>
         <hr v-if="frontmatter.author" class="mx-auto mt-8 mb-4 prose" />
         <footer class="m-auto prose">
-            <div class="grid grid-cols-2 items-baseline">
-                <h3 text="lg" v-if="frontmatter.author">{{ frontmatter.author }}</h3>
+            <div v-if="frontmatter.author" class="grid grid-cols-2 items-baseline">
+                <h3 text="lg">{{ frontmatter.author }}</h3>
                 <div class="justify-self-end border-2 border-accent-400 rounded">
                     <IconButtonLink :url="tweetUrl">
                         <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />

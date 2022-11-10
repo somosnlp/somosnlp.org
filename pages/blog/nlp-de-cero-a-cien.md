@@ -1,6 +1,6 @@
 ---
 title: "Presentamos: NLP de 0 a 100 con 🤗"
-description: El curso gratuito y open-source más completo de NLP en español.
+description: El curso gratuito y open-source más completo de NLP en español
 date: 2021-07-07T16:00:00.000+00:00
 lang: es
 duration: 4min

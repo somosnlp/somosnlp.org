@@ -1,6 +1,6 @@
 ---
 title: Aviso Legal
-description: Por favor, tenga en cuenta que el uso y acceso a nuestros servicios (definidos a continuación) están sujetos a los siguientes términos. Si continúa haciendo uso o accediendo a nuestros servicios se considera que está de acuerdo con todo lo siguiente.
+description: Por favor, tenga en cuenta que el uso y acceso a nuestros servicios (definidos a continuación) están sujetos a los siguientes términos. Si continúa haciendo uso o accediendo a nuestros servicios se considera que está de acuerdo con todo lo siguiente
 ---
 
 Le damos la bienvenida a Somos NLP. Por favor, siga leyendo para conocer las reglas y restricciones que rigen el uso de nuestro(s) sitio(s) web, productos, servicios y aplicaciones (los "Servicios"). Si tiene alguna pregunta, comentario o inquietud con respecto a estos Términos o los Servicios, por favor contáctenos. Estos Términos de Uso (los "Términos") son un contrato vinculante entre usted y Somos NLP ("Somos NLP", "nosotros" y "nos"). Debe estar de acuerdo y aceptar todos los Términos, para poder usar los Servicios. El uso de los Servicios de cualquier manera significa que está de acuerdo con todos estos Términos, y estos Términos permanecerán en efecto mientras use los Servicios. Estas Condiciones incluyen las disposiciones de este documento. En estos Términos, las palabras "incluye" o "incluyendo" significan "incluyendo pero sin limitarse a", y los ejemplos son para fines ilustrativos y no limitantes.
