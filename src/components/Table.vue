@@ -63,12 +63,15 @@ function capitalize(str) {
         <tbody>
             <tr v-for="entry in filteredData">
                 <td v-for="key in columns" class="min-w-120px px-15px py-20px bg-accent-50 dark: bg-accent-400">
-                    {{entry[key]}}
+                    <a v-if="key === 'más'" :href="entry['más']" target="_blank">
+                        <tabler:external-link class="inline align-middle mr-2 text-lg" />
+                    </a>
+                    <p v-else>{{ entry[key] }}</p>
                 </td>
             </tr>
         </tbody>
     </table>
-    <p v-else>{{ t('jobs.not_found')}}</p>
+    <p v-else>{{ t('jobs.not_found') }}</p>
 </template>
     
 <style>

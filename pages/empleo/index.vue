@@ -10,13 +10,14 @@ useHead({
         { property: 'og:title', content: 'Bolsa de Empleo NLP' },
         { property: 'og:description', content: 'Ofertas de empleo e investigación en el ámbito del PLN.' },
         { property: 'og:image', content: 'https://somosnlp.github.io/assets/logo.svg' },
-        { name: 'twitter:card', content: 'Bolsa de Empleo NLP' },
+        { name: 'twitter:card', content: 'summary' },
+        { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
     ]
 })
 
 const searchQuery = ref('')
-const gridColumns = ['título', 'contrato', 'institución', 'nº trabajadores/as', 'localización', 'fecha', 'descripción']
+const gridColumns = ['título', 'contrato', 'institución', 'nº trabajadores/as', 'localización', 'fecha', 'más']
 
 const somos_nlp_data_scientist = {
     título: 'Data Scientist',
@@ -25,7 +26,7 @@ const somos_nlp_data_scientist = {
     "nº trabajadores/as": '0 - 9',
     localización: 'Remoto 100%',
     fecha: '2022/09/09',
-    descripción: 'somosnlp.org'
+    más: 'https://somosnlp.org'
 }
 
 const somos_nlp_nlp_engineer = {
@@ -35,7 +36,7 @@ const somos_nlp_nlp_engineer = {
     "nº trabajadores/as": '10 - 49',
     localización: 'Presencial Madrid',
     fecha: '2022/10/01',
-    descripción: 'somosnlp.org'
+    más: 'https://somosnlp.org/blog'
 }
 
 const somos_nlp_volunteer = {
@@ -45,7 +46,7 @@ const somos_nlp_volunteer = {
     "nº trabajadores/as": 'Más de 250',
     localización: 'Híbrido Alicante',
     fecha: '2022/07/01',
-    descripción: 'somosnlp.org'
+    más: 'https://somosnlp.org/hackathon'
 }
 
 const gridData = [
@@ -64,7 +65,7 @@ const gridData = [
             </p>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
-        <div class="m-auto text-center grid">
+        <div class="m-auto text-center grid px-10">
             <form id="search">
                 {{ t('jobs.search') }} <input name="query" v-model="searchQuery"
                     class="border-accent-200 border-2px rounded-sm outline-transparent bg-transparent">
