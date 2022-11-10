@@ -1,9 +1,9 @@
 ---
 title: Finaliza nuestro hackathon 2022
-description: El mayor hackathon open-source de NLP en español.
+description: El mayor hackathon open-source de NLP en español con más de 500 participantes y 5000 visualizaciones de los eventos
 date: 2022-05-03T18:00:00.000+00:00
 lang: es
-duration: 7min
+duration: 6min
 cover: https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP

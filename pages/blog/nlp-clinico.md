@@ -1,6 +1,6 @@
 ---
 title: Campañas de evaluación de NLP Clínico
-description: "Objetivo: desarrollar sistemas de calidad y facilitar el acceso a datos reales."
+description: "Objetivo: desarrollar sistemas de calidad y facilitar el acceso a datos reales"
 date: 2022-04-20T16:00:00.000+00:00
 lang: es
 duration: 4min

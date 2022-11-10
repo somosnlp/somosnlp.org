@@ -1,9 +1,9 @@
 ---
 title: Cómo contribuir 🚀
-description: Ayúdanos a democratizar el NLP en español. 
+description: Ayúdanos a democratizar el NLP en español
 date: 2021-07-03T16:00:00.000+00:00
 lang: es
-duration: 7min
+duration: 3min
 cover: "https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP

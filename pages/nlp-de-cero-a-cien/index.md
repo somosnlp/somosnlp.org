@@ -1,6 +1,6 @@
 ---
 title: "Curso Práctico: NLP de 0 a 100"
-description: Índice del curso con enlaces a grabaciones, diapositivas, notebooks y recursos adicionales.
+description: Índice del curso con enlaces a grabaciones, diapositivas, notebooks y recursos adicionales
 lang: es
 ---
 
