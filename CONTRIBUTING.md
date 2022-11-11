@@ -8,6 +8,8 @@ Aquí te explicamos cómo:
 
 Gracias por compartir con la comunidad tu conocimiento y experiencia, ¡contribuir a nuestro blog es muy fácil!
 
+Si no tienes GitHub, mándanos el artículo por correo a info@somosnlp.org. Si tienes GitHub:
+
 1. Escribe tu artículo o tutorial en un archivo markdown `.md`
 2. Incluye los metadatos como el título o tu nombre en el YAML header (ejemplo a continuación)
 3. Abre una PR para añadir tu artículo a `./pages/blog`
