@@ -18,6 +18,7 @@ const showPastEvents = ref(true);
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
     </div>
+    <p>Hello</p>
   </Container>
   <Container class="bg-gray-white dark:bg-dark-900">
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
@@ -84,7 +85,8 @@ const showPastEvents = ref(true);
             src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
         </a>
       </div>
-      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" class="button-accent max-w-100 mx-auto">
+      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank"
+        class="button-accent max-w-100 mx-auto">
         <span text="center">{{ t('landing-page.events.more-events') }}</span>
       </a>
     </div>
