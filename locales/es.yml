@@ -1,26 +1,32 @@
-navbar:
-  about: Acerca de
-  blog: Blog
-  course: NLP de 0 a 100
-  hackathon: Hackathon
-  resources: Recursos
-  team: Equipo
 landing-page:
   banner: ¡Fórmate con nuestro equipo!
-  introducing: Presentamos
+  contribute:
+    blog: Escribe un artículo o un tutorial
+    button: Leer más
+    discord: Únete a nuestra comunidad de Discord
+    github: Contribuye a nuestros proyectos en GitHub
+    heading: ¡Contribuye!
+    linkedin: Síguenos en LinkedIn
+    speaker: Comparte tu experiencia dando una charla o taller
+    text: >-
+      Somos una comunidad internacional y todos nuestros proyectos son open
+      source. 
+    twitter: Síguenos en Twitter
+  events:
+    join-event: ¡Me interesa!
+    more-events: Grabaciones de eventos
+    recorded-events: Eventos anteriores
+    upcoming-events: Próximos eventos
+    watch-recordings: Ver grabaciones
   heading: Somos NLP
   heading-2: >-
     Somos la red internacional de estudiantes, profesionales e investigadores
     democratizando el NLP en español. Una comunidad hispanohablante creando y
     compartiendo recursos con el objetivo de acelerar el avance del NLP en
     nuestro idioma.
-  read-the-announcement: Leer más sobre la comunidad
+  introducing: Presentamos
   join-us: Unirme
-  events:
-    join-event: ¡Me interesa!
-    more-events: Más eventos
-    recorded-events: Eventos anteriores
-    upcoming-event: Próximo evento
+  read-the-announcement: Leer más sobre la comunidad
   why:
     coming-soon: Próximamente
     community: >-
@@ -30,23 +36,18 @@ landing-page:
       Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
       el estado del arte del NLP en español.
     heading: Más de 570M de hispanohablantes
-    jobs: Proporcionando oportunidades profesionales relacionadas con el NLP
+    jobs: Conectando talento con empresas y grupos de investigación.
     text: >-
       La investigación en NLP está centrada en el inglés y descuida las
       dificultades particulares de los otros idiomas. Vamos a darle a nuestro
       idioma tan extendido (y bonito) una representación justa en el ámbito del
       NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
-  contribute:
-    heading: ¡Contribuye!
-    text: >-
-      Somos una comunidad internacional y todos nuestros proyectos son open
-      source. 
-    discord: Únete a nuestra comunidad de Discord
-    speaker: Comparte tu experiencia dando una charla o taller
-    blog: Escribe un artículo o un tutorial
-    github: Contribuye a nuestros proyectos en GitHub
-    twitter: Síguenos en Twitter
-    linkedin: Síguenos en LinkedIn
-    button: Leer más
+navbar:
+  about: Acerca de
+  blog: Blog
+  course: NLP de 0 a 100
+  hackathon: Hackathon
+  resources: Recursos
+  team: Equipo
 not-found: No se ha encontrado
 wip: Este enlace pronto te redirigirá a donde querías, estamos en ello

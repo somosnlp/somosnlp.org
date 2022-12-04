@@ -4,7 +4,7 @@ import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
 const showBanner = ref(true);
-const showUpcomingEvent = ref(false);
+const showUpcomingEvent = ref(true);
 const showPastEvents = ref(true);
 </script>
 
@@ -46,46 +46,14 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <h1 class="flex flex-col mb-6 gap-1">
         <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-            t('landing-page.events.upcoming-event')
+            t('landing-page.events.upcoming-events')
         }}</span>
-        <span class="font-medium tracking-tighter text-3xl">{{ "Cuantización de LLMs" }}</span>
       </h1>
-      <!-- Convert image to WebP -->
-      <img class="mx-auto my-8" alt="Upcoming event"
-        src="https://somosnlp.github.io/assets/images/evento_23_03_encrucijada.png" />
-      <router-link to="/events/cuantizacion-de-llms" class="button-accent max-w-100 mx-auto">
+      <img class="mx-auto my-8" alt="Upcoming events"
+        src="https://somosnlp.github.io/assets/images/eventos/2212XX_proyectos_ganadores_hackathon_lista.jpg" />
+      <a target="_blank" class="button-accent max-w-100 mx-auto"
+        href="https://www.eventbrite.com/cc/proyectos-ganadores-del-hackathon-ods-2022-1424269">
         {{ t('landing-page.events.join-event') }}
-      </router-link>
-    </div>
-  </Container>
-  <Container v-if="showPastEvents" class="bg-gray-50 dark:bg-dark-700">
-    <div class="mx-auto my-8 text-center lg:max-w-1/2">
-      <h1 class="flex flex-col mb-6 gap-1">
-        <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-            t('landing-page.events.recorded-events')
-        }}</span>
-      </h1>
-      <!-- Convert images to WebP -->
-      <div class="grid grid-cols-2 gap-8 my-12">
-        <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw" target="_blank">
-          <img alt="Recorded event 01" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_iic.png" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o" target="_blank">
-          <img alt="Recorded event 02" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_cristina.png" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=UQwWTykNFW0" target="_blank">
-          <img alt="Recorded event 03" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA" target="_blank">
-          <img alt="Recorded event 04" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
-        </a>
-      </div>
-      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" class="button-accent max-w-100 mx-auto">
-        <span text="center">{{ t('landing-page.events.more-events') }}</span>
       </a>
     </div>
   </Container>
@@ -119,7 +87,38 @@ const showPastEvents = ref(true);
       <img src="https://somosnlp.github.io/assets/images/undraw_Traveling_re_weve.svg" alt="Comunidad internacional" />
     </div>
   </Container>
-  <Container class="bg-gray-50 dark:bg-dark-700">
+  <Container v-if="showPastEvents" class="bg-gray-50 dark:bg-dark-700">
+    <div class="mx-auto my-8 text-center lg:max-w-1/2">
+      <h1 class="flex flex-col mb-6 gap-1">
+        <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
+            t('landing-page.events.recorded-events')
+        }}</span>
+      </h1>
+      <div class="grid grid-cols-2 gap-8 my-12">
+        <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw" target="_blank">
+          <img alt="Recorded event 01" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_iic.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o" target="_blank">
+          <img alt="Recorded event 02" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_cristina.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=UQwWTykNFW0" target="_blank">
+          <img alt="Recorded event 03" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA" target="_blank">
+          <img alt="Recorded event 04" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+      </div>
+      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank"
+        class="button-accent max-w-100 mx-auto">
+        <span text="center">{{ t('landing-page.events.watch-recordings') }}</span>
+      </a>
+    </div>
+  </Container>
+  <Container class="bg-gray-white dark:bg-dark-900">
     <div class="my-16">
       <h2 class="font-medium text-center mb-6 tracking-wider text-4xl">{{ t('landing-page.contribute.heading') }}</h2>
       <p class="mx-auto text-lg text-center max-w-65ch opacity-75">{{ t('landing-page.contribute.text') }}</p>
