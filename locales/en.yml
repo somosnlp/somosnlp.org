@@ -1,26 +1,31 @@
-navbar:
-  about: About
-  blog: Blog
-  course: NLP from 0 to hero
-  hackathon: Hackathon
-  resources: Resources
-  team: Core Team
 landing-page:
   banner: Learn with us!
-  introducing: Introducing
+  contribute:
+    blog: Write an article or tutorial
+    button: Read more
+    discord: Join our community on Discord
+    github: Collaborate with us on GitHub
+    heading: Get involved!
+    linkedin: Follow us on LinkedIn
+    speaker: Give a talk or workshop
+    text: >-
+      We are an open community around the globe and everything we do is 100%
+      open source! Getting involed is just one mouse click away!
+    twitter: Follow us on Twitter
+  events:
+    join-event: Join the event!
+    more-events: Recorded events
+    recorded-events: Recorded events
+    upcoming-events: Upcoming events
+    watch-recordings: Watch recordings
   heading: Somos NLP
   heading-2: >-
     We are the international network of students, practitioners and researchers
-    democratizing NLP in Spanish.
-    A Spanish-speaking community creating and sharing resources to
-    accelerate the advancement of NLP in our language.   
-  read-the-announcement: Read more about us
+    democratizing NLP in Spanish. A Spanish-speaking community creating and
+    sharing resources to accelerate the advancement of NLP in our language.   
+  introducing: Introducing
   join-us: Join us
-  events:
-    upcoming-event: Upcoming event
-    join-event: Join the event!
-    recorded-events: Recorded events
-    more-events: More events
+  read-the-announcement: Read more about us
   why:
     coming-soon: Coming soon
     community: >-
@@ -30,23 +35,18 @@ landing-page:
       Creating tutorials, organize talks & workshops and discuss the state of
       the art of NLP in Spanish.
     heading: More than 570M Spanish speakers
-    jobs: Providing a marketplace for NLP jobs in Spanish
+    jobs: Providing a marketplace for NLP jobs in Spanish.
     text: >-
       NLP research is focused on English and neglects the particular
       difficulties of other languages. Let's give our widespread (and beautiful)
       language a fair representation in the field of NLP. Our mission is to
       accelerate the advancement of NLP in Spanish by:
-  contribute:
-    heading: Get involved!
-    text: >-
-      We are an open community around the globe and everything we do is 100%
-      open source! Getting involed is just one mouse click away!
-    discord: Join our community on Discord
-    speaker: Give a talk or workshop
-    blog: Write an article or tutorial
-    github: Collaborate with us on GitHub
-    twitter: Follow us on Twitter
-    linkedin: Follow us on LinkedIn
-    button: Read more
+navbar:
+  about: About
+  blog: Blog
+  course: NLP from 0 to hero
+  hackathon: Hackathon
+  resources: Resources
+  team: Core Team
 not-found: Not found
 wip: We are working on it
