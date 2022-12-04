@@ -37,13 +37,15 @@ A continuación, los proyectos ganadores de la primera edición del hackatho de 
 
 🥈 El segundo puesto fue para el proyecto [Modelo Jurídico Mexicano](https://hf.co/spaces/hackathon-pln-es/modelo-juridico-mexicano), desarrollado por Ana Gabriela Palomeque, Aurelio Vázquez, Cecilia Macías y Giovanna Madariaga, con el objetivo de promover el conocimiento jurídico y agilizar la labor de quienes imparten justicia.
 
-🥇 El proyecto ganador del hackathon fue [BiomedIA](https://hf.co/spaces/hackathon-pln-es/BioMedIA), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García. BiomedIA genera, con gran precisión, respuestas a preguntas biomédicas formuladas tanto de manera escrita como oral.
+🥇 El proyecto ganador del hackathon fue [BiomedIA](https://hf.co/spaces/hackathon-pln-es/BioMedIA), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García. BiomedIA genera, con gran precisión, respuestas a preguntas biomédicas formuladas tanto de manera escrita como oral. Además, BiomedIA ganó la mención de honor al proyecto más querido por la comunidad al conseguir el mayor número de likes en el hub de Hugging Face.
 
 *En caso de que queráis darles visibilidad a estos increíbles proyectos, os dejo el hilo del [anuncio en Twitter](https://twitter.com/SomosNLP_/status/1525165918594158595).*
 
+¿Os preguntáis cómo desarrollaron los equipos estos proyectos? ¡No os perdáis la serie de talleres de [Proyectos Ganadores del Hackathon ODS 2022](https://www.eventbrite.com/cc/proyectos-premiados-del-hackathon-enfocado-a-ods-1424269)!
+
 ## ¡Gracias por compartir vuestro conocimiento, ponentes!
 
-Además de la creación de bases de datos y de modelos open-source, durante el hackathon también invitamos a expertxs del mundo del NLP para que compartieran su conocimiento y experiencia con toda la comunidad.
+Además de la creación de bases de datos y de modelos open-source, durante el hackathon también invitamos a expertxs del mundo del NLP para que compartieran su conocimiento y experiencia con toda la comunidad. 
 
 A continuación la lista de charlas y talleres y lxs grandes profesionales que las impartieron (por fecha):
 
@@ -61,7 +63,7 @@ A continuación la lista de charlas y talleres y lxs grandes profesionales que l
 - *Infiriendo topics con clustering no supervisado* con **Victoriano Izquierdo**, Co-Fundador y CEO de Graphext
 - *Taller de escritura de abstracts* con **Laura N Montoya**, Presidenta de LatinX in AI, y **Javier Turek**, Senior Research Scientist en Intel Labs
 
-En nuestro canal [youtube.com/c/somosnlp?sub_confirmation=1](https://www.youtube.com/c/somosnlp?sub_confirmation=1") puedes encontrar las grabaciones de todos estos eventos.
+En nuestro canal [youtube.com/c/somosnlp?sub_confirmation=1](https://www.youtube.com/c/somosnlp?sub_confirmation=1") puedes encontrar las grabaciones de todos estos eventos. ¡Ya tienen más de 5000 visualizaciones!
 
 ## ¡Gracias por vuestro apoyo, patrocinadores!
 
