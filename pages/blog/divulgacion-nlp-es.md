@@ -4,7 +4,7 @@ description: Iniciativas que contribuyen a avanzar el estado del arte del NLP en
 date: 2022-10-30T18:00:00.000+00:00
 lang: es
 duration: 4min
-cover: https://github.com/somosnlp/assets/raw/main/images/undraw_education_edited.svg
+cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_Graduation_re_gthn.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com
