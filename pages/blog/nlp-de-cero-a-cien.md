@@ -18,7 +18,7 @@ Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP 
 ➡️ Puedes encontrar tanto las grabaciones de los talleres como las diapositivas y los notebooks [aquí](https://somosnlp.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" heigth="289.71" />
+    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" height="289.71" />
 </div>
 
 
@@ -39,7 +39,7 @@ Cada sesión durará 30 minutos y habrá 10 minutos extra dedicados a resolver d
 
 - Subimos las grabaciones a esta [playlist de YouTube](https://www.youtube.com/playlist?list=PLBILcz47fTtPspj9QDm2E0oHLe1p67tMz).
 - En nuestro [repositorio de GitHub](https://github.com/somosnlp/nlp-de-cero-a-cien) puedes consultar todo el material del curso y recursos extra.
-- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuesta comunidad de Slack. Actualización: ahora estamos en [Discord](https://discord.com/invite/my8w7JUxZR), seguimos respondiendo tus dudas en el canal #ayuda.
+- Puedes preguntar tus dudas en el canal #nlp-de-cero-a-cien de nuestra comunidad de Slack. Actualización: ahora estamos en [Discord](https://discord.com/invite/my8w7JUxZR), seguimos respondiendo tus dudas en el canal #ayuda.
 
 ## Formadores
 Por orden alfabético:

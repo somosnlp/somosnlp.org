@@ -18,28 +18,28 @@ La mayoría de campañas de NLP Clínico se llevan a cabo con datos en inglés. 
 
 Este año (2022), tenemos 4 campañas de evaluación de NLP Clínico en español en marcha y, ¡en todas ellas el proceso de registro está abierto! Os dejo aquí una pequeña descripción y el enlace a la web de cada una de ellas:
 
-- **[LivingNER](https://temu.bsc.es/livingner/)**. La correcta detección de especies (patógenos, alimentos, animales, etc) en los informes médicos puede servir para aplicaciones tan diversas como la clasificación de alergias alimentarias o la detección de enfermedades nosocomiales. LivingNER pide a los participantes que creen sistemas para (1) reconocer menciones de especies; (2) normalizarlas a [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy); y (3) detectar menciones relacionadas con animales de compañia, ataques de animales, alimentación e infecciones nosocomiales. Esto lo harán gracias a un corpus anotado manualmente por expertos clínicos.
+- **[LivingNER](https://temu.bsc.es/livingner/)**. La correcta detección de especies (patógenos, alimentos, animales, etc) en los informes médicos puede servir para aplicaciones tan diversas como la clasificación de alergias alimentarias o la detección de enfermedades nosocomiales. LivingNER pide a los participantes que creen sistemas para (1) reconocer menciones de especies; (2) normalizarlas a [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy); y (3) detectar menciones relacionadas con animales de compañía, ataques de animales, alimentación e infecciones nosocomiales. Esto lo harán gracias a un corpus anotado manualmente por expertos clínicos.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/livingner.png" alt="LivingNER Task overview" width="500" heigth="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/blog/livingner.png" alt="LivingNER Task overview" width="500" height="289.71"/>
 </div>
 
 - **[DISTEMIST](https://temu.bsc.es/distemist/)**. Es evidente que las menciones de enfermedades son una pieza central dentro de toda la información contenida en los informes médicos. Sin embargo, DISTEMIST es la primera campaña enfocada específicamente en la detección y normalización de enfermedades en documentos clínicos en castellano. Los participantes deberán reconocer menciones de enfermedades y asignar a cada una de ellas un concepto de la terminología [Snomed-CT](https://www.snomed.org/). De nuevo, tienen a su disposición un corpus de documentos clínicos anotado manualmente por expertos.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/distemist.png" alt="DISTEMIST Task overview" width="500" heigth="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/blog/distemist.png" alt="DISTEMIST Task overview" width="500" height="289.71"/>
 </div>
 
 - **[SocialDisNER](https://temu.bsc.es/socialdisner/)**. Su objetivo es el desarrollo de sistemas que permitan estructurar la información de redes sociales para comprender mejor la percepción social de enfermedades de alta prevalencia, como cáncer y diabetes, y diagnósticos más complejos como la fibromialgia y los trastornos mentales. Para ello, los participantes crearán sistemas que permitan reconocer menciones de enfermedades en tweets escritos en español utilizando un corpus anotado manualmente por expertos médicos que incluye lenguaje informal y profesional.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/socialdisner.png" alt="SocialDisNER Task overview" width="500" heigth="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/blog/socialdisner.png" alt="SocialDisNER Task overview" width="500" height="289.71"/>
 </div>
 
 - **[ClinSpEn](https://temu.bsc.es/clinspen/)**. Este año, los participantes en la tarea de traducción automática [WMT](https://machinetranslate.org/wmt) disponen de datos específicos para la traducción automática de recursos biomédicos en castellano. En concreto, hay planeada una tarea de traducción de casos clínicos, otra centrada en términos extraídos de informes médicos y una última sobre conceptos de ontologías biomédicas. 
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/clinspen.png" alt="ClinSpEn Task overview" width="500" heigth="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/blog/clinspen.png" alt="ClinSpEn Task overview" width="500" height="289.71"/>
 </div>
 
 *Estas 4 actividades han sido financiadas por el [Plan de Tecnologías del Lenguaje](https://plantl.mineco.gob.es/Paginas/index.aspx).*

@@ -59,7 +59,7 @@ Los blogs también son una muy buena manera de divulgar conocimiento y rara es l
 
 
 ## 🚀 Curso
-Obviamente no puedo hablar de divulgación y formación gratuita sin mencionar el curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien). Está dividido en 7 sesiones que comienzan con una introdución al NLP y los Word Embeddings y explican todo lo necesario para terminar en el último capítulo con la creación una demo de tu modelo con arquitectura Transformer en un Space de Hugging Face. El curso es gratuito, fue organizado por Somos NLP en colaboración con Spain AI e impartido por Omar Sanseviero y Lewis Tunstall, Ingenieros de ML @Hugging Face, Manuel Romero, Ingeniero de NLP @Narrativa, y por mí.
+Obviamente no puedo hablar de divulgación y formación gratuita sin mencionar el curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien). Está dividido en 7 sesiones que comienzan con una introducción al NLP y los Word Embeddings y explican todo lo necesario para terminar en el último capítulo con la creación una demo de tu modelo con arquitectura Transformer en un Space de Hugging Face. El curso es gratuito, fue organizado por Somos NLP en colaboración con Spain AI e impartido por Omar Sanseviero y Lewis Tunstall, Ingenieros de ML @Hugging Face, Manuel Romero, Ingeniero de NLP @Narrativa, y por mí.
 
 
 ## 📚 Grupo de estudio
