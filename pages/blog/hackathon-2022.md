@@ -47,27 +47,31 @@ A continuación, los proyectos ganadores de la primera edición del hackathon de
 
 Además de la creación de bases de datos y de modelos open-source, durante el hackathon también invitamos a expertxs del mundo del NLP para que compartieran su conocimiento y experiencia con toda la comunidad. 
 
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="500" height="289.71"  />
+</div>
+
 A continuación la lista de charlas y talleres y lxs grandes profesionales que las impartieron (por fecha):
 
-- *Un recorrido por el ecosistema de Hugging Face* con **Manuel Romero**, NLP Engineer en Narrativa y el mayor contribuidor del Hub de Hugging Face
-- *Análisis de errores en modelos del lenguaje* con **Omar Sanseviero**, Ingeniero de ML en Hugging Face
-- *Ask Me Anything (AMA)* con **Manuel Romero**, Ingeniero de NLP en Narrativa y mayor contribuidor al Hub de Hugging Face
-- *Entrenando un modelo del lenguaje del estado del arte* con parte del equipo del Instituto de Ingeniería del Conocimiento que desarrolló RigoBERTa: **Alejandro Vaca** (Data Scientist), **Helena Montoro** (Lingüista Computacional), **Nuria Aldama** (Lingüista Computacional) y **Álvaro Barbero** (Chief Data Scientist)
-- *Modelos del lenguaje para redes sociales*, por **Jose Camacho Collados** y **Luis Espinosa-Anke**, Investigadores en PLN de la Universidad de Cardiff
-- *Inteligencia Artificial y Procesamiento del Lenguaje Natural, una interesante encrucijada*, por **Cristina Aranda**, Co-Fundadora de Big Onion y Mujeres Tech y Dra. en  Lingüística Teórica y Aplicada
-- *Muestreo de datos para entrenamiento de modelos de NLP* con **Paulo Villegas**, Experto tecnológico senior en Chief Digital Office de Telefónica, Profesor asociado en la Universidad Autónoma de Madrid y co-autor del paper de BERTIN
-- *Ask Me Anything (AMA)* con **Lewis Tunstall**, Ingeniero de ML en Hugging Face y co-autor del libro "Natural Language Processing with Transformers"
-- *Traducción automática: introducción y retos actuales*, por **Eva Martínez García**, Senior Research Scientist en NielsenIQ y Profesora en el Máster de IA de la UNIR
-- *Etiquetado de datos para PLN* con **Daniel Vila**, Co-Fundador y CEO de Recognai
-- *Consideraciones de NLP para lenguas minorizadas*, por **Ximena Gutierrez-Vasques**, Investigadora de Post-doctorado de la Universidad de Zurich y Lingüista Computacional 
-- *Infiriendo topics con clustering no supervisado* con **Victoriano Izquierdo**, Co-Fundador y CEO de Graphext
-- *Taller de escritura de abstracts* con **Laura N Montoya**, Presidenta de LatinX in AI, y **Javier Turek**, Senior Research Scientist en Intel Labs
+- "Un recorrido por el ecosistema de Hugging Face" con **Manuel Romero**, NLP Engineer en Narrativa y el mayor contribuidor del Hub de Hugging Face
+- "Análisis de errores en modelos del lenguaje" con **Omar Sanseviero**, Ingeniero de ML en Hugging Face
+- "Ask Me Anything (AMA)" con **Manuel Romero**, Ingeniero de NLP en Narrativa y mayor contribuidor al Hub de Hugging Face
+- "Entrenando un modelo del lenguaje del estado del arte" con parte del equipo del Instituto de Ingeniería del Conocimiento que desarrolló RigoBERTa: **Alejandro Vaca** (Data Scientist), **Helena Montoro** (Lingüista Computacional), **Nuria Aldama** (Lingüista Computacional) y **Álvaro Barbero** (Chief Data Scientist)
+- "Modelos del lenguaje para redes sociales", por **Jose Camacho Collados** y **Luis Espinosa-Anke**, Investigadores en PLN de la Universidad de Cardiff
+- "Inteligencia Artificial y Procesamiento del Lenguaje Natural, una interesante encrucijada*, por **Cristina Aranda**, Co-Fundadora de Big Onion y Mujeres Tech y Dra. en  Lingüística Teórica y Aplicada
+- "Muestreo de datos para entrenamiento de modelos de NLP" con **Paulo Villegas**, Experto tecnológico senior en Chief Digital Office de Telefónica, Profesor asociado en la Universidad Autónoma de Madrid y co-autor del paper de BERTIN
+- "Ask Me Anything (AMA)" con **Lewis Tunstall**, Ingeniero de ML en Hugging Face y co-autor del libro "Natural Language Processing with Transformers"
+- "Traducción automática: introducción y retos actuales", por **Eva Martínez García**, Senior Research Scientist en NielsenIQ y Profesora en el Máster de IA de la UNIR
+- "Etiquetado de datos para PLN" con **Daniel Vila**, Co-Fundador y CEO de Recognai
+- "Consideraciones de NLP para lenguas minorizadas", por **Ximena Gutierrez-Vasques**, Investigadora de Post-doctorado de la Universidad de Zurich y Lingüista Computacional 
+- "Infiriendo topics con clustering no supervisado" con **Victoriano Izquierdo**, Co-Fundador y CEO de Graphext
+- "Taller de escritura de abstracts" con **Laura N Montoya**, Presidenta de LatinX in AI, y **Javier Turek**, Senior Research Scientist en Intel Labs
 
 En nuestro canal [youtube.com/c/somosnlp](https://www.youtube.com/c/somosnlp?sub_confirmation=1") puedes encontrar las grabaciones de todos estos eventos. ¡Ya tienen más de 5000 visualizaciones!
 
 ## ¡Gracias por vuestro apoyo, patrocinadores!
 
-Gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. Agradecer especialmente la ayuda de nuestros tres patrocinadores de oro: [Paperspace](https://www.paperspace.com/) nos facilitó las GPUs en las que los equipos entrenaron sus modelos, [Platzi](https://platzi.com/) proporcionó becas de su plataforma de formación online como premio y [Hugging Face](https://huggingface.co/) diseñó el swag que regalamos a todas las personas participantes.
+Gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. Agradecer especialmente la ayuda de nuestros tres patrocinadores de oro: **Paperspace** nos facilitó las GPUs en las que los equipos entrenaron sus modelos, **Platzi** proporcionó becas de su plataforma de formación online como premio y **Hugging Face** diseñó el swag que regalamos a todas las personas participantes.
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/patrocinios_todos.jpg" alt="Patrocinadores del Hackathon 2022" width="500" height="289.71"/>
