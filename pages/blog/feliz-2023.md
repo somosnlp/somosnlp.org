@@ -3,7 +3,7 @@ title: ¡A por el 2023!
 description: De dónde venimos y a dónde vamos
 date: 2023-01-03T16:00:00.000+00:00
 lang: es
-duration: 3min
+duration: 4min
 cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_gifts_re_97j6.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
@@ -21,23 +21,37 @@ Hemos crecido hasta ser una increíble comunidad internacional de casi 900 miemb
 
 En 2022 organizamos el **mayor hackathon open-source de NLP en español**. Nos juntamos más de 500 personas de 29 países para crear bases de datos y entrenar modelos de NLP enfocados a los Objetivos de Desarrollo Sostenible. Los resultados fueron espectaculares.
 
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes" width="500" height="289.71"/>
+</div>
+
 Algunos de los proyectos han dado lugar a papers, como es el caso de "BiomedIA" y el "Evaluador de Legibilidad de Textos", y otros se siguen utilizando a día de hoy, como es el caso del "Modelo Jurídico Mexicano" en la Suprema Corte de Justicia de la Nación. También se crearon bases de datos de calidad como el corpus paralelo español-náhuatl o modelos de gran impacto social como el "Neutralizador de Género" y el "Detector de Sexismo".
 
 Además, durante los días que se celebró el hackathon tuvimos la suerte de contar con 17 especialistas del mundo del NLP que compartieron su experiencia con la comunidad.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes" width="500" height="289.71"/>
+    <a href="https://www.youtube.com/@somosnlp" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="500" height="289.71"  />
+    </a>
 </div>
 
 A finales del 2022 lanzamos un nuevo tipo de eventos: **"Proyectos de la comunidad"**, con el objetivo de dar visibilidad a proyectos desarrollados por miembros de Somos NLP. Los primeros protagonistas de esta serie fueron un equipo de Omdena Mexico y los equipos ganadores del hackathon que nos explicaron la motivación, retos y desarrollo de sus interesantes proyectos.
 
+<div class="flex justify-center">
+    <a href="https://www.eventbrite.com/o/somos-nlp-42049489323#collections" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/eventos/2212XX_proyectos_ganadores_hackathon_lista.jpg" alt="Proyectos de la comunidad" width="500" height="289.71"  />
+    </a>
+</div>
+
 En el 2021 ya habíamos creado, con el apoyo de Spain AI, el curso **"NLP de 0 a 100"**, un curso open-source gratuito para comprender los conceptos y arquitecturas clave del NLP y su aplicación a casos prácticos utilizando el ecosistema de Hugging Face. ¡Las grabaciones de las sesiones ya tienen más de 20.000 visualizaciones!
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" height="289.71" />
+    <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="NLP de 0 a 100" width="500" height="289.71" />
+    </a>
 </div>
 
-Así, con estas iniciativas y las de otras organizaciones, estamos consiguiendo darle más visibilidad e importancia al NLP en nuestro idioma. Cuantifiquemos este logro: cuando creé el grupo de Slack del que surgió Somos NLP, había **259** modelos en español en el hub de Hugging Face. A día 3 de enero de 2023 hay [1000 modelos](https://huggingface.co/models?language=es). Hace menos de 2 años había **7** bases de datos monolingües en español y hoy hay [64 bases de datos](https://huggingface.co/datasets?language=language:es&multilinguality=multilinguality:monolingual), 23 de las cuales fueron creadas durante el hackathon.
+Así, con estas iniciativas y las de otras organizaciones, estamos consiguiendo darle más visibilidad e importancia al NLP en nuestro idioma. Cuantifiquemos este logro: cuando creé el grupo de Slack del que surgió Somos NLP, había 259 modelos en español en el hub de Hugging Face. A día 3 de enero de 2023 hay [1000 modelos](https://huggingface.co/models?language=es). Hace menos de 2 años había 7 bases de datos monolingües en español y hoy hay [64 bases de datos](https://huggingface.co/datasets?language=language:es&multilinguality=multilinguality:monolingual), 23 de las cuales fueron creadas para el hackathon.
 
 Nos merecemos un muuuy fuerte aplauso 👏👏👏
 
