@@ -13,7 +13,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" hover="text-accent-700">
+      <a href="blog/feliz-2023" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
@@ -23,7 +23,7 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <div class="flex flex-col mb-6 gap-1">
         <p class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-            t('landing-page.introducing')
+          t('landing-page.introducing')
         }}</p>
         <h1 class="font-medium tracking-tighter text-3xl">{{ t('landing-page.heading') }}</h1>
       </div>
@@ -46,7 +46,7 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <h1 class="flex flex-col mb-6 gap-1">
         <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-            t('landing-page.events.upcoming-events')
+          t('landing-page.events.upcoming-events')
         }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Upcoming events"
@@ -91,7 +91,7 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <h1 class="flex flex-col mb-6 gap-1">
         <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-            t('landing-page.events.recorded-events')
+          t('landing-page.events.recorded-events')
         }}</span>
       </h1>
       <div class="grid grid-cols-2 gap-8 my-12">
