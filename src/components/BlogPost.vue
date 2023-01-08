@@ -88,6 +88,13 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
                     <carbon:logo-github />
                 </IconButtonLink>
             </div>
+            <hr class="mt-8 mb-12" />
+            <div class="text-md text-center">
+                <a target="_blank"
+                    href="https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog">
+                    ¿Te gustaría publicar en nuestro blog?
+                </a>
+            </div>
         </footer>
     </Container>
 </template>
