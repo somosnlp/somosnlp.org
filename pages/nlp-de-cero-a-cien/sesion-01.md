@@ -2,7 +2,8 @@
 title: "Sesión 1: Introducción al NLP y Word Embeddings"
 date: 2021-07-13T16:00:00.000+00:00
 lang: es
-duration: 42min
+duration: 43min
+author: Omar Sanseviero
 ---
 
 <div>
@@ -131,4 +132,4 @@ model.most_similar(positive=["Mexico", "burger"], negative=["USA"], topn=1)
 
 ---
 
-Siguiente sesión: [Modelos Secuenciales (RNNs y LSTMs)](/nlp-de-cero-a-cien/sesion-02)
+➡️ Siguiente sesión: [Modelos Secuenciales (RNNs y LSTMs)](/nlp-de-cero-a-cien/sesion-02)

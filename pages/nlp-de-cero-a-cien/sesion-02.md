@@ -3,6 +3,7 @@ title: "Sesión 2: Modelos Secuenciales (RNNs y LSTMs)"
 date: 2021-07-27T16:00:00.000+00:00
 lang: es
 duration: 40min
+author: María Grandury
 ---
 
 <div>
@@ -35,4 +36,4 @@ duration: 40min
 
 ---
 
-Siguiente sesión: [Arquitectura Transformer](/nlp-de-cero-a-cien/sesion-03)
+➡️ Siguiente sesión: [Arquitectura Transformer](/nlp-de-cero-a-cien/sesion-03)
