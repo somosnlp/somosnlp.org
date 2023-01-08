@@ -3,11 +3,12 @@ title: "Sesión 5: Transformers y Generación de Texto"
 date: 2021-09-07T16:00:00.000+00:00
 lang: es
 duration: 61min
+author: Lewis Tunstall
 ---
 
 <div>
     <CourseSummary
-        description="Esta semana nos vamos a centrar en una aplicación muy interesante de los Transformers : la generación de texto. Vamos a ver cómo generar un chiste o un párrafo de El Quijote con las librerías de Hugging Face."
+        description="Esta semana nos vamos a centrar en una aplicación muy interesante de los Transformers: la generación de texto. Vamos a ver cómo generar un chiste o un párrafo de El Quijote con las librerías de Hugging Face."
         video="https://www.youtube.com/embed/IPJCFALWJcs"
         slides="https://github.com/somosnlp/nlp-de-cero-a-cien/blob/main/5_transformers_generacion_de_texto/decoders_y_generacion_de_texto.pdf"
         name="Lewis Tunstall"
@@ -38,4 +39,4 @@ duration: 61min
 
 ---
 
-Siguiente sesión: [Transformers y Modelado del Lenguaje](/nlp-de-cero-a-cien/sesion-06)
+➡️ Siguiente sesión: [Transformers y Modelado del Lenguaje](/nlp-de-cero-a-cien/sesion-06)

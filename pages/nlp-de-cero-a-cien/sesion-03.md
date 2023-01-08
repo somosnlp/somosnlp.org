@@ -3,6 +3,7 @@ title: "Sesión 3: Arquitectura Transformer"
 date: 2021-08-10T16:00:00.000+00:00
 lang: es
 duration: 32min
+author: María Grandury
 ---
 
 <div>
@@ -27,4 +28,4 @@ duration: 32min
 
 ---
 
-Siguiente sesión: [Transformers y Aprendizaje por Transferencia](/nlp-de-cero-a-cien/sesion-04)
+➡️ Siguiente sesión: [Transformers y Aprendizaje por Transferencia](/nlp-de-cero-a-cien/sesion-04)

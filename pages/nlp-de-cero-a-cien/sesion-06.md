@@ -3,6 +3,7 @@ title: "Sesión 6: Transformers y Modelado del Lenguaje"
 date: 2021-09-21T16:00:00.000+00:00
 lang: es
 duration: 61min
+author: Manuel Romero
 ---
 
 <div>
@@ -24,4 +25,4 @@ duration: 61min
 
 ---
 
-Siguiente sesión: [NLP en Producción con FastAPI](/nlp-de-cero-a-cien/sesion-07)
+➡️ Siguiente sesión: [NLP en Producción con 🤗 Spaces](/nlp-de-cero-a-cien/sesion-07)

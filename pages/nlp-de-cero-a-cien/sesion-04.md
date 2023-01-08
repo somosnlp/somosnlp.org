@@ -3,6 +3,7 @@ title: "Sesión 4: Transformers y Aprendizaje por Transferencia"
 date: 2021-08-24T16:00:00.000+00:00
 lang: es
 duration: 66min
+author: Lewis Tunstall
 ---
 
 <div>
@@ -38,4 +39,4 @@ duration: 66min
 
 ---
 
-Siguiente sesión: [Transformers y Generación de Texto](/nlp-de-cero-a-cien/sesion-05)
+➡️ Siguiente sesión: [Transformers y Generación de Texto](/nlp-de-cero-a-cien/sesion-05)

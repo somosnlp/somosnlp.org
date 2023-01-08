@@ -47,6 +47,8 @@ declare module 'vue' {
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
     SpeakerSummary: typeof import('./src/components/SpeakerSummary.vue')['default']
     SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
+    'Tabler:externalLink': typeof import('virtual:vite-icons/tabler/external-link')['default']
+    'Tabler:link': typeof import('virtual:vite-icons/tabler/link')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
     YouTubeVideo: typeof import('./src/components/YouTubeVideo.md')['default']

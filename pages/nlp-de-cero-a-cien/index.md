@@ -28,3 +28,21 @@ En esta página encontrarás los enlaces a las grabaciones, diapositivas, notebo
 
 * [Repositorio de GitHub](https://github.com/somosnlp/nlp-de-cero-a-cien)
 * [Canal de Discord #ayuda](https://discord.com/invite/my8w7JUxZR)
+
+---
+
+## Equipo*
+
+[María Grandury](https://www.linkedin.com/in/mariagrandury):
+María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad Somos NLP con el objetivo de acelerar el avance del NLP en español.
+
+[Manuel Romero](https://www.linkedin.com/in/manuel-romero-cs/):
+Manuel tiene una "mente inquieta y un alma emprendedora". Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con más de 200 modelos.
+
+[Omar Sanseviero](https://www.linkedin.com/in/omarsanseviero/):
+Omar es un Ingeniero de Machine Learning con 7 años de experiencia en la industria de la tecnología. Actualmente trabaja en Hugging Face en el equipo de open-source democratizando el uso de Machine Learning. Previamente, Omar trabajó como Ingeniero de Software en Google en Suiza en el equipo de Assistant. Omar es un apasionado de la educación y co-fundó AI Learners, una comunidad de personas que buscan aprender y discutir temas sobre Inteligencia Artificial y sus diferentes aplicaciones.
+
+[Lewis Tunstall](https://www.linkedin.com/in/lewis-tunstall/):
+Lewis es Ingeniero de Machine Learning en el equipo de open-source de Hugging Face. Tiene varios años de experiencia construyendo aplicaciones de Machine Learning para startups y empresas en los dominios de NLP, análisis de datos topológicos y series temporales. Tiene un doctorado en física teórica y ha ocupado puestos de investigación en Australia, Estados Unidos y Suiza. Su trabajo actual se centra en el desarrollo de herramientas para la comunidad de NLP y en la formación de las personas para que las utilicen de forma eficaz.
+
+**Por orden alfabético. Biografías correspondientes al momento en que se implementó el curso.*
