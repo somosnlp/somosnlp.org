@@ -11,11 +11,12 @@ const { t } = useI18n()
             <router-link to="/blog" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.blog') }}</router-link>
             <router-link to="/recursos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.resources') }}
             </router-link>
-            <router-link to="/nlp-de-cero-a-cien" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.course')
+            <router-link to="/nlp-de-cero-a-cien" class="whitespace-nowrap hover:text-accent-500">{{
+                t('navbar.course')
             }}</router-link>
             <router-link to="/hackathon" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.hackathon') }}
             </router-link>
-            <router-link to="/core-team" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.team') }}
+            <router-link to="/comunidad" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.team') }}
             </router-link>
         </div>
         <div class="flex gap-4 items-center">
