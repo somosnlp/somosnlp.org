@@ -3,6 +3,9 @@ import { computed } from 'vue';
 import { useHead } from '@vueuse/head'
 import { useRoute } from 'vue-router';
 
+import { useI18n } from 'vue-i18n';
+const { d } = useI18n();
+
 const { frontmatter } = defineProps<{ frontmatter: any }>()
 
 useHead({
@@ -47,6 +50,7 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
             <p v-if="frontmatter.description" class="text-lg">{{ frontmatter.description }}.</p>
             <div class="text-lg opacity-50">
                 <span v-if="frontmatter.author">{{ frontmatter.author }}</span>
+                <span v-if="frontmatter.date"> · {{ d(frontmatter.date, "short") }}</span>
                 <span v-if="frontmatter.duration"> · {{ frontmatter.duration }}</span>
             </div>
             <div v-if="frontmatter.author" class="grid items-baseline">
