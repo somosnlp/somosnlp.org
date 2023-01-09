@@ -21,19 +21,19 @@ export const install: UserModule = ({ app }) => {
     datetimeFormats: {
       'en': {
         long: {
-          weekday: "long",
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric',
-        }
+          weekday: "long", year: 'numeric', month: 'long', day: 'numeric',
+        },
+        short: {
+          year: 'numeric', month: 'short', day: 'numeric'
+        },
       },
       'es': {
         long: {
-          weekday: "long",
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric',
-        }
+          weekday: "long", year: 'numeric', month: 'long', day: 'numeric',
+        },
+        short: {
+          year: 'numeric', month: 'short', day: 'numeric'
+        },
       }
     },
   })
