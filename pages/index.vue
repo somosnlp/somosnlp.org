@@ -79,8 +79,10 @@ const showPastEvents = ref(true);
           </div>
           <div>
             {{ t('landing-page.why.jobs') }}
-            <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
-              border="2 accent-300">{{ t('landing-page.why.coming-soon') }}</span>
+            <a href="empleo">
+              <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+                border="2 accent-300">{{ t('landing-page.why.new-job-board') }}</span>
+            </a>
           </div>
         </div>
       </div>

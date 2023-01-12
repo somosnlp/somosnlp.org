@@ -17,35 +17,38 @@ useHead({
 })
 
 const searchQuery = ref('')
-const gridColumns = ['título', 'contrato', 'institución', 'nº trabajadores/as', 'localización', 'fecha', 'más']
+const gridColumns = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación', 'más']
 
 const somos_nlp_data_scientist = {
-    título: 'Data Scientist',
+    ocupación: 'Data Scientist',
+    "palabras clave": 'traducción',
     contrato: 'T. Completo',
-    institución: 'Somos NLP',
+    entidad: 'Somos NLP',
     "nº trabajadores/as": '0 - 9',
     localización: 'Remoto 100%',
-    fecha: '2022/09/09',
+    "fecha publicación": '2022/09/09',
     más: 'https://somosnlp.org'
 }
 
 const somos_nlp_nlp_engineer = {
-    título: 'NLP Engineer',
+    ocupación: 'NLP Engineer',
+    "palabras clave": 'traducción',
     contrato: 'T. Parcial',
-    institución: 'Somos NLP',
+    entidad: 'Somos NLP',
     "nº trabajadores/as": '10 - 49',
     localización: 'Presencial Madrid',
-    fecha: '2022/10/01',
+    "fecha publicación": '2022/10/01',
     más: 'https://somosnlp.org/blog'
 }
 
 const somos_nlp_volunteer = {
-    título: 'Volunteer',
+    ocupación: 'Volunteer',
+    "palabras clave": 'traducción',
     contrato: 'Prácticas',
-    institución: 'Somos NLP',
+    entidad: 'Somos NLP',
     "nº trabajadores/as": 'Más de 250',
     localización: 'Híbrido Alicante',
-    fecha: '2022/07/01',
+    "fecha publicación": '2022/07/01',
     más: 'https://somosnlp.org/hackathon'
 }
 
@@ -80,17 +83,17 @@ const gridData = [
                 ¿Estás buscando talento y quieres que aparezca aquí tu oferta de empleo?
             </p>
             <p class="m-auto text-center prose text-lg">
-                Rellena
-                <a class="contents" href="https://forms.gle/H4LenjP1FGWgE6r4A" target="_blank">este
+                <a class="contents" href="https://forms.gle/H4LenjP1FGWgE6r4A" target="_blank">Rellena este
                     formulario</a>.
             </p>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
             <p class="m-auto text-center prose text-sm">
-                Esta bolsa de empleo sigue en proceso de desarrollo, agradecemos feedback en forma de
+                Acabamos de publicar esta bolsa de empleo,
+                agradecemos feedback y sugerencias en forma de
                 <a class="contents" href="https://github.com/somosnlp/somosnlp.org" target="_blank">issues</a>
-                o por email a mariagrandury@gmail.com.
+                o por email a info@somosnlp.org.
             </p>
         </div>
     </Container>
