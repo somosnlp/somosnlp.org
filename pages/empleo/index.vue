@@ -47,14 +47,5 @@ useHead({
                     formulario</a>.
             </p>
         </div>
-        <hr class="mx-auto mt-8 mb-12 prose" />
-        <div>
-            <p class="m-auto text-center prose text-sm">
-                Acabamos de publicar esta bolsa de empleo,
-                agradecemos feedback y sugerencias en forma de
-                <a class="contents" href="https://github.com/somosnlp/somosnlp.org" target="_blank">issues</a>
-                o por email a info@somosnlp.org.
-            </p>
-        </div>
     </Container>
 </template>

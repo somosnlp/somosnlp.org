@@ -1,5 +1,6 @@
 jobs:
-  not_found: No se han encontrado resultados.
+  not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
+  follow_us: Anunciamos cada nueva oferta en RRSS, ¡síguenos!
   search: Buscar
 landing-page:
   banner: ¡Feliz 2023! Mira lo que hemos conseguido hasta ahora 🚀
