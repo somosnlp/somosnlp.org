@@ -3,7 +3,6 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
-    '4dd0580 (feat': crear bolsa de empleo)
     BlogItem: typeof import('./src/components/BlogItem.vue')['default']
     BlogList: typeof import('./src/components/BlogList.vue')['default']
     BlogPost: typeof import('./src/components/BlogPost.vue')['default']
