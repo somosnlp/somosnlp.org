@@ -2,8 +2,10 @@
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { useHead } from '@vueuse/head'
+import { columnas, ofertas } from './ofertas'
 
 const { t } = useI18n()
+const searchQuery = ref('')
 
 useHead({
     meta: [
@@ -15,48 +17,6 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
     ]
 })
-
-const searchQuery = ref('')
-const gridColumns = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación', 'más']
-
-const somos_nlp_data_scientist = {
-    ocupación: 'Data Scientist',
-    "palabras clave": 'traducción',
-    contrato: 'T. Completo',
-    entidad: 'Somos NLP',
-    "nº trabajadores/as": '0 - 9',
-    localización: 'Remoto 100%',
-    "fecha publicación": '2022/09/09',
-    más: 'https://somosnlp.org'
-}
-
-const somos_nlp_nlp_engineer = {
-    ocupación: 'NLP Engineer',
-    "palabras clave": 'traducción',
-    contrato: 'T. Parcial',
-    entidad: 'Somos NLP',
-    "nº trabajadores/as": '10 - 49',
-    localización: 'Presencial Madrid',
-    "fecha publicación": '2022/10/01',
-    más: 'https://somosnlp.org/blog'
-}
-
-const somos_nlp_volunteer = {
-    ocupación: 'Volunteer',
-    "palabras clave": 'traducción',
-    contrato: 'Prácticas',
-    entidad: 'Somos NLP',
-    "nº trabajadores/as": 'Más de 250',
-    localización: 'Híbrido Alicante',
-    "fecha publicación": '2022/07/01',
-    más: 'https://somosnlp.org/hackathon'
-}
-
-const gridData = [
-    somos_nlp_data_scientist,
-    somos_nlp_nlp_engineer,
-    somos_nlp_volunteer,
-]
 </script>
     
 <template>
@@ -74,7 +34,7 @@ const gridData = [
                     class="border-accent-200 border-2px rounded-sm outline-transparent bg-transparent">
             </form>
             <br />
-            <Table :data="gridData" :columns="gridColumns" :filter-key="searchQuery">
+            <Table :data="ofertas" :columns="columnas" :filter-key="searchQuery">
             </Table>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
