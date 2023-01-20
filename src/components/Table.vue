@@ -49,7 +49,7 @@ function capitalize(str) {
     
 <template>
     <table v-if="filteredData.length"
-        class="border-solid border-2 rounded-3px bg-accent-500 border-accent-500 dark: border-accent-500">
+        class="text-md border-solid border-2 rounded-3px bg-accent-500 border-accent-500 dark: border-accent-500">
         <thead>
             <tr>
                 <th v-for="key in columns" @click="sortBy(key)" :class="{ active: sortKey == key }"
@@ -71,7 +71,10 @@ function capitalize(str) {
             </tr>
         </tbody>
     </table>
-    <p v-else>{{ t('jobs.not_found') }}</p>
+    <div v-else>
+        <p>{{ t('jobs.not_found') }}</p>
+        <p>{{ t('jobs.follow_us') }}</p>
+    </div>
 </template>
     
 <style>
