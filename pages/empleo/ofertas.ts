@@ -97,6 +97,17 @@ const bsc_deep_learning_engineer_speech_re2 = {
     más: 'https://www.bsc.es/join-us/job-opportunities/3323lstmre2'
 }
 
+const nymiz_mle_nlp = {
+    ocupación: 'Machine Learning Engineer in NLP',
+    "palabras clave": 'Startup, Python, REST API, AWS',
+    contrato: 'T.Completo',
+    entidad: 'Nymiz',
+    "nº trabajadores/as": '10 - 49',
+    localización: 'Remoto 100% (Hay oficinas en Bilbao)',
+    "fecha publicación (fecha límite)": '2023/01/25 (2023/02/26)',
+    más: 'https://www.linkedin.com/jobs/view/3451013224/'
+}
+
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
@@ -109,4 +120,5 @@ export const ofertas = [
     bsc_deep_learning_engineer_language_re1,
     bsc_deep_learning_engineer_speech_re1,
     bsc_deep_learning_engineer_speech_re2,
+    nymiz_mle_nlp,
 ]
