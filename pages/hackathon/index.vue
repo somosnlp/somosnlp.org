@@ -6,7 +6,7 @@ useHead({
     meta: [
         { property: 'og:title', content: 'Hackathon Somos NLP 2022' },
         { property: 'og:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { property: 'og:image', content: 'https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png' },
+        { property: 'og:image', content: 'https://somosnlp.github.io/assets/images/hackathon_pln_es_3.png' },
         { name: 'twitter:card', content: 'summary' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
