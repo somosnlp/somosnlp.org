@@ -30,7 +30,7 @@ useHead({
             content: computed(
                 () => frontmatter.cover
                     ? frontmatter.cover
-                    : 'https://somosnlp.github.io/assets/logo.png')
+                    : 'https://github.com/somosnlp/assets/raw/main/logo.png')
         },
         { name: 'twitter:card', content: 'summary' },
         { name: 'twitter:site', content: '@somosnlp_' },
