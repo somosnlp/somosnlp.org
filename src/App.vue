@@ -9,14 +9,15 @@ useHead({
   meta: [
     {
       name: 'description', content: 'Comunidad internacional de estudiantes, profesionales y investigadores acelerando el avance del NLP en español, ¡únete!'
-
     },
-    { property: 'og:title', content: 'Somos NLP - Democratizando el NLP en español' },
-    { property: 'og:description', content: 'Comunidad internacional de estudiantes, profesionales y investigadores acelerando el avance del NLP en español, ¡únete!' },
-    { property: 'og:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+    { name: 'keywords', content: 'NLP, PLN, español, divulgación, IA' },
     { name: 'twitter:card', content: 'summary' },
     { name: 'twitter:site', content: '@somosnlp_' },
     { name: 'twitter:creator', content: '@somosnlp_' },
+    { name: 'twitter:title', content: 'Somos NLP - Democratizando el NLP en español' },
+    { name: 'twitter:description', content: 'Comunidad internacional de estudiantes, profesionales y investigadores acelerando el avance del NLP en español, ¡únete!' },
+    { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+    { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
   ],
 })
 </script>

@@ -11,30 +11,31 @@ const { frontmatter } = defineProps<{ frontmatter: any }>()
 useHead({
     title: 'Somos NLP - Democratizando el NLP en español',
     meta: [
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:site', content: '@somosnlp_' },
+        { name: 'twitter:creator', content: '@somosnlp_' },
         {
-            property: 'og:title',
+            name: 'twitter:title',
             content: computed(
                 () => frontmatter.title
                     ? frontmatter.title
                     : 'Somos NLP - Democratizando el NLP en español')
         },
         {
-            property: 'og:description',
+            name: 'twitter:description',
             content: computed(
                 () => frontmatter.description
                     ? frontmatter.description
                     : '¡Mira que artículo tan interesante!')
         },
         {
-            property: 'og:image',
+            name: 'twitter:image',
             content: computed(
                 () => frontmatter.cover
                     ? frontmatter.cover
-                    : 'https://github.com/somosnlp/assets/raw/main/logo.png')
+                    : 'https://somosnlp.github.io/assets/logo.png')
         },
-        { name: 'twitter:card', content: 'summary' },
-        { name: 'twitter:site', content: '@somosnlp_' },
-        { name: 'twitter:creator', content: '@somosnlp_' },
+        { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
     ]
 })
 
