@@ -9,12 +9,13 @@ const searchQuery = ref('')
 
 useHead({
     meta: [
-        { property: 'og:title', content: 'Bolsa de Empleo NLP' },
-        { property: 'og:description', content: 'Ofertas de empleo e investigación en el ámbito del PLN.' },
-        { property: 'og:image', content: 'https://somosnlp.github.io/assets/logo.png' },
         { name: 'twitter:card', content: 'summary' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
+        { name: 'twitter:title', content: 'Bolsa de Empleo NLP' },
+        { name: 'twitter:description', content: 'Ofertas de empleo e investigación en el ámbito del PLN.' },
+        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+        { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
     ]
 })
 </script>
