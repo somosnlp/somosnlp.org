@@ -1,6 +1,6 @@
 ---
 title: La comunidad
-description: Personas y organizaciones que nos apoyan en nuestra misión, ¡únete!
+description: Las casi 1000 personas que forman nuestra comunidad son super importantes. Aquí te presentamos al core team y las organizaciones que nos apoyan en nuestra misión, ¡únete!
 ---
 
 <CoreTeamList />

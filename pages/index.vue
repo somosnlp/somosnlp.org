@@ -4,7 +4,7 @@ import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
 const showBanner = ref(true);
-const showUpcomingEvent = ref(true);
+const showUpcomingEvent = ref(false);
 const showPastEvents = ref(true);
 </script>
 
@@ -35,7 +35,7 @@ const showPastEvents = ref(true);
           <carbon:user-multiple />
           {{ t('landing-page.join-us') }}
         </a>
-        <router-link to="/blog/hola-mundo" class="button-gray">
+        <router-link to="/nuestra-mision" class="button-gray">
           <carbon:bullhorn />
           {{ t('landing-page.read-the-announcement') }}
         </router-link>
@@ -97,25 +97,32 @@ const showPastEvents = ref(true);
         }}</span>
       </h1>
       <div class="grid grid-cols-2 gap-8 my-12">
-        <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw" target="_blank">
-          <img alt="Recorded event 01" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_iic.png" />
+        <a href="https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">
+          <img alt="Evento 01" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/eventos/221208_modelo_juridico_mexicano.jpg" />
         </a>
-        <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o" target="_blank">
-          <img alt="Recorded event 02" width="650" height="365"
+        <a href="https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">
+          <img alt="Evento 02" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/eventos/221213_neutralizacion_de_genero.jpg" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 03" width="650" height="365" src="https://somosnlp.github.io/assets/images/evento_iic.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 04" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/evento_cristina.png" />
         </a>
-        <a href="https://www.youtube.com/watch?v=UQwWTykNFW0" target="_blank">
-          <img alt="Recorded event 03" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
+        <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 05" width="650" height="365" src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
         </a>
-        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA" target="_blank">
-          <img alt="Recorded event 04" width="650" height="365"
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 06" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
         </a>
       </div>
       <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank"
         class="button-accent max-w-100 mx-auto">
+        <carbon:logo-youtube text="xl" />
         <span text="center">{{ t('landing-page.events.watch-recordings') }}</span>
       </a>
     </div>
@@ -158,7 +165,7 @@ const showPastEvents = ref(true);
             <carbon:logo-linkedin text="xl" />
             <span text="center">{{ t('landing-page.contribute.linkedin') }}</span>
           </a>
-          <router-link to="/blog/como-contribuir" class="col-span-full button-accent max-w-100 mx-auto">
+          <router-link to="/nuestra-mision" class="col-span-full button-accent max-w-100 mx-auto">
             <carbon:binoculars />
             {{ t('landing-page.contribute.button') }}
           </router-link>

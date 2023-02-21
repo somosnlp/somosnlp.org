@@ -1,12 +1,12 @@
 jobs:
-  not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   follow_us: Anunciamos cada nueva oferta en RRSS, ¡síguenos!
+  not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   search: Buscar
 landing-page:
-  banner: ¡Feliz 2023! Mira lo que hemos conseguido hasta ahora 🚀
+  banner: ¡Hola! Mira lo que hemos conseguido hasta ahora 🚀
   contribute:
     blog: Escribe un artículo o un tutorial
-    button: Leer más
+    button: Más ideas
     discord: Únete a nuestra comunidad de Discord
     github: Contribuye a nuestros proyectos en GitHub
     heading: ¡Contribuye!
@@ -21,7 +21,7 @@ landing-page:
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
     upcoming-events: Próximos eventos
-    watch-recordings: Ver grabaciones
+    watch-recordings: Ver todas las grabaciones
   heading: Somos NLP
   heading-2: >-
     Somos la red internacional de estudiantes, profesionales e investigadores
@@ -29,8 +29,8 @@ landing-page:
     compartiendo recursos con el objetivo de acelerar el avance del NLP en
     nuestro idioma.
   introducing: Presentamos
-  join-us: Unirme
-  read-the-announcement: Leer más sobre la comunidad
+  join-us: Únete a Discord
+  read-the-announcement: Contribuye a nuestra misión
   why:
     coming-soon: Próximamente
     community: >-
