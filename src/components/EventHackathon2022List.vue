@@ -4,7 +4,7 @@ import { useRouter } from 'vue-router'
 const router = useRouter()
 const routes = router.getRoutes()
     .filter(
-        i => i.path.startsWith('/hackathon/')
+        i => i.path.startsWith('/hackathon-2022/')
             && (i.meta as any).frontmatter.date
     )
     .sort((a, b) => +new Date((a.meta as any).frontmatter.date) - +new Date((b.meta as any).frontmatter.date))
