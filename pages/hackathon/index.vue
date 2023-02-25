@@ -2,12 +2,12 @@
 import { useHead } from '@vueuse/head'
 
 useHead({
-    title: 'Hackathon Somos NLP 2022 - Democratizando el NLP en español',
+    title: 'Hackathon Somos NLP 2023 - Democratizando el NLP en español',
     meta: [
         { name: 'twitter:card', content: 'summary' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
-        { name: 'twitter:title', content: 'Hackathon Somos NLP 2022' },
+        { name: 'twitter:title', content: 'Hackathon Somos NLP 2023' },
         { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
         { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/hackathon_pln_es_3.png' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
@@ -18,7 +18,7 @@ useHead({
 <template>
     <Container class="my-12">
         <header class="m-auto text-center prose">
-            <h1>Hackathon 2022 de PLN en Español</h1>
+            <h1>Hackathon 2023 de PLN en Español</h1>
             <p class="text-lg">
                 Construye al lado de mentores, expertas y hackers la siguiente generación de modelos
                 de Procesamiento del Lenguaje Natural
@@ -85,13 +85,9 @@ useHead({
                 <li>Asistir a charlas y talleres impartidas por profesionales trabajando e investigando en el mundo del
                     PLN</li>
                 <li>Consultar tus dudas sobre PLN con mentores y expertas</li>
-                <li>Conseguir acceso gratis a GPUs patrocinadas por Paperspace</li>
-                <li>Participar en un sorteo de copias del libro "Natural Language Processing with Transformers" de Lewis
-                    Tunstall, Leandro von Werra y Thomas Wolf</li>
-                <li>Conseguir acceso gratis a las plataformas de e-learning de Platzi y O'Reilly</li>
-                <li>Canjear bonos por swag de Hugging Face especialmente diseñado para el evento</li>
+                <li>Mucho más por anunciar</li>
             </ul>
-            <a href="https://hackathon-pln-es.eventbrite.com/?aff=website" target="_blank">¡Regístrate ya!</a>
+            <a href="wip" target="_blank">¡Regístrate ya!</a>
             <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
             <p>
                 Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy
@@ -108,14 +104,15 @@ useHead({
                     Únete a nuestra comunidad de
                     <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>
                     y haz click en "request to join this org" en la organización
-                    <a href="https://huggingface.co/hackathon-pln-es" target="_blank">hackathon-pln-es</a> de Hugging
+                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a> de Hugging
                     Face.
                 </li>
                 <li>
-                    Echa un vistazo a los diferentes canales de Discord, sobre todo a los de la
-                    sección "HACKATHON", ya que iremos anunciando talleres y material con el que
-                    preparar el hackathon y también resolveremos las dudas que te puedan surgir
-                    durante el evento.
+                    Echa un vistazo a los diferentes canales de Discord, sobre
+                    todo a los de la sección "HACKATHON", ya que iremos
+                    anunciando talleres y material con el que preparar el
+                    hackathon y también resolveremos las dudas que te puedan
+                    surgir durante el evento.
                 </li>
                 <li>
                     Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes equipo puedes utilizar
@@ -127,15 +124,14 @@ useHead({
                 <li>
                     Busca una base de datos para entrenar tu modelo. Puede estar en
                     <a href="https://hf.co/datasets" target="_blank">datasets</a>, en otra plataforma online o la puedes
-                    crear desde cero y subirla
-                    a
-                    <a href="https://hf.co/hackathon-pln-es" target="_blank">hackathon-pln-es</a>.
+                    crear desde cero y subirla a
+                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a>.
                 </li>
                 <li>
                     Junto con tu equipo, entrena y sube a
-                    <a href="https://hf.co/hackathon-pln-es" target="_blank">hackathon-pln-es</a> uno o varios modelos.
-                    Desde la comunidad
-                    queremos animar a todos los equipos a entrenar modelos que sirvan para abordar
+                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a>
+                    uno o varios modelos. Desde la comunidad queremos animar a
+                    todos los equipos a entrenar modelos que sirvan para abordar
                     alguno de los
                     <a href="https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/"
                         target="_blank">Objetivos de Desarrollo Sostenible de la ONU</a>.
@@ -145,14 +141,14 @@ useHead({
                     origen de los datos utilizados y el proceso de entrenamiento del modelo.
                 </li>
                 <li>
-                    Crea una demo de el/los modelo/s utilizando la tecnología que prefieras
-                    (e.g. Gradio, Streamlit, Flask, FastAPI). Puedes utilizar Spaces de Hugging Face
-                    para crear tu demo en
-                    <a href="https://hf.co/hackathon-pln-es" target="_blank">hackathon-pln-es</a>.
+                    Crea una demo de el/los modelo/s utilizando la tecnología
+                    que prefieras (e.g. Gradio, Streamlit, Flask, FastAPI).
+                    Puedes utilizar Spaces de Hugging Face para crear tu demo en
+                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a>.
                 </li>
                 <li>
                     Por último, rellena este
-                    <a href="https://kq8ietkql1m.typeform.com/to/BS6HBfy7" target="_blank">formulario</a> para
+                    <a href="wip" target="_blank">formulario</a> para
                     presentar el proyecto.
                 </li>
             </ol>
@@ -165,87 +161,59 @@ useHead({
 
             <h2 id="evaluacion-y-premios">🏆 Evaluación y Premios</h2>
             <p>
-                A la hora de evaluar los proyectos, dado que cada equipo utilizará un dataset
-                diferente y entrenará su modelo para resolver una tarea diferente, además de tener
-                en cuanta el valor de las métricas, los criterios de evaluación incluirán el impacto
-                social del proyecto, la originalidad de la idea y la dificultad técnica.
+                A la hora de evaluar los proyectos, dado que cada equipo
+                utilizará un dataset diferente y entrenará su modelo para
+                resolver una tarea diferente, además de tener en cuanta el
+                valor de las métricas, los criterios de evaluación incluirán el
+                impacto social del proyecto, la originalidad de la idea y la
+                dificultad técnica.
             </p>
-            <p>
-                Gracias al patrocinio de Platzi, todas las personas que presenten un proyecto
-                ganarán una beca en su plataforma de e-learning:
-            </p>
-            <ul>
-                <li>Participación: Beca de 3 meses</li>
-                <li>Segundo y tercer puesto: Beca de 6 meses</li>
-                <li>Equipo ganador: Beca Expert de 1 año</li>
-            </ul>
-            <p>El resto de premios incluirán:</p>
-            <ul>
-                <li>Certificado de participación/equipo ganador del Hackathon 2022 de PLN en Español</li>
-                <li>Rol honorífico en el servidor de Discord, e.g.: "Hackathon 🥇"</li>
-                <li>Swag de Hugging Face diseñado especialmente para el hackathon</li>
-                <li>Tiempo de computación en GPUs patrocinadas por Paperspace</li>
-                <li>Copias del libro "NLP with Transformers"</li>
-            </ul>
             <p>
                 Nota: Seguimos hablando con nuestros patrocinadores, mantendremos esta
                 sección actualizada.
             </p>
-            <p>
-                Además de estos premios, podrás conseguir un mes de acceso gratis a la plataforma de
-                e-learning de O'Reilly y participar en el sorteo de copias del libro
-                <a href="https://transformersbook.com/" target="_blank">"Natural Language Processing with Transformers"
-                    de Lewis Tunstall, Leandro von Werra y Thomas Wolf</a>
-                al asistir a uno de nuestros eventos 🎁
-            </p>
 
             <h2 id="recursos">📖 Recursos</h2>
             <p>
-                Desde el equipo de Somos NLP queremos animarte a participar independientemente de
-                tus conocimientos actuales.
+                Desde el equipo de Somos NLP queremos animarte a participar
+                independientemente de tus conocimientos actuales.
             </p>
             <ul>
                 <li>
-                    Hemos creando una nueva sección "Recursos"
-                    <a href="recursos">(somosnlp.org/recursos)</a> con listas de
+                    En nuestra sección "Recursos"
+                    <a href="recursos">(somosnlp.org/recursos)</a> puedes
+                    encontrar tanto listas de
                     <b>datasets y modelos open-source</b>
-                    que puedes utilizar para hacer fine-tuning como te explicamos en nuestros
-                    <b>tutoriales</b>.
+                    como <b>tutoriales</b> explicando cómo hacer fine-tuning
+                    para desarrollar tu proyecto.
                 </li>
                 <li>
                     También daremos un
                     <b>
-                        <a href="https://www.youtube.com/watch?v=_TbNgSodiPY&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                            target="_blank">taller
-                            práctico</a>
-                    </b> el primer día del hackathon en el cual
-                    crearemos una base de datos, entrenaremos un modelo y desarrollaremos una demo
-                    para que tengas un ejemplo de proyecto de referencia.
+                        taller práctico
+                    </b> el primer día del hackathon en el cual crearemos una
+                    base de datos, entrenaremos un modelo y desarrollaremos una
+                    demo para que tengas un ejemplo de proyecto de referencia.
                 </li>
                 <li>
-                    Organizaremos dos
-                    <b>AMAs</b> (del inglés, Ask Me Anything) con dos expertos en NLP
-                    para que puedan solucionar tus dudas.
+                    Organizaremos
+                    <b>AMAs</b> (del inglés, Ask Me Anything) con expertas y
+                    mentoras en NLP para que puedan solucionar tus dudas.
                 </li>
                 <li>
-                    Hemos creado vídeo tutoriales explicando cómo utilizar las GPUs patrocinadas por
-                    Paperspace y cómo crear demos en Spaces: echa un vistazo a la lista de YouTube
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta"
-                        target="_blank">"Tutoriales".</a>
-                </li>
-                <li>
-                    Además, durante las dos semanas que dura el hackathon estaremos a tu disposición
-                    en
-                    <b>Discord</b> para guiarte y ayudarte a desarrollar tu proyecto.
+                    Además, durante la celebración del hackathon estaremos a tu
+                    disposición en <b>Discord</b> para guiarte y ayudarte a
+                    desarrollar tu proyecto.
                 </li>
             </ul>
 
             <h2 id="charlas-y-talleres">💡 Charlas y Talleres</h2>
             <p>
-                Durante el hackathon tendrán lugar diversas charlas y talleres impartidas por
-                profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos están
-                abiertos a todas las personas, independientemente de si participan en el hackathon,
-                <a href="https://hackathon-pln-es.eventbrite.com/?aff=website" target="_blank">¡apúntate!</a>
+                Durante el hackathon tendrán lugar diversas charlas y talleres
+                impartidas por profesionales del mundo del Procesamiento del
+                Lenguaje Natural. Estos eventos están abiertos a todas las
+                personas, independientemente de si participan en el hackathon,
+                <a href="wip" target="_blank">¡apúntate!</a>
             </p>
             <p>
                 Iremos anunciando los eventos uno a uno así que atención a
@@ -253,63 +221,11 @@ useHead({
                 <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a>🔥
             </p>
             <p>
-                ➡️ Subimos las grabaciones de todas las charlas y talleres a la lista de YouTube
-                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">Hackathon
-                    de PLN en Español</a>
+                ➡️ Subiremos las grabaciones de todas las charlas y talleres a
+                <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">YouTube</a>
                 para que las puedas ver cuando te venga bien.
             </p>
-            <EventHackathon2022List />
 
-            <h2 id="patrocinadores">👏 Patrocinadores</h2>
-            <p>
-                Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa
-                llegue más lejos. ¡Vamos a democratizar el PLN en español!
-            </p>
-            <h3>🥇 Patrocinadores de oro</h3>
-            <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <SponsorInfo sponsor="Paperspace" url="https://www.paperspace.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_paperspace.svg"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_paperspace_dark.svg" />
-                <SponsorInfo sponsor="Platzi" url="https://platzi.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_platzi.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_platzi_dark.png" />
-                <SponsorInfo sponsor="Hugging Face" url="https://huggingface.co/"
-                    logo="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg" />
-            </div>
-            <h3>🥈 Patrocinadores de plata</h3>
-            <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <SponsorInfo sponsor="BSC" url="https://www.bsc.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_BSC.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_BSC_dark.png" />
-                <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
-                    logo="https://somosnlp.github.io/assets/images/logo_DiverTLes.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_DiverTLes_dark.png" />
-                <SponsorInfo sponsor="IBiDat" url="https://ibidat.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_IBiDat.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png" />
-                <SponsorInfo sponsor="Narrativa" url="https://www.narrativa.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_Narrativa.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png" />
-                <SponsorInfo sponsor="Plan TL" url="https://plantl.mineco.gob.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_PlanTL.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_PlanTL_dark.png" />
-                <SponsorInfo sponsor="PLNnet" url="https://gplsi.dlsi.ua.es/pln/"
-                    logo="https://somosnlp.github.io/assets/images/logo_PLNnet.svg"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_PLNnet.svg" />
-                <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
-                    logo="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png" />
-                <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png" />
-                <SponsorInfo sponsor="UNAM" url="https://www.unam.mx/"
-                    logo="https://somosnlp.github.io/assets/images/logo_UNAM.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png" />
-                <SponsorInfo sponsor="UNL" url="https://www.unl.edu.ec/"
-                    logo="https://somosnlp.github.io/assets/images/logo_UNL_square.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_UNL_square.png" />
-            </div>
         </article>
     </Container>
 </template>
