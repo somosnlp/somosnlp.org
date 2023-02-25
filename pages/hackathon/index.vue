@@ -254,18 +254,18 @@ useHead({
             </p>
             <p>
                 ➡️ Subimos las grabaciones de todas las charlas y talleres a la lista de YouTube
-                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                    target="_blank">Hackathon de PLN en Español</a>
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">Hackathon
+                    de PLN en Español</a>
                 para que las puedas ver cuando te venga bien.
             </p>
-            <EventHackathonList />
+            <EventHackathon2022List />
 
             <h2 id="patrocinadores">👏 Patrocinadores</h2>
             <p>
                 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa
                 llegue más lejos. ¡Vamos a democratizar el PLN en español!
             </p>
-            <h3>🥇 Platrocinadores de oro</h3>
+            <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Paperspace" url="https://www.paperspace.com/"
                     logo="https://somosnlp.github.io/assets/images/logo_paperspace.svg"
