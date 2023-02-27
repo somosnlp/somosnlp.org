@@ -32,47 +32,21 @@
             <div class="m-12">
                 <ul>
                     <li>
-                        <a href="#proyectos-de-la-comunidad">Proyectos de la comunidad</a>
+                        <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
                     </li>
                     <li>
-                        <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
+                        <a href="#proyectos-de-la-comunidad">Proyectos de la comunidad</a>
                     </li>
                 </ul>
             </div>
 
-            <h3 id="proyectos-de-la-comunidad">🙌 Proyectos de la comunidad</h3>
-
-            <div class="mx-auto my-8 text-center">
-                <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
-                        target="_blank">
-                        <img alt="BiomedIA" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/230112_biomedia.jpg" />
-                    </a>
-                    <a href="https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
-                        target="_blank">
-                        <img alt="Modelo Jurídico Mexicano" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/221213_neutralizacion_de_genero.jpg" />
-                    </a>
-                    <a href="https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
-                        target="_blank">
-                        <img alt="Neutralización de Género" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/221208_modelo_juridico_mexicano.jpg" />
-                    </a>
-                    <a href="https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
-                        target="_blank">
-                        <img alt="Detector de Sexismo" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/221212_detector_sexismo.jpg" />
-                    </a>
-                    <a href="https://www.youtube.com/watch?v=t86nV8Vfzbg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
-                        target="_blank">
-                        <img alt="Validador de Veracidad de Noticias" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/221129_news_veracity_validator.png" />
-                    </a>
-                </div>
-            </div>
-
             <h3 id="hackathon-2022">🚀 Charlas y talleres del Hackathon 2022</h3>
+            <p>
+                El ecosistema de 🤗, etiquetado y muestreo de
+                datos, entrenamiento de modelos y debugging, traducción,
+                clustering, escritura de abstracts...
+                ¡Todos estos temas explicados por especialistas!
+            </p>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -140,6 +114,43 @@
                         target="_blank">
                         <img alt="Taller de escritura de abstracts" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/evento_abstracts.png" />
+                    </a>
+                </div>
+            </div>
+
+            <h3 id="proyectos-de-la-comunidad">🙌 Proyectos de la comunidad</h3>
+            <p>
+                Talleres en los que miembros de la comunidad presentan sus
+                proyectos, e.g.: proyectos ganadores de hackathones.
+            </p>
+            <p>¿Te gustaría presentar tu proyecto? ¡Este es tu espacio!</p>
+
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
+                        target="_blank">
+                        <img alt="BiomedIA" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230112_biomedia.jpg" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
+                        target="_blank">
+                        <img alt="Modelo Jurídico Mexicano" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/221213_neutralizacion_de_genero.jpg" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
+                        target="_blank">
+                        <img alt="Neutralización de Género" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/221208_modelo_juridico_mexicano.jpg" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
+                        target="_blank">
+                        <img alt="Detector de Sexismo" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/221212_detector_sexismo.jpg" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=t86nV8Vfzbg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
+                        target="_blank">
+                        <img alt="Validador de Veracidad de Noticias" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/221129_news_veracity_validator.png" />
                     </a>
                 </div>
             </div>
