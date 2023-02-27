@@ -10,6 +10,6 @@ const routes = router.getRoutes()
 
 <template>
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-3">
-        <CoreTeamItem v-for="route in routes" :route="route" />
+        <ProfileItemRouter v-for="route in routes" :route="route" />
     </div>
 </template>
