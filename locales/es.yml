@@ -17,6 +17,7 @@ landing-page:
       source. 
     twitter: Síguenos en Twitter
   events:
+    all-events: Ver todos los eventos
     join-event: ¡Me interesa!
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
