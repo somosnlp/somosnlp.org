@@ -4,7 +4,7 @@ import { useI18n } from 'vue-i18n'
 
 const { t } = useI18n()
 const showBanner = ref(true);
-const showUpcomingEvent = ref(false);
+const showUpcomingEvent = ref(true);
 const showPastEvents = ref(true);
 </script>
 
@@ -50,9 +50,9 @@ const showPastEvents = ref(true);
         }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Upcoming events"
-        src="https://somosnlp.github.io/assets/images/eventos/2212XX_proyectos_ganadores_hackathon_lista.jpg" />
+        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.png" />
       <a target="_blank" class="button-accent max-w-100 mx-auto"
-        href="https://www.eventbrite.com/cc/proyectos-ganadores-del-hackathon-ods-2022-1424269">
+        href="https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257">
         {{ t('landing-page.events.join-event') }}
       </a>
     </div>
@@ -120,11 +120,10 @@ const showPastEvents = ref(true);
             src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
         </a>
       </div>
-      <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank"
-        class="button-accent max-w-100 mx-auto">
-        <carbon:logo-youtube text="xl" />
-        <span text="center">{{ t('landing-page.events.watch-recordings') }}</span>
-      </a>
+      <router-link to="/eventos" class="button-accent max-w-100 mx-auto">
+        <Carbon:logoYoutube text="xl" />
+        {{ t('landing-page.events.all-events') }}
+      </router-link>
     </div>
   </Container>
   <Container class="bg-gray-white dark:bg-dark-900">

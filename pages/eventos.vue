@@ -14,6 +14,21 @@
         <hr class="mx-auto mt-8 mb-12 prose" />
 
         <article class="m-auto prose">
+
+            <h2>Próximos Eventos: ¡Apúntate ya!</h2>
+
+            <div class="mx-auto my-8 text-center">
+                <a href="https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257"
+                    target="_blank">
+                    <img alt="Mesa Redonda 8M" width="650" height="365"
+                        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.png" />
+                </a>
+            </div>
+
+            <hr class="mx-auto mt-8 mb-12 prose" />
+
+            <h2>Eventos Anteriores</h2>
+
             <div class="m-12">
                 <ul>
                     <li>
@@ -23,20 +38,9 @@
                         <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
                     </li>
                 </ul>
-        </div>
+            </div>
 
-        <!-- <div class="mt-10 grid gap-4 lg:grid-cols-2">
-                <a href="https://discord.com/invite/eUEkKpSw7d" target="_blank" class="button-accent">
-                        <Carbon:logoYoutube />YouTube
-                    </a>
-                    <router-link to="/nuestra-mision" class="button-gray">
-                                <Carbon:binoculars />EventBrite
-                            </router-link>
-                        </div> -->
-
-            <hr class="mx-auto mt-8 mb-12 prose" />
-
-            <h2 id="proyectos-de-la-comunidad">🙌 Proyectos de la comunidad</h2>
+            <h3 id="proyectos-de-la-comunidad">🙌 Proyectos de la comunidad</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -68,7 +72,7 @@
                 </div>
             </div>
 
-            <h2 id="hackathon-2022">🚀 Charlas y talleres del Hackathon 2022</h2>
+            <h3 id="hackathon-2022">🚀 Charlas y talleres del Hackathon 2022</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
