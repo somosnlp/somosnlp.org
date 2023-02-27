@@ -1,3 +1,8 @@
+<!--
+    Person profile that gets the info from the route to an .md file.
+    If you want to pass it params use ProfileItemProps.
+-->
+
 <script setup lang="ts">
 import { computed } from 'vue'
 import type { RouteRecordNormalized } from 'vue-router'
@@ -17,8 +22,8 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
                 :src="frontmatter.cover ? frontmatter.cover : 'images/logo.svg'" :alt="frontmatter.name" />
         </div>
         <div class="text-center grid gap-2">
-            <div class="font-bold text-lg mb-1">{{  frontmatter.name  }}</div>
-            <div class="text-sm mb-1">{{  frontmatter.title  }}</div>
+            <div class="font-bold text-lg mb-1">{{ frontmatter.name }}</div>
+            <div class="text-sm mb-1">{{ frontmatter.title }}</div>
             <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                 <IconButtonLink v-if="frontmatter.website" :url="frontmatter.website" class="contents">
                     <carbon:user-avatar-filled-alt />
