@@ -41,6 +41,8 @@ declare module 'vue' {
     LogoMark: typeof import('./src/components/LogoMark.vue')['default']
     NavBar: typeof import('./src/components/NavBar.vue')['default']
     'Noto:huggingFace': typeof import('virtual:vite-icons/noto/hugging-face')['default']
+    ProfileItemProps: typeof import('./src/components/ProfileItemProps.vue')['default']
+    ProfileItemRouter: typeof import('./src/components/ProfileItemRouter.vue')['default']
     README: typeof import('./src/components/README.md')['default']
     ResourceItem: typeof import('./src/components/ResourceItem.vue')['default']
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
