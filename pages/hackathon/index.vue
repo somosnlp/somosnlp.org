@@ -9,7 +9,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon Somos NLP 2023' },
         { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/20230320_hackathon_wip.jpg' },
+        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_wip.jpg' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
     ]
 })
@@ -39,7 +39,7 @@ useHead({
         <article class="m-auto prose">
             ¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
             <div class="flex justify-center">
-                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/20230320_hackathon_wip.jpg" width="650"
+                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_wip.jpg" width="650"
                     height="365" alt="Cartel del hackathon" />
             </div>
 
