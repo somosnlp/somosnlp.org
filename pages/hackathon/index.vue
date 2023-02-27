@@ -9,7 +9,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon Somos NLP 2023' },
         { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/hackathon_pln_es_3.png' },
+        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/20230320_hackathon_wip.jpg' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
     ]
 })
@@ -37,20 +37,22 @@ useHead({
         <hr class="mx-auto mt-8 mb-12 prose" />
 
         <article class="m-auto prose">
-            ¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
+            ¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
             <div class="flex justify-center">
-                <img src="https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png" width="650"
+                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/20230320_hackathon_wip.jpg" width="650"
                     height="365" alt="Cartel del hackathon" />
             </div>
 
             <p>
-                La democratización del PLN en español es el objetivo principal de nuestra comunidad
-                y una de las mejores maneras de avanzar hacia este objetivo es creando más recursos
-                de PLN en nuestro idioma.
+                La democratización del PLN en español es el objetivo principal
+                de nuestra comunidad y una de las mejores maneras de avanzar
+                hacia este objetivo es creando más recursos de PLN en nuestro
+                idioma.
             </p>
             <p>
-                Con este hackathon te animamos a unirte a nuestro esfuerzo. Te invitamos a entrenar
-                y poner en producción un modelo de PLN en español.
+                Con este hackathon te animamos a unirte a nuestro esfuerzo. Te
+                invitamos a entrenar y poner en producción un modelo de PLN en
+                español.
             </p>
 
             <hr class="mx-auto my-12 prose" />
@@ -104,7 +106,8 @@ useHead({
                     Únete a nuestra comunidad de
                     <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>
                     y haz click en "request to join this org" en la organización
-                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a> de Hugging
+                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
+                    de Hugging
                     Face.
                 </li>
                 <li>
@@ -123,13 +126,13 @@ useHead({
                 </li>
                 <li>
                     Busca una base de datos para entrenar tu modelo. Puede estar en
-                    <a href="https://hf.co/datasets" target="_blank">datasets</a>, en otra plataforma online o la puedes
-                    crear desde cero y subirla a
-                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a>.
+                    <a href="https://huggingface.co/datasets" target="_blank">datasets</a>, en otra plataforma online o la
+                    puedes crear desde cero y subirla a
+                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>.
                 </li>
                 <li>
                     Junto con tu equipo, entrena y sube a
-                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a>
+                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
                     uno o varios modelos. Desde la comunidad queremos animar a
                     todos los equipos a entrenar modelos que sirvan para abordar
                     alguno de los
@@ -144,7 +147,7 @@ useHead({
                     Crea una demo de el/los modelo/s utilizando la tecnología
                     que prefieras (e.g. Gradio, Streamlit, Flask, FastAPI).
                     Puedes utilizar Spaces de Hugging Face para crear tu demo en
-                    <a href="wip" target="_blank">hackathon-somos-nlp-2023</a>.
+                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>.
                 </li>
                 <li>
                     Por último, rellena este
@@ -169,8 +172,8 @@ useHead({
                 dificultad técnica.
             </p>
             <p>
-                Nota: Seguimos hablando con nuestros patrocinadores, mantendremos esta
-                sección actualizada.
+                Nota: Seguimos hablando con nuestros patrocinadores,
+                mantendremos esta sección actualizada.
             </p>
 
             <h2 id="recursos">📖 Recursos</h2>
@@ -188,17 +191,15 @@ useHead({
                     para desarrollar tu proyecto.
                 </li>
                 <li>
-                    También daremos un
-                    <b>
-                        taller práctico
-                    </b> el primer día del hackathon en el cual crearemos una
-                    base de datos, entrenaremos un modelo y desarrollaremos una
-                    demo para que tengas un ejemplo de proyecto de referencia.
+                    También daremos un <b>taller práctico</b> el primer día del
+                    hackathon en el cual crearemos una base de datos,
+                    entrenaremos un modelo y desarrollaremos una demo para que
+                    tengas un ejemplo de proyecto de referencia.
                 </li>
                 <li>
                     Organizaremos
                     <b>AMAs</b> (del inglés, Ask Me Anything) con expertas y
-                    mentoras en NLP para que puedan solucionar tus dudas.
+                    mentores para que puedan solucionar tus dudas.
                 </li>
                 <li>
                     Además, durante la celebración del hackathon estaremos a tu
