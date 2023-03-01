@@ -2,7 +2,7 @@
 title: Iniciativas 8M
 description: Únete y apoya nuestras iniciativas del día de la mujer
 cover: https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg
-date: 2022-02-28T09:00:00.000+00:00
+date: 2023-02-28T09:00:00.000+00:00
 lang: es
 duration: 1min
 ---
