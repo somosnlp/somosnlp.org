@@ -7,7 +7,7 @@ lang: es
 duration: 1min
 ---
 
-Con motivo del 8M queremos dar visibilidad a mujeres trabajando e investigando en PLN y también a proyectos que aplican el PLN para luchar contra el sexismo.
+Con motivo del 8M queremos dar visibilidad a mujeres que trabajan e investigan en el campo del PLN y a proyectos que aplican el PLN para luchar contra el sexismo.
 
 - Mesa Redonda 8M: [Regístrate en Eventbrite](https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257)
 - Vídeo "Somos **Mujeres** NLP": [Mándanos tu vídeo](https://forms.gle/W5XVbR4KT98MPqRM6)
@@ -16,7 +16,7 @@ Con motivo del 8M queremos dar visibilidad a mujeres trabajando e investigando e
 
 ## Mesa Redonda 8M
 
-Únete a esta mesa redonda el 9 de marzo para aprender de la mano de expertas en el campo algunas de las aplicaciones del PLN para combatir la misoginia y debatir cómo cerrar la brecha de género en nuestro campo.
+Únete a esta mesa redonda el 9 de marzo para descubrir de la mano de expertas algunas de las aplicaciones del PLN para combatir la misoginia y debatir cómo minimizar la brecha de género en nuestro campo.
 
 <div class="mx-auto my-8 px-8 text-center">
     <a href="https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257"
@@ -28,7 +28,7 @@ Con motivo del 8M queremos dar visibilidad a mujeres trabajando e investigando e
 
 ## Vídeo "Somos Mujeres NLP"
 
-Tú también puedes ser protagonista este 8M. Te animamos a grabar un **vídeo de 30 segundos** y compartir tu experiencia y opinión sobre la desigualdad de género en el PLN.
+Tú también puedes ser protagonista este 8M. Te animamos a grabar un **vídeo de 30 segundos** donde compartas tu experiencia y opinión sobre la desigualdad de género en el PLN.
 
 <div class="mx-auto my-8 px-8 text-center">
     <a href="https://forms.gle/W5XVbR4KT98MPqRM6"
