@@ -21,7 +21,7 @@
                 <a href="https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257"
                     target="_blank">
                     <img alt="Mesa Redonda 8M" width="650" height="365"
-                        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.png" />
+                        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
                 </a>
             </div>
 
