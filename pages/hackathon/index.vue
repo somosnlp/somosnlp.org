@@ -20,24 +20,22 @@ useHead({
         <header class="m-auto text-center prose">
             <h1>Hackathon 2023 de PLN en Español</h1>
             <p class="text-lg">
-                Construye al lado de mentores, expertas y hackers la siguiente generación de modelos
-                de Procesamiento del Lenguaje Natural
+                Construye al lado de profesionales, expertas y mentores la siguiente generación de modelos de Procesamiento
+                del Lenguaje Natural
             </p>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
 
-        <div class="m-auto text-center prose">
-            EVENTO FINALIZADO: El hackathon 2022 ya ha finalizado, puedes ver los
-            <a href="https://hf.co/hackathon-pln-es" target="_blank">proyectos</a>
-            de los equipos participantes y las grabaciones de
-            <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">todas las charlas y
-                talleres</a>.
-            ¡Únete a la comunidad en Discord y síguenos en RRSS para participar en futuros eventos!
-        </div>
-        <hr class="mx-auto mt-8 mb-12 prose" />
-
         <article class="m-auto prose">
-            ¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
+            <p>
+                Después de una primera edición en la que contamos con más de 500 participantes de 29 países distintos,
+                superamos las 5.000 visualizaciones de nuestros eventos, aprendimos de 11 ponentes, finalizamos 22 proyectos
+                y publicamos 3 papers.... ¡Volvemos a por eso y mucho más!
+            </p>
+            <p>
+                ¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en
+                español!
+            </p>
             <div class="flex justify-center">
                 <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_wip.jpg" width="650"
                     height="365" alt="Cartel del hackathon" />
@@ -50,9 +48,7 @@ useHead({
                 idioma.
             </p>
             <p>
-                Con este hackathon te animamos a unirte a nuestro esfuerzo. Te
-                invitamos a entrenar y poner en producción un modelo de PLN en
-                español.
+                Con este hackathon te animamos a unirte a nuestro esfuerzo.
             </p>
 
             <hr class="mx-auto my-12 prose" />
@@ -74,7 +70,10 @@ useHead({
                         <a href="#charlas-y-talleres">Charlas y Talleres</a>
                     </li>
                     <li>
-                        <a href="#patrocinadores">Patrocinadores</a>
+                        <a href="#equipo">Equipo</a>
+                    </li>
+                    <li>
+                        <a href="#patrocinios">Patrocinios</a>
                     </li>
                 </ul>
             </div>
@@ -84,96 +83,61 @@ useHead({
             <p>Al unirte a este evento tendrás la oportunidad de:</p>
             <ul>
                 <li>Ayudar al avance y la democratización del PLN en español</li>
-                <li>Asistir a charlas y talleres impartidas por profesionales trabajando e investigando en el mundo del
-                    PLN</li>
+                <li>
+                    Asistir a charlas y talleres impartidas por profesionales trabajando e investigando en el mundo del PLN
+                </li>
                 <li>Consultar tus dudas sobre PLN con mentores y expertas</li>
-                <li>Mucho más por anunciar</li>
+                <li>Presentar tu proyecto a una conferencia</li>
+                <li>... y mucho más por anunciar</li>
             </ul>
-            <a href="wip" target="_blank">¡Regístrate ya!</a>
+            <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
+                ¡Regístrate ya!
+            </a>
             <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
             <p>
-                Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy
-                sencillo, ¡anímate!
+                Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy sencillo, ¡anímate!
             </p>
             <ol>
                 <li>
-                    Crea una cuenta en
+                    Únete a nuestra comunidad de
+                    <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> y
+                    crea una cuenta en el Hub de
                     <a href="https://huggingface.co/join" target="_blank">Hugging Face</a> si
                     todavía no tienes una y regístrate
-                    <a href="https://hackathon-pln-es.eventbrite.com/?aff=website" target="_blank">aquí</a>.
+                    <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w"
+                        target="_blank">aquí</a>.
                 </li>
                 <li>
                     Únete a nuestra comunidad de
                     <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>
                     y haz click en "request to join this org" en la organización
-                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
-                    de Hugging
-                    Face.
+                    <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
+                        target="_blank">hackathon-somos-nlp-2023</a>
+                    del Hub de Hugging Face.
                 </li>
                 <li>
-                    Echa un vistazo a los diferentes canales de Discord, sobre
-                    todo a los de la sección "HACKATHON", ya que iremos
-                    anunciando talleres y material con el que preparar el
-                    hackathon y también resolveremos las dudas que te puedan
-                    surgir durante el evento.
-                </li>
-                <li>
-                    Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes equipo puedes utilizar
-                    el canal #encuentra-equipo para crear uno nuevo o unirte a uno existente. Apunta
-                    tu proyecto y los handles de HF de los miembros del equipo en la hoja de cálculo
-                    que está en la descripción del canal #encuentra-equipo, os mandaremos por correo
-                    el código de vuestra GPU de Paperspace.
-                </li>
-                <li>
-                    Busca una base de datos para entrenar tu modelo. Puede estar en
-                    <a href="https://huggingface.co/datasets" target="_blank">datasets</a>, en otra plataforma online o la
-                    puedes crear desde cero y subirla a
-                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>.
-                </li>
-                <li>
-                    Junto con tu equipo, entrena y sube a
-                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
-                    uno o varios modelos. Desde la comunidad queremos animar a
-                    todos los equipos a entrenar modelos que sirvan para abordar
-                    alguno de los
-                    <a href="https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/"
-                        target="_blank">Objetivos de Desarrollo Sostenible de la ONU</a>.
-                </li>
-                <li>
-                    Asegúrate de incluir una "Model Card" explicando, entre otras cosas, el
-                    origen de los datos utilizados y el proceso de entrenamiento del modelo.
-                </li>
-                <li>
-                    Crea una demo de el/los modelo/s utilizando la tecnología
-                    que prefieras (e.g. Gradio, Streamlit, Flask, FastAPI).
-                    Puedes utilizar Spaces de Hugging Face para crear tu demo en
-                    <a href="https://huggingface.co/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>.
-                </li>
-                <li>
-                    Por último, rellena este
-                    <a href="wip" target="_blank">formulario</a> para
-                    presentar el proyecto.
+                    Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes
+                    equipo puedes utilizar el canal #encuentra-equipo para
+                    crear uno nuevo o unirte a uno existente.
                 </li>
             </ol>
             <p>
-                Un jurado formado por especialistas en PLN (por anunciar) elegirá los tres equipos
-                ganadores. Además, se concederá una mención de honor al mejor proyecto enfocado a un
-                Objetivo de Desarrollo Sostenible y otra al que consiga más ❤️ en el Hub de Hugging Face.
+                ¡Todo listo para poder empezar! Daremos más información sobre
+                el tema del hackathon una semana antes de su comienzo.
             </p>
-            <p>¡Buena suerte!</p>
 
             <h2 id="evaluacion-y-premios">🏆 Evaluación y Premios</h2>
             <p>
                 A la hora de evaluar los proyectos, dado que cada equipo
                 utilizará un dataset diferente y entrenará su modelo para
-                resolver una tarea diferente, además de tener en cuanta el
+                resolver una tarea diferente, además de tener en cuenta el
                 valor de las métricas, los criterios de evaluación incluirán el
                 impacto social del proyecto, la originalidad de la idea y la
-                dificultad técnica.
+                dificultad técnica. Los publicaremos próximamente.
             </p>
             <p>
-                Nota: Seguimos hablando con nuestros patrocinadores,
-                mantendremos esta sección actualizada.
+                Estamos hablando con nuestros patrocinadores,
+                mantendremos esta sección actualizada 😉
             </p>
 
             <h2 id="recursos">📖 Recursos</h2>
@@ -184,10 +148,10 @@ useHead({
             <ul>
                 <li>
                     En nuestra sección "Recursos"
-                    <a href="recursos">(somosnlp.org/recursos)</a> puedes
-                    encontrar tanto listas de
-                    <b>datasets y modelos open-source</b>
-                    como <b>tutoriales</b> explicando cómo hacer fine-tuning
+                    <a href="recursos">(somosnlp.org/recursos)</a>
+                    puedes encontrar tanto listas de
+                    <b>datasets y modelos open-source</b> como
+                    <b>tutoriales</b> explicando cómo hacer fine-tuning
                     para desarrollar tu proyecto.
                 </li>
                 <li>
@@ -203,8 +167,8 @@ useHead({
                 </li>
                 <li>
                     Además, durante la celebración del hackathon estaremos a tu
-                    disposición en <b>Discord</b> para guiarte y ayudarte a
-                    desarrollar tu proyecto.
+                    disposición en el canal <b>#pide-ayuda</b> de Discord para
+                    guiarte y ayudarte a desarrollar tu proyecto.
                 </li>
             </ul>
 
@@ -214,7 +178,8 @@ useHead({
                 impartidas por profesionales del mundo del Procesamiento del
                 Lenguaje Natural. Estos eventos están abiertos a todas las
                 personas, independientemente de si participan en el hackathon,
-                <a href="wip" target="_blank">¡apúntate!</a>
+                <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w"
+                    target="_blank">¡apúntate!</a>
             </p>
             <p>
                 Iremos anunciando los eventos uno a uno así que atención a
@@ -222,9 +187,26 @@ useHead({
                 <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a>🔥
             </p>
             <p>
-                ➡️ Subiremos las grabaciones de todas las charlas y talleres a
-                <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">YouTube</a>
-                para que las puedas ver cuando te venga bien.
+                ¿No puedes esperar hasta el 20 de marzo? Visualiza las grabaciones de las
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+                    charlas y talleres del Hackathon 2022
+                </a>.
+            </p>
+
+            <h2 id="equipo">👏 Equipo</h2>
+            <p>
+                ¿Quieres ayudarnos a organizar este hackathon?
+                Crea, diseña, escribe... apóyanos haciendo lo que mejor se te dé. Háblanos por Discord o mándanos un correo
+                a
+                <a href="mailto:info@somosnlp.org" target="_blank">info@somosnlp.org</a>,
+                ¡estamos esperándote!
+            </p>
+
+            <h2 id="patrocinios">👏 Patrocinios</h2>
+            <p>
+                ¿Quieres patrocinar este hackathon y ayudarnos a democratizar el PLN en español? Mándanos un correo a
+                <a href="mailto:info@somosnlp.org" target="_blank">info@somosnlp.org</a>,
+                ¡será un placer contar con tu apoyo!
             </p>
 
         </article>
