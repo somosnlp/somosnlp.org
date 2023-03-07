@@ -4,12 +4,12 @@ import { useHead } from '@vueuse/head'
 useHead({
     title: 'Hackathon Somos NLP 2023 - Democratizando el NLP en español',
     meta: [
-        { name: 'twitter:card', content: 'summary' },
+        { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon Somos NLP 2023' },
-        { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_wip.jpg' },
+        { name: 'twitter:description', content: '¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
+        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon.png' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
     ]
 })
@@ -37,8 +37,8 @@ useHead({
                 español!
             </p>
             <div class="flex justify-center">
-                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_wip.jpg" width="650"
-                    height="365" alt="Cartel del hackathon" />
+                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon.jpg" width="650"
+                    height="365" alt="Cartel del Hackathon 2023" />
             </div>
 
             <p>

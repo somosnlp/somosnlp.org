@@ -8,7 +8,7 @@ website:
 other: 
 events: ["Ponente en la Mesa Redonda 8M: PLN en la lucha contra el sexismo"]
 date: "03/03/2023"
-short_bio: ""
+short_bio: "Inés García Sacristán es ingeniera de telecomunicaciones. A sus 24 años ha logrado fusionar sus dos pasiones: desarrollar software y mostrar su compromiso por la inclusión y la igualdad de género. Actualmente, forma parte del equipo de desarrollo de Themis, el primer software de procesamiento del lenguaje natural que convierte texto a lenguaje inclusivo. Su desempeño demuestra que es posible hacer tecnologías socialmente responsables, y es que este es un universo en el que las mujeres tienen mucho que aportar."
 bio: "Me llamo Inés García Sacristán. Soy ingeniera de telecomunicaciones y tengo 24 años. Mi pasión es la tecnología, algo que combino con el compromiso por la inclusión e igualdad de género. 
 
 Desde pequeña, he sido testigo de la importancia de la inclusión y de mostrar empatía con todas las personas. Mi experiencia conviviendo con colectivos que requieren de integración me ha llevado a ser consciente de que la tecnología también puede impulsar este propósito. 
