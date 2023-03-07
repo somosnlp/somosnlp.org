@@ -8,7 +8,7 @@ website: https://fmplaza.github.io/
 other: 
 events: ["Moderadora en la Mesa Redonda 8M: PLN en la lucha contra el sexismo"]
 date: "04/03/2023"
-short_bio: ""
+short_bio: "Flor Miriam Plaza del Arco es investigadora postdoctoral en el grupo MilaNLP en la Universidad Bocconi (Italia). Su especialidad dentro del área del PLN es la detección del discurso de odio y el análisis de emociones en las redes sociales. Ha participado en diferentes campañas de evaluación para la detección de comportamientos inapropiados como la misoginia o el sexismo. Es miembro de la Sociedad Española para el Procesamiento del Lenguaje Natural, la red PLN.net y la comunidad DiverTLes."
 bio: "Flor Miriam Plaza del Arco es doctora en Tecnologías de la Información y Comunicación por la Universidad de Jaén. Actualmente, es investigadora postdoctoral en el grupo MilaNLP de la Universidad Bocconi (Italia). Sus intereses científicos versan en una de las principales áreas de la Inteligencia Artificial, el Procesamiento del Lenguaje Natural, siendo su especialidad la detección del discurso de odio y el análisis de emociones en las redes sociales. Realizó su doctorado en el grupo SINAI de la Universidad de Jaén (España) donde trabajó en la detección discurso de odio en las redes sociales, creando diferentes recursos y desarrollando sistemas computacionales incorporando fenómenos lingüísticos para detectar el lenguaje ofensivo con mayor precisión.
 
 Ha coorganizado diferentes tareas de evaluación como EmoEvalEs y MeOffendES en el Workshop IberLEF. También ha coorganizado las ediciones XXXVI y XXXVII del congreso de la SEPLN.
