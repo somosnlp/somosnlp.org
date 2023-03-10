@@ -13,7 +13,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="blog/iniciativas-8m" target="_blank" hover="text-accent-700">
+      <a href="hackathon" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
