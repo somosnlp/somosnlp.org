@@ -44,18 +44,27 @@ useHead({
             <p>
                 La democratización del PLN en español es el objetivo principal
                 de nuestra comunidad y una de las mejores maneras de avanzar
-                hacia este objetivo es creando más recursos de PLN en nuestro
-                idioma.
+                hacia este objetivo es creando más recursos abiertos de PLN en
+                nuestro idioma.
             </p>
             <p>
-                Con este hackathon te animamos a unirte a nuestro esfuerzo.
+                Con este hackathon te animamos a unirte a nuestro esfuerzo 🚀
             </p>
 
             <hr class="mx-auto my-12 prose" />
+            <p>
+                ➡️ Las charlas y talleres están abiertas a todo el mundo,
+                independientemente de si participas en el hackathon.
+                <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
+                    ¡Regístrate ya!
+                </a>
+            </p>
+            <hr class="mx-auto mt-8 mb-12 prose" />
+
             <div class="m-12">
                 <ul>
                     <li>
-                        <a href="#evento">Evento</a>
+                        <a href="#motivación">Motivación</a>
                     </li>
                     <li>
                         <a href="#bases-del-hackathon">Bases del Hackathon</a>
@@ -79,7 +88,7 @@ useHead({
             </div>
             <hr class="mx-auto my-12 prose" />
 
-            <h2 id="evento">🚀 Evento</h2>
+            <h2 id="motivación">🚀 Motivación</h2>
             <p>Al unirte a este evento tendrás la oportunidad de:</p>
             <ul>
                 <li>Ayudar al avance y la democratización del PLN en español</li>
@@ -87,7 +96,7 @@ useHead({
                     Asistir a charlas y talleres impartidas por profesionales trabajando e investigando en el mundo del PLN
                 </li>
                 <li>Consultar tus dudas sobre PLN con mentores y expertas</li>
-                <li>Presentar tu proyecto a una conferencia</li>
+                <li>Recibir apoyo para presentar un paper a una conferencia</li>
                 <li>... y mucho más por anunciar</li>
             </ul>
             <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
@@ -103,14 +112,14 @@ useHead({
                     <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> y
                     crea una cuenta en el Hub de
                     <a href="https://huggingface.co/join" target="_blank">Hugging Face</a> si
-                    todavía no tienes una y regístrate
+                    todavía no tienes una.
+                </li>
+                <li>Regístrate en
                     <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w"
-                        target="_blank">aquí</a>.
+                        target="_blank">Eventbrite</a>.
                 </li>
                 <li>
-                    Únete a nuestra comunidad de
-                    <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>
-                    y haz click en "request to join this org" en la organización
+                    Únete a la organización
                     <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
                         target="_blank">hackathon-somos-nlp-2023</a>
                     del Hub de Hugging Face.

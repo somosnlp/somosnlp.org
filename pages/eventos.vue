@@ -15,13 +15,12 @@
 
         <article class="m-auto prose">
 
-            <h2>Próximos Eventos: ¡Apúntate ya!</h2>
+            <h2>¡Únete al hackathon!</h2>
 
             <div class="mx-auto my-8 text-center">
-                <a href="https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257"
-                    target="_blank">
-                    <img alt="Mesa Redonda 8M" width="650" height="365"
-                        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
+                <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
+                    <img alt="Hackathon 2023" width="650" height="365"
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon.jpg" />
                 </a>
             </div>
 
@@ -33,6 +32,9 @@
                 <ul>
                     <li>
                         <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
+                    </li>
+                    <li>
+                        <a href="#somos-mujeres-nlp">Somos Mujeres NLP</a>
                     </li>
                     <li>
                         <a href="#proyectos-de-la-comunidad">Proyectos de la comunidad</a>
@@ -114,6 +116,26 @@
                         target="_blank">
                         <img alt="Taller de escritura de abstracts" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/evento_abstracts.png" />
+                    </a>
+                </div>
+            </div>
+
+            <h3 id="somos-mujeres-nlp">💜 Somos Mujeres NLP</h3>
+            <p>
+                Iniciativas para dar visibilidad a mujeres que trabajan e investigan en el campo del PLN y a proyectos que
+                aplican el PLN para luchar contra el sexismo.
+            </p>
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
+                        target="_blank">
+                        <img alt="Mesa Redonda 8M" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=ZLd85RiLViQ&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
+                        target="_blank">
+                        <img alt="Somos Mujeres NLP" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg" />
                     </a>
                 </div>
             </div>
