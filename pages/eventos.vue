@@ -7,7 +7,7 @@
         <header class="m-auto text-center prose">
             <h1>Eventos</h1>
             <p class="text-lg">
-                Charlas y talleres impartidos por especialistas del campo del NLP.
+                Charlas y talleres impartidos por especialistas del campo del PLN.
             </p>
         </header>
 

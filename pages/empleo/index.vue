@@ -12,7 +12,7 @@ useHead({
         { name: 'twitter:card', content: 'summary' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
-        { name: 'twitter:title', content: 'Bolsa de Empleo NLP' },
+        { name: 'twitter:title', content: 'Bolsa de Empleo PLN' },
         { name: 'twitter:description', content: 'Ofertas de empleo e investigación en el ámbito del PLN.' },
         { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
         { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
@@ -23,7 +23,7 @@ useHead({
 <template>
     <Container class="my-12">
         <header class="m-auto text-center prose">
-            <h1>Bolsa de Empleo de NLP</h1>
+            <h1>Bolsa de Empleo de PLN</h1>
             <p class="text-lg">
                 Encuentra ofertas de empleo e investigación relacionadas con el Procesamiento del Lenguaje Natural.
             </p>

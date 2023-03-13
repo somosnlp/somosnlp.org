@@ -34,7 +34,7 @@ Simplemente adapta el siguiente ejemplo y cópialo al principio de tu markdown (
 ```
 ---
 title: ¡Hola, mundo! 🤗
-description: Somos la red internacional de hispanohablantes acelerarando el avance del NLP en español.
+description: Somos la red internacional de hispanohablantes acelerarando el avance del PLN en español.
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
 duration: 3min

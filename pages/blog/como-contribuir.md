@@ -1,6 +1,6 @@
 ---
 title: Cómo contribuir 🚀
-description: Ayúdanos a democratizar el NLP en español
+description: Ayúdanos a democratizar el PLN en español
 date: 2021-07-03T16:00:00.000+00:00
 lang: es
 duration: 3min
@@ -17,14 +17,14 @@ github: https://github.com/mariagrandury
     <img src="https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.svg" />
 </div>
 
-Nuestra misión es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español. Es un objetivo muy amplio que se puede traducir en:
+Nuestra misión es crear y compartir recursos que posibiliten y aceleren el avance del PLN en español. Es un objetivo muy amplio que se puede traducir en:
 - Ofrecer formación gratuita y open-source en español
-- Promover el interés y el avance del NLP en español con hackathones y otros eventos
+- Promover el interés y el avance del PLN en español con hackathones y otros eventos
 - Crear bases de datos o añadir las ya existentes a 🤗 Datasets para hacerlas más accesibles
 - Entrenar/fine-tune modelos utilizando dichas bases de datos y añadirlos al 🤗 Model Hub
 - Crear tutoriales explicando cómo hacer uso de estos recursos o traducir tutoriales ya existentes
 - Dar visibilidad a los proyectos de nuestros miembros
-- Organizar grupos de estudio para aprender en comunidad y grupos donde debatir el estado del arte del NLP
+- Organizar grupos de estudio para aprender en comunidad y grupos donde debatir el estado del arte del PLN
 - Compartir eventos, artículos y proyectos interesantes para la comunidad
 
 ## Datasets
@@ -53,7 +53,7 @@ deja la columna "Contribuyente" en blanco para que otra persona pueda trabajar e
 *El enlace a la hoja de cálculo está en la descripción del canal #datasets de la comunidad de Discord.
 
 #### Crear una nueva base de datos
-Si tienes una idea para crear una nueva base de datos de NLP en español estás en el sitio adecuado:
+Si tienes una idea para crear una nueva base de datos de PLN en español estás en el sitio adecuado:
 1. Comparte tu idea en el canal #datasets de la comunidad de [Discord](https://discord.com/invite/my8w7JUxZR)
 2. Reúne un equipo para hacerla realidad
 3. Añádela a la librería de Hugging Face
@@ -80,6 +80,6 @@ Tanto si quieres crear un tutorial desde cero como si quieres traducir uno:
 Al terminar, te animamos a abrir una [PR](https://github.com/somosnlp/somosnlp.org) para añadir el tutorial a nuestro blog.
 
 ## Eventos
-Si te interesa dar una charla o taller relacionado con el NLP contáctanos, estaremos encantados de aprender de tu experiencia.
+Si te interesa dar una charla o taller relacionado con el PLN contáctanos, estaremos encantados de aprender de tu experiencia.
 
 ➡️ **[Call for speakers](https://kq8ietkql1m.typeform.com/to/BYH9KG3f?typeform-source=localhost)**

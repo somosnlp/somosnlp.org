@@ -5,9 +5,9 @@ lang: es
 cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_gifts_re_97j6.svg"
 ---
 
-Somos una comunidad internacional en la que todo el mundo es bienvenido independientemente de sus conocimientos previos sobre NLP. Si te interesa este apasionante campo, únete y ayúdanos en nuestra misión de democratizar el NLP en español. ¿Cómo?
+Somos una comunidad internacional en la que todo el mundo es bienvenido independientemente de sus conocimientos previos sobre PLN. Si te interesa este apasionante campo, únete y ayúdanos en nuestra misión de democratizar el PLN en español. ¿Cómo?
 
-###  🌱 Estoy empezando a formarme en NLP
+###  🌱 Estoy empezando a formarme en PLN
 
 - Síguenos y da visibilidad a nuestras iniciativas, artículos y eventos en [LinkedIn](https://www.linkedin.com/company/somosnlp) y [Twitter](https://twitter.com/somosnlp_)
 - Comparte intereses y proyectos con la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR)
