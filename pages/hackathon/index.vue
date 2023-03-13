@@ -24,12 +24,19 @@ useHead({
                 Construye al lado de profesionales, expertas y mentores la siguiente generación de modelos de PLN en tu
                 idioma
             </p>
-            <div class="max-w-70 border-2 border-accent-400 rounded">
-                <IconButtonLink
-                    :url='`https://twitter.com/intent/tweet?text=Voy a participar en el hackathon @SomosNLP_ 2023 "Los LLMs hablan Español" ¿quién se apunta? \n\n https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=c`'>
-                    <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
-                    <span class="font-medium text-sm">#HackathonSomosNLP</span>
-                </IconButtonLink>
+
+            <div class="mt-10 grid gap-4 lg:grid-cols-2">
+                <a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank" class="button-accent">
+                    <carbon:user-multiple />
+                    Registrarme
+                </a>
+                <div class="button-gray max-w-70 border-2 border-accent-400 rounded">
+                    <IconButtonLink
+                        :url='`https://twitter.com/intent/tweet?text=Voy a participar en el hackathon @SomosNLP_ 2023 "Los LLMs hablan Español" ¿quién se apunta? \n\n https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=c`'>
+                        <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
+                        <span class="font-medium text-sm">#HackathonSomosNLP</span>
+                    </IconButtonLink>
+                </div>
             </div>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
