@@ -4,7 +4,7 @@ import { useHead } from '@vueuse/head'
 useHead({
     title: 'Hackathon Somos NLP 2022 - Democratizando el NLP en español',
     meta: [
-        { name: 'twitter:card', content: 'summary' },
+        { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon Somos NLP 2022' },
