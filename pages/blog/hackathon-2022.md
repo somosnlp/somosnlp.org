@@ -1,6 +1,6 @@
 ---
 title: Finaliza nuestro hackathon 2022
-description: El mayor hackathon open-source de NLP en español con más de 500 participantes y 5000 visualizaciones de los eventos
+description: El mayor hackathon open-source de PLN en español con más de 500 participantes y 5000 visualizaciones de los eventos
 date: 2022-05-03T18:00:00.000+00:00
 lang: es
 duration: 6min
@@ -31,13 +31,13 @@ Antes de nada, un aplauso para [TODOS los equipos participantes](https://hf.co/h
 
 A continuación, los proyectos ganadores de la primera edición del hackathon de PLN en español de Somos NLP:
 
-💜 La mención de honor al mejor proyecto enfocado a uno de los Objetivos de Desarrollo Sostenible de la ONU fue para el proyecto [Detector de Sexismo](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M) por su contribución a la eliminación de comentarios sexistas, una forma de violencia de género. El proyecto fue desarrollado por María Isabel Limaylla, Manuel Rojas, Lucel Da Silva y Roberto Del Campo. 
+🥇 El proyecto ganador del hackathon fue [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García. BiomedIA genera, con gran precisión, respuestas a preguntas biomédicas formuladas tanto de manera escrita como oral. BiomedIA también ganó la mención de honor al proyecto más querido por la comunidad al conseguir el mayor número de likes en el hub de Hugging Face. Además, dio lugar al paper ["A Complete Voice-to-Voice Generative Question Answering System for the Biomedical Domain in Spanish"](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) aceptado en NAACL 2022.
+
+🥈 El segundo puesto fue para el proyecto [Modelo Jurídico Mexicano](https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M), desarrollado por Ana Gabriela Palomeque, Aurelio Vázquez, Cecilia Macías y Giovanna Madariaga, con el objetivo de promover el conocimiento jurídico y agilizar la labor de quienes imparten justicia. El modelo desarrollado por este equipo es **utilizado todavía un año después del hackathon por la Suprema Corte de Justicia de la Nación de Mexico**.
 
 🥉 El tercer puesto fue para el proyecto [Neutralización de género](https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M), desarrollado por Cibeles Redondo, Javier Blasco, Fernando Velasco, Madgadela Iwona y Juan Julián Cea. Este equipo desarrolló un modelo que permite reescribir textos de manera inclusiva, una solución con un gran impacto positivo en el panorama social actual.
 
-🥈 El segundo puesto fue para el proyecto [Modelo Jurídico Mexicano](https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M), desarrollado por Ana Gabriela Palomeque, Aurelio Vázquez, Cecilia Macías y Giovanna Madariaga, con el objetivo de promover el conocimiento jurídico y agilizar la labor de quienes imparten justicia. El modelo desarrollado por este equipo es utilizado todavía un año después del hackathon por la Suprema Corte de Justicia de la Nación de Mexico.
-
-🥇 El proyecto ganador del hackathon fue [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García. BiomedIA genera, con gran precisión, respuestas a preguntas biomédicas formuladas tanto de manera escrita como oral. BiomedIA también ganó la mención de honor al proyecto más querido por la comunidad al conseguir el mayor número de likes en el hub de Hugging Face. Además, dio lugar al paper ["A Complete Voice-to-Voice Generative Question Answering System for the Biomedical Domain in Spanish"](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) aceptado en NAACL 2022.
+💜 La mención de honor al mejor proyecto enfocado a uno de los Objetivos de Desarrollo Sostenible de la ONU fue para el proyecto [Detector de Sexismo](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M) por su contribución a la eliminación de comentarios sexistas, una forma de violencia de género. El proyecto fue desarrollado por María Isabel Limaylla, Manuel Rojas, Lucel Da Silva y Roberto Del Campo. 
 
 *En caso de que queráis darles visibilidad a estos increíbles proyectos, os dejo el hilo del [anuncio en Twitter](https://twitter.com/SomosNLP_/status/1525165918594158595).*
 
@@ -45,7 +45,7 @@ A continuación, los proyectos ganadores de la primera edición del hackathon de
 
 ## ¡Gracias por compartir vuestro conocimiento, ponentes!
 
-Además de la creación de bases de datos y de modelos open-source, durante el hackathon también invitamos a expertxs del mundo del NLP para que compartieran su conocimiento y experiencia con toda la comunidad. 
+Además de la creación de bases de datos y de modelos open-source, durante el hackathon también invitamos a expertxs del mundo del PLN para que compartieran su conocimiento y experiencia con toda la comunidad. 
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="500" height="289.71"  />
@@ -79,7 +79,7 @@ Gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue m�
 
 ## ¡El año que viene más y mejor!
 
-Muchas gracias de nuevo al equipo de Somos NLP, a los patrocinadores, a los miembros del jurado, a lxs ponentes y, sobre todo, a todas las personas que participasteis, por habernos ayudado a avanzar el estado del arte del NLP en español.
+Muchas gracias de nuevo al equipo de Somos NLP, a los patrocinadores, a los miembros del jurado, a lxs ponentes y, sobre todo, a todas las personas que participasteis, por habernos ayudado a avanzar el estado del arte del PLN en español.
 
 ¡El año que viene más y mejor!
 

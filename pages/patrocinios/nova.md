@@ -1,12 +1,11 @@
 ---
 name: Nova
 logo: https://somosnlp.github.io/assets/images/patrocinios/nova.png
-logo_dark: https://somosnlp.github.io/assets/images/patrocinios/nova_dark.png
-twitter: 
-linkedin:
-website: 
+twitter: https://twitter.com/NovaTalent_
+linkedin: https://www.linkedin.com/company/nova/
+website: https://www.novatalent.com/
 other: 
-events: ["Hackathon 2023"]
+events: ["Hackathon Somos NLP 2023"]
 description: "Nova es la red global de talento que conecta a personas de alto potencial entre sí y
 con las mejores oportunidades profesionales. Igual que los deportistas de élite o
 artistas tienen un agente que les acompaña, Nova facilita una figura similar a sus más

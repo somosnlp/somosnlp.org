@@ -17,15 +17,15 @@ github: https://github.com/mariagrandury
     <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
 </div>
 
-Somos NLP es la comunidad de estudiantes, profesionales e investigadores hispanohablantes democratizando el NLP en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del NLP en español.
+Somos NLP es la comunidad de estudiantes, profesionales e investigadores hispanohablantes democratizando el PLN en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del PLN en español.
 
 ## ¿Por qué?
 
-La investigación en NLP está centrada en el inglés y descuida las dificultades particulares de los otros idiomas.
+La investigación en PLN está centrada en el inglés y descuida las dificultades particulares de los otros idiomas.
 
 💡 Somos más de 570M de hispanohablantes.
 
-Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa en el ámbito del NLP.
+Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa en el ámbito del PLN.
 
 ## ¿Cómo?
 

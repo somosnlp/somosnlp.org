@@ -1,6 +1,6 @@
 ---
-title: Divulgación de NLP en español
-description: Iniciativas que contribuyen a avanzar el estado del arte del NLP en español
+title: Divulgación de PLN en español
+description: Iniciativas que contribuyen a avanzar el estado del arte del PLN en español
 date: 2022-10-30T18:00:00.000+00:00
 lang: es
 duration: 4min
@@ -15,22 +15,22 @@ github: https://github.com/mariagrandury
 
 > Tenemos que dar visibilidad a iniciativas existentes, ofrecer formación de calidad y al alcance de todo el mundo, y crear bases de datos y modelos libres. Lo más importante es fomentar la colaboración entre todas las personas hispanohablantes que estamos interesadas en el PLN porque, al fin y al cabo, tenemos un objetivo común.
 
-Hace unas semanas tuve el placer de participar en la primera mesa redonda del primer foro del PERTE de la Nueva Economía de la Lengua. Una muy buena pregunta que me hizo el moderador Manuel González Bedia fue cómo podemos avanzar el estado del arte del NLP en español. En mi opinión esto se puede conseguir:
+Hace unas semanas tuve el placer de participar en la primera mesa redonda del primer foro del PERTE de la Nueva Economía de la Lengua. Una muy buena pregunta que me hizo el moderador Manuel González Bedia fue cómo podemos avanzar el estado del arte del PLN en español. En mi opinión esto se puede conseguir:
 1. Dando visibilidad a organizaciones e iniciativas que ya tienen esto por objetivo
 2. Ofreciendo formación de todos los niveles, la divulgación es clave
 3. Creando bases de datos de calidad (¡y abiertas!) y entrenando modelos con ellas
 
-Precisamente en este artículo quiero dar visibilidad a comunidades que mediante eventos, artículos y otros medios de divulgación comparten nuestro objetivo de democratizar el NLP en español 🚀
+Precisamente en este artículo quiero dar visibilidad a comunidades que mediante eventos, artículos y otros medios de divulgación comparten nuestro objetivo de democratizar el PLN en español 🚀
 
-*He incluido iniciativas relacionadas con la IA en general que también crean buen contenido sobre NLP y lingüística computacional.*
+*He incluido iniciativas relacionadas con la IA en general que también crean buen contenido sobre PLN y lingüística computacional.*
 
 
 ## 💡 Charlas, talleres y mesas redondas
 
-### NLP y lingüística computacional
+### PLN y lingüística computacional
 - [DiverTLes](https://gplsi.dlsi.ua.es/pln/divertles/mesasredondas): Mesas redondas protagonizadas por mujeres que trabajan e investigan en Tecnologías del Lenguaje.
 - [NLP Spain](https://www.meetup.com/es-ES/nlp-spain/events/past/): Meetups de "una comunidad para disfrutar divulgando y aprendiendo sobre PLN y todas sus vertientes".
-- [Somos NLP](https://www.youtube.com/c/somosnlp): Charlas y talleres impartidos por profesionales del NLP durante el mayor hackathon open-source de NLP en nuestro idioma.
+- [Somos NLP](https://www.youtube.com/c/somosnlp): Charlas y talleres impartidos por profesionales del PLN durante el mayor hackathon open-source de PLN en nuestro idioma.
 
 ### Inteligencia Artificial
 - [Spain AI](https://www.spain-ai.com/eventos/): Charlas y talleres de todos los niveles con el objetivo de hacer llegar la IA a todo el mundo.
@@ -59,7 +59,7 @@ Los blogs también son una muy buena manera de divulgar conocimiento y rara es l
 
 
 ## 🚀 Curso
-Obviamente no puedo hablar de divulgación y formación gratuita sin mencionar el curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien). Está dividido en 7 sesiones que comienzan con una introducción al NLP y los Word Embeddings y explican todo lo necesario para terminar en el último capítulo con la creación una demo de tu modelo con arquitectura Transformer en un Space de Hugging Face. El curso es gratuito, fue organizado por Somos NLP en colaboración con Spain AI e impartido por Omar Sanseviero y Lewis Tunstall, Ingenieros de ML @Hugging Face, Manuel Romero, Ingeniero de NLP @Narrativa, y por mí.
+Obviamente no puedo hablar de divulgación y formación gratuita sin mencionar el curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien). Está dividido en 7 sesiones que comienzan con una introducción al PLN y los Word Embeddings y explican todo lo necesario para terminar en el último capítulo con la creación una demo de tu modelo con arquitectura Transformer en un Space de Hugging Face. El curso es gratuito, fue organizado por Somos PLN en colaboración con Spain AI e impartido por Omar Sanseviero y Lewis Tunstall, Ingenieros de ML @Hugging Face, Manuel Romero, Ingeniero de NLP @Narrativa, y por mí.
 
 
 ## 📚 Grupo de estudio

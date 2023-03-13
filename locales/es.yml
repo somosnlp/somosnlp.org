@@ -3,7 +3,8 @@ jobs:
   not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   search: Buscar
 landing-page:
-  banner: ¡Únete al mayor hackathon open-source de NLP en español! 🚀
+  banner: ¡Únete al mayor hackathon open-source de PLN en español! 🚀
+
   contribute:
     blog: Escribe un artículo o un tutorial
     button: Más ideas
@@ -35,19 +36,18 @@ landing-page:
   why:
     coming-soon: Próximamente
     community: >-
-      Creando la mayor red internacional de hispanohablantes estudiando,
-      trabajando e investigando en el ámbito del NLP.
+      Creando la mayor red internacional de hispanohablantes que estudian, trabajan e investigan en el ámbito del PLN.
     education: >-
       Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
-      el estado del arte del NLP en español.
+      el estado del arte del PLN en español.
     heading: Más de 570M de hispanohablantes
     jobs: Conectando talento con empresas y grupos de investigación.
     new-job-board: Nueva Bolsa de Empleo
     text: >-
-      La investigación en NLP está centrada en el inglés y descuida las
+      La investigación en PLN está centrada en el inglés y descuida las
       dificultades particulares de los otros idiomas. Vamos a darle a nuestro
       idioma tan extendido (y bonito) una representación justa en el ámbito del
-      NLP. Nuestra misión es acelerar el avance del NLP en español, ¿cómo?
+      PLN. Nuestra misión es acelerar el avance del PLN en español, ¿cómo?
 navbar:
   about: Acerca de
   blog: Blog
