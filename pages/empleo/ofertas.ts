@@ -53,17 +53,6 @@ const tirant_lo_blanch_nlp_engineer = {
     más: 'https://tirant.com/trabaja-con-nosotros/noticia-descripcion-data-engineer/'
 }
 
-const bsc_machine_translation_engineer_re2 = {
-    ocupación: 'Machine Translation Engineer (RE2)',
-    "palabras clave": 'BSC, DL, Traducción, Traduccion',
-    contrato: 'T.Completo',
-    entidad: 'Barcelona Supercomputing Center',
-    "nº trabajadores/as": 'Más de 250',
-    localización: 'Híbrido Barcelona',
-    "fecha publicación (fecha límite)": '2023/01/19 (2023/02/28)',
-    más: 'https://www.bsc.es/join-us/job-opportunities/1323lstmre2'
-}
-
 const bsc_machine_translation_engineer_re1 = {
     ocupación: 'Machine Translation Engineer (RE1)',
     "palabras clave": 'BSC, Traducción, Traduccion',
@@ -75,17 +64,6 @@ const bsc_machine_translation_engineer_re1 = {
     más: 'https://www.bsc.es/join-us/job-opportunities/1023lstmre1'
 }
 
-const bsc_data_engineer = {
-    ocupación: 'Data Engineer for Language and Translation Technologies (RE1)',
-    "palabras clave": 'BSC',
-    contrato: 'T.Completo',
-    entidad: 'Barcelona Supercomputing Center',
-    "nº trabajadores/as": 'Más de 250',
-    localización: 'Híbrido Barcelona',
-    "fecha publicación (fecha límite)": '2023/01/18 (2023/02/28)',
-    más: 'https://www.bsc.es/join-us/job-opportunities/923lstmre1'
-}
-
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
@@ -94,7 +72,5 @@ export const ofertas = [
     bsc_deep_learning_engineer_language_re1,
     bsc_deep_learning_engineer_language_re2,
     tirant_lo_blanch_nlp_engineer,
-    bsc_machine_translation_engineer_re2,
     bsc_machine_translation_engineer_re1,
-    bsc_data_engineer,
 ]
