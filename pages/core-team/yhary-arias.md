@@ -7,3 +7,8 @@ twitter: https://twitter.com/yharyarias5
 linkedin: https://www.linkedin.com/in/yharyarias/
 github: https://github.com/yharyarias
 ---
+
+Contribuciones:
+- Traducir tutorial (2?)
+- Crear cartel 8M (sin publicar)
+- Crear el banner de Twitter del Hackathon 2023
