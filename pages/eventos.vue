@@ -20,7 +20,7 @@
             <div class="mx-auto my-8 text-center">
                 <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
                     <img alt="Hackathon 2023" width="650" height="365"
-                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon.jpg" />
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms.jpg" />
                 </a>
             </div>
 
