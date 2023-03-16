@@ -32,7 +32,7 @@ useHead({
                 </a>
                 <div class="button-gray max-w-70 border-2 border-accent-400 rounded">
                     <IconButtonLink
-                        :url='`https://twitter.com/intent/tweet?text=Voy a participar en el hackathon @SomosNLP_ 2023 "Los LLMs hablan Español" ¿quién se apunta? \n\n https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=c`'>
+                        :url='`https://twitter.com/intent/tweet?text=Voy a participar en el hackathon @SomosNLP_ 2023 "Los LLMs hablan Español" ¿te apuntas? \n\n https://twitter.com/SomosNLP_/status/1635311564051070982`'>
                         <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
                         <span class="font-medium text-sm">#HackathonSomosNLP</span>
                     </IconButtonLink>
@@ -82,8 +82,8 @@ useHead({
             <p>Al unirte a este evento tendrás la oportunidad de:</p>
             <ul>
                 <li>
-                    Asistir a charlas y talleres impartidas por profesionales del mundo del PLN, ¡independientemente de si
-                    participas en el hackathon!
+                    Asistir a charlas y talleres impartidas por profesionales del mundo del PLN, independientemente de si
+                    participas en el hackathon
                 </li>
                 <li>
                     Comprender cómo funcionan los grandes modelos del lenguaje (LLMs) y aprender a aprovechar su potencial
@@ -96,7 +96,8 @@ useHead({
                 </li>
                 <li>Consultar tus dudas sobre PLN con mentores y expertas</li>
                 <li>
-                    Recibir apoyo para presentar tu proyecto como paper a una conferencia
+                    Recibir apoyo para presentar tu proyecto como paper a una conferencia o para desarrollar tu idea y
+                    llevarla al mercado
                 </li>
                 <li>... y mucho más por anunciar</li>
             </ul>
@@ -151,6 +152,7 @@ useHead({
                 <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
                     target="_blank">¡apúntate!</a>
             </p>
+
             <p>
                 ¿No puedes esperar hasta el 20 de marzo? Visualiza las grabaciones de las
                 <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
@@ -158,7 +160,7 @@ useHead({
                 </a>.
             </p>
             <p>
-                Para estar al día de los diferentes eventos:
+                Para estar al día de los eventos:
             <ul>
                 <li>
                     Síguenos en
@@ -170,11 +172,9 @@ useHead({
                     <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">YouTube</a>
                 </li>
                 <li>Únete al
-                    <a href="https://www.eventbrite.com/x/565283938477/" target="_blank">calendario de Google del
-                        Hackathon</a>
-                    (si no tienes acceso tienes que registrarte en Eventbrite)
+                    <a href="https://www.eventbrite.com/x/565283938477/" target="_blank">calendario de Google</a>
+                    (primero regístrate en Eventbrite)
                 </li>
-
             </ul>
             </p>
 
@@ -226,9 +226,8 @@ useHead({
                 <li>
                     Únete a nuestra comunidad de
                     <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> y
-                    crea una cuenta en el Hub de
-                    <a href="https://huggingface.co/join" target="_blank">Hugging Face</a> si
-                    todavía no tienes una.
+                    crea una cuenta en
+                    <a href="https://huggingface.co/join" target="_blank">Hugging Face</a>.
                 </li>
                 <li>Regístrate en
                     <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
@@ -238,12 +237,13 @@ useHead({
                     Únete a la organización
                     <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
                         target="_blank">hackathon-somos-nlp-2023</a>
-                    del Hub de Hugging Face.
+                    del Hub de Hugging Face. Habrá que liberar en esta organización todos los datasets, modelos y demos.
                 </li>
                 <li>
                     Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes
-                    equipo puedes utilizar el canal #encuentra-equipo para
-                    crear uno nuevo o unirte a uno existente (más info en el canal). Te animamos a desarrollar un proyecto
+                    equipo puedes utilizar el canal #equipos-hackathon para
+                    crear uno nuevo o unirte a uno existente (más info en el canal). Te animamos a desarrollar un
+                    proyecto
                     enfocado a alguno de los Objetivos de Desarrollo Sostenible de la ONU.
                 </li>
             </ol>
@@ -267,7 +267,11 @@ useHead({
                 <li>GPU grants durante el evento para que tengáis GPUs en vuestros Spaces</li>
                 <li>Swag de Hugging Face para todas las personas que entreguen un proyecto completo</li>
                 <li>La posibilidad de entrar en la red global de talento Nova</li>
-                <li>Certificado de participación o de equipo ganador del "Hackathon Somos NLP 2023: Los LLMs hablan Español"
+                <li>Tickets para asistir a la WomenTech Network Global Conference 2023</li>
+                <li>Descuentos para participar en un programa de incubación de ideas y crear un MVP a partir de tu proyecto
+                </li>
+                <li>Certificado de participación o de equipo ganador del "Hackathon Somos NLP 2023: Los LLMs hablan
+                    Español"
                     (verificado en nuestra web)</li>
                 <li>Rol honorífico en el servidor de Discord, e.g.: "🏆Hackathon23"</li>
                 <li>... y mucho más por anunciar</li>
@@ -291,7 +295,8 @@ useHead({
 
             <h2 id="patrocinios">👏 Patrocinios</h2>
             <p>
-                Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a
+                Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos.
+                ¡Vamos a
                 democratizar el PLN en español!
             </p>
             <h3>🥇 Patrocinadores de oro</h3>
@@ -301,33 +306,75 @@ useHead({
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
 
                 <SponsorInfo sponsor="Nova" url="https://www.novatalent.com/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/nova.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/nova.png" />
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/Nova.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Nova_dark.png" />
 
-                <SponsorInfo sponsor="Argilla" url="https://www.novatalent.com/"
+                <SponsorInfo sponsor="Argilla" url="https://www.argilla.io/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
+
+                <SponsorInfo sponsor="Women Tech Global Conference" url="https://www.womentech.net/women-tech-conference"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
+
+                <SponsorInfo sponsor="Agilmentor" url="https://agilmentor.com/programa/incubacion-tech/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/Agilmentor.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Agilmentor.png" />
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png" />
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png" />
             </div>
             <h3>🥉 Patrocinadores de bronce</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
-                    logo="https://somosnlp.github.io/assets/images/logo_DiverTLes.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_DiverTLes_dark.png" />
-
                 <SponsorInfo sponsor="Narrativa" url="https://www.narrativa.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_Narrativa.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png" />
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Narrativa_dark.png" />
 
                 <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
-                    logo="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png" />
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+
+                <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
+
+
+                <SponsorInfo sponsor="Mujeres Tech" url="https://www.mujerestech.com/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
+
+                <SponsorInfo sponsor="IBiDat" url="https://ibidat.es/"
+                    logo="https://somosnlp.github.io/assets/images/logo_IBiDat.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png" />
+
+                <SponsorInfo sponsor="NLP Spain" url="https://nlpspain.blogspot.com/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg" />
+
+                <SponsorInfo sponsor="Capítulo Estudiantil AAAIMX" url="https://www.aaaimx.org/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX_dark.png" />
+
+                <SponsorInfo sponsor="Big Onion" url="https://datakondo.io/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
+
+                <SponsorInfo sponsor="NLP Webinar MX" url="http://www.nlpwebinarmx.org/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png" />
+
+                <SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
             </div>
+            <p>
+
+                A lo largo de esta semana iremos
+                anunciando más patrocinadores 🔥
+            </p>
             <p>
                 ¿Quieres patrocinar este hackathon y ayudarnos a democratizar el PLN en español? Mándanos un correo a
                 <a href="mailto:info@somosnlp.org" target="_blank">info@somosnlp.org</a>,

@@ -7,3 +7,7 @@ twitter: https://twitter.com/OscarCumbicus
 linkedin: https://www.linkedin.com/in/oscar-cumbicus-47095443/
 github: https://github.com/oskrmiguel
 ---
+
+Contribuciones:
+- Patrocinio UNL Hackathon 2022
+- Colaboración con FliSol Loja
