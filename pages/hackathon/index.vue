@@ -266,7 +266,9 @@ useHead({
             <ul>
                 <li>GPU grants durante el evento para que tengáis GPUs en vuestros Spaces</li>
                 <li>Swag de Hugging Face para todas las personas que entreguen un proyecto completo</li>
-                <li>La posibilidad de entrar en la red global de talento Nova</li>
+                <li>La posibilidad de entrar en la red global de talento
+                    <a href="blog/anuncio-patrocinios" target="_blank">Nova</a>
+                </li>
                 <li>Tickets para asistir a la WomenTech Network Global Conference 2023</li>
                 <li>Descuentos para participar en un programa de incubación de ideas y crear un MVP a partir de tu proyecto
                 </li>
