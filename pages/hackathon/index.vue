@@ -248,8 +248,7 @@ useHead({
                 </li>
             </ol>
             <p>
-                ¡Todo listo para poder empezar! Incluiremos más información durante la semana previa al comienzo del
-                hackathon.
+                ¡Todo listo para poder empezar! Anunciaremos todos los detalles el 20 de marzo.
             </p>
 
             <h2 id="evaluacion-y-premios">🏆 Evaluación y Premios</h2>
@@ -259,16 +258,13 @@ useHead({
                 resolver una tarea diferente, además de tener en cuenta el
                 valor de las métricas, los criterios de evaluación incluirán el
                 impacto social del proyecto, la originalidad de la idea y la
-                dificultad técnica. Publicaremos los criterios antes del
-                comienzo del hackathon.
+                dificultad técnica. Publicaremos los criterios el 20 de marzo.
             </p>
             <p>Los premios incluirán:</p>
             <ul>
-                <li>GPU grants durante el evento para que tengáis GPUs en vuestros Spaces</li>
-                <li>Swag de Hugging Face para todas las personas que entreguen un proyecto completo</li>
-                <li>La posibilidad de entrar en la red global de talento
-                    <a href="blog/anuncio-patrocinios" target="_blank">Nova</a>
-                </li>
+                <li>GPU grants durante el evento para que tengáis NVIDIA T4's en vuestros Spaces</li>
+                <li>Swag de Hugging Face exclusivo para todas las personas que entreguen un proyecto completo</li>
+                <li>La posibilidad de entrar en la red global de talento Nova</li>
                 <li>Tickets para asistir a la WomenTech Network Global Conference 2023</li>
                 <li>Descuentos para participar en un programa de incubación de ideas y crear un MVP a partir de tu proyecto
                 </li>
@@ -278,6 +274,9 @@ useHead({
                 <li>Rol honorífico en el servidor de Discord, e.g.: "🏆Hackathon23"</li>
                 <li>... y mucho más por anunciar</li>
             </ul>
+            <a href="blog/anuncio-patrocinios" target="_blank">
+                ¡Más detalles sobre las empresas patrocinadoras de oro aquí!
+            </a>
             <p>
                 Estamos hablando con nuestros patrocinadores,
                 mantendremos esta sección actualizada 😉
@@ -319,22 +318,23 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
 
-                <SponsorInfo sponsor="Agilmentor" url="https://agilmentor.com/programa/incubacion-tech/"
+                <SponsorInfo sponsor="AgilMentor" url="https://agilmentor.com/programa/incubacion-tech/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Agilmentor.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Agilmentor.png" />
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" />
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png" />
-            </div>
-            <h3>🥉 Patrocinadores de bronce</h3>
-            <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
+
+
                 <SponsorInfo sponsor="Narrativa" url="https://www.narrativa.com/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Narrativa_dark.png" />
-
+            </div>
+            <h3>🥉 Patrocinadores de bronce</h3>
+            <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
@@ -374,8 +374,7 @@ useHead({
             </div>
             <p>
 
-                A lo largo de esta semana iremos
-                anunciando más patrocinadores 🔥
+                Seguiremos anunciando más patrocinadores 🔥
             </p>
             <p>
                 ¿Quieres patrocinar este hackathon y ayudarnos a democratizar el PLN en español? Mándanos un correo a
