@@ -1,12 +1,12 @@
 ---
 name: Laura Segura
-title: 
-cover: 
+title: Graduate Innovation Developer @Vodafone
+cover: https://somosnlp.github.io/assets/images/comunidad/laura_segura.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/laura-segura-mayordomo 
 website: 
 other: 
-events: ["Escribió el artículo de llamada a patrocinar el hackathon"]
+events: ["Artículo llamada a patrocinios hackathon 2023", "Artículo WTGC 2023"]
 date: ""
 short_bio: ""
 ---
