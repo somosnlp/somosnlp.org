@@ -7,3 +7,6 @@ twitter: https://twitter.com/espejelomar
 linkedin: https://www.linkedin.com/in/omar-espejel
 github: https://github.com/omarespejel
 ---
+
+## Colaboración
+- Ayuda en la organización del [Hackathon Somos NLP 2022](/hackathon-2022)
