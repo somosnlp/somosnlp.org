@@ -48,7 +48,7 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
     <Container class="my-12">
         <header class="m-auto text-center prose">
             <h1>{{ frontmatter.title }}</h1>
-            <p v-if="frontmatter.description" class="text-lg">{{ frontmatter.description }}.</p>
+            <p v-if="frontmatter.description" class="text-lg">{{ frontmatter.description }}</p>
             <div class="text-lg opacity-50">
                 <span v-if="frontmatter.author">{{ frontmatter.author }}</span>
                 <span v-if="frontmatter.date"> · {{ d(frontmatter.date, "short") }}</span>
