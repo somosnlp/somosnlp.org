@@ -1,6 +1,6 @@
 ---
-name: Fernando J. Hidalgo
-title: Conversational Designer @xatbot
+title: Fernando J. Hidalgo
+description: Conversational Designer @xatbot
 cover: https://avatars.githubusercontent.com/u/33739979
 website: 
 twitter:
