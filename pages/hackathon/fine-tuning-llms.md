@@ -1,0 +1,25 @@
+---
+title: Detección y mitigación de sesgos en LLMs
+date: 2023-03-22T18:00:00.000+00:00
+lang: es
+duration: 30min
+cover: "https://somosnlp.github.io/assets/images/comunidad/"
+author: Manuel Romero
+bio: 
+website: 
+twitter: 
+linkedin: 
+github: 
+---
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/"
+    video=""
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
