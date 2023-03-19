@@ -26,6 +26,13 @@ Con motivo del 8M queremos dar visibilidad a mujeres que trabajan e investigan e
     </a>
 </div>
 
+Mesa redonda moderada por
+[Flor Miriam Plaza del Arco](/comunidad/flor-plaza)
+y protagonizada por
+[Inés García Sacristán](/comunidad/ines-garcia-sacristan),
+[Maite Martín](/comunidad/maite-martin) y
+[Sara A. Pedraz](/comunidad/sara-a-pedraz).
+
 ## Vídeo "Somos Mujeres NLP"
 
 Tú también puedes ser protagonista este 8M. Te animamos a grabar un **vídeo de 30 segundos** donde compartas tu experiencia y opinión sobre la desigualdad de género en el PLN.

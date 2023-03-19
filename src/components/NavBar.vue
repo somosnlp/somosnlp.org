@@ -16,8 +16,6 @@ const { t } = useI18n()
             }}</router-link>
             <router-link to="/eventos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.events') }}
             </router-link>
-            <router-link to="/blog/iniciativas-8m" class="whitespace-nowrap hover:text-accent-500">8M
-            </router-link>
             <router-link to="/hackathon" class="whitespace-nowrap  text-accent-500 hover:text-accent-600">Hackathon
             </router-link>
             <router-link to="/empleo" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.jobs') }}

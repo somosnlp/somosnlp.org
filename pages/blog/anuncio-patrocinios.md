@@ -5,6 +5,12 @@ date: 2023-03-16T18:00:00.000+00:00
 lang: es
 duration: 3min
 cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms.jpg
+author: María Grandury
+bio: ML Research Engineer y fundadora de Somos NLP
+website: https://mariagrandury.com
+twitter: https://twitter.com/mariagrandury
+linkedin: https://www.linkedin.com/in/mariagrandury
+github: https://github.com/mariagrandury
 ---
 
 ## Hugging Face
@@ -60,3 +66,5 @@ Además, la persona que consiga una mayor puntuación en el proceso de selecció
 ---
 
 🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477/?aff=w)! 
+
+[María Grandury](/core-team/maria-grandury)
