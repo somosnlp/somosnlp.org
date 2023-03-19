@@ -1,6 +1,6 @@
 ---
-name: Isaac Rodríguez Bribiesca
-title: NLP Engineer @Botco.ai
+title: Isaac Rodríguez Bribiesca
+description: NLP Engineer @Botco.ai
 cover: https://avatars.githubusercontent.com/u/9711043
 website: https://isaacrodgz.github.io
 twitter:

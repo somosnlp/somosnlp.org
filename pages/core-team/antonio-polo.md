@@ -1,6 +1,6 @@
 ---
-name: Antonio Polo
-title: ML Engineer & Data Scientist @Nymiz
+title: Antonio Polo
+description: ML Engineer & Data Scientist @Nymiz
 cover: https://avatars.githubusercontent.com/u/30154911
 website: 
 twitter:
