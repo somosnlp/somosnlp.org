@@ -1,10 +1,10 @@
 ---
-title: Detección y mitigación de sesgos en LLMs
-date: 2023-03-22T18:00:00.000+00:00
+title: Etiquetado de datos con Argilla
+date: 2023-03-21T17:00:00.000+00:00
 lang: es
-duration: 30min
+duration: 45min
 cover: "https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.svg"
-author: María Grandury
+author: Daniel Vila Suero
 bio: 
 website: 
 twitter: 
@@ -14,7 +14,7 @@ github:
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/"
+    poster="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg"
     video=""
     name=""
     website=""

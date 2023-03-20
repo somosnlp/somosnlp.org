@@ -72,8 +72,8 @@ useHead({
             <p>
                 Los equipos que desarrollen un proyecto enfocado a uno de los <a
                     href="https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/"
-                    target="_blank">Objetivos de Desarrollo Sostenible </a> tendrán un
-                punto extra 💛
+                    target="_blank">Objetivos de Desarrollo Sostenible </a>
+                tendrán un punto extra 💛
             </p>
 
             <hr class="mx-auto my-12 prose" />
@@ -143,6 +143,76 @@ useHead({
 
             <hr class="mx-auto my-12 prose" />
 
+            <h2 id="recursos">📖 Recursos</h2>
+            <p>
+                Desde el equipo de Somos NLP queremos animarte a participar
+                independientemente de tus conocimientos actuales.
+            </p>
+            <ul>
+                <li>
+                    Durante los primeros días del hackathon daremos una serie de <b>talleres prácticos</b> mostrándote entre
+                    otros cómo
+                    hacer fine-tuning de un LLM y cómo etiquetar tu base de datos para que tengas un ejemplo de referencia.
+                </li>
+                <div class="mx-auto my-8 text-center">
+                    <div class="grid grid-cols-2 gap-8 my-1">
+                        <a href="/hackathon/fine-tuning-llms" target="_blank">
+                            <img alt="Fine-tuning LLMs" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llm.jpg" />
+                        </a>
+                        <a href="hackathon/etiquetado-de-datos-con-argilla" target="_blank">
+                            <img alt="Etiquetado de datos con Argilla" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg" />
+                        </a>
+                        <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
+                            <img alt="Evaluación de sesgos" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg" />
+                        </a>
+                    </div>
+                </div>
+                <li>
+                    Organizaremos
+                    <b>AMAs</b> (del inglés, Ask Me Anything) con expertas y
+                    mentores para que puedan solucionar tus dudas.
+                </li>
+                <div class="mx-auto my-8 text-center">
+                    <div class="grid grid-cols-2 gap-8 my-1">
+                        <a href="hackathon/ama-con-natalia-elvira" target="_blank">
+                            <img alt="AMA con Natalia Elvira" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
+                        </a>
+                        <a href="/hackathon/ama-con-omar-sanseviero" target="_blank">
+                            <img alt="AMA con Omar Sanseviero" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_omar_sanseviero.jpg" />
+                        </a>
+                        <a href="/hackathon/ama-con-alejandro-vaca" target="_blank">
+                            <img alt="AMA con Alejandro Vaca" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230329_ama_con_alejandro_vaca.jpg" />
+                        </a>
+                    </div>
+                </div>
+                <li>
+                    Además, durante la celebración del hackathon estaremos a tu
+                    disposición en el canal <b>#pide-ayuda</b> de Discord para
+                    guiarte y ayudarte a desarrollar tu proyecto.
+                </li>
+                <li>
+                    Para ayudarte a definir tu proyecto, hemos propuesto algunas ideas en el primer mensaje del canal
+                    #equipos-hackathon. Además, en nuestra sección de "Recursos"
+                    <a href="recursos">(somosnlp.org/recursos)</a>
+                    puedes encontrar listas de
+                    <b>datasets y modelos open-source</b>.
+                </li>
+                <li>
+                    Si quieres ver ejemplos de proyectos, puedes echarle un vistazo a la organización de la primera edición.
+                    También te
+                    animamos a ver los talleres en los que
+                    <a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M">equipos
+                        ganadores</a>
+                    explican cómo implementaron sus proyectos.
+                </li>
+            </ul>
+
             <h2 id="charlas-y-talleres">💡 Charlas y Talleres</h2>
             <p>
                 Durante el hackathon tendrán lugar diversas charlas y talleres
@@ -151,13 +221,6 @@ useHead({
                 personas, independientemente de si participan en el hackathon,
                 <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
                     target="_blank">¡apúntate!</a>
-            </p>
-
-            <p>
-                ¿No puedes esperar hasta el 20 de marzo? Visualiza las grabaciones de las
-                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
-                    charlas y talleres del Hackathon 2022
-                </a>.
             </p>
             <p>
                 Para estar al día de los eventos:
@@ -178,47 +241,98 @@ useHead({
             </ul>
             </p>
 
-            <h2 id="recursos">📖 Recursos</h2>
-            <p>
-                Desde el equipo de Somos NLP queremos animarte a participar
-                independientemente de tus conocimientos actuales.
-            </p>
-            <ul>
-                <li>
-                    En nuestra sección "Recursos"
-                    <a href="recursos">(somosnlp.org/recursos)</a>
-                    puedes encontrar tanto listas de
-                    <b>datasets y modelos open-source</b> como
-                    <b>tutoriales</b> explicando cómo hacer fine-tuning
-                    para desarrollar tu proyecto. Añadiremos más durante la semana previa al inicio del hackathon.
-                </li>
-                <li>
-                    También daremos un <b>taller práctico</b> el primer día del
-                    hackathon en el cual crearemos una base de datos,
-                    entrenaremos un modelo y desarrollaremos una demo para que
-                    tengas un ejemplo de proyecto de referencia.
-                </li>
-                <li>
-                    Organizaremos
-                    <b>AMAs</b> (del inglés, Ask Me Anything) con expertas y
-                    mentores para que puedan solucionar tus dudas.
-                </li>
-                <li>
-                    Además, durante la celebración del hackathon estaremos a tu
-                    disposición en el canal <b>#pide-ayuda</b> de Discord para
-                    guiarte y ayudarte a desarrollar tu proyecto.
-                </li>
-                <li>
-                    Si quieres ver ejemplos de proyectos, puedes echarle un vistazo a los talleres en los que
-                    <a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M">equipos
-                        ganadores</a>
-                    de la primera edición explican cómo implementaron sus proyectos.
-                </li>
-            </ul>
-
             <hr class="mx-auto my-12 prose" />
 
             <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
+
+            <ul>
+                <li>
+                    El objetivo del hackathon es crear recursos abiertos de PLN en español, a poder ser aprovechando el
+                    potencial de los grandes modelos del lenguaje para desarrollar un proyecto enfocado a alguno de los
+                    Objetivos de Desarrollo Sostenible.
+                </li>
+                <li>
+                    Dataset:
+                    <ul>
+                        <li>
+                            Puedes crear uno desde cero, mejorar alguno ya existente o utilizarlo directamente (ojo a las
+                            licencias).
+                        </li>
+                        <li>
+                            En español o multilingüe.
+                        </li>
+                        <li>
+
+                            Si te animas a etiquetar un dataset te recomendamos utilizar Argilla. El martes 21 haremos un
+                            taller
+                            donde el CEO te enseñará a utilizar la herramienta y el jueves 23 organizaremos un AMA con una
+                            persona
+                            del equipo
+                            que resolverá tus dudas.
+                        </li>
+                        <li>
+                            Cumplimenta bien la Dataset Card, daremos un punto extra si está completa y se incluyen temas
+                            como los sesgos del dataset.
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    Modelo:
+                    <ul>
+                        <li>
+                            Haz fine-tuning de un modelo ya existente (no pre-entrenar), a poder ser de un gran
+                            modelo del
+                            lenguaje (LLM) como BERTIN-GPT-J o BLOOM. El lunes 20 daremos un taller en el que te
+                            explicaremos
+                            cómo
+                            realizar esto.
+                        </li>
+                        <li>
+                            En español o multilingüe.
+                        </li>
+                        <li>
+                            Si quieres, puedes utilizar la herramienta experimental de
+                            HF
+                            fuego para entrenar tu modelo directamente desde Spaces.
+                        </li>
+                        <li>
+                            Evalúa tu modelo y haz públicos
+                            los resultados. Puedes utilizar la herramienta evaluate de HF o un script, ten en cuenta que
+                            tendrás
+                            que
+                            liberarlo.
+                        </li>
+                        <li>
+                            Cumplimenta bien la Model Card, daremos un punto extra si está completa y se incluyen temas como
+                            una
+                            evaluación de los sesgos del modelo y del impacto climático.
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Demo:
+                    Por último, crea una demo de tu modelo en el hub de HF. <a
+                        href="https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta"
+                        target="_blank">Aquí</a> tienes tutoriales para
+                    crear demos utilizando gradio,
+                    streamlit y flask.
+                </li>
+                <li>
+                    IMPORTANTE: Todo el proyecto debe ser liberado en la organización
+                    <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
+                        target="_blank">hackathon-somos-nlp-2023</a>,
+                    esto incluye el dataset, el modelo y la demo.
+                </li>
+                <li>
+                    Los scripts de creación/limpieza del dataset y de entrenamiento/evaluación del modelo también deben ser
+                    liberados. Puedes esperar al 31 de marzo para evitar problemas de plagio. Incluye un enlace en la
+                    Dataset Card o Model Card a los notebooks o scripts utilizados en cada caso. Si los has creado
+                    específicamente para el proyecto, súbelos al repo correspondiente.
+                </li>
+
+            </ul>
+
             <p>
                 Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy sencillo, ¡anímate!
             </p>
@@ -248,8 +362,9 @@ useHead({
                 </li>
             </ol>
             <p>
-                ¡Todo listo para poder empezar! Anunciaremos todos los detalles el 20 de marzo.
+                ¡Todo listo para poder empezar!
             </p>
+
 
             <h2 id="evaluacion-y-premios">🏆 Evaluación y Premios</h2>
             <p>
@@ -258,8 +373,23 @@ useHead({
                 resolver una tarea diferente, además de tener en cuenta el
                 valor de las métricas, los criterios de evaluación incluirán el
                 impacto social del proyecto, la originalidad de la idea y la
-                dificultad técnica. Publicaremos los criterios el 20 de marzo.
+                dificultad técnica. Anunciaremos los criterios el 20 de marzo.
             </p>
+            <ul>
+                Además de los tres proyectos ganadores elegidos por el jurado, habrá varias menciones de honor:
+                <li>
+                    🤗 Proyecto con más likes en el Hub de Hugging Face
+                </li>
+                <li>
+                    💛 Proyecto con mayor impacto social
+                </li>
+                <li>
+                    ✍️ Mejor dataset etiquetado: patrocinado por Argilla
+                </li>
+                <li>
+                    💸 Proyecto con más opciones de llegar al mercado: patrocinado por AgilMentor
+                </li>
+            </ul>
             <p>Los premios incluirán:</p>
             <ul>
                 <li>GPU grants durante el evento para que tengáis NVIDIA T4's en vuestros Spaces</li>
@@ -319,7 +449,7 @@ useHead({
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
 
                 <SponsorInfo sponsor="AgilMentor" url="https://agilmentor.com/programa/incubacion-tech/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/Agilmentor.png"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" />
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
@@ -371,6 +501,10 @@ useHead({
                 <SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
+
+                <SponsorInfo sponsor="AI The New Sexy" url="https://mcd.unison.mx"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
             </div>
             <p>
 
