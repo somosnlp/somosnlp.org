@@ -404,10 +404,10 @@ useHead({
                 <li>... y mucho más por anunciar</li>
             </ul>
             <a href="blog/anuncio-patrocinios" target="_blank">
-                ¡Más detalles sobre las empresas patrocinadoras de oro aquí!
+                ¡Más detalles sobre los patrocinios de oro aquí!
             </a>
             <p>
-                Estamos hablando con nuestros patrocinadores,
+                Estamos hablando con las empresas patrocinadoras,
                 mantendremos esta sección actualizada 😉
             </p>
 
@@ -500,13 +500,17 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
 
-                <SponsorInfo sponsor="AI The New Sexy" url="https://mcd.unison.mx"
+                <SponsorInfo sponsor="DataGénero" url="https://www.datagenero.org"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png" />
+
+                <SponsorInfo sponsor="AI The New Sexy" url="https://linktr.ee/aithenewsexy"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
             </div>
             <p>
 
-                Seguiremos anunciando más patrocinadores 🔥
+                Seguiremos anunciando más patrocinios 🔥
             </p>
             <p>
                 ¿Quieres patrocinar este hackathon y ayudarnos a democratizar el PLN en español? Mándanos un correo a
