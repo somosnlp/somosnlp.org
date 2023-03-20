@@ -111,22 +111,22 @@ useHead({
             <h2 id="por-que-participar">📝 Índice</h2>
             <div class="m-12">
                 <ul>
-                    <p>Mejora tus conocimientos de PLN</p>
-                    <ul>
-                        <li>
-                            <a href="#charlas-y-talleres">Charlas y Talleres</a>
-                        </li>
-                        <li>
-                            <a href="#recursos">Recursos</a>
-                        </li>
-                    </ul>
                     <p>Todo lo que necesitas saber del hackathon</p>
                     <ul>
                         <li>
                             <a href="#bases-del-hackathon">Bases del Hackathon</a>
                         </li>
                         <li>
+                            <a href="#recursos">Recursos</a>
+                        </li>
+                        <li>
                             <a href="#evaluacion-y-premios">Evaluación y Premios</a>
+                        </li>
+                    </ul>
+                    <p>Mejora tus conocimientos de PLN</p>
+                    <ul>
+                        <li>
+                            <a href="#charlas-y-talleres">Charlas y Talleres</a>
                         </li>
                     </ul>
                     <p>Agradecimientos</p>
@@ -142,6 +142,158 @@ useHead({
             </div>
 
             <hr class="mx-auto my-12 prose" />
+
+            <h2 id="charlas-y-talleres">💡 Charlas y Talleres</h2>
+            <p>
+                Durante el hackathon tendrán lugar diversas charlas y talleres
+                impartidas por profesionales del mundo del Procesamiento del
+                Lenguaje Natural. Estos eventos están abiertos a todas las
+                personas, independientemente de si participan en el hackathon,
+                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
+                    target="_blank">¡apúntate!</a>
+            </p>
+            <p>
+                Para estar al día de los eventos:
+            <ul>
+                <li>
+                    Síguenos en
+                    <a href="https://twitter.com/somosnlp_" target="_blank">Twitter</a> y
+                    <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a>
+                </li>
+                <li>
+                    Suscríbete a nuestro canal de
+                    <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">YouTube</a>
+                </li>
+                <li>Únete al
+                    <a href="https://www.eventbrite.com/x/565283938477/" target="_blank">calendario de Google</a>
+                    (primero regístrate en Eventbrite)
+                </li>
+            </ul>
+            </p>
+
+            <hr class="mx-auto my-12 prose" />
+
+            <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
+
+            <ul>
+                <li>
+                    El objetivo del hackathon es crear recursos abiertos de PLN en español, a poder ser aprovechando el
+                    potencial de los grandes modelos del lenguaje para desarrollar un proyecto enfocado a alguno de los
+                    Objetivos de Desarrollo Sostenible.
+                </li>
+                <li>
+                    Dataset:
+                    <ul>
+                        <li>
+                            Te animamos a crear un dataset específicamente para tu proyecto aunque también puedes mejorar
+                            alguno ya existente o utilizarlo directamente (ojo a las licencias).
+                        </li>
+                        <li>
+                            En español o multilingüe.
+                        </li>
+                        <li>
+                            Si te animas a etiquetar un dataset te recomendamos utilizar Argilla. El martes 21 haremos un
+                            taller donde el CEO te enseñará a utilizar la herramienta y el jueves 23 organizaremos un AMA
+                            con una
+                            persona del equipo
+                            que resolverá tus dudas. Además, el equipo estará atento a Discord para ayudarte.
+                        </li>
+                        <li>
+                            Cumplimenta bien la Dataset Card, tendremos en cuenta a la hora de evaluar los proyectos si está
+                            si está completa y si incluye temas como una evaluación de los sesgos del dataset.
+                        </li>
+
+                    </ul>
+                </li>
+                <li>
+                    Modelo:
+                    <ul>
+                        <li>
+                            Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero). En esta edición te
+                            animamos a que ajuste un
+                            gran
+                            modelo del
+                            lenguaje (LLM), como BERTIN-GPT-J o BLOOM. El lunes 20 Manu Romero, el mayor contribuidor del
+                            Hub de Hugging Face, dará un taller en el que te
+                            explicaremos
+                            cómo
+                            realizar esto.
+                        </li>
+                        <li>
+                            En español o multilingüe.
+                        </li>
+                        <li>
+                            Si quieres, puedes utilizar la herramienta experimental de
+                            HF
+                            fuego para entrenar tu modelo directamente desde Spaces.
+                        </li>
+                        <li>
+                            Evalúa tu modelo y haz públicos
+                            los resultados. Puedes utilizar la herramienta evaluate de HF o un script, ten en cuenta que
+                            tendrás
+                            que
+                            liberarlo.
+                        </li>
+                        <li>
+                            Cumplimenta bien la Model Card, a la hora de evaluar los proyectos daremos un punto extra si
+                            está completa y se incluyen temas como la
+                            evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    Demo:
+                    Por último, crea una demo de tu modelo en el hub de HF. <a
+                        href="https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta"
+                        target="_blank">Aquí</a> tienes tutoriales para
+                    crear demos utilizando gradio,
+                    streamlit y flask.
+                </li>
+                <li>
+                    IMPORTANTE: Todo el proyecto debe ser liberado en la organización
+                    <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
+                        target="_blank">hackathon-somos-nlp-2023</a>,
+                    esto incluye el dataset, el modelo y la demo.
+                </li>
+                <li>
+                    Los scripts de creación/limpieza del dataset y de entrenamiento/evaluación del modelo también deben ser
+                    liberados. Puedes esperar al 31 de marzo para evitar problemas de plagio. Incluye un enlace en la
+                    Dataset Card o Model Card a los notebooks o scripts utilizados en cada caso. Si los has creado
+                    específicamente para el proyecto, súbelos al repo correspondiente.
+                </li>
+            </ul>
+
+            <p>
+                Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy sencillo, ¡anímate!
+            </p>
+            <ol>
+                <li>
+                    Únete a nuestra comunidad de
+                    <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> y
+                    crea una cuenta en
+                    <a href="https://huggingface.co/join" target="_blank">Hugging Face</a>.
+                </li>
+                <li>Regístrate en
+                    <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
+                        target="_blank">Eventbrite</a>.
+                </li>
+                <li>
+                    Únete a la organización
+                    <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
+                        target="_blank">hackathon-somos-nlp-2023</a>
+                    del Hub de Hugging Face. Habrá que liberar en esta organización todos los datasets, modelos y demos.
+                </li>
+                <li>
+                    Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes
+                    equipo puedes utilizar el canal #equipos-hackathon para
+                    crear uno nuevo o unirte a uno existente (más info en el canal). Te animamos a desarrollar un
+                    proyecto
+                    enfocado a alguno de los Objetivos de Desarrollo Sostenible de la ONU.
+                </li>
+            </ol>
+            <p>
+                ¡Todo listo para poder empezar!
+            </p>
 
             <h2 id="recursos">📖 Recursos</h2>
             <p>
@@ -192,7 +344,7 @@ useHead({
                     </div>
                 </div>
                 <li>
-                    Además, durante la celebración del hackathon estaremos a tu
+                    Además, durante el hackathon estaremos a tu
                     disposición en el canal <b>#pide-ayuda</b> de Discord para
                     guiarte y ayudarte a desarrollar tu proyecto.
                 </li>
@@ -204,167 +356,14 @@ useHead({
                     <b>datasets y modelos open-source</b>.
                 </li>
                 <li>
-                    Si quieres ver ejemplos de proyectos, puedes echarle un vistazo a la organización de la primera edición.
-                    También te
-                    animamos a ver los talleres en los que
+                    Si quieres ver ejemplos de proyectos, puedes echarle un vistazo a la organización del Hub de HF de la
+                    primera edición.
+                    También te animamos a ver los talleres en los que
                     <a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M">equipos
                         ganadores</a>
                     explican cómo implementaron sus proyectos.
                 </li>
             </ul>
-
-            <h2 id="charlas-y-talleres">💡 Charlas y Talleres</h2>
-            <p>
-                Durante el hackathon tendrán lugar diversas charlas y talleres
-                impartidas por profesionales del mundo del Procesamiento del
-                Lenguaje Natural. Estos eventos están abiertos a todas las
-                personas, independientemente de si participan en el hackathon,
-                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
-                    target="_blank">¡apúntate!</a>
-            </p>
-            <p>
-                Para estar al día de los eventos:
-            <ul>
-                <li>
-                    Síguenos en
-                    <a href="https://twitter.com/somosnlp_" target="_blank">Twitter</a> y
-                    <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a>
-                </li>
-                <li>
-                    Suscríbete a nuestro canal de
-                    <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">YouTube</a>
-                </li>
-                <li>Únete al
-                    <a href="https://www.eventbrite.com/x/565283938477/" target="_blank">calendario de Google</a>
-                    (primero regístrate en Eventbrite)
-                </li>
-            </ul>
-            </p>
-
-            <hr class="mx-auto my-12 prose" />
-
-            <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
-
-            <ul>
-                <li>
-                    El objetivo del hackathon es crear recursos abiertos de PLN en español, a poder ser aprovechando el
-                    potencial de los grandes modelos del lenguaje para desarrollar un proyecto enfocado a alguno de los
-                    Objetivos de Desarrollo Sostenible.
-                </li>
-                <li>
-                    Dataset:
-                    <ul>
-                        <li>
-                            Puedes crear uno desde cero, mejorar alguno ya existente o utilizarlo directamente (ojo a las
-                            licencias).
-                        </li>
-                        <li>
-                            En español o multilingüe.
-                        </li>
-                        <li>
-
-                            Si te animas a etiquetar un dataset te recomendamos utilizar Argilla. El martes 21 haremos un
-                            taller
-                            donde el CEO te enseñará a utilizar la herramienta y el jueves 23 organizaremos un AMA con una
-                            persona
-                            del equipo
-                            que resolverá tus dudas.
-                        </li>
-                        <li>
-                            Cumplimenta bien la Dataset Card, daremos un punto extra si está completa y se incluyen temas
-                            como los sesgos del dataset.
-                        </li>
-
-                    </ul>
-                </li>
-                <li>
-                    Modelo:
-                    <ul>
-                        <li>
-                            Haz fine-tuning de un modelo ya existente (no pre-entrenar), a poder ser de un gran
-                            modelo del
-                            lenguaje (LLM) como BERTIN-GPT-J o BLOOM. El lunes 20 daremos un taller en el que te
-                            explicaremos
-                            cómo
-                            realizar esto.
-                        </li>
-                        <li>
-                            En español o multilingüe.
-                        </li>
-                        <li>
-                            Si quieres, puedes utilizar la herramienta experimental de
-                            HF
-                            fuego para entrenar tu modelo directamente desde Spaces.
-                        </li>
-                        <li>
-                            Evalúa tu modelo y haz públicos
-                            los resultados. Puedes utilizar la herramienta evaluate de HF o un script, ten en cuenta que
-                            tendrás
-                            que
-                            liberarlo.
-                        </li>
-                        <li>
-                            Cumplimenta bien la Model Card, daremos un punto extra si está completa y se incluyen temas como
-                            una
-                            evaluación de los sesgos del modelo y del impacto climático.
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    Demo:
-                    Por último, crea una demo de tu modelo en el hub de HF. <a
-                        href="https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta"
-                        target="_blank">Aquí</a> tienes tutoriales para
-                    crear demos utilizando gradio,
-                    streamlit y flask.
-                </li>
-                <li>
-                    IMPORTANTE: Todo el proyecto debe ser liberado en la organización
-                    <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
-                        target="_blank">hackathon-somos-nlp-2023</a>,
-                    esto incluye el dataset, el modelo y la demo.
-                </li>
-                <li>
-                    Los scripts de creación/limpieza del dataset y de entrenamiento/evaluación del modelo también deben ser
-                    liberados. Puedes esperar al 31 de marzo para evitar problemas de plagio. Incluye un enlace en la
-                    Dataset Card o Model Card a los notebooks o scripts utilizados en cada caso. Si los has creado
-                    específicamente para el proyecto, súbelos al repo correspondiente.
-                </li>
-
-            </ul>
-
-            <p>
-                Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy sencillo, ¡anímate!
-            </p>
-            <ol>
-                <li>
-                    Únete a nuestra comunidad de
-                    <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> y
-                    crea una cuenta en
-                    <a href="https://huggingface.co/join" target="_blank">Hugging Face</a>.
-                </li>
-                <li>Regístrate en
-                    <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
-                        target="_blank">Eventbrite</a>.
-                </li>
-                <li>
-                    Únete a la organización
-                    <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023/share/YPgLHyEfyVvfnHMYmPbisOqmWTOzQxSDYI"
-                        target="_blank">hackathon-somos-nlp-2023</a>
-                    del Hub de Hugging Face. Habrá que liberar en esta organización todos los datasets, modelos y demos.
-                </li>
-                <li>
-                    Reúne tu equipo (de 1 a 5 personas). Si todavía no tienes
-                    equipo puedes utilizar el canal #equipos-hackathon para
-                    crear uno nuevo o unirte a uno existente (más info en el canal). Te animamos a desarrollar un
-                    proyecto
-                    enfocado a alguno de los Objetivos de Desarrollo Sostenible de la ONU.
-                </li>
-            </ol>
-            <p>
-                ¡Todo listo para poder empezar!
-            </p>
-
 
             <h2 id="evaluacion-y-premios">🏆 Evaluación y Premios</h2>
             <p>
@@ -373,7 +372,7 @@ useHead({
                 resolver una tarea diferente, además de tener en cuenta el
                 valor de las métricas, los criterios de evaluación incluirán el
                 impacto social del proyecto, la originalidad de la idea y la
-                dificultad técnica. Anunciaremos los criterios el 20 de marzo.
+                dificultad técnica.
             </p>
             <ul>
                 Además de los tres proyectos ganadores elegidos por el jurado, habrá varias menciones de honor:
@@ -427,8 +426,7 @@ useHead({
             <h2 id="patrocinios">👏 Patrocinios</h2>
             <p>
                 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos.
-                ¡Vamos a
-                democratizar el PLN en español!
+                ¡Vamos a democratizar el PLN en español!
             </p>
             <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
