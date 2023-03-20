@@ -2,7 +2,7 @@
 title: Fine-tuning de grandes modelos del lenguaje
 date: 2023-03-20T18:00:00.000+00:00
 lang: es
-duration: 30min
+duration: 1h
 cover: "https://somosnlp.github.io/assets/images/comunidad/"
 author: Manuel Romero
 bio: 
@@ -14,7 +14,7 @@ github: https://github.com/mrm8488
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llm.jpg"
+    poster="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg"
     video=""
     name=""
     website=""

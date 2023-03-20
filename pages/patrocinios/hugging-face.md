@@ -1,6 +1,6 @@
 ---
 title: Hugging Face
-cover: https://somosnlp.github.io/assets/images/patrocinios/
+cover: https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg
 twitter: 
 linkedin:
 website: 
