@@ -3,7 +3,7 @@ title: De la idea a la startup
 date: 2023-03-29T18:00:00.000+00:00
 lang: es
 duration: 45min
-cover: "https://somosnlp.github.io/assets/images/comunidad/lucas_fernandez.jpg"
+cover: "https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg"
 author: Lucas Fernández
 bio: 
 website: https://agilmentor.com/

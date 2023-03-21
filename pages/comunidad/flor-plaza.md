@@ -1,6 +1,6 @@
 ---
 title: Flor Miriam Plaza del Arco
-description:  Postdoc @MilaNLProc
+description: Postdoc @MilaNLP, Bocconi University
 cover: https://somosnlp.github.io/assets/images/comunidad/flor_plaza.jpg
 twitter: https://twitter.com/florplaza22
 linkedin: https://linkedin.com/in/flor-miriam-plaza-del-arco-395770b9
