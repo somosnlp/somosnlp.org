@@ -9,5 +9,5 @@ website: https://linktr.ee/aithenewsexy
 
 Comunidad y podcast en español donde nos encargamos de hablar sobre el impacto de la Inteligencia Artificial en el día a día y sus aplicaciones.
 
-## Colaboración:
+## Colaboración
 - Comunidad patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

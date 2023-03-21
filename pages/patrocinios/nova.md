@@ -21,5 +21,5 @@ CBRE o Fever. Tras levantar 1M€ de financiación en 2021, abrir sede en Italia
 aumentar su equipo de 20 a casi 50 empleados en apenas dos años, Nova trabaja
 en la actualidad en mejorar su tecnología y establecerse en nuevos mercados.
 
-## Colaboración:
+## Colaboración
 - Patrocinador de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

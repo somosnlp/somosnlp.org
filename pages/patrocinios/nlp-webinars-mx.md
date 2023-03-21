@@ -7,5 +7,5 @@ linkedin: https://www.facebook.com/NLPWebinarsMx
 website: https://nlpwebinarmx.org/ 
 ---
 
-## Colaboración:
+## Colaboración
 - Empresa patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

@@ -9,5 +9,5 @@ website:
 
 Big Onion es un equipo de personas experimentadas en innovación con foco en negocio digital capaces de auditar, diseñar, ejecutar y formar equipos para proyectos tecnológicos.
 
-## Colaboración:
+## Colaboración
 - Empresa patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

@@ -430,23 +430,23 @@ useHead({
             </p>
             <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <SponsorInfo sponsor="Hugging Face" url="https://huggingface.co/"
+                <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
 
-                <SponsorInfo sponsor="Nova" url="https://www.novatalent.com/"
+                <SponsorInfo sponsor="Nova" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Nova.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Nova_dark.png" />
 
-                <SponsorInfo sponsor="Argilla" url="https://www.argilla.io/"
+                <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
 
-                <SponsorInfo sponsor="Women Tech Global Conference" url="https://www.womentech.net/women-tech-conference"
+                <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
 
-                <SponsorInfo sponsor="AgilMentor" url="https://agilmentor.com/programa/incubacion-tech/"
+                <SponsorInfo sponsor="AgilMentor" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" />
             </div>
@@ -507,17 +507,11 @@ useHead({
                 <SponsorInfo sponsor="AI The New Sexy" url="https://linktr.ee/aithenewsexy"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
+
+                <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/UNL.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png" />
             </div>
-            <p>
-
-                Seguiremos anunciando más patrocinios 🔥
-            </p>
-            <p>
-                ¿Quieres patrocinar este hackathon y ayudarnos a democratizar el PLN en español? Mándanos un correo a
-                <a href="mailto:info@somosnlp.org" target="_blank">info@somosnlp.org</a>,
-                ¡será un placer contar con tu apoyo!
-            </p>
-
         </article>
     </Container>
 </template>

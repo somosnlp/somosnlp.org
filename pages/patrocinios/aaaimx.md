@@ -9,5 +9,5 @@ website: https://www.aaaimx.org/
 
 El Capítulo Estudiantil AAAIMX es un grupo conformado por estudiantes, profesores e investigadores comprometidos con el desarrollo, investigación y divulgación de la Inteligencia Artificial, respaldado por la AAAI. Nuestro objetivo es fomentar el conocimiento y el uso de la Inteligencia Artificial en áreas específicas como el desarrollo de software, robótica y ciberseguridad. Llevamos a cabo proyectos de investigación y desarrollo de software, así como también organizamos congresos que contribuyen a la difusión y el avance de la Inteligencia Artificial.
 
-## Colaboración:
+## Colaboración
 - Grupo patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

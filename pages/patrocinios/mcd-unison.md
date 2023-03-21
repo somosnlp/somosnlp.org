@@ -9,5 +9,5 @@ website: https://mcd.unison.mx
 
 Maestría en Ciencia de Datos del Departamento de Matemáticas de la Universidad de Sonora. 
 
-## Colaboración:
+## Colaboración
 - Grupo patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

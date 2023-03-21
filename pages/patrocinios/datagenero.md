@@ -9,5 +9,5 @@ website: https://www.datagenero.org
 
 Observatorio de datos con perspectiva de género.
 
-## Colaboración:
+## Colaboración
 - Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
