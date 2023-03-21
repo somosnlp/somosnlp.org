@@ -1,9 +1,9 @@
 ---
-title: Ask Me Anything
-date: 2023-03-27T18:00:00.000+00:00
+title: "Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback"
+date: 2023-04-04T18:00:00.000+00:00
 lang: es
-duration: 1h
-cover: "https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg"
+duration: 20min
+cover: "https://somosnlp.github.io/assets/images/comunidad/alejandro_vaca.png"
 author: Alejandro Vaca
 twitter: 
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
@@ -13,8 +13,8 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
 ---
 
 <EventSummary
-    description="¡Pregúntame lo que quieras de Procesamiento del Lenguaje Natural!"
-    poster="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg"
+    description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
+    poster="https://somosnlp.github.io/assets/images/eventos/"
     video=""
     name=""
     website=""
@@ -23,3 +23,7 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
     github=""
     bio=""
 />
+
+## ¿Qué vas a aprender al asistir a esta charla?
+
+Cómo afecta RLHF a la IA generativa y qué oportunidades surgen en la industria a raíz de RLHF.

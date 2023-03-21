@@ -28,7 +28,7 @@ useHead({
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
                 <a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank" class="button-accent">
                     <carbon:user-multiple />
-                    Registrarme
+                    Aún puedes registrarte
                 </a>
                 <div class="button-gray max-w-70 border-2 border-accent-400 rounded">
                     <IconButtonLink
@@ -79,7 +79,8 @@ useHead({
             <hr class="mx-auto my-12 prose" />
 
             <h2 id="por-que-participar">🚀 Por qué participar</h2>
-            <p>Al unirte a este evento tendrás la oportunidad de:</p>
+            <p>Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democratizar el PLN en tu idioma,
+                tendrás la oportunidad de:</p>
             <ul>
                 <li>
                     Asistir a charlas y talleres impartidas por profesionales del mundo del PLN, independientemente de si
@@ -92,14 +93,12 @@ useHead({
                     Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
                 </li>
                 <li>
-                    Ayudar a crear recursos abiertos y democratizar el PLN en español
+                    Consultar tus dudas sobre PLN con mentores y expertas en AMAs (del inglés, Ask Me Anything)
                 </li>
-                <li>Consultar tus dudas sobre PLN con mentores y expertas</li>
                 <li>
                     Recibir apoyo para presentar tu proyecto como paper a una conferencia o para desarrollar tu idea y
                     llevarla al mercado
                 </li>
-                <li>... y mucho más por anunciar</li>
             </ul>
             <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
                 target="_blank">
@@ -180,6 +179,9 @@ useHead({
                     El objetivo del hackathon es crear recursos abiertos de PLN en español, a poder ser aprovechando el
                     potencial de los grandes modelos del lenguaje para desarrollar un proyecto enfocado a alguno de los
                     Objetivos de Desarrollo Sostenible.
+                </li>
+                <li>
+                    Cada proyecto estará compuesto por un dataset, un modelo y una demo.
                 </li>
                 <li>
                     Dataset:
@@ -320,6 +322,10 @@ useHead({
                             <img alt="Evaluación de sesgos" width="650" height="365"
                                 src="https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg" />
                         </a>
+                        <a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
+                            <img alt="Detección del lenguaje ofensivo" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
+                        </a>
                     </div>
                 </div>
                 <li>
@@ -335,11 +341,11 @@ useHead({
                         </a>
                         <a href="/hackathon/ama-con-omar-sanseviero" target="_blank">
                             <img alt="AMA con Omar Sanseviero" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_omar_sanseviero.jpg" />
+                                src="https://somosnlp.github.io/assets/images/eventos/230322_ama_con_omar_sanseviero.jpg" />
                         </a>
                         <a href="/hackathon/ama-con-alejandro-vaca" target="_blank">
                             <img alt="AMA con Alejandro Vaca" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230329_ama_con_alejandro_vaca.jpg" />
+                                src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg" />
                         </a>
                     </div>
                 </div>

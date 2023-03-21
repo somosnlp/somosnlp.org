@@ -3,7 +3,7 @@ title: Detección y mitigación de sesgos en LLMs
 date: 2023-03-22T18:00:00.000+00:00
 lang: es
 duration: 30min
-cover: "https://somosnlp.github.io/assets/images/comunidad/maria_grandury.jpg"
+cover: "https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com

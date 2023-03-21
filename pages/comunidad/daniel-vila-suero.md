@@ -2,8 +2,8 @@
 title: Daniel Vila Suero
 description: Co-fundador y CEO de Argilla
 cover: https://somosnlp.github.io/assets/images/comunidad/
-twitter: https://twitter.com/
-linkedin: https:/linkedin.com/in/
+twitter: https://twitter.com/dvilasuero
+linkedin: https://www.linkedin.com/in/daniel-vila-suero-484b6b45/
 website: https://argilla.io
 ---
 
