@@ -5,7 +5,6 @@ cover: https://somosnlp.github.io/assets/images/comunidad/
 twitter: https://twitter.com/
 linkedin: https:/linkedin.com/in/
 website: 
-short_bio: ""
 ---
 
 ## Ponencias

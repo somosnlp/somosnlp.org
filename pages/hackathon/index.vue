@@ -310,7 +310,7 @@ useHead({
                     <div class="grid grid-cols-2 gap-8 my-1">
                         <a href="/hackathon/fine-tuning-llms" target="_blank">
                             <img alt="Fine-tuning LLMs" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llm.jpg" />
+                                src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
                         </a>
                         <a href="hackathon/etiquetado-de-datos-con-argilla" target="_blank">
                             <img alt="Etiquetado de datos con Argilla" width="650" height="365"
