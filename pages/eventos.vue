@@ -24,6 +24,23 @@
                 </a>
             </div>
 
+            <h3>🚀 Charlas y talleres del Hackathon 2023</h3>
+
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
+                        target="_blank">
+                        <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=kXx8nDGc4bw&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+                        target="_blank">
+                        <img alt="Introducción a Argilla" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg" />
+                    </a>
+                </div>
+            </div>
+
             <hr class="mx-auto mt-8 mb-12 prose" />
 
             <h2>Eventos Anteriores</h2>
