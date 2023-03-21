@@ -9,6 +9,6 @@ website: narrativa.com
 
 Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan diversos como medios de comunicación, marketing o ciencias de la salud (farmacéuticas, CROs...).
 
-## Colaboración:
+## Colaboración
 - Empresa patrocinadora de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
-- Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/hackathon-2022)
+- Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/blog/hackathon-2022)

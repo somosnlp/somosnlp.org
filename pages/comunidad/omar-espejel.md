@@ -9,4 +9,4 @@ github: https://github.com/omarespejel
 ---
 
 ## Colaboración
-- Ayuda en la organización del [Hackathon Somos NLP 2022](/hackathon-2022)
+- Ayuda en la organización del [Hackathon Somos NLP 2022](/blog/hackathon-2022)

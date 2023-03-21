@@ -9,5 +9,5 @@ website: https://www.argilla.io/
 
 Argilla es una plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  
 
-## Colaboración:
+## Colaboración
 - Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

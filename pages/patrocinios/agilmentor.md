@@ -9,5 +9,5 @@ website: https://agilmentor.com
 
 Somos una incubadora de startups que busca potenciar emprendedores hispanohablantes para que logren resultados increíbles.
 
-## Colaboración:
+## Colaboración
 - Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)

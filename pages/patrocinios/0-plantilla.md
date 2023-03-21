@@ -9,5 +9,11 @@ website:
 
 Descripción.
 
-## Colaboración:
+## Colaboración
+- ...
+
+## Personas de X que han colaborado con Somos NLP
+- ...
+
+## Menciones en nuestro blog
 - ...

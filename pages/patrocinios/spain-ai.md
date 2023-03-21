@@ -12,6 +12,6 @@ Spain AI nace en 2017 con el objetivo de democratizar la Inteligencia Artificial
 - La realización de proyectos transversales que permitan aportar valor a la sociedad mediante el uso de la IA.
 Entre otras iniciativas
 
-## Colaboración:
+## Colaboración
 - Empresa patrocinadora de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
-- Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/hackathon-2022)
+- Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/blog/hackathon-2022)

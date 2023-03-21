@@ -19,7 +19,7 @@ short_bio: "Maite es Catedrática de Informática en la Universidad de Jaén e I
 </a>
 
 ## Colaboración
-- Miembro del jurado del [Hackathon Somos NLP 2022](/hackathon-2022)
+- Miembro del jurado del [Hackathon Somos NLP 2022](/blog/hackathon-2022)
 
 
 ## Biografía
