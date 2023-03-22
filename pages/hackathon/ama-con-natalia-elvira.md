@@ -15,7 +15,7 @@ bio: Tras terminar su doctorado en lingüística griega, Natalia descubrió Pyth
 <EventSummary
     description="Puedo resolver todas las preguntas que te surjan sobre el etiquetado de datos y la organización de proyectos de anotación."
     poster="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg"
-    video=""
+    video="https://www.youtube.com/watch?v=A0ORiFldWLQ&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
     name=""
     website=""
     twitter=""
