@@ -15,7 +15,7 @@ github: https://github.com/mrm8488
 <EventSummary
     description="En este evento aprenderemos a hacer fine-tuning a LLMs sin necesidad de un hardware caro gracias a las últimas técnicas de PEFT como LoRA."
     poster="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg"
-    video=""
+    video="https://www.youtube.com/watch?v=WYcJb8gYBZU&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
     name=""
     website=""
     twitter=""
