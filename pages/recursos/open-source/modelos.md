@@ -197,6 +197,50 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
     hf_model_name="spanish-t5-small" 
 />
 
+<ResourceItem
+    name="Spanish GPT-J-6B (BERTIN Team)"
+    :tags="['GPT-J', 'LLM', 'propósito general']"
+    description
+    website
+    github
+    paper
+    hf_contributor_handle="bertin-project"
+    hf_model_name="bertin-gpt-j-6B" 
+/>
+
+<ResourceItem
+    name="BLOOM (BigSciencie)"
+    :tags="['multiidioma', 'LLM', 'propósito general']"
+    description
+    website
+    github
+    paper
+    hf_contributor_handle="bigscience"
+    hf_model_name="bloom" 
+/>
+
+<ResourceItem
+    name="BLOOMZ (BigSciencie)"
+    :tags="['multiidioma', 'LLM', 'propósito general', 'instrucciones', 'IT']"
+    description
+    website
+    github
+    paper
+    hf_contributor_handle="bigscience"
+    hf_model_name="bloomz" 
+/>
+
+<ResourceItem
+    name="mT0 (BigSciencie)"
+    :tags="['multiidioma', 'LLM', 'propósito general', 'instrucciones', 'IT', 'encoder-decoder']"
+    description
+    website
+    github
+    paper
+    hf_contributor_handle="bigscience"
+    hf_model_name="mt0-base" 
+/>
+
 ---
 
 En esta lista solo hemos incluido modelos grandes con los que puedes hacer fine-tuning para aplicarlos a tareas específicas. La lista completa de modelos disponibles en el Hub de Hugging Face está [aquí](https://huggingface.co/models?language=es&sort=downloads).
