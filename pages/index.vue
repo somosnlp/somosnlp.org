@@ -50,7 +50,7 @@ const showPastEvents = ref(true);
         }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Upcoming events"
-        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms.jpg" />
+        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg" />
       <a target="_blank" class="button-accent max-w-100 mx-auto"
         href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w">
         {{ t('landing-page.events.join-event') }}

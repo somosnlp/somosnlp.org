@@ -20,3 +20,8 @@ useHead({
         <ResourcesList />
     </Container>
 </template>
+
+<!-- 
+- Para aprender de ML si sabes programar, fast.ai 
+- Un curso que a mi me gusta mucho y es abierto y bonito https://lena-voita.github.io/nlp_course/language_modeling.html
+- Un curso que hicimos que explican muuuuy a fondo varios de los tasks de transformers y como entrenar modelos para ti https://huggingface.co/course/chapter1/1  -->
