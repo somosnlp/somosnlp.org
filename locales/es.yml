@@ -4,7 +4,6 @@ jobs:
   search: Buscar
 landing-page:
   banner: ¡Únete al mayor hackathon open-source de PLN en español! 🚀
-
   contribute:
     blog: Escribe un artículo o un tutorial
     button: Más ideas
@@ -19,7 +18,7 @@ landing-page:
     twitter: Síguenos en Twitter
   events:
     all-events: Ver todos los eventos
-    join-event: ¡Me interesa!
+    join-event: ¡Me apunto!
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
     upcoming-events: Próximos eventos
@@ -36,7 +35,8 @@ landing-page:
   why:
     coming-soon: Próximamente
     community: >-
-      Creando la mayor red internacional de hispanohablantes que estudian, trabajan e investigan en el ámbito del PLN.
+      Creando la mayor red internacional de hispanohablantes que estudian,
+      trabajan e investigan en el ámbito del PLN.
     education: >-
       Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
       el estado del arte del PLN en español.

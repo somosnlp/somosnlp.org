@@ -20,7 +20,7 @@
             <div class="mx-auto my-8 text-center">
                 <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
                     <img alt="Hackathon 2023" width="650" height="365"
-                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms.jpg" />
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio_anuncio.jpg" />
                 </a>
             </div>
 
@@ -33,11 +33,39 @@
                         <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
                     </a>
+
                     <a href="https://www.youtube.com/watch?v=kXx8nDGc4bw&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
                         target="_blank">
                         <img alt="Introducción a Argilla" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg" />
                     </a>
+
+                    <a href="/hackathon/ama-con-omar-sanseviero" target="_blank">
+                        <img alt="AMA con Omar Sanseviero" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230322_ama_con_omar_sanseviero.jpg" />
+                    </a>
+
+                    <a href="hackathon/ama-con-natalia-elvira" target="_blank">
+                        <img alt="AMA con Natalia Elvira" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
+                    </a>
+
+                    <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
+                        <img alt="Evaluación de sesgos" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg" />
+                    </a>
+
+                    <a href="/hackathon/ama-con-alejandro-vaca" target="_blank">
+                        <img alt="AMA con Alejandro Vaca" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg" />
+                    </a>
+
+                    <a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
+                        <img alt="Detección del lenguaje ofensivo" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
+                    </a>
+
+
                 </div>
             </div>
 

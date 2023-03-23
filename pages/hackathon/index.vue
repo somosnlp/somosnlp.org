@@ -9,7 +9,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon Somos NLP 2023: Los LLMs hablan Español' },
         { name: 'twitter:description', content: '¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms.jpg' },
+        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
     ]
 })
@@ -52,8 +52,8 @@ useHead({
                 español!
             </p>
             <div class="flex justify-center">
-                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms.jpg" width="650"
-                    height="365" alt="Cartel del Hackathon 2023" />
+                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg"
+                    width="650" height="365" alt="Cartel del Hackathon 2023" />
             </div>
 
             <p>
@@ -329,6 +329,18 @@ useHead({
                 <SponsorInfo sponsor="Narrativa" url="https://www.narrativa.com/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Narrativa_dark.png" />
+
+                <SponsorInfo sponsor="DataGénero" url="https://www.datagenero.org"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png" />
+
+                <SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="https://www.iic.uam.es"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+
+                <SponsorInfo sponsor="AI The New Sexy" url="https://linktr.ee/aithenewsexy"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
             </div>
             <h3>🥉 Patrocinadores de bronce</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
@@ -339,7 +351,6 @@ useHead({
                 <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
-
 
                 <SponsorInfo sponsor="Mujeres Tech" url="https://www.mujerestech.com/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
@@ -369,17 +380,14 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
 
-                <SponsorInfo sponsor="DataGénero" url="https://www.datagenero.org"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png" />
-
-                <SponsorInfo sponsor="AI The New Sexy" url="https://linktr.ee/aithenewsexy"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
-
                 <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/UNL.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png" />
+
+                <SponsorInfo sponsor="Grupo de Ingeniería Lingüística de la UNAM"
+                    url="https://www.facebook.com/ingenieriaLinguistica"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg" />
             </div>
         </article>
     </Container>
