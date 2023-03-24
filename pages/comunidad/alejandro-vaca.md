@@ -9,6 +9,7 @@ website:
 
 ## Ponencias
 
+- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback | Hackathon Somos NLP 2023
 - AMA con Alejandro Vaca | Hackathon Somos NLP 2023
 - BiomedIA | Proyectos de la comunidad
 - RigoBERTa | Hackathon Somos NLP 2022
