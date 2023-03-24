@@ -39,35 +39,52 @@ target="_blank">leaderboard</a>.
 
 8. Escribe la Model Card de tu modelo: evalúa su calidad, sesgos y huella de carbono.
 
-9. Crea una demo.
+9. Crea una demo para mostrar tu proyecto a la comunidad.
+
+10. Entrega tu proyecto antes de las 23h59 *Anywhere on Earth* del miércoles 5 de abril (revisaremos la hora de los commits 👀).
 
 
 ## Guía y recursos para desarrollar un buen proyecto
 
+Define tu proyecto teniendo en cuenta que valoraremos el impacto social del mismo, que hay una mención de honor al mejor dataset etiquetado y otra al proyecto con más posibilidades de llegar al mercado.
+
 ### Dataset 
-  
-- Te animamos a crear un dataset específicamente para tu proyecto aunque también puedes mejorar alguno ya existente o utilizarlo directamente (ojo a las licencias). Habrá una mención de honor al mejor dataset etiquetado 🏆
+
 - En español o multilingüe.
-- Si te animas a etiquetar un dataset te recomendamos utilizar Argilla.
+- Te animamos a crear un dataset específicamente para tu proyecto aunque también puedes mejorar alguno ya existente o utilizarlo directamente (ojo a las licencias).
+- Si te animas a etiquetar un dataset te recomendamos utilizar Argilla. El equipo ganador de la mención de honor al mejor dataset etiquetado obtendrá 200€ de crédito de computación en el hub de Hugging Face 🏆
+- Si quieres sumarte al reto colaborativo de limpiar, validar y extender nuestra traducción de **Alpaca**, está todo explicado en la Dataset card de <a href="https://huggingface.co/datasets/somosnlp/somos-alpaca-es" target="_blank">somos-alpaca-es</a>. Si tienes dudas pregúntanos en el canal **#alpaca-es**.
 - Martes 21: <a href="hackathon/etiquetado-de-datos-con-argilla" target="_blank">Taller práctico: Etiquetado de datos con Argilla</a> impartido por Daniel Vila Suero, co-fundador y CEO @Argilla. *(Grabación ya disponible)*
-- Jueves 23: <a href="hackathon/ama-con-natalia-elvira" target="_blank">AMA de etiquetado de datos</a>, pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla
-- Te recomendamos que subas el dataset desde el principio a la org <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023"
-target="_blank">hackathon-somos-nlp-2023</a> para que aparezca en la leaderboard y todo el mundo pueda verla y darle likes. Habrá una mención de honor al dataset con más ❤️
+- Jueves 23: <a href="hackathon/ama-con-natalia-elvira" target="_blank">AMA de etiquetado de datos</a>, pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla.
+- Te recomendamos que subas el dataset desde el principio a la org <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
+para que aparezca en la leaderboard y todo el mundo pueda verla y darle likes. Habrá una mención de honor al dataset con más ❤️
 - Puedes compartir tu dataset en el canal #nuestros-proyectos. Si quieres compartir tu dataset en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
 - Cumplimenta bien la Dataset Card, tendremos en cuenta a la hora de evaluar los proyectos si está completa y si incluye temas como una evaluación de los sesgos del dataset.
   
 ### Modelo
 
+- En español o multilingüe.
 - Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero). En esta edición te animamos a que ajuste un gran modelo del lenguaje (LLM), como BERTIN-GPT-J o BLOOM.
 - Lunes 20: <a href="hackathon/fine-tuning-llms" target="_blank">Taller práctico: Fine-tuning de grandes modelos de lenguaje</a> impartido por Manu Romero, el mayor contribuidor del Hub de Hugging Face. *(Grabación ya disponible)*
-- En español o multilingüe.
+- FYI, ahora el hub de HF soporta notebooks!
 - Si quieres, puedes utilizar la herramienta experimental de HF fuego para entrenar tu modelo directamente desde Spaces.
-- Te recomendamos que subas el modelo desde el principio a la org <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023"
-target="_blank">hackathon-somos-nlp-2023</a> para que aparezca en la leaderboard y todo el mundo pueda verlo y darle likes. Habrá una mención de honor al modelo con más ❤️
+- Te recomendamos que subas el modelo desde el principio a la org
+<a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
+para que aparezca en la leaderboard y todo el mundo pueda verlo y darle likes. Habrá una mención de honor al modelo con más ❤️
 - Puedes compartir tu modelo en el canal #nuestros-proyectos. S quieres compartir tu modelo en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
 - Evalúa tu modelo y haz públicos los resultados. Puedes utilizar la herramienta evaluate de HF o un script, ten en cuenta que tendrás que liberarlo.
 - Cumplimenta bien la Model Card, a la hora de evaluar los proyectos daremos un punto extra si está completa y se incluyen temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
-- Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como [ML CO2 Impact](https://mlco2.github.io/impact/) o [Code Carbon](https://codecarbon.io/), integrada en 🤗 Transformers. Te recomendamos este [vídeo](https://www.youtube.com/watch?v=ftWlj4FBHTg) de motivación, este [artículo](https://huggingface.co/blog/carbon-emissions-on-the-hub) del blog de HF y la sección de la [documentación](https://huggingface.co/docs/hub/model-cards-co2) de 🤗 Transformers que trata este tema.
+- Viernes 24: <a href="hackathon/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP.
+- Recursos: Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como
+<a href="https://mlco2.github.io/impact" target="_blank">ML CO2 Impact</a> o 
+<a href="https://codecarbon.io" target="_blank">Code Carbon</a>,
+integrada en 🤗 Transformers. Te recomendamos este
+<a href="https://www.youtube.com/watch?v=ftWlj4FBHTg" target="_blank">vídeo</a>
+de motivación, este
+<a href="https://huggingface.co/blog/carbon-emissions-on-the-hub" target="_blank">artículo</a>
+del blog de HF y la sección de la
+<a href="https://huggingface.co/docs/hub/model-cards-co2" target="_blank">documentación</a>
+ de 🤗 Transformers que trata este tema.
 
 ### Demo
 
@@ -87,7 +104,7 @@ target="_blank">leaderboard</a>, compártela en el canal #nuestros-proyectos y e
 Todos los equipos tienen que inscribirse en el canal #equipos-hackathon. Una vez completo el equipo crearemos un canal en la sección HACKATHON-2023-EQUIPOS para que podáis organizaros y desarrollar vuestro proyecto.
 
 Para ayudarte a definir tu proyecto, hemos propuesto algunas ideas en el primer mensaje del canal #equipos-hackathon. Si quieres ver ejemplos de proyectos, puedes echarle un vistazo a la organización del Hub de HF de la primera edición. También te animamos a ver los talleres en los que
-<a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M">equipos ganadores</a>
+<a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">equipos ganadores</a>
 explican cómo implementaron sus proyectos.
 
 ### Liberar los proyectos  

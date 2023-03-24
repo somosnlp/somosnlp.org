@@ -140,24 +140,32 @@ useHead({
                     target="_blank">¡apúntate!</a>
             </p>
             <ul>
-                Contaremos con grandes especialistas como:
                 <li>
-                    Flor PLaza, Postdoc @MilaNLP Uni Bocconi
+                    "Detección del lenguaje ofensivo en la era digital: retos y avance", por Flor PLaza, Postdoc @MilaNLP
+                    Uni Bocconi
                 </li>
                 <li>
-                    Alejandro Vaca, Data Scientist @IIC y ganador de la primera edición del hackathon
+                    "Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback", por Alejandro Vaca, Data
+                    Scientist @IIC y ganador de la primera edición del hackathon
                 </li>
                 <li>
-                    Carlos Alarcón, Director de la escuela de datos & IA @Platzi
+                    "Detección y mitigación de sesgos en modelos de lenguaje", por María Grandury, ML Research Engineer
+                    @neurocat y Fundadora @SomosNLP
                 </li>
                 <li>
-                    Frida Ruh, Fundadora @AiTheNewSexy y Value Based Bidding Specialist for SPLA @Google
+                    "De la idea a la startup", por Lucas Fernández, Ingeniero Industrial y Fundador @AgilMentor
                 </li>
                 <li>
-                    Salvador Lima, Lingüista Computacional @BSC & Biomedical TeMU
+                    "Impacto de los LLM en el mundo actual", por Carlos Alarcón, Director de la escuela de datos & IA
+                    @Platzi
                 </li>
                 <li>
-                    Javier de la Rosa, NLP Research Scientist @Nasjonalbibl AI-Lab
+                    "Estrategias de simplificación para modelos grandes de lenguaje", por Paulo Villegas, Experto
+                    tecnológico en Telefónica Chief Digital Office
+                </li>
+                <li>
+                    "Proyecto BERTIN: Entrenando modelos de lenguaje en Español de manera abierta", por Javier de la Rosa,
+                    NLP Research Scientist @Nasjonalbibl AI-Lab y Álvaro Pérez, Investigador @linhd
                 </li>
             </ul>
             <p>
@@ -194,8 +202,7 @@ useHead({
             </p>
             <ul>
                 <li>
-                    Durante los primeros días del hackathon daremos una serie de <b>talleres prácticos</b> mostrándote entre
-                    otros cómo
+                    Durante los primeros días del hackathon daremos una serie de <b>talleres prácticos</b> mostrándote cómo
                     hacer fine-tuning de un LLM y cómo etiquetar tu base de datos para que tengas un ejemplo de referencia.
                 </li>
                 <div class="mx-auto my-8 text-center">
@@ -204,17 +211,10 @@ useHead({
                             <img alt="Fine-tuning LLMs" width="650" height="365"
                                 src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
                         </a>
+
                         <a href="hackathon/etiquetado-de-datos-con-argilla" target="_blank">
                             <img alt="Etiquetado de datos con Argilla" width="650" height="365"
                                 src="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg" />
-                        </a>
-                        <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
-                            <img alt="Evaluación de sesgos" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg" />
-                        </a>
-                        <a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
-                            <img alt="Detección del lenguaje ofensivo" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
                         </a>
                     </div>
                 </div>
@@ -235,9 +235,14 @@ useHead({
                                 src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
                         </a>
 
+                        <a href="" target="_blank">
+                            <img alt="AMA con Manuel Romero" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg" />
+                        </a>
+
                         <a href="/hackathon/ama-con-alejandro-vaca" target="_blank">
                             <img alt="AMA con Alejandro Vaca" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg" />
+                                src="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg" />
                         </a>
                     </div>
                 </div>
@@ -256,16 +261,19 @@ useHead({
             <ul>
                 Además de los tres proyectos ganadores elegidos por el jurado, habrá varias menciones de honor:
                 <li>
-                    🤗 Proyecto con más likes en el Hub de Hugging Face
+                    🤗 Proyecto con más likes en el Hub de Hugging Face (<a
+                        href="https://huggingface.co/spaces/hackathon-somos-nlp-2023/leaderboard"
+                        target="_blank">leaderboard</a>)
                 </li>
                 <li>
                     💛 Proyecto con mayor impacto social
                 </li>
                 <li>
-                    ✍️ Mejor dataset etiquetado: patrocinado por Argilla
+                    ✍️ Mejor dataset etiquetado: 200€ de crédito en el Hub de HF, patrocinado por Argilla
                 </li>
                 <li>
-                    💸 Proyecto con más opciones de llegar al mercado: patrocinado por AgilMentor
+                    💸 Proyecto con más opciones de llegar al mercado: 75% de descuento en el programa de incubación de
+                    AgilMentor
                 </li>
             </ul>
             <p>Los premios incluirán:</p>
@@ -344,50 +352,55 @@ useHead({
             </div>
             <h3>🥉 Patrocinadores de bronce</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-                <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
-
-                <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
-
-                <SponsorInfo sponsor="Mujeres Tech" url="https://www.mujerestech.com/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
-
-                <SponsorInfo sponsor="IBiDat" url="https://ibidat.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_IBiDat.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png" />
-
-                <SponsorInfo sponsor="NLP Spain" url="https://nlpspain.blogspot.com/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg" />
-
-                <SponsorInfo sponsor="Capítulo Estudiantil AAAIMX" url="https://www.aaaimx.org/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX_dark.png" />
 
                 <SponsorInfo sponsor="Big Onion" url="https://datakondo.io/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
 
-                <SponsorInfo sponsor="NLP Webinar MX" url="http://www.nlpwebinarmx.org/"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png" />
+                <SponsorInfo sponsor="Capítulo Estudiantil AAAIMX" url="https://www.aaaimx.org/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX_dark.png" />
 
-                <SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
-
-                <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
-                    logo="https://somosnlp.github.io/assets/images/patrocinios/UNL.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png" />
+                <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
 
                 <SponsorInfo sponsor="Grupo de Ingeniería Lingüística de la UNAM"
                     url="https://www.facebook.com/ingenieriaLinguistica"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg" />
+
+                <SponsorInfo sponsor="IBiDat" url="https://ibidat.es/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/IBiDat.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/IBiDat_dark.png" />
+
+                <SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
+
+                <SponsorInfo sponsor="Mujeres Tech" url="https://www.mujerestech.com/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
+
+                <SponsorInfo sponsor="NLP Spain" url="https://nlpspain.blogspot.com/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg" />
+
+                <SponsorInfo sponsor="NLP Webinar MX" url="http://www.nlpwebinarmx.org/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png" />
+
+                <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+
+                <SponsorInfo sponsor="Software Themis" url="https://www.themis.es/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis_dark.png" />
+
+                <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/UNL.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png" />
             </div>
         </article>
     </Container>

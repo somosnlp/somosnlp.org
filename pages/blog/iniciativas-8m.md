@@ -19,7 +19,7 @@ Con motivo del 8M queremos dar visibilidad a mujeres que trabajan e investigan e
 Únete a esta mesa redonda el 9 de marzo para descubrir de la mano de expertas algunas de las aplicaciones del PLN para combatir la misoginia y debatir cómo minimizar la brecha de género en nuestro campo.
 
 <div class="mx-auto my-8 px-8 text-center">
-    <a href="https://www.eventbrite.com/e/entradas-mesa-redonda-8m-pln-en-la-lucha-contra-el-sexismo-563632258257"
+    <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCIWrABV_JOJbriszTKIRXC"
         target="_blank">
         <img alt="Mesa Redonda 8M" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />

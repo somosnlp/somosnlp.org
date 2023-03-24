@@ -20,7 +20,7 @@
             <div class="mx-auto my-8 text-center">
                 <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
                     <img alt="Hackathon 2023" width="650" height="365"
-                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio_anuncio.jpg" />
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg" />
                 </a>
             </div>
 
@@ -52,19 +52,47 @@
 
                     <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
                         <img alt="Evaluación de sesgos" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg" />
+                            src="https://somosnlp.github.io/assets/images/eventos/230324_evaluacion_de_sesgos.jpg" />
+                    </a>
+                    <a href="" target="_blank">
+                        <img alt="AMA con Manuel Romero" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg" />
+                    </a>
+
+                    <a href="" target="_blank">
+                        <img alt="Tecnologías clave de ChatGPT" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg" />
+                    </a>
+
+                    <a href="" target="_blank">
+                        <img alt="Impacto de los LLMs" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230328_impacto_de_los_llms.jpg" />
+                    </a>
+
+                    <a href="" target="_blank">
+                        <img alt="De la idea a la startup" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg" />
                     </a>
 
                     <a href="/hackathon/ama-con-alejandro-vaca" target="_blank">
                         <img alt="AMA con Alejandro Vaca" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg" />
+                            src="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg" />
+                    </a>
+
+                    <a href="" target="_blank">
+                        <img alt="Proyecto BERTIN" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230403_proyecto_bertin.jpg" />
+                    </a>
+
+                    <a href="" target="_blank">
+                        <img alt="Estrategias de simplificación" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230403_estrategias_de_simplificacion.jpg" />
                     </a>
 
                     <a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
                         <img alt="Detección del lenguaje ofensivo" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
                     </a>
-
 
                 </div>
             </div>
