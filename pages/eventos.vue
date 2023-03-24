@@ -26,9 +26,14 @@
 
             <h3>🚀 Charlas y talleres del Hackathon 2023</h3>
 
+            <a
+                href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
+                Calendario de Google con todos los eventos del hackathon
+            </a>
+
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
+                    <a href="https://www.youtube.com/watch?v=WYcJb8gYBZU&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
                         target="_blank">
                         <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
@@ -48,12 +53,12 @@
                     <a href="hackathon/ama-con-natalia-elvira" target="_blank">
                         <img alt="AMA con Natalia Elvira" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
-                    </a>
+                </a>
 
-                    <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
-                        <img alt="Evaluación de sesgos" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/230324_evaluacion_de_sesgos.jpg" />
-                    </a>
+                <!-- <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
+                            <img alt="Evaluación de sesgos" width="650" height="365"
+                                src="https://somosnlp.github.io/assets/images/eventos/230324_evaluacion_de_sesgos.jpg" />
+                        </a> -->
                     <a href="" target="_blank">
                         <img alt="AMA con Manuel Romero" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg" />
