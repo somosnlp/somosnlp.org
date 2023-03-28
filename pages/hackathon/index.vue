@@ -346,6 +346,10 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
 
+                <SponsorInfo sponsor="Meaning Cloud" url="https://www.meaningcloud.com/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/MeaningCloud.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MeaningCloud.png" />
+
                 <SponsorInfo sponsor="AI The New Sexy" url="https://linktr.ee/aithenewsexy"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
