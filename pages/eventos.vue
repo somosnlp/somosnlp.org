@@ -53,28 +53,34 @@
                     <a href="hackathon/ama-con-natalia-elvira" target="_blank">
                         <img alt="AMA con Natalia Elvira" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
-                </a>
+                    </a>
 
-                <!-- <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
-                            <img alt="Evaluación de sesgos" width="650" height="365"
-                                src="https://somosnlp.github.io/assets/images/eventos/230324_evaluacion_de_sesgos.jpg" />
-                        </a> -->
-                    <a href="" target="_blank">
+                    <a href="hackathon/ama-con-manuel-romero" target="_blank">
                         <img alt="AMA con Manuel Romero" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg" />
                     </a>
 
-                    <a href="" target="_blank">
+                    <a href="hackathon/tecnologías-clave-de-chatgpt" target="_blank">
                         <img alt="Tecnologías clave de ChatGPT" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg" />
                     </a>
 
-                    <a href="" target="_blank">
+                    <a href="/hackathon/evaluacion-de-sesgos" target="_blank">
+                        <img alt="Evaluación de sesgos" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230328_evaluacion_de_sesgos.jpg" />
+                    </a>
+
+                    <a href="hackathon/impacto-de-los-llms" target="_blank">
                         <img alt="Impacto de los LLMs" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230328_impacto_de_los_llms.jpg" />
                     </a>
 
-                    <a href="" target="_blank">
+                    <a href="hackathon/aymurai" target="_blank">
+                        <img alt="Impacto de los LLMs" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230328_aymurai.jpg" />
+                    </a>
+
+                    <a href="/hackathon/de-la-idea-a-la-startup" target="_blank">
                         <img alt="De la idea a la startup" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg" />
                     </a>

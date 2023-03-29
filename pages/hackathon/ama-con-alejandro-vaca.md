@@ -14,12 +14,12 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
 
 <EventSummary
     description="¡Pregúntame lo que quieras de Procesamiento del Lenguaje Natural!"
-    poster="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg"
-    video=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg"
+    video="https://www.youtube.com/watch?v=G4R6w0W4Lv0&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
     name=""
     website=""
     twitter=""
     linkedin=""
     github=""
-    bio=""
+    bio="Alejandro Vaca es Data Scientist en el IIC y profesor en IE University. Es ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio a Mejor Data Scientist del Hackaton de SpainAI, al obtener 2 primeros puestos (análisis preescriptivo con series temporales & Computer Vision) y un tercero (NLP). Desarrollador principal de RigoBERTa: un modelo de lenguaje del Estado del Arte en español. Ganador del primer premio del Hackaton SomosNLP 2022 por BioMedIA, proyecto que posteriormente fue presentado en el NAACL 2022, obteniendo el Premio a la Mejor Presentación de Póster."
 />
