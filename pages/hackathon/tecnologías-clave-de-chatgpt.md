@@ -3,7 +3,7 @@ title: "Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedbac
 date: 2023-04-04T18:00:00.000+00:00
 lang: es
 duration: 20min
-cover: "https://somosnlp.github.io/assets/images/comunidad/alejandro_vaca.png"
+cover: "https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg"
 author: Alejandro Vaca
 twitter: 
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
@@ -15,7 +15,7 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
 <EventSummary
     description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
     poster="https://somosnlp.github.io/assets/images/eventos/"
-    video=""
+    video="https://www.youtube.com/watch?v=Ujn379UCHBg&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
     name=""
     website=""
     twitter=""

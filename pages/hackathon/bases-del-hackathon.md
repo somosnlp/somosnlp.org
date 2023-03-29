@@ -74,7 +74,8 @@ para que aparezca en la leaderboard y todo el mundo pueda verlo y darle likes. H
 - Puedes compartir tu modelo en el canal #nuestros-proyectos. S quieres compartir tu modelo en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
 - Evalúa tu modelo y haz públicos los resultados. Puedes utilizar la herramienta evaluate de HF o un script, ten en cuenta que tendrás que liberarlo.
 - Cumplimenta bien la Model Card, a la hora de evaluar los proyectos daremos un punto extra si está completa y se incluyen temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
-<!-- - Martes 28: <a href="hackathon/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP. -->
+- Para tener más posibilidades de ganar una beca para el programa de incubación patrocinado por AgilMentor, puede incluir tu canvas de modelo de negocio, [Lucas te explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s).
+- Martes 28: <a href="hackathon/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP.
 - Recursos: Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como
 <a href="https://mlco2.github.io/impact" target="_blank">ML CO2 Impact</a> o 
 <a href="https://codecarbon.io" target="_blank">Code Carbon</a>,
