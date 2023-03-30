@@ -5,6 +5,11 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_ext.jpg
 ---
 
+<div class="flex justify-center">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg"
+        width="650" height="365" alt="Cartel del Hackathon 2023" />
+</div>
+
 El objetivo del hackathon es crear recursos abiertos de PLN en español, a poder ser aprovechando el potencial de los grandes modelos del lenguaje para desarrollar un proyecto enfocado a alguno de los Objetivos de Desarrollo Sostenible.
   
 Cada proyecto estará compuesto por un dataset, un modelo y una demo. Todo el proyecto deberá ser liberado.

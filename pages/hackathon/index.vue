@@ -140,25 +140,28 @@ useHead({
                     target="_blank">¡apúntate!</a>
             </p>
             <ul>
+                Martes 28 de marzo: Día de Keynotes
                 <li>
-                    "Detección del lenguaje ofensivo en la era digital: retos y avance", por Flor PLaza, Postdoc @MilaNLP
-                    Uni Bocconi
-                </li>
-                <li>
-                    "Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback", por Alejandro Vaca, Data
+                    "Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback", con Alejandro Vaca, Data
                     Scientist @IIC y ganador de la primera edición del hackathon
                 </li>
                 <li>
-                    "Detección y mitigación de sesgos en modelos de lenguaje", por María Grandury, ML Research Engineer
+                    "Detección y mitigación de sesgos en modelos de lenguaje", con María Grandury, ML Research Engineer
                     @neurocat y Fundadora @SomosNLP
                 </li>
                 <li>
-                    "De la idea a la startup", por Lucas Fernández, Ingeniero Industrial y Fundador @AgilMentor
-                </li>
-                <li>
-                    "Impacto de los LLM en el mundo actual", por Carlos Alarcón, Director de la escuela de datos & IA
+                    "Impacto de los LLM en el mundo actual", con Carlos Alarcón, Director de la escuela de datos & IA
                     @Platzi
                 </li>
+                <li>
+                    "Inteligencia Artificial y feminismos en América Latina: proyecto AymurAI", con Ivana, Directora
+                    Ejecutiva @DataGénero
+                </li>
+                Miércoles 29 de marzo: Taller de Emprendimiento
+                <li>
+                    "De la idea a la startup", por Lucas Fernández, Ingeniero Industrial y Fundador @AgilMentor
+                </li>
+                Lunes 3 de abril: BERTIN Monday
                 <li>
                     "Estrategias de simplificación para modelos grandes de lenguaje", por Paulo Villegas, Experto
                     tecnológico en Telefónica Chief Digital Office
@@ -166,6 +169,11 @@ useHead({
                 <li>
                     "Proyecto BERTIN: Entrenando modelos de lenguaje en Español de manera abierta", por Javier de la Rosa,
                     NLP Research Scientist @Nasjonalbibl AI-Lab y Álvaro Pérez, Investigador @linhd
+                </li>
+                Martes 4 de abril: Día de Keynotes
+                <li>
+                    "Detección del lenguaje ofensivo en la era digital: retos y avance", por Flor PLaza, Postdoc @MilaNLP
+                    Uni Bocconi
                 </li>
             </ul>
             <p>
