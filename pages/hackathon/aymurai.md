@@ -5,7 +5,7 @@ lang: es
 duration: 
 cover:
 author: Ivana Feldfeber
-pronunciation: Ivana Felfeber
+notes: Se pronuncia "Ivana Felfeber"
 twitter: 
 linkedin:
 website: 

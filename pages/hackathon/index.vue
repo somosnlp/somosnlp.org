@@ -154,26 +154,31 @@ useHead({
                     @Platzi
                 </li>
                 <li>
-                    "Inteligencia Artificial y feminismos en América Latina: proyecto AymurAI", con Ivana, Directora
+                    "Inteligencia Artificial y los feminismos en América Latina: la experiencia del proyecto AymurAI", con
+                    Ivana Feldfeber, Directora
                     Ejecutiva @DataGénero
                 </li>
                 Miércoles 29 de marzo: Taller de Emprendimiento
                 <li>
-                    "De la idea a la startup", por Lucas Fernández, Ingeniero Industrial y Fundador @AgilMentor
+                    "De la idea a la startup", con Lucas Fernández, Ingeniero Industrial y Fundador @AgilMentor
                 </li>
                 Lunes 3 de abril: BERTIN Monday
                 <li>
-                    "Estrategias de simplificación para modelos grandes de lenguaje", por Paulo Villegas, Experto
+                    "Estrategias de simplificación para modelos grandes de lenguaje", con Paulo Villegas, Experto
                     tecnológico en Telefónica Chief Digital Office
                 </li>
                 <li>
-                    "Proyecto BERTIN: Entrenando modelos de lenguaje en Español de manera abierta", por Javier de la Rosa,
+                    "Proyecto BERTIN: Entrenando modelos de lenguaje en Español de manera abierta", con Javier de la Rosa,
                     NLP Research Scientist @Nasjonalbibl AI-Lab y Álvaro Pérez, Investigador @linhd
                 </li>
                 Martes 4 de abril: Día de Keynotes
                 <li>
-                    "Detección del lenguaje ofensivo en la era digital: retos y avance", por Flor PLaza, Postdoc @MilaNLP
+                    "Detección del lenguaje ofensivo en la era digital: retos y avance", con Flor PLaza, Postdoc @MilaNLP
                     Uni Bocconi
+                </li>
+                <li>
+                    "Evaluación con desacuerdo en tareas subjetivas: caso del sexismo en redes sociales", con Julio Gonzalo,
+                    Director del grupo de investigación nlp.uned.es
                 </li>
             </ul>
             <p>
