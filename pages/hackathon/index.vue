@@ -93,7 +93,7 @@ useHead({
                     Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
                 </li>
                 <li>
-                    Consultar tus dudas sobre PLN con mentores y expertas en AMAs (del inglés, Ask Me Anything)
+                    Consultar tus dudas sobre PLN con mentores y mentoras en sesiones "Ask My Anything"
                 </li>
                 <li>
                     Recibir apoyo para presentar tu proyecto como paper a una conferencia o para desarrollar tu idea y
@@ -111,7 +111,7 @@ useHead({
             <div class="m-12">
                 <ul>
                     <li>
-                        <a href="#bases-del-hackathon">Bases del Hackathon</a>
+                        <a href="https://somosnlp.org/hackathon/bases-del-hackathon">Bases del Hackathon</a>
                     </li>
                     <li>
                         <a href="#talleres-y-amas">Talleres y AMAs</a>
@@ -194,8 +194,8 @@ useHead({
                     <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">YouTube</a>
                 </li>
                 <li>Únete al
-                    <a href="https://www.eventbrite.com/x/565283938477/" target="_blank">calendario de Google</a>
-                    (primero regístrate en Eventbrite)
+                    <a href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+                        target="_blank">calendario de Google</a>
                 </li>
             </ul>
             </p>

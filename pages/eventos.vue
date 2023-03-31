@@ -55,11 +55,6 @@
                             src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
                     </a>
 
-                    <a href="hackathon/ama-con-manuel-romero" target="_blank">
-                        <img alt="AMA con Manuel Romero" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg" />
-                    </a>
-
                     <a href="hackathon/tecnologías-clave-de-chatgpt" target="_blank">
                         <img alt="Tecnologías clave de ChatGPT" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg" />
@@ -90,7 +85,7 @@
                             src="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg" />
                     </a>
 
-                    <a href="" target="_blank">
+                    <a href="/hackathon/proyecto-bertin" target="_blank">
                         <img alt="Proyecto BERTIN" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230403_proyecto_bertin.jpg" />
                     </a>
