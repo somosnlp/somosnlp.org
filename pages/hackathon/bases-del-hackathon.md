@@ -58,30 +58,29 @@ Define tu proyecto teniendo en cuenta que valoraremos el impacto social del mism
 - En español o multilingüe.
 - Te animamos a crear un dataset específicamente para tu proyecto aunque también puedes mejorar alguno ya existente o utilizarlo directamente (ojo a las licencias).
 - Si te animas a etiquetar un dataset te recomendamos utilizar Argilla. El equipo ganador de la mención de honor al mejor dataset etiquetado obtendrá 200€ de crédito de computación en el hub de Hugging Face 🏆
-- Si quieres sumarte al reto colaborativo de limpiar, validar y extender nuestra traducción de **Clean Alpaca**, está todo explicado en la Dataset card de <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">somos-alpaca-es</a>. Si tienes dudas pregúntanos en el canal **#alpaca-es**.
-- Martes 21: <a href="hackathon/etiquetado-de-datos-con-argilla" target="_blank">Taller práctico: Etiquetado de datos con Argilla</a> impartido por Daniel Vila Suero, co-fundador y CEO @Argilla. *(Grabación ya disponible)*
-- Jueves 23: <a href="hackathon/ama-con-natalia-elvira" target="_blank">AMA de etiquetado de datos</a>, pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla.
-- Te recomendamos que subas el dataset desde el principio a la org <a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
-para que aparezca en la leaderboard y todo el mundo pueda verla y darle likes. Habrá una mención de honor al dataset con más ❤️
-- Puedes compartir tu dataset en el canal #nuestros-proyectos. Si quieres compartir tu dataset en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
+- Si quieres sumarte al reto colaborativo de limpiar, validar y extender nuestra traducción de **Clean Alpaca**, está todo explicado en la Dataset card de <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">somos-clean-alpaca-es</a>. Si tienes dudas pregúntanos en el canal **#alpaca-es**.
 - Cumplimenta bien la Dataset Card, tendremos en cuenta a la hora de evaluar los proyectos si está completa e incluye temas como una evaluación de los sesgos del dataset.
+
+Recursos:
+- <a href="hackathon/etiquetado-de-datos-con-argilla" target="_blank">Taller práctico: Etiquetado de datos con Argilla</a> impartido por Daniel Vila Suero, co-fundador y CEO @Argilla. *(Grabación ya disponible)*
+- <a href="hackathon/ama-con-natalia-elvira" target="_blank">AMA de etiquetado de datos</a>, pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla. *(Grabación ya disponible)*
+- Reto colaborativo Alpaca ES: <a href="https://www.youtube.com/watch?v=Q-2qsvOEgnA&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" target="_blank">Vídeo explicativo de Argilla (10 mins)</a>, <a href="https://platzi.com/blog/ayuda-a-mejorar-los-llm-en-espanol-en-7-sencillos-pasos/" target="_blank">Explicación en 7 pasos de Platzi</a>
+
   
 ### Modelo
 
 - En español o multilingüe.
-- Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero). En esta edición te animamos a que ajuste un gran modelo del lenguaje (LLM), como BERTIN-GPT-J o BLOOM.
-- Lunes 20: <a href="hackathon/fine-tuning-llms" target="_blank">Taller práctico: Fine-tuning de grandes modelos de lenguaje</a> impartido por Manu Romero, el mayor contribuidor del Hub de Hugging Face. *(Grabación ya disponible)*
-- Ahora puedes ejecutar tus notebooks en el hub de HF.
-- Si quieres, puedes utilizar la herramienta experimental de HF fuego para entrenar tu modelo directamente desde Spaces.
-- Te recomendamos que subas el modelo desde el principio a la org
-<a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
-para que aparezca en la leaderboard y todo el mundo pueda verlo y darle likes. Habrá una mención de honor al modelo con más ❤️
-- Puedes compartir tu modelo en el canal #nuestros-proyectos. S quieres compartir tu modelo en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
+- Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero). En esta edición te animamos a que ajuste un gran modelo del lenguaje (LLM).
+- Desde el lunes 3 al domingo 9 tendréis a vuestra disposición GPU VMs 24GB patrocinadas por Q Blocks para entrenar vuestro modelo final.
+- Herramientas HF: Ahora se pueden ejecutar notebooks en el hub de HF. Si quieres, también puedes utilizar la herramienta experimental de HF fuego para entrenar tu modelo directamente desde Spaces.
 - Evalúa tu modelo y haz públicos los resultados. Puedes utilizar la herramienta evaluate de HF o un script, ten en cuenta que tendrás que liberarlo.
 - Cumplimenta bien la Model Card, a la hora de evaluar los proyectos daremos un punto extra si está completa y se incluyen temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
 - Para tener más posibilidades de ganar una beca para el programa de incubación patrocinado por AgilMentor, puede incluir tu canvas de modelo de negocio, [Lucas te explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s).
-- Martes 28: <a href="hackathon/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP.
-- Recursos: Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como
+
+Recursos:
+- <a href="hackathon/fine-tuning-llms" target="_blank">Taller práctico: Fine-tuning de grandes modelos de lenguaje</a> impartido por Manu Romero, el mayor contribuidor del Hub de Hugging Face. *(Grabación ya disponible)*
+- <a href="hackathon/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP. *(Grabación ya disponible)*
+- Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como
 <a href="https://mlco2.github.io/impact" target="_blank">ML CO2 Impact</a> o 
 <a href="https://codecarbon.io" target="_blank">Code Carbon</a>,
 integrada en 🤗 Transformers. Te recomendamos este
@@ -92,17 +91,28 @@ del blog de HF y la sección de la
 <a href="https://huggingface.co/docs/hub/model-cards-co2" target="_blank">documentación</a>
  de 🤗 Transformers que trata este tema.
 
+
 ### Demo
 
 - Por último, crea una demo de tu modelo en el hub de HF. Si es tu primera demo, te recomendamos utilizar Gradio ya que es más sencillo.
 - Puedes utilizar GPUs Nvidia T4 - small patrocinadas por Hugging Face.
+- Qué incluir en la demo: motivación, número de ODS si procede, enlace al dataset y modelo utilizados, miembros del equipo
+
+Recursos:
 - Notebook: <a href="https://somosnlp.org/recursos/tutoriales/06_demos_con_gradio" target="_blank">Cómo crear una demo con Gradio</a>
 - Vídeo tutoriales: <a href="https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta" target="_blank">Aquí</a>
 tienes tutoriales para crear demos utilizando Gradio, Streamlit y Flask.
-- En cuanto crees la demo en la org del hackathon aparecerá en la 
+
+### Visibilidad
+
+- Te recomendamos que subas tus datasets, modelos y demos desde el principio a la org
+<a href="https://huggingface.co/organizations/hackathon-somos-nlp-2023" target="_blank">hackathon-somos-nlp-2023</a>
+para que aparezcan en la
 <a href="https://huggingface.co/spaces/hackathon-somos-nlp-2023/leaderboard"
-target="_blank">leaderboard</a>, compártela en el canal #nuestros-proyectos y en redes para conseguir más likes. Habrá una mención de honor a la demo con más ❤️
-- Si quieres compartir tu demo en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
+target="_blank">leaderboard</a>
+y todo el mundo pueda verlo y darle likes. Habrá una mención de honor al proyecto con más ❤️
+- Puedes compartir tu proyecto en el canal #nuestros-proyectos.
+- Si quieres compartir tu proyecto en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
 
 ## FAQ
 
