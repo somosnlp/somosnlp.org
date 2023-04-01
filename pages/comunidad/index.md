@@ -1,6 +1,14 @@
 ---
 title: La comunidad
-description: Las casi 1000 personas que forman nuestra comunidad son super importantes. Aquí te presentamos al core team y las organizaciones que nos apoyan en nuestra misión, ¡únete!
+description: Las más de 1000 personas que forman nuestra comunidad son super importantes. Aquí te presentamos a las personas y organizaciones que colaboran más activamente, ¡únete!
+---
+
+<div class="flex justify-center">
+    <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/blog/ya_somos_1000.gif" alt="Ya Somos 1000" width="500" height="289.71"  />
+    </a>
+</div>
+
 ---
 
 <CoreTeamList />
