@@ -9,7 +9,15 @@ short_bio: "Flor Miriam Plaza del Arco es investigadora postdoctoral en el grupo
 ---
 
 ## Ponencias
-- Moderadora en la Mesa Redonda 8M: PLN en la lucha contra el sexismo
+
+- Detección del lenguaje ofensivo en la era digital: Retos y avances | Hackathon Somos NLP 2023
+
+<a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
+    <img alt="Detección del lenguaje ofensivo" width="650" height="365"
+        src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
+</a>
+
+- Moderadora de la Mesa Redonda 8M: PLN en la lucha contra el sexismo
 
 <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
     target="_blank">
