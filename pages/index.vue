@@ -50,9 +50,9 @@ const showPastEvents = ref(true);
         }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Upcoming events"
-        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg" />
+        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" />
       <a target="_blank" class="button-accent max-w-100 mx-auto"
-        href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w">
+        href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667">
         {{ t('landing-page.events.join-event') }}
       </a>
     </div>
@@ -60,31 +60,53 @@ const showPastEvents = ref(true);
   <Container class="bg-gray-white dark:bg-dark-900">
     <div grid="~ lg:cols-2" class="my-16 place-items-center">
       <div class="px-4">
-        <h2 class="font-medium text-center mb-8 tracking-tight text-3xl">{{ t('landing-page.why.heading') }}</h2>
+        <h2 class="font-medium text-center mb-8 tracking-tight text-3xl">{{ t('landing-page.why.heading') }}*</h2>
         <p>{{ t('landing-page.why.text') }}</p>
         <div class="my-8 grid gap-y-8 gap-x-6 grid-cols-[auto,1fr] items-center">
+
           <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
             border="2 accent-200 dark:accent-600">
             <carbon:earth text="lg" />
           </div>
-          {{ t('landing-page.why.community') }}
+          <div>
+            {{ t('landing-page.why.community') }}
+            <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
+              <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+                border="2 accent-300">{{ t('landing-page.join-us') }}</span>
+            </a>
+          </div>
+
           <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
             border="2 accent-200 dark:accent-600">
             <carbon:education text="lg" />
           </div>
-          {{ t('landing-page.why.education') }}
+          <div>
+            {{ t('landing-page.why.education') }}
+            <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank">
+              <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+                border="2 accent-300">{{ t('landing-page.learn-with-us') }}</span>
+            </a>
+          </div>
+
           <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
             border="2 accent-200 dark:accent-600">
             <carbon:share-knowledge text="lg" />
           </div>
           <div>
             {{ t('landing-page.why.jobs') }}
-            <a href="empleo">
+            <a href="empleo" target="_blank">
               <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
                 border="2 accent-300">{{ t('landing-page.why.new-job-board') }}</span>
             </a>
           </div>
         </div>
+        <br />
+        <br />
+        <a href="https://cvc.cervantes.es/lengua/anuario/anuario_22/default.htm" target="_blank">
+          <p class="italic text-sm">
+            * "El español en cifras", El español en el mundo, Anuario del Instituto Cervantes 2022
+          </p>
+        </a>
       </div>
       <img src="https://somosnlp.github.io/assets/images/undraw_Traveling_re_weve.svg" alt="Comunidad internacional" />
     </div>

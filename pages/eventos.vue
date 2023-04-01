@@ -18,9 +18,10 @@
             <h2>¡Únete al hackathon!</h2>
 
             <div class="mx-auto my-8 text-center">
-                <a href="https://www.eventbrite.com/e/registro-ii-hackathon-somos-nlp-565283938477?aff=w" target="_blank">
+                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
+                    target="_blank">
                     <img alt="Hackathon 2023" width="650" height="365"
-                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg" />
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" />
                 </a>
             </div>
 

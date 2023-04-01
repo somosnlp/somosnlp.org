@@ -8,7 +8,8 @@ linkedin: https://www.linkedin.com/in/yharyarias/
 github: https://github.com/yharyarias
 ---
 
-<!-- Contribuciones:
-- Traducir tutorial (2?)
-- Crear cartel 8M (WIP)
-- Crear el banner de Twitter del Hackathon 2023 -->
+## Colaboración
+
+- Diseño del cartel del 8M (WIP)
+- Diseño del banner de Twitter del Hackathon Somos NLP 2023
+- Traducción de 2 tutoriales de Hugging Face

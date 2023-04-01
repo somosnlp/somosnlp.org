@@ -4,7 +4,7 @@ description: ¡Muchísimas gracias por vuestro apoyo!
 date: 2023-03-16T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_ext.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com
