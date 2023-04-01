@@ -10,14 +10,16 @@ github: https://github.com/osanseviero
 
 ## Ponencias
 
-- AMA con Omar Sanseviero | Hackathon Somos NLP 2023
+- Ask Me Anything con Omar Sanseviero | Hackathon Somos NLP 2023
 - Análisis de error en modelos de PLN | Hackathon Somos NLP 2022
 - Introducción al NLP y Word Embeddings | Curso "NLP de 0 a 100"
 
 ## Colaboración
 
 - Gestión del patrocinio de Hugging Face durante el Hackathon Somos NLP 2023
+- Ayuda en la definición de las bases del Hackathon Somos NLP 2023
 - Gestión del patrocinio de Hugging Face durante el Hackathon Somos NLP 2022
+- Ayuda en la definición de las bases del Hackathon Somos NLP 2022
 - Co-organización del curso "NLP de 0 a 100"
 
 ## Biografía

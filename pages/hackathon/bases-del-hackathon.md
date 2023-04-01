@@ -2,12 +2,14 @@
 title: Bases del Hackathon
 description: Todo lo que necesitas saber para presentar un buen proyecto al hackathon
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_ext.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 ---
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg"
+<a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
         width="650" height="365" alt="Cartel del Hackathon 2023" />
+</a>
 </div>
 
 El objetivo del hackathon es crear recursos abiertos de PLN en español, a poder ser aprovechando el potencial de los grandes modelos del lenguaje para desarrollar un proyecto enfocado a alguno de los Objetivos de Desarrollo Sostenible.
@@ -24,7 +26,7 @@ y crea una cuenta en
 <a href="https://huggingface.co/join" target="_blank">Hugging Face</a>.
 
 2.  Regístrate en
-<a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
+<a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
 target="_blank">Eventbrite</a>.
 
 3. Únete a la organización
@@ -40,13 +42,13 @@ target="_blank">leaderboard</a>.
 
 6. Escribe la Dataset Card de tu dataset: inspecciona el dataset y evalúa sesgos.
 
-7. Fine-tuning de un LLM para la tarea que hayas elegido y *push to hub*. Pondremos a vuestra disposición GPU VMs, avísanos cuando tengas el dataset y esté todo listo para empezar el entrenamiento.
+7. Fine-tuning de un LLM para la tarea que hayas elegido y *push to hub*. Pondremos a vuestra disposición GPU VMs 24GB, avísanos cuando tengas el dataset y esté todo listo para empezar el entrenamiento.
 
 8. Escribe la Model Card de tu modelo: evalúa su calidad, sesgos y huella de carbono.
 
 9. Crea una demo para mostrar tu proyecto a la comunidad. Puedes utilizar GPUs Nvidia T4 - small.
 
-10. Entrega tu proyecto antes de las 23h59 *Anywhere on Earth* del miércoles 5 de abril (revisaremos la hora de los commits 👀).
+10. Entrega tu proyecto antes de las 23h59 *Anywhere on Earth* del domingo 9 de abril (revisaremos la hora de los commits 👀).
 
 
 ## Guía y recursos para desarrollar un buen proyecto

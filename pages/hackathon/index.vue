@@ -9,7 +9,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon Somos NLP 2023: Los LLMs hablan Español' },
         { name: 'twitter:description', content: '¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg' },
+        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
     ]
 })
@@ -52,8 +52,10 @@ useHead({
                 español!
             </p>
             <div class="flex justify-center">
-                <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_ext_anuncio.jpg"
-                    width="650" height="365" alt="Cartel del Hackathon 2023" />
+                <a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank">
+                    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
+                        width="650" height="365" alt="Cartel del Hackathon 2023" />
+                </a>
             </div>
 
             <p>
@@ -100,7 +102,7 @@ useHead({
                     llevarla al mercado
                 </li>
             </ul>
-            <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
+            <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
                 target="_blank">
                 ¡Regístrate ya!
             </a>
@@ -136,7 +138,7 @@ useHead({
                 por profesionales del mundo del Procesamiento del
                 Lenguaje Natural. Estos eventos están abiertos a todas las
                 personas, independientemente de si participan en el hackathon,
-                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477?aff=w"
+                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
                     target="_blank">¡apúntate!</a>
             </p>
             <ul>
