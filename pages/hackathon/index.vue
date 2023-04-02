@@ -350,6 +350,10 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
 
+                <SponsorInfo sponsor="Q Blocks" url="https://qblocks.cloud/"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/QBlocks_dark.png" />
+
                 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />

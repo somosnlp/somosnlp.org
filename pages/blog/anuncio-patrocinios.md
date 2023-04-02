@@ -13,6 +13,47 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
+Presentamos las empresas patrocinadores de oro del Hackathon Somos NLP 2022:
+Argilla,
+Hugging Face,
+Q Blocks,
+Nova,
+AgilMentor y
+WomenTech Network.
+
+¡Muchísimas gracias por vuestro apoyo!
+
+## Q Blocks
+
+💡 Presentamos Q Blocks: Una forma inteligente y rentable de entrenar, ajustar y desplegar tus modelos de ML. Nuestro enfoque innovador utiliza las GPU infrautilizadas de mineros de criptomonedas y jugadores reduciendo los costes hasta en un 80%. Con este método hemos ayudado a nuestros usuarios a ahorrar más de 2 millones de dólares.
+
+Disponemos de instancias de GPU Nvidia de última generación en configuraciones de una o varias GPU para ayudarte a entrenar y desplegar modelos ML pequeños y grandes.
+
+
+### ¿Cómo nos va a apoyar?
+
+⚙️ ¡Patrocinan GPU VMs 24GB para todos los equipos del hackathon!
+
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png" alt="Q Blocks" width="250" height="250"/>
+</div>
+
+## Argilla
+
+Argilla es una plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  
+
+### ¿Cómo nos va a apoyar?
+
+📚 Patrocinio de libros para el equipo ganador
+
+💸 Vale de 200€ en computación en el Hub de Hugging Face para el equipo ganador de la mención de honor al mejor dataset etiquetado
+
+🚀 Co-organización del reto colaborativo de limpieza y validación de la traducción de Alpaca
+
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" alt="Argilla" width="250" height="250"/>
+</div>
+
 ## Hugging Face
 
 🤗 Hugging Face es una plataforma colaborativa y open-source de Machine Learning en el que la comunidad ha compartido más de 150 mil modelos, 25 mil datasets y 30 mil aplicaciones de ML, incluyendo Stable DIffusion, Bloom y GPT-J. Hugging Face ha creado varias bibliotecas de ML como transformers, diffusers, gradio, datasets y optimum, las cuales permiten trabajar en todo el proceso de ML, desde el preprocesamiento de datos y el entrenamiento de modelos hasta poner modelos en producción y construir aplicaciones de estos.
@@ -24,7 +65,7 @@ github: https://github.com/mariagrandury
 ⚙️ Además, durante el hackathon todos los Spaces de los equipos participantes tendrán acceso a una **Nvidia T4** para poder crear demos increíbles y poder mostrar sus datasets y modelos desarrollados.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" alt="WomenTech Network" width="250" height="250"/>
+    <img src="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" alt="Hugging Face" width="250" height="250"/>
 </div>
 
 ---
