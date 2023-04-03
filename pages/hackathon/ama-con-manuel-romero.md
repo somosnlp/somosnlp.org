@@ -15,7 +15,7 @@ bio:
 <EventSummary
     description=""
     poster="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg"
-    video="https://www.youtube.com/watch?v=ADYPxZlUZDY&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/ADYPxZlUZDY"
     name=""
     website=""
     twitter=""

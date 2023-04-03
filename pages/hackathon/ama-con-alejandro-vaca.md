@@ -15,7 +15,7 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
 <EventSummary
     description="¡Pregúntame lo que quieras de Procesamiento del Lenguaje Natural!"
     poster="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg"
-    video="https://www.youtube.com/watch?v=G4R6w0W4Lv0&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/G4R6w0W4Lv0"
     name=""
     website=""
     twitter=""
