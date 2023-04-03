@@ -16,7 +16,7 @@ bio:
 <EventSummary
     description="En esta charla presentaremos el trabajo en conjunto que estamos realizando desde DataGénero - Observatorio de Datos con Perspectiva de Género y el Juzgado N°10 Contravenciona, Penal y de Faltas de la Ciudad de Buenos Aires, para construir una herramienta (software) que genere datos estructurados a partir de datos no estructurados. Nuestro software se llama AymurAI que en quechua significa cosecha. Queremos 'cosechar' datos sobre resoluciones judiciales sobre casos de violencia de género. Nuestra herramienta utiliza reglas y reconocimiento de entidades (NER) para extraer información clave de documentos judiciales, pasa por una pantalla de validación y luego estructura la información recolectada en un set de datos abiertos con perspectiva de género. A través de este proyecto queremos promover la justicia abierta, el gobierno abierto, los datos abiertos con perspectiva de género y la visibilización de problemáticas urgentes a través de los datos."
     poster="https://somosnlp.github.io/assets/images/eventos/230328_aymurai.jpg"
-    video="https://www.youtube.com/watch?v=JwputbLp8AI&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/JwputbLp8AI"
     name=""
     website=""
     twitter=""

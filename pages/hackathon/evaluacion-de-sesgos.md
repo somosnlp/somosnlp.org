@@ -15,7 +15,7 @@ github: https://github.com/mariagrandury
 <EventSummary
     description="Hoy descubriremos diversas técnicas y herramientas open-source integradas en el ecosistema de Hugging Face que podéis utilizar para evaluar y mitigar sesgos tanto en datasets como en modelos de PLN. También hay un mini paréntesis sobre la evaluación de la huella de carbono del entrenamiento de modelos."
     poster="https://somosnlp.github.io/assets/images/eventos/230328_evaluacion_de_sesgos.jpg"
-    video="https://www.youtube.com/watch?v=Ng2Yb7qrfY4&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/Ng2Yb7qrfY4"
     name=""
     website=""
     twitter=""

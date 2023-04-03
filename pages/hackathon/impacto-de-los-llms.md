@@ -15,7 +15,7 @@ bio:
 <EventSummary
     description="En esta keynote se explorará el impacto de los Modelos de Lenguaje de Aprendizaje Profundo (LLM) en la sociedad, así como su alcance y las implicaciones éticas y económicas de su adopción. Se analizarán las oportunidades y desafíos que plantea esta tecnología en rápida evolución y se propondrán pautas para una adopción responsable y equitativa."
     poster="https://somosnlp.github.io/assets/images/eventos/230328_impacto_de_los_llms.jpg"
-    video="https://www.youtube.com/watch?v=AeEc9dhAqM8&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/AeEc9dhAqM8"
     name=""
     website=""
     twitter=""

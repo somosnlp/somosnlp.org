@@ -15,7 +15,7 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
 <EventSummary
     description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
     poster="https://somosnlp.github.io/assets/images/eventos/"
-    video="https://www.youtube.com/watch?v=Ujn379UCHBg&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/Ujn379UCHBg"
     name=""
     website=""
     twitter=""

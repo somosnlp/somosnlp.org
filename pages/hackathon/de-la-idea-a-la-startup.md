@@ -15,7 +15,7 @@ github:
 <EventSummary
     description="En la charla abordaremos cual es el camino que recorre un proyecto en estadio idea hasta convertirse en una startup con alcance global. En este camino veremos específicamente cómo financiarse para crecer y qué puntos son relevantes para un inversor. No te pierdas los consejos que vamos a darte!"
     poster="https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg"
-    video="https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
+    video="https://www.youtube.com/embed/oQnu5aE4_8M"
     name=""
     website=""
     twitter=""
