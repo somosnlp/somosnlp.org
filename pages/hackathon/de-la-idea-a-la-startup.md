@@ -21,7 +21,7 @@ github:
     twitter=""
     linkedin=""
     github=""
-    bio="Lucas es emprendedor, Ingeniero Industrial y MBA, fundador de AGILMENTOR, incubadora de startups Argentina, con mas de 150 proyectos acompañados y potenciados, y más de 25 startups invertidas. Fundador de INCA Empresa Jr, empresa especializada en la consultoria empresarial y actualmente gerenciando proyectos en telecomunicaciones."
+    bio="Lucas es emprendedor, Ingeniero Industrial y MBA, fundador de AGILMENTOR, incubadora de startups Argentina, con mas de 150 proyectos acompañados y potenciados, y más de 25 startups invertidas. Fundador de INCA Empresa Jr, empresa especializada en la consultoría empresarial y actualmente gerenciando proyectos en telecomunicaciones."
 />
 
 ## ¿Qué vas a aprender al asistir a esta charla?
@@ -37,4 +37,4 @@ AgilMentor patrocina becas para su programa de incubación:
 - 4 becas de 50%
 - Becas de 20% para TODOS los equipos participantes
 
-Para captar la atención de AgilMentor, tienes que crear un buen canvas de modelo de negocio, [Lucas os explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s) 💡
+Para captar la atención de AgilMentor, te animamos a crear un buen canvas de modelo de negocio, [Lucas nos explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s) 💡
