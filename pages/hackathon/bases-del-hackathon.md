@@ -48,7 +48,9 @@ target="_blank">leaderboard</a>.
 
 9. Crea una demo para mostrar tu proyecto a la comunidad. Puedes utilizar GPUs Nvidia T4 - small.
 
-10. Entrega tu proyecto antes de las 23h59 *Anywhere on Earth* del domingo 9 de abril (revisaremos la hora de los commits 👀).
+10. Entrega tu proyecto
+<a href="https://forms.gle/nJEoNyuHBTGQrUjt9" target="_blank">rellenando este formulario</a>.
+Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del domingo 9 de abril (revisaremos la hora de los commits 👀).
 
 
 ## Guía y recursos para desarrollar un buen proyecto

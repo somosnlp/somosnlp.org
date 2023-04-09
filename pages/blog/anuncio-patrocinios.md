@@ -54,6 +54,28 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
     <img src="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" alt="Argilla" width="250" height="250"/>
 </div>
 
+---
+
+## AgilMentor
+
+AgilMentor es un equipo de mentores y mentoras que proporcionan herramientas para el desarrollo de startups tech mediante la implementación de metodologías ágiles e innovadoras.
+
+### ¿Cómo nos va a apoyar?
+
+🚀 AgilMentor patrocina becas para su
+<a href="https://agilmentor.com/programa/incubacion-tech/" target="_blank">Programa de Incubación TECH:</a>
+- 1 beca de 75%
+- 4 becas de 50%
+- Becas de 20% para TODOS los equipos participantes
+
+Para captar la atención de AgilMentor, te animamos a crear un buen canvas de modelo de negocio. [Lucas, co-fundador de AgilMentor, nos explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s) 💡
+
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" alt="AgilMentor" width="250" height="250"/>
+</div>
+
+---
+
 ## Hugging Face
 
 🤗 Hugging Face es una plataforma colaborativa y open-source de Machine Learning en el que la comunidad ha compartido más de 150 mil modelos, 25 mil datasets y 30 mil aplicaciones de ML, incluyendo Stable DIffusion, Bloom y GPT-J. Hugging Face ha creado varias bibliotecas de ML como transformers, diffusers, gradio, datasets y optimum, las cuales permiten trabajar en todo el proceso de ML, desde el preprocesamiento de datos y el entrenamiento de modelos hasta poner modelos en producción y construir aplicaciones de estos.
@@ -80,7 +102,9 @@ Entre los clientes de Nova se encuentran empresas como McKinsey, BCG, Bain & Com
 
 ### ¿Cómo nos va a apoyar?
 
-🌟 Nova nos ofrece **25 nominaciones** para las personas que durante el transcurso del hackathon demuestren ser más proactivas y tener un mayor potencial como profesionales.
+🌟 Nova nos ofrece
+<a href="https://www.novatalent.com/top-talent" target="_blank">25 menciones</a>
+para las personas que durante el transcurso del hackathon demuestren ser más proactivas y tener un mayor potencial como profesionales.
 
 Además, la persona que consiga una mayor puntuación en el proceso de selección de Nova tendrá la oportunidad de participar en un **curso de Personal Branding**, impartido por el Co-Fundador y CEO de Nova Ramón Rodrigáñez, durante el que desarrollará conocimientos clave para encontrar nuevas oportunidades profesionales, triunfar dentro de tu empresa y causar buena impresión al buscar inversores.
 
@@ -106,6 +130,4 @@ Además, la persona que consiga una mayor puntuación en el proceso de selecció
 
 ---
 
-🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-565283938477/?aff=w)! 
-
-[María Grandury](/core-team/maria-grandury)
+🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://somosnlp.org/hackathon)! 

@@ -285,6 +285,10 @@ useHead({
                     🤗 Swag de Hugging Face exclusivo del evento
                 </li>
                 <li>
+                    💜 Descuento de 20% en tickets para asistir a la WomenTech Network Global Conference 2023 y la opción de
+                    ganar 3 tickets completamente gratis
+                </li>
+                <li>
                     🚀 Descuento de 20% para participar en el programa de incubación de cuatro meses y medio de AgilMentor y
                     crear un MVP a partir de vuestro proyecto
                 </li>
@@ -302,39 +306,71 @@ useHead({
                         target="_blank">leaderboard</a>)
                 </li>
                 <li>
-                    💛 Proyecto con mayor impacto social
+                    💛 Proyecto con mayor impacto social: Beca del 50% de descuento para participar en el programa de
+                    incubación de cuatro meses y medio de AgilMentor y crear un MVP a partir de tu proyecto
                 </li>
                 <li>
-                    ✍️ Mejor dataset etiquetado: 200€ de crédito en el Hub de HF, patrocinado por Argilla
+                    ✍️ Mejor dataset etiquetado: 200€ de crédito en el Hub de Hugging Face patrocinado por Argilla
                 </li>
                 <li>
-                    💸 Proyecto con más opciones de llegar al mercado: 75% de descuento en el programa de incubación de
-                    AgilMentor
+                    🚀 Proyecto con más opciones de llegar al mercado: Beca del 75% de descuento para participar en el
+                    programa de incubación de cuatro meses y medio de AgilMentor y crear
+                    un MVP a partir de tu proyecto
                 </li>
             </ul>
-            <p>Los premios incluirán:</p>
+            <p>Premios para el tercer puesto:</p>
             <ul>
                 <li>
-                    ✨ Nominaciones para entrar en la red global de talento Nova
+                    ✨ Nominaciones para entrar en la red global de talento Nova y la oportunidad de participar en su curso
+                    de Personal Branding (persona elegida por el equipo de Nova)
                 </li>
                 <li>
-                    💜 Tickets para asistir a la WomenTech Network Global Conference 2023
-                </li>
-                <li>
-                    🚀 Descuentos del 50% y 75% para participar en el programa de cuatro meses y medio de AgilMentor y crear
+                    🚀 Beca del 50% de descuento para participar en el programa de incubación de cuatro meses y medio de
+                    AgilMentor y crear
                     un MVP a partir de tu proyecto
                 </li>
                 <li>
-                    👀 Reconocimiento en redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon23"
+                    👀 Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de
+                    Discord "🏆Hackathon23"
+                </li>
+            </ul>
+            <p>Premios para el segundo puesto:</p>
+            <ul>
+                <li>
+                    ✨ Nominaciones para entrar en la red global de talento Nova y la oportunidad de participar en su curso
+                    de Personal Branding (persona elegida por el equipo de Nova)
+                </li>
+                <li>
+                    🚀 Beca del 50% de descuento para participar en el programa de incubación de cuatro meses y medio de
+                    AgilMentor y crear
+                    un MVP a partir de tu proyecto
+                </li>
+                <li>
+                    👀 Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de
+                    Discord "🏆Hackathon23"
+                </li>
+            </ul>
+            <p>Premios para el primer puesto:</p>
+            <ul>
+                <li>
+                    ✨ Nominaciones para entrar en la red global de talento Nova y la oportunidad de participar en su curso
+                    de Personal Branding (persona elegida por el equipo de Nova)
+                </li>
+                <li>
+                    🚀 Beca del 50% de descuento para participar en el programa de incubación de cuatro meses y medio de
+                    AgilMentor y crear un MVP a partir de tu proyecto
+                </li>
+                <li>
+                    📚 Libros patrocinados por Argilla
+                </li>
+                <li>
+                    👀 Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de
+                    Discord "🏆Hackathon23"
                 </li>
             </ul>
             <a href="blog/anuncio-patrocinios" target="_blank">
                 ¡Más detalles sobre los patrocinios de oro aquí!
             </a>
-            <p>
-                Estamos hablando con las empresas patrocinadoras,
-                mantendremos esta sección actualizada 😉
-            </p>
 
             <hr class="mx-auto my-12 prose" />
 
