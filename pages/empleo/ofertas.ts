@@ -70,7 +70,7 @@ const NLP_Engineer_Hitz = {
     entidad: 'Hitz Center for Language Technology, University of the Basque Country (UPV/EHU)',
     "nº trabajadores/as": 'Más de 250',
     localización: 'San Sebastian, Bilbao. Mínimo 30% presencial',
-    "fecha publicación (fecha límite)": '2023/12/31 (2023/12/31)',
+    "fecha publicación (fecha límite)": '2023/04/19 (2023/12/31)',
     más: 'http://www.hitz.eus/en/job-offers'
 }
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
