@@ -63,6 +63,28 @@ const bsc_machine_translation_engineer_re1 = {
     "fecha publicación (fecha límite)": '2023/01/19 (2023/03/31)',
     más: 'https://www.bsc.es/join-us/job-opportunities/1023lstmre1'
 }
+const idealista = {
+    ocupación: 'Data Scientist',
+    "palabras clave": 'LLM, agente, langchain',
+    contrato: 'T.Completo',
+    entidad: 'idealista',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Remoto 100% desde España',
+    "fecha publicación (fecha límite)": '2023/05/04',
+    más: ''
+}
+const Argilla = {
+    ocupación: 'Senior Python Backend Engineer',
+    "palabras clave": 'Open-source, API',
+    contrato: 'T.Completo',
+    entidad: 'Argilla',
+    "nº trabajadores/as": '10-49',
+    localización: ' Remoto o Presencial en Madrid o Valencia',
+    "fecha publicación (fecha límite)": '2023/05/31',
+    más: ''
+}
+
+
 
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
@@ -73,4 +95,6 @@ export const ofertas = [
     bsc_deep_learning_engineer_language_re2,
     tirant_lo_blanch_nlp_engineer,
     bsc_machine_translation_engineer_re1,
+    idealista,
+    Argilla,
 ]
