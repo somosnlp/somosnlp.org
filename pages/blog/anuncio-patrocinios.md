@@ -122,7 +122,7 @@ Además, la persona que consiga una mayor puntuación en el proceso de selecció
 
 ### ¿Cómo nos va a apoyar?
 
-🎟️ Todas las personas que entreguen un proyecto completo al hackathon tendrán un **20% de descuento** en los tickets de la WomenTech Network Global Conference 2023 #WTGC2023. Además, al participar en el hackathon tendrás la oportunidad de participar en el **sorteo de 3 tickets** completamente gratis,
+🎟️ Todas las personas que entreguen un proyecto completo al hackathon tendrán un **20% de descuento** en los tickets de la WomenTech Network Global Conference 2023 #WTGC2023. Además, al participar en el hackathon tendrás la oportunidad de participar en el **sorteo de 3 tickets** (cada uno por un valor de 137,95€).
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/blog/WTGC.png" alt="WomenTech Global Conference banner" width="500" height="289.71"/>
