@@ -394,6 +394,11 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
 
+                <SponsorInfo sponsor="Instituto Milenio Fundamentos de los Datos"
+                    url="http://somosnlp.org/blog/anuncio-patrocinios"
+                    logo="https://somosnlp.github.io/assets/images/patrocinios/IMFD.png"
+                    logo_dark="https://somosnlp.github.io/assets/images/patrocinios/IMFD_dark.png" />
+
                 <SponsorInfo sponsor="Nova" url="http://somosnlp.org/blog/anuncio-patrocinios"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Nova.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Nova_dark.png" />
