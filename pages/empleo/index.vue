@@ -25,7 +25,7 @@ useHead({
         <header class="m-auto text-center prose">
             <h1>Bolsa de Empleo de PLN</h1>
             <p class="text-lg">
-                Encuentra ofertas de empleo e investigación relacionadas con el Procesamiento del Lenguaje Natural.
+                Encuentra ofertas de empleo e investigación relacionadas con el Procesamiento del Lenguaje Natural 🚀
             </p>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
@@ -37,6 +37,17 @@ useHead({
             <br />
             <Table :data="ofertas" :columns="columnas" :filter-key="searchQuery">
             </Table>
+        </div>
+        <div class="mt-8 mb-12">
+            <p class="m-auto text-center prose italic">
+                Las entidades son responsables de publicar información correcta y actualizarla.
+            </p>
+        </div>
+        <hr class="mx-auto mt-8 mb-12 prose" />
+        <div>
+            <p class="m-auto text-center prose text-2xl">
+                👏 Total Ofertas Publicadas: 19 👏
+            </p>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
