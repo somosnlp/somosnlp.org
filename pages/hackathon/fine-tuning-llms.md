@@ -12,14 +12,4 @@ linkedin: https://www.linkedin.com/in/manuel-romero-cs/
 github: https://github.com/mrm8488
 ---
 
-<EventSummary
-    description="En este evento aprenderemos a hacer fine-tuning a LLMs sin necesidad de un hardware caro gracias a las últimas técnicas de PEFT como LoRA."
-    poster="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg"
-    video="https://www.youtube.com/embed/WYcJb8gYBZU"
-    name=""
-    website=""
-    twitter=""
-    linkedin=""
-    github=""
-    bio=""
-/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

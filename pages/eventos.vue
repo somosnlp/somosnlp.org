@@ -15,33 +15,23 @@
 
         <article class="m-auto prose">
 
-            <h2>¡Únete al hackathon!</h2>
-
-            <div class="mx-auto my-8 text-center">
-                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
-                    target="_blank">
-                    <img alt="Hackathon 2023" width="650" height="365"
-                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" />
-                </a>
-            </div>
+            <!--
+            <a
+                href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
+                ➡️ Calendario de Google con nuestros eventos
+            </a>
+            -->
 
             <h3>🚀 Charlas y talleres del Hackathon 2023</h3>
 
-            <a
-                href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
-                Calendario de Google con todos los eventos del hackathon
-            </a>
-
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="https://www.youtube.com/watch?v=WYcJb8gYBZU&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
-                        target="_blank">
+                    <a href="/hackathon/fine-tuning-llms" target="_blank">
                         <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
                     </a>
 
-                    <a href="https://www.youtube.com/watch?v=kXx8nDGc4bw&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546"
-                        target="_blank">
+                    <a href="/hackathon/etiquetado-de-datos-con-argilla" target="_blank">
                         <img alt="Introducción a Argilla" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg" />
                     </a>
@@ -56,7 +46,7 @@
                             src="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg" />
                     </a>
 
-                    <a href="hackathon/tecnologías-clave-de-chatgpt" target="_blank">
+                    <a href="hackathon/tecnologias-clave-de-chatgpt" target="_blank">
                         <img alt="Tecnologías clave de ChatGPT" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg" />
                     </a>
@@ -72,7 +62,7 @@
                     </a>
 
                     <a href="hackathon/aymurai" target="_blank">
-                        <img alt="Impacto de los LLMs" width="650" height="365"
+                        <img alt="AymurAI" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230328_aymurai.jpg" />
                     </a>
 
@@ -99,6 +89,21 @@
                     <a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
                         <img alt="Detección del lenguaje ofensivo" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
+                    </a>
+
+                    <a href="/hackathon/evaluacion-con-desacuerdo" target="_blank">
+                        <img alt="Evaluación con desacuerdo" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
+                    </a>
+
+                    <a href="/hackathon/nlp-clinico" target="_blank">
+                        <img alt="NLP Clínico" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230404_nlp_clinico.png" />
+                    </a>
+
+                    <a href="/hackathon/pln-en-el-sector-legal" target="_blank">
+                        <img alt="PLN en el sector legal" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/230404_pln_en_el_sector_legal.png" />
                     </a>
 
                 </div>
