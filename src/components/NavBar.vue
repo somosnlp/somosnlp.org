@@ -15,13 +15,13 @@ const { t } = useI18n()
                 t('navbar.course')
             }}</router-link>
             <router-link to="/eventos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.events') }}
-        </router-link>
-            <router-link to="/hackathon" class="whitespace-nowrap  text-accent-500 hover:text-accent-600">Hackathon
+            </router-link>
+            <router-link to="/hackathon" class="whitespace-nowrap hover:text-accent-600">Hackathon
             </router-link>
             <router-link to="/empleo" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.jobs') }}
             </router-link>
-            <!-- <router-link to="/comunidad" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.team') }}
-                </router-link> -->
+            <router-link to="/comunidad" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.team') }}
+            </router-link>
         </div>
         <div class="flex gap-4 items-center">
             <div class="flex gap-2" text="lg">
