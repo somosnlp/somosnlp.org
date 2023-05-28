@@ -26,19 +26,41 @@ useHead({
             </p>
 
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
-                <a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank" class="button-accent">
-                    <carbon:user-multiple />
-                    Aún puedes registrarte
-                </a>
                 <div class="button-gray max-w-70 border-2 border-accent-400 rounded">
                     <IconButtonLink
-                        :url='`https://twitter.com/intent/tweet?text=Voy a participar en el hackathon @SomosNLP_ 2023 "Los LLMs hablan Español" ¿te apuntas? \n\n https://twitter.com/SomosNLP_/status/1635311564051070982`'>
+                        :url='`https://twitter.com/intent/tweet?text=Proyectos ganadores del #HackathonSomosNLP @SomosNLP_ \n\n https://twitter.com/SomosNLP_/status/1648752306978971666`'>
                         <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
-                        <span class="font-medium text-sm">#HackathonSomosNLP</span>
+                        <span class="font-medium text-sm">Proyectos Ganadores #HackathonSomosNLP</span>
+                    </IconButtonLink>
+                </div>
+                <div class="button-gray max-w-70 border-2 border-accent-400 rounded">
+                    <IconButtonLink
+                        :url='`https://www.linkedin.com/posts/somosnlp_hackathonsomosnlp-pln-opensource-activity-7054865464488861696-gS2E/`'>
+                        <carbon:logo-linkedin class="inline align-middle mr-2 text-lg" />
+                        <span class="font-medium text-sm">Proyectos Ganadores #HackathonSomosNLP</span>
                     </IconButtonLink>
                 </div>
             </div>
         </header>
+        <hr class="mx-auto mt-8 mb-12 prose" />
+
+        <div class="m-auto text-center prose">
+            <p>
+                La segunda edición de nuestro hackathon ya ha finalizado, te animamos a echar un vistazo
+                a los
+                <a href="https://hf.co/hackathon-somos-nlp-2023" target="_blank">proyectos</a>
+                de los equipos participantes y visualizar las grabaciones de las
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" target="_blank">
+                    charlas y talleres
+                </a>impartidas por especialistas en el campo del PLN.
+            </p>
+
+            <p>
+                <a href="https://somosnlp.org/eventos">
+                    ¡Únete a nuestros próximos eventos!
+                </a>
+            </p>
+        </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
 
         <article class="m-auto prose">
@@ -51,8 +73,9 @@ useHead({
                 ¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en
                 español!
             </p>
+
             <div class="flex justify-center">
-                <a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank">
+                <a href="" target="_blank">
                     <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
                         width="650" height="365" alt="Cartel del Hackathon 2023" />
                 </a>
@@ -102,10 +125,7 @@ useHead({
                     llevarla al mercado
                 </li>
             </ul>
-            <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
-                target="_blank">
-                ¡Regístrate ya!
-            </a>
+            ¡Regístrate ya!
 
             <hr class="mx-auto mt-8 mb-12 prose" />
 
@@ -137,9 +157,9 @@ useHead({
                 Durante dos días del hackathon (martes 28 de marzo y 4 de abril), tendrán lugar diversas keynotes impartidas
                 por profesionales del mundo del Procesamiento del
                 Lenguaje Natural. Estos eventos están abiertos a todas las
-                personas, independientemente de si participan en el hackathon,
-                <a href="https://www.eventbrite.com/e/registro-hackathon-somos-nlp-2023-los-llms-hablan-espanol-605939269667"
-                    target="_blank">¡apúntate!</a>
+                personas, independientemente de si participan en el hackathon.
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" target="_blank">¡Ya están
+                    las grabaciones disponibles!</a>
             </p>
             <ul>
                 Martes 28 de marzo: Día de Keynotes
@@ -361,7 +381,8 @@ useHead({
                     AgilMentor y crear un MVP a partir de tu proyecto
                 </li>
                 <li>
-                    📚 Libros patrocinados por Argilla
+                    📚 Libros patrocinados por Argilla a elegir entre "NLP with Transformers", "Human-in-the-loop Machine
+                    Learning" and "Designing Machine Learning Systems"
                 </li>
                 <li>
                     👀 Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de
@@ -379,6 +400,7 @@ useHead({
                 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos.
                 ¡Vamos a democratizar el PLN en español!
             </p>
+
             <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
 
@@ -411,6 +433,7 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
             </div>
+
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
@@ -436,12 +459,10 @@ useHead({
                 <SponsorInfo sponsor="Meaning Cloud" url="https://www.meaningcloud.com/"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/MeaningCloud.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MeaningCloud.png" />
-
-
             </div>
+
             <h3>🥉 Patrocinadores de bronce</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
-
                 <SponsorInfo sponsor="AI The New Sexy" url="https://linktr.ee/aithenewsexy"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
