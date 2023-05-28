@@ -22,4 +22,10 @@ aumentar su equipo de 20 a casi 50 empleados en apenas dos años, Nova trabaja
 en la actualidad en mejorar su tecnología y establecerse en nuevos mercados.
 
 ## Colaboración
-- Patrocinador de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+
+- Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+
+<div class="flex justify-center">
+    <img alt="" width="650" height="365" 
+    src="https://somosnlp.github.io/assets/images/patrocinios/nova.png" />
+</div>

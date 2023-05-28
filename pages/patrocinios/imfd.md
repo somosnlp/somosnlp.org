@@ -13,3 +13,8 @@ El Instituto Milenio Fundamentos de los Datos es un centro de referencia, que de
 
 - Instituto patrocinador de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 - Jocelyn Dunstan: ponente del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+
+<div class="flex justify-center">
+    <img alt="IMFD" width="650" height="365" 
+    src="https://somosnlp.github.io/assets/images/patrocinios/IMFD.png" />
+</div>

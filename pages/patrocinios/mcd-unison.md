@@ -10,4 +10,10 @@ website: https://mcd.unison.mx
 Maestría en Ciencia de Datos del Departamento de Matemáticas de la Universidad de Sonora. 
 
 ## Colaboración
+
 - Grupo patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+
+<div class="flex justify-center">
+    <img alt="MCDunisonMX" width="650" height="365" 
+    src="https://somosnlp.github.io/assets/images/patrocinios/MCDunisonMX.png" />
+</div>

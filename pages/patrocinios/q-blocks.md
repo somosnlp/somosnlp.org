@@ -27,5 +27,10 @@ Y esto es lo mejor: Este enfoque innovador de utilizar las GPU infrautilizadas d
 Disponemos de instancias de GPU Nvidia de última generación en configuraciones de una o varias GPU para ayudarle a entrenar y desplegar modelos ML pequeños y grandes.
 
 ## Colaboración
-- Patrocinador de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
+- Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+
+<div class="flex justify-center">
+    <img alt="" width="650" height="365" 
+    src="https://somosnlp.github.io/assets/images/patrocinios/" />
+</div>
