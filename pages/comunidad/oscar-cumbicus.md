@@ -8,6 +8,8 @@ linkedin: https://www.linkedin.com/in/oscar-cumbicus-47095443/
 github: https://github.com/oskrmiguel
 ---
 
-<!-- Contribuciones:
-- Patrocinio UNL Hackathon 2022
-- Colaboración con FliSol Loja -->
+## Colaboración
+
+- Representación de Somos NLP en FliSol Loja
+- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) durante el Hackathon Somos NLP 2023
+- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) durante el Hackathon Somos NLP 2022

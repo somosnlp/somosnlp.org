@@ -8,4 +8,12 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
+## Ponencias
+
+- Evaluación y mitigación de sesgos en LMs | Hackathon Somos NLP 2023
+
+## Biografía
+
 María Grandury es una ingeniera e investigadora de Machine Learning especializada en las áreas del PLN y la fiabilidad de la IA. Es matemática y física y actualmente trabaja en neurocat, una startup con sede en Berlín, donde desarrolla métodos de explicabilidad (XAI) y ataques adversarios para evaluar la seguridad de modelos de ML. Además, es la fundadora de Somos NLP, una comunidad internacional cuya misión es democratizar y acelerar el avance del NLP en español. Es Hugging Face Fellow y forma parte de varios proyectos de investigación de PLN internacionales, además de colaborar activamente con diversas iniciativas de mujeres en IA. 
+
+*Última actualización: 16 de marzo de 2023*

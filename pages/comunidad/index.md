@@ -1,6 +1,6 @@
 ---
 title: La comunidad
-description: Las más de 1000 personas que forman nuestra comunidad son super importantes. Aquí te presentamos a las personas y organizaciones que colaboran más activamente, ¡únete!
+description: La fuerza de la comunidad reside en las casi 2000 personas apasionadas por el PLN que la forman. Aquí te presentamos a las personas y organizaciones que colaboran más activamente, ¡únete!
 ---
 
 <div class="flex justify-center">
@@ -11,21 +11,11 @@ description: Las más de 1000 personas que forman nuestra comunidad son super im
 
 ---
 
-<CoreTeamList />
+<CommunityList />
 
 ---
 
-<div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">         
-    <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
-        logo="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
-        logo_dark="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png" />
-    <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
-        logo="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
-        logo_dark="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png" />
-    <SponsorInfo sponsor="Omdena Mexico" url="https://omdena.com/"
-        logo="https://somosnlp.github.io/assets/images/logo_omdena_mexico_perfil.png"
-        logo_dark="https://somosnlp.github.io/assets/images/logo_omdena_mexico_perfil.png" />
-</div>
+<SponsorList />
 
 ---
 
