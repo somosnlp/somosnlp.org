@@ -8,5 +8,6 @@ website:
 ---
 
 ## Colaboración
+
 - Autora del artículo de llamada a patrocinar el Hackathon Somos NLP 2023
-- Autora del artículo [WomenTech Global Conference 2023](/blog/womentech-global-conference-2023)
+- Autora del artículo sobre la [WomenTech Global Conference 2023](/blog/womentech-global-conference-2023)

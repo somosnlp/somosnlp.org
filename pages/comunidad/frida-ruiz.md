@@ -9,6 +9,7 @@ github: https://github.com/fridaruh
 ---
 
 ## Colaboración
+
 - Gestión del patrocinio de AI The New Sexy | [Hackathon Somos NLP 2023](/hackathon)
 - Entrevista a María Grandury en su podcast "AI The New Sexy"
 
@@ -17,4 +18,3 @@ github: https://github.com/fridaruh
     <img alt="AI The New Sexy" width="650" height="365"
         src="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
 </a>
-
