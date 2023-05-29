@@ -28,7 +28,7 @@ useHead({
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
                 <div class="button-gray max-w-70 border-2 border-accent-400 rounded">
                     <IconButtonLink
-                        :url='`https://twitter.com/intent/tweet?text=Proyectos ganadores del #HackathonSomosNLP @SomosNLP_ \n\n https://twitter.com/SomosNLP_/status/1648752306978971666`'>
+                        :url='`https://twitter.com/intent/tweet?text=Proyectos ganadores del %23HackathonSomosNLP @SomosNLP_ \n\n https://twitter.com/SomosNLP_/status/1648752306978971666`'>
                         <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
                         <span class="font-medium text-sm">Proyectos Ganadores #HackathonSomosNLP</span>
                     </IconButtonLink>
