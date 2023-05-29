@@ -14,6 +14,6 @@ Somos una incubadora de startups que busca potenciar emprendedores hispanohablan
 - Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="AgilMentor" width="650" height="365" 
+    <img alt="AgilMentor" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" />
 </div>

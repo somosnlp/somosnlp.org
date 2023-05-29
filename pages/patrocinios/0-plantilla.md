@@ -10,10 +10,18 @@ website:
 Descripción.
 
 ## Colaboración
+
 - ...
 
-## Personas de X que han colaborado con Somos NLP
+## Personas que han colaborado con Somos NLP
+
 - ...
 
 ## Menciones en nuestro blog
+
 - ...
+
+<div class="flex justify-center">
+    <img alt="Nombre" width="250" height="140" 
+    src="https://somosnlp.github.io/assets/images/patrocinios/" />
+</div>

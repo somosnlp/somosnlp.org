@@ -13,7 +13,7 @@ short_bio: "Flor Miriam Plaza del Arco es investigadora postdoctoral en el grupo
 - Detección del lenguaje ofensivo en la era digital: Retos y avances | Hackathon Somos NLP 2023
 
 <a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
-    <img alt="Detección del lenguaje ofensivo" width="650" height="365"
+    <img alt="Detección del lenguaje ofensivo" width="500" height="280"
         src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
 </a>
 
@@ -21,7 +21,7 @@ short_bio: "Flor Miriam Plaza del Arco es investigadora postdoctoral en el grupo
 
 <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
     target="_blank">
-    <img alt="Mesa Redonda 8M" width="650" height="365"
+    <img alt="Mesa Redonda 8M" width="500" height="280"
         src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
 </a>
 

@@ -5,7 +5,11 @@ const router = useRouter()
 const routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/patrocinios/')
+            && !i.path.startsWith('/patrocinios/0-plantilla')
     )
+    .sort((a, b) => {
+        return a.path.localeCompare(b.path);
+    });
 </script>
 
 <template>

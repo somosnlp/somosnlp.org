@@ -1,7 +1,7 @@
 ---
 title: Daniel Vila Suero
 description: Co-fundador y CEO de Argilla
-cover: https://somosnlp.github.io/assets/images/comunidad/
+cover: https://somosnlp.github.io/assets/images/comunidad/daniel_vila_suero.jpg
 twitter: https://twitter.com/dvilasuero
 linkedin: https://www.linkedin.com/in/daniel-vila-suero-484b6b45/
 website: https://argilla.io
@@ -14,7 +14,7 @@ website: https://argilla.io
 
 ## Colaboración
 
-- Colaboración en la organización del esfuerzo colaborativo de traducir Alpaca al español
+- Colaboración en la organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
 - Argilla es empresa [patrocinadora de oro](/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
 
 ## Biografía

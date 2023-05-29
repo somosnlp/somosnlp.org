@@ -14,7 +14,7 @@ short_bio: "Inés García Sacristán es ingeniera de telecomunicaciones. A sus 2
 
 <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
     target="_blank">
-    <img alt="Mesa Redonda 8M" width="650" height="365"
+    <img alt="Mesa Redonda 8M" width="500" height="280"
         src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
 </a>
 
