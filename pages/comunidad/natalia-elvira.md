@@ -10,8 +10,12 @@ github:
 
 ## Ponencias
 
-- AMA de etiquetado de datos | Hackathon Somos NLP 2023
+- Ask Me Anything sobre etiquetado de datos | Hackathon Somos NLP 2023
 - Vídeo "Somos Mujeres NLP" | Iniciativa 8M 2023
+
+## Colaboración
+
+- Colaboración en la gestión de la iniciativa colaborativa de traducir Alpaca al español
 
 ## Biografía
 

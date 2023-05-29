@@ -11,6 +11,7 @@ github: https://github.com/mariagrandury
 ## Ponencias
 
 - Evaluación y mitigación de sesgos en LMs | Hackathon Somos NLP 2023
+- Profesora del curso "NLP de 0 a 100"
 
 ## Biografía
 

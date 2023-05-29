@@ -8,10 +8,13 @@ website: https://argilla.io
 ---
 
 ## Ponencias
+
 - Introducción a Argilla | [Hackathon Somos NLP 2023](/hackathon)
 - Etiquetado de datos para PLN con Rubrix | [Hackathon Somos NLP 2022](/blog/hackathon-2022)
 
 ## Colaboración
+
+- Colaboración en la organización del esfuerzo colaborativo de traducir Alpaca al español
 - Argilla es empresa [patrocinadora de oro](/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
 
 ## Biografía

@@ -10,6 +10,7 @@ short_bio: "Maite es Catedrática de Informática en la Universidad de Jaén e I
 ---
 
 ## Ponencias
+
 - Ponente en la Mesa Redonda 8M: PLN en la lucha contra el sexismo
 
 <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
@@ -19,6 +20,7 @@ short_bio: "Maite es Catedrática de Informática en la Universidad de Jaén e I
 </a>
 
 ## Colaboración
+
 - Miembro del jurado del [Hackathon Somos NLP 2022](/blog/hackathon-2022)
 
 

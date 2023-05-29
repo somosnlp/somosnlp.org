@@ -10,6 +10,6 @@ github: https://github.com/oskrmiguel
 
 ## Colaboración
 
-- Representación de Somos NLP en FliSol Loja
-- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) durante el Hackathon Somos NLP 2023
-- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) durante el Hackathon Somos NLP 2022
+- Representación de Somos NLP en la conferencia de código abierto FliSol Loja
+- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) | Hackathon Somos NLP 2023
+- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) | Hackathon Somos NLP 2022

@@ -8,7 +8,14 @@ linkedin: https://www.linkedin.com/in/lewis-tunstall
 github: https://github.com/lewtun
 ---
 
-<!-- Contribuciones:
-- 2 x AMA en Hackathon 2022
-- host del evento de Graphex
-- 5 libros para el equipo ganador del Hackathon 2022 -->
+## Ponencias
+
+- 2 sesiones Ask Me Anything durante el Hackathon Somos NLP 2022
+- Host de la charla sobre Graphex | Hackathon Somos NLP 2022
+- Profesor del curso "NLP de 0 a 100"
+
+## Colaboración
+
+- Colaboración en la organización del Hackathon Somos NLP 2022
+- Gestión de la entrega de 5 copias del libro "NLP with Transformers" al equipo ganador
+- Co-organización del curso "NLP de 0 a 100"

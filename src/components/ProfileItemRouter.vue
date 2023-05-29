@@ -15,8 +15,7 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
 </script>
 
 <template>
-    <router-link :to="route.path" :key="route.path" class="contents">
-
+    <router-link :to="route.path" :key="route.path" target="_blank" class="contents">
         <div class="rounded-md grid p-4 gap-4 place-items-center <sm:grid-cols-1 <lg:grid-cols-2"
             hover="bg-gray-50 dark:bg-gray-800">
             <div>

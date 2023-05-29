@@ -9,14 +9,14 @@ website: https://www.iic.uam.es
 
 ## Colaboración
 
-- Patrocinador de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+- Instituto patrocinador de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 ## Personas del IIC que han colaborado con Somos NLP
 
-- Keynote de Alejandro Vaca "Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback" | Hackathon Somos NLP 2023
-- AMA con Alejandro Vaca | Hackathon Somos NLP 2023
-- BiomedIA | Proyectos de la comunidad, Hackathon Somos NLP 2022
-- RigoBERTa | Hackathon Somos NLP 2022
+- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback, Alejandro Vaca | Hackathon Somos NLP 2023
+- Ask Me Anything con Alejandro Vaca | Hackathon Somos NLP 2023
+- BiomedIA: 1er puesto Hackathon Somos NLP 2022, Alejandro Vaca, David Betancur, Alba Segurado, Guillem García y Álvaro Barbero
+- RigoBERTa: Entrenando un modelo SOTA, Alejandro Vaca, Helena Montoro, Nuria Aldama y Álvaro Barbero | Hackathon Somos NLP 2022
 
 <div class="flex justify-center">
     <img alt="IIC" width="650" height="365" 
