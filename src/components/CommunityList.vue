@@ -5,14 +5,18 @@ const router = useRouter()
 const founder_routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/comunidad/maria-grandury') ||
-            i.path.startsWith('comunidad/manuel-romero')
+            i.path.startsWith('/comunidad/manuel-romero')
     )
 const routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/comunidad/')
             && !i.path.startsWith('/comunidad/maria-grandury')
-            && !i.path.startsWith('comunidad/manuel-romero')
+            && !i.path.startsWith('/comunidad/manuel-romero')
+            && !i.path.startsWith('/comunidad/0-plantilla')
     )
+    .sort((a, b) => {
+        return a.path.localeCompare(b.path);
+    });
 </script>
 
 <template>

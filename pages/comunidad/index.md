@@ -1,6 +1,6 @@
 ---
 title: La comunidad
-description: La fuerza de la comunidad reside en las casi 2000 personas apasionadas por el PLN que la forman. Aquí te presentamos a las personas y organizaciones que colaboran más activamente, ¡únete!
+description: La fuerza de la comunidad reside en las casi 2000 personas apasionadas por el PLN que la forman. Aquí te presentamos a las personas y organizaciones que colaboran o han colaborado más activamente, ¡únete!
 ---
 
 <div class="flex justify-center">

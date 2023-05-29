@@ -15,6 +15,6 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
 - Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/blog/hackathon-2022)
 
 <div class="flex justify-center">
-    <img alt="Narrativa" width="650" height="365" 
+    <img alt="Narrativa" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png" />
 </div>

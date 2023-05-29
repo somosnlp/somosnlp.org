@@ -1,7 +1,7 @@
 ---
 title: Q Blocks
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/
+cover: https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png
 twitter: https://twitter.com/blocks_q
 linkedin: https://www.linkedin.com/company/q-blocks/
 website: https://qblocks.cloud/
@@ -31,6 +31,6 @@ Disponemos de instancias de GPU Nvidia de última generación en configuraciones
 - Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="" width="650" height="365" 
+    <img alt="" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/" />
 </div>

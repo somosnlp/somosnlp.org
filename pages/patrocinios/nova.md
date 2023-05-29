@@ -1,7 +1,7 @@
 ---
 title: Nova
 description: Red global de talento
-cover: https://somosnlp.github.io/assets/images/patrocinios/nova.png
+cover: https://somosnlp.github.io/assets/images/patrocinios/Nova.png
 twitter: https://twitter.com/NovaTalent_
 linkedin: https://www.linkedin.com/company/nova/
 website: https://www.novatalent.com/
@@ -26,6 +26,6 @@ en la actualidad en mejorar su tecnología y establecerse en nuevos mercados.
 - Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="" width="650" height="365" 
+    <img alt="" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/nova.png" />
 </div>

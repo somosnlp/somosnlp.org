@@ -19,6 +19,6 @@ website: https://www.iic.uam.es
 - RigoBERTa: Entrenando un modelo SOTA, Alejandro Vaca, Helena Montoro, Nuria Aldama y Álvaro Barbero | Hackathon Somos NLP 2022
 
 <div class="flex justify-center">
-    <img alt="IIC" width="650" height="365" 
+    <img alt="IIC" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp" />
 </div>

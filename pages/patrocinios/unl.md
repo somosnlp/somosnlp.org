@@ -15,6 +15,6 @@ Es misión de la Universidad Nacional de Loja: la formación académica y profes
 - Universidad patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/blog/hackathon-2022)
 
 <div class="flex justify-center">
-    <img alt="UNL" width="650" height="365" 
+    <img alt="UNL" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/UNL.png" />
 </div>

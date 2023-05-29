@@ -14,6 +14,6 @@ El Capítulo Estudiantil AAAIMX es un grupo conformado por estudiantes, profesor
 - Grupo patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="Capítulo Estudiantil AAAIMX" width="650" height="365" 
+    <img alt="Capítulo Estudiantil AAAIMX" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png" />
 </div>

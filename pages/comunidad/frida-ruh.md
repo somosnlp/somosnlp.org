@@ -1,7 +1,7 @@
 ---
-title: Frida Ruíz
+title: Frida Ruh
 description: Data Scientist
-cover: https://media.licdn.com/dms/image/D4E03AQFfObbA7_BnEg/profile-displayphoto-shrink_800_800/0/1668997843548?e=1678924800&v=beta&t=Ok4QiuJ_fIBJyOxNcO81-wIsHuJXrdP7w9c39mK0sII
+cover: https://somosnlp.github.io/assets/images/comunidad/frida_ruh.jpg 
 website: http://fridaruh.com/ 
 twitter: https://twitter.com/FridaRuh
 linkedin: https://linkedin.com/in/fridaruh
@@ -15,6 +15,6 @@ github: https://github.com/fridaruh
 
 <a href="https://open.spotify.com/episode/38Y2K2gAe8IujRZOMjv1BH?si=S8VO6ifPT4WYWLbSLr91tg"
     target="_blank">
-    <img alt="AI The New Sexy" width="650" height="365"
+    <img alt="AI The New Sexy" width="500" height="280"
         src="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
 </a>

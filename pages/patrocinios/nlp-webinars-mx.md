@@ -12,6 +12,6 @@ website: https://nlpwebinarmx.org/
 - Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="NLPmx" width="650" height="365" 
+    <img alt="NLPmx" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png" />
 </div>

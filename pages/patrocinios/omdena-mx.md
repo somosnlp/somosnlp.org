@@ -13,9 +13,9 @@ website: https://omdena.com/
 
 ## Menciones en nuestro blog
 
-- Validador de Veracidad de Noticias (/blog/validador-veracidad-noticias)
+- [Validador de Veracidad de Noticias](/blog/validador-veracidad-noticias)
 
 <div class="flex justify-center">
-    <img alt="Omdena Mexico" width="650" height="365" 
+    <img alt="Omdena Mexico" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/logo_omdena_mexico_perfil.png" />
 </div>

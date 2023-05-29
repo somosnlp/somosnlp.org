@@ -15,6 +15,6 @@ Comunidad y podcast en español donde nos encargamos de hablar sobre el impacto 
 
 
 <div class="flex justify-center">
-    <img alt="AI The New Sexy" width="650" height="365" 
+    <img alt="AI The New Sexy" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG" />
 </div>

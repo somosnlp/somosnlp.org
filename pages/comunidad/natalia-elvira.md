@@ -15,7 +15,7 @@ github:
 
 ## Colaboración
 
-- Colaboración en la gestión de la iniciativa colaborativa de traducir Alpaca al español
+- Colaboración en la organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
 
 ## Biografía
 

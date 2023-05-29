@@ -14,6 +14,6 @@ UNED Research Group in NLP & IR
 - Grupo patrocinador de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="UNEDNLP" width="650" height="365" 
+    <img alt="UNEDNLP" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png" />
 </div>

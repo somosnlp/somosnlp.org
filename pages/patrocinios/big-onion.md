@@ -14,6 +14,6 @@ Big Onion es un equipo de personas experimentadas en innovación con foco en neg
 - Empresa patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 
 <div class="flex justify-center">
-    <img alt="BigOnion" width="650" height="365" 
+    <img alt="BigOnion" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
 </div>

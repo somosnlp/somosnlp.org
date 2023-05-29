@@ -1,9 +1,9 @@
 ---
 title: Javier de la Rosa
-description: 
-cover: https://somosnlp.github.io/assets/images/comunidad/
-twitter: 
-linkedin: 
+description: Sr Research Scientist @ Biblioteca Nacional Noruega
+cover: https://somosnlp.github.io/assets/images/comunidad/javier_de_la_rosa.jpg
+twitter: https://twitter.com/versae
+linkedin: https://www.linkedin.com/in/versae/
 website: 
 ---
 
