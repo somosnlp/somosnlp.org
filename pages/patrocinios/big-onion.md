@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg
 twitter: 
 linkedin:
 website: 
+type: 3. Bronce
 ---
 
 Big Onion es un equipo de personas experimentadas en innovación con foco en negocio digital capaces de auditar, diseñar, ejecutar y formar equipos para proyectos tecnológicos.

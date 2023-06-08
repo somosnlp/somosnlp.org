@@ -5,9 +5,10 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg
 twitter: https://twitter.com/argilla_io
 linkedin: https://www.linkedin.com/company/argilla-io/
 website: https://www.argilla.io/
+type: 1. Oro
 ---
 
-Argilla es una plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  
+Argilla es una 2. Plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  
 
 ## Colaboración
 

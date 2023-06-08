@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/MeaningCloud.png
 twitter: 
 linkedin:
 website: 
+type: 2. Plata
 ---
 
 ## Colaboración

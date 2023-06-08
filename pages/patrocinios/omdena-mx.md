@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/logo_omdena_mexico_perfil.png
 twitter: 
 linkedin: 
 website: https://omdena.com/
+type: 2. Plata
 ---
 
 ## Colaboración

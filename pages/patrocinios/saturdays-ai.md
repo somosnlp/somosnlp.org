@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png
 twitter: https://twitter.com/AISaturdays_ES
 linkedin: https://www.linkedin.com/school/saturdaysai/
 website: https://saturdays.ai/
+type: 2. Plata
 ---
 
 ## Colaboración

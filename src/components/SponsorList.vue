@@ -6,10 +6,14 @@ const routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/patrocinios/')
             && !i.path.startsWith('/patrocinios/0-plantilla')
+            && (i.meta as any).frontmatter.type
     )
-    .sort((a, b) => {
-        return a.path.localeCompare(b.path);
-    });
+    .sort(
+        (a, b) =>
+            ((a.meta as any).frontmatter.type.localeCompare((b.meta as any).frontmatter.type)) ||
+            a.path.toLowerCase().localeCompare(b.path.toLowerCase())
+    );
+
 </script>
 
 <template>

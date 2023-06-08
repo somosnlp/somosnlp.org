@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/IBiDat.png
 twitter: 
 linkedin:
 website: 
+type: 3. Bronce
 ---
 
 ## Colaboración

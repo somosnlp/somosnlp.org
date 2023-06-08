@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/AiTheNewSexy.PNG
 twitter: https://twitter.com/aithenewsexy
 linkedin: https://www.linkedin.com/company/ai-the-new-sexy/
 website: https://linktr.ee/aithenewsexy
+type: 3. Bronce
 ---
 
 Comunidad y podcast en español donde nos encargamos de hablar sobre el impacto de la Inteligencia Artificial en el día a día y sus aplicaciones.

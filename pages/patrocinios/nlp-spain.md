@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/NLPSpain.jpg
 twitter: 
 linkedin:
 website: nlpspain.blogspot.com 
+type: 3. Bronce
 ---
 
 NLP Spain es una comunidad para disfrutar divulgando y aprendiendo sobre Procesamiento del Lenguaje Natural.
