@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/Nova.png
 twitter: https://twitter.com/NovaTalent_
 linkedin: https://www.linkedin.com/company/nova/
 website: https://www.novatalent.com/
+type: 1. Oro
 ---
 
 Nova es la red global de talento que conecta a personas de alto potencial entre sí y

@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg
 twitter: https://twitter.com/GIL_UNAM
 linkedin:
 website: https://www.facebook.com/ingenieriaLinguistica
+type: 3. Bronce
 ---
 
 Somos un grupo de investigación de la UNAM especializado en el Procesamiento de Lenguaje Natural. 

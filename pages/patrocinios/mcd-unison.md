@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png
 twitter: https://twitter.com/McdUnison
 linkedin: https://www.linkedin.com/company/64708901/admin/
 website: https://mcd.unison.mx
+type: 3. Bronce
 ---
 
 Maestría en Ciencia de Datos del Departamento de Matemáticas de la Universidad de Sonora. 

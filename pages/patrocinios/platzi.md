@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/platzi.png
 twitter: 
 linkedin:
 website: 
+type: 1. Oro
 ---
 
 ## Colaboración

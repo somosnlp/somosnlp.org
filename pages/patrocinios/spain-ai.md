@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png
 twitter: https://twitter.com/Spain_AI_ 
 linkedin: https://www.linkedin.com/company/spainai/
 website: https://www.spain-ai.com
+type: 2. Plata
 ---
 
 Spain AI nace en 2017 con el objetivo de democratizar la Inteligencia Artificial en todos los países de habla hispanohablante y dar apoyo a empresas y profesionales para la integración o el uso de la IA. Es una asociación sin ánimo de lucro que busca democratizar la IA en castellano mediante
@@ -16,6 +17,7 @@ Entre otras iniciativas
 
 - Empresa patrocinadora de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
 - Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](/blog/hackathon-2022)
+- Co-organización del curso [NLP de 0 a 100](/nlp-de-cero-a-cien)
 
 ## Menciones en nuestro blog
 

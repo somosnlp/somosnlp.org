@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/NLPmx.png
 twitter: https://twitter.com/mx_nlp
 linkedin: https://www.facebook.com/NLPWebinarsMx
 website: https://nlpwebinarmx.org/ 
+type: 3. Bronce
 ---
 
 ## Colaboración

@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png
 twitter: https://twitter.com/UNEDNLP
 linkedin:
 website: https://sites.google.com/view/nlp-uned/home
+type: 2. Plata
 ---
 
 UNED Research Group in NLP & IR

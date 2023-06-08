@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png
 twitter: https://twitter.com/NarrativaAI
 linkedin: https://www.linkedin.com/company/narrativaai/
 website: narrativa.com 
+type: 2. Plata
 ---
 
 Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan diversos como medios de comunicación, marketing o ciencias de la salud (farmacéuticas, CROs...).

@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png
 twitter: https://twitter.com/blocks_q
 linkedin: https://www.linkedin.com/company/q-blocks/
 website: https://qblocks.cloud/
+type: 1. Oro
 ---
 
 El uso de grandes nubes públicas para ML como AWS no sólo es complejo, sino también muy caro.
