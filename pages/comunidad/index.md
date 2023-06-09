@@ -1,6 +1,6 @@
 ---
 title: La comunidad
-description: La fuerza de la comunidad reside en las casi 2000 personas apasionadas por el PLN que la forman. Aquí te presentamos a las personas y organizaciones que colaboran o han colaborado más activamente, ¡únete!
+description: Somos una comunidad internacional en la que todas las personas interesadas en el PLN son bienvenidas, ¡únete!
 ---
 
 <div class="flex justify-center">
@@ -11,16 +11,23 @@ description: La fuerza de la comunidad reside en las casi 2000 personas apasiona
 
 ---
 
+La fuerza de la comunidad reside en las casi 2000 personas apasionadas por el PLN que la forman. Aquí te presentamos a las que colaboran o han colaborado más activamente con [nuestra misión](http://somosnlp.org/nuestra-mision), [¡únete!](https://discord.com/invite/my8w7JUxZR) 🚀
+
+
 <CommunityList />
 
 ---
+
+Gracias también a todas las entidades que nos han apoyado en nuestro camino 🙌
 
 <SponsorList />
 
 ---
 
 <div class="text-center">
-¿Te gustaría formar parte del equipo? ¿Te gustaría colaborar?
+¿Te gustaría formar parte del equipo? ¿Dar una charla? ¿Lanzar un proyecto? ¿Patrocinar un evento?... ¿Te gustaría apoyarnos en nuestra misión?
 
-[Contáctanos](mailto:info@somosnlp.org), nos encantará poder contar contigo 🚀
+Contáctanos por Discord o manda un email a info@somosnlp.org
+
+¡Estamos impacientes por conocerte! 🚀
 </div>

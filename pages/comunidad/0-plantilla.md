@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/
 twitter: 
 linkedin: 
 website: 
+community:
 ---
 
 ## Ponencias
@@ -13,15 +14,23 @@ website:
 
 ## Biografía
 
-*Última actualización: 4 de marzo de 2023*
+*Última actualización: 1 de julio de 2023*
 
+## Community
+
+- Activo
+- Asociación
+- Board
+- Colaboración
+- Escritor/a
+- Diseñador/a
+- Patrocinio
+- Ponente
 
 ## TODO
 
-- Carlos Alarcón
 - Paulo Villegas
 - Ivana Feldfeber
-- Cristina Aranda
 - Álvaro Barbero
 - Helena Montoro y Nuria Aldama
 - Ximena Gutierrez

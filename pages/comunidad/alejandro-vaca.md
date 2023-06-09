@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/alejandro_vaca.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
 website: 
+community: Ponente
 ---
 
 ## Ponencias

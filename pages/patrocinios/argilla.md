@@ -12,7 +12,7 @@ Argilla es una 2. Plataforma open-source de gestión y etiquetado de datos para 
 
 ## Colaboración
 
-- Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+- Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
 
 <div class="flex justify-center">
     <img alt="Argilla" width="250" height="140" 

@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/julio_gonzalo.png
 twitter: https://twitter.com/JulioGonzalo1
 linkedin: https://www.linkedin.com/in/julio-gonzalo-arroyo/
 website: https://sites.google.com/view/nlp-uned/people/julio-gonzalo
+community: Ponente
 ---
 
 ## Ponencias

@@ -6,11 +6,12 @@ website: http://fridaruh.com/
 twitter: https://twitter.com/FridaRuh
 linkedin: https://linkedin.com/in/fridaruh
 github: https://github.com/fridaruh
+community:
 ---
 
 ## Colaboración
 
-- Gestión del patrocinio de AI The New Sexy | [Hackathon Somos NLP 2023](/hackathon)
+- Gestión del patrocinio de AI The New Sexy | [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
 - Entrevista a María Grandury en su podcast "AI The New Sexy"
 
 <a href="https://open.spotify.com/episode/38Y2K2gAe8IujRZOMjv1BH?si=S8VO6ifPT4WYWLbSLr91tg"

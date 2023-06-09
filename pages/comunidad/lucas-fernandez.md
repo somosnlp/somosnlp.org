@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/lucas_fernandez.jpg
 twitter: https://twitter.com/
 linkedin: https:/linkedin.com/in/
 website: 
+community: Ponente
 ---
 
 ## Ponencias

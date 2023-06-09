@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/javier_de_la_rosa.jpg
 twitter: https://twitter.com/versae
 linkedin: https://www.linkedin.com/in/versae/
 website: 
+community: Ponente
 ---
 
 ## Ponencias

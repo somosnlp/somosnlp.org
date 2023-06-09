@@ -5,6 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/cristina_aranda.jpg
 twitter: 
 linkedin: 
 website: 
+community: Ponente
 ---
 
 ## Ponencias

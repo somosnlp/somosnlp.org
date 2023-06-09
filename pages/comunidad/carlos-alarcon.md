@@ -2,14 +2,15 @@
 title: Carlos Alarcón
 description: Director de la escuela de Datos & AI @Platzi
 cover: https://somosnlp.github.io/assets/images/comunidad/carlos_alarcon.png
-twitter: 
+twitter: https://twitter.com/alarcon7a
 linkedin: 
 website: 
+community: Activo
 ---
 
 ## Ponencias
 
-- [Impacto de los LLMs en el mundo actual](/hackathon/impacto-de-los-llms) | Hackathon Somos NLP 2023
+- [Impacto de los LLMs en el mundo actual](https://somosnlp.org/hackathon/impacto-de-los-llms) | Hackathon Somos NLP 2023
 
 ## Colaboración
 

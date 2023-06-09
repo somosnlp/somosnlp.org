@@ -1,17 +1,18 @@
 ---
 title: María Grandury
-description: ML Research Engineer @neurocat.AI | Fundadora @SomosNLP_
+description: ML Research Engineer @neurocat.AI | Fundadora @SomosNLP
 cover: https://pbs.twimg.com/profile_images/1584913293470273537/6u-Q8SJP_400x400.jpg
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+community: Asociación
 ---
 
 ## Ponencias
 
 - Evaluación y mitigación de sesgos en LMs | Hackathon Somos NLP 2023
-- Profesora del curso "NLP de 0 a 100"
+- Profesora del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)
 
 ## Biografía
 

@@ -12,7 +12,7 @@ Observatorio de datos con perspectiva de género.
 
 ## Colaboración
 
-- Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](/hackathon)
+- Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
 
 <div class="flex justify-center">
     <img alt="DataGenero" width="250" height="140" 

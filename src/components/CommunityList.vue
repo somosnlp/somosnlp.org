@@ -13,10 +13,13 @@ const routes = router.getRoutes()
             && !i.path.startsWith('/comunidad/maria-grandury')
             && !i.path.startsWith('/comunidad/manuel-romero')
             && !i.path.startsWith('/comunidad/0-plantilla')
+            && (i.meta as any).frontmatter.community
     )
-    .sort((a, b) => {
-        return a.path.localeCompare(b.path);
-    });
+    .sort(
+        (a, b) =>
+            ((a.meta as any).frontmatter.community.localeCompare((b.meta as any).frontmatter.community)) ||
+            a.path.toLowerCase().localeCompare(b.path.toLowerCase())
+    )
 </script>
 
 <template>

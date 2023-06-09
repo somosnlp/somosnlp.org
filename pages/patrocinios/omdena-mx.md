@@ -14,7 +14,7 @@ type: 2. Plata
 
 ## Menciones en nuestro blog
 
-- [Validador de Veracidad de Noticias](/blog/validador-veracidad-noticias)
+- [Validador de Veracidad de Noticias](https://somosnlp.org/blog/validador-veracidad-noticias)
 
 <div class="flex justify-center">
     <img alt="Omdena Mexico" width="250" height="140" 

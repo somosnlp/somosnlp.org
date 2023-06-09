@@ -1,18 +1,19 @@
 ---
 title: Manuel Romero
-description: ML Engineer @Clibrain
+description: Lead ML Engineer @CliBrAIn
 cover: https://somosnlp.github.io/assets/images/comunidad/manuel_romero.jpg
 website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
 linkedin: https://www.linkedin.com/in/manuel-romero-cs/
 github: https://github.com/mrm8488
+community: Asociación
 ---
 
 ## Ponencias
 
 - Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon Somos NLP 2022
 - Recorrido por el ecosistema de Hugging Face | Hackathon Somos NLP 2023
-- Profesor del curso "NLP de 0 a 100"
+- Profesor del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)
 
 ## Biografía
 
