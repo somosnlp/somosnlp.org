@@ -7,6 +7,7 @@ linkedin: https://linkedin.com/in/maite-mart%C3%ADn-valdivia-3177b524
 website: http://blogs.ujaen.es/maite/
 other: https://scholar.google.es/citations?user=Y0o3ILIAAAAJ 
 short_bio: "Maite es Catedrática de Informática en la Universidad de Jaén e Investigadora en Tecnologías del Lenguaje del grupo de Sistemas Inteligentes de Acceso a la Información (SINAI). Además, es la coordinadora de la comunidad DiverTLes: Diversidad en Tecnologías del Lenguaje en España impulsada desde la Red Temática de Excelencia PLNnet para visibilizar y fomentar la investigación de la mujer en PLN."
+community: Colaboración
 ---
 
 ## Ponencias
@@ -21,7 +22,7 @@ short_bio: "Maite es Catedrática de Informática en la Universidad de Jaén e I
 
 ## Colaboración
 
-- Miembro del jurado del [Hackathon Somos NLP 2022](/blog/hackathon-2022)
+- Miembro del jurado del [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
 
 
 ## Biografía

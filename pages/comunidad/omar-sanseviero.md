@@ -6,6 +6,7 @@ website: https://osanseviero.github.io/hackerllama/
 twitter: https://twitter.com/osanseviero
 linkedin: https://www.linkedin.com/in/omarsanseviero
 github: https://github.com/osanseviero
+community: Activo
 ---
 
 ## Ponencias

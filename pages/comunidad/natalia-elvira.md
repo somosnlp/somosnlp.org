@@ -6,6 +6,7 @@ website:
 twitter: https://twitter.com/natalakiou
 linkedin: https://www.linkedin.com/in/neastoreca/
 github: 
+community: Activo
 ---
 
 ## Ponencias

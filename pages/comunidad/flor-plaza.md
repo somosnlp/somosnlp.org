@@ -6,6 +6,7 @@ twitter: https://twitter.com/florplaza22
 linkedin: https://linkedin.com/in/flor-miriam-plaza-del-arco-395770b9
 website: https://fmplaza.github.io/
 short_bio: "Flor Miriam Plaza del Arco es investigadora postdoctoral en el grupo MilaNLP en la Universidad Bocconi (Italia). Su especialidad dentro del área del PLN es la detección del discurso de odio y el análisis de emociones en las redes sociales. Ha participado en diferentes campañas de evaluación para la detección de comportamientos inapropiados como la misoginia o el sexismo. Es miembro de la Sociedad Española para el Procesamiento del Lenguaje Natural, la red PLN.net y la comunidad DiverTLes."
+community: Activo
 ---
 
 ## Ponencias

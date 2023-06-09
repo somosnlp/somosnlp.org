@@ -6,6 +6,7 @@ website:
 twitter: https://twitter.com/yharyarias5
 linkedin: https://www.linkedin.com/in/yharyarias/
 github: https://github.com/yharyarias
+community: Diseñadora
 ---
 
 ## Colaboración

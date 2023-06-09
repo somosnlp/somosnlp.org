@@ -6,6 +6,7 @@ twitter:
 linkedin: http://www.linkedin.com/in/igarciasacristan
 website: 
 short_bio: "Inés García Sacristán es ingeniera de telecomunicaciones. A sus 24 años ha logrado fusionar sus dos pasiones: desarrollar software y mostrar su compromiso por la inclusión y la igualdad de género. Actualmente, forma parte del equipo de desarrollo de Themis, el primer software de procesamiento del lenguaje natural que convierte texto a lenguaje inclusivo. Su desempeño demuestra que es posible hacer tecnologías socialmente responsables, y es que este es un universo en el que las mujeres tienen mucho que aportar."
+community: Ponente
 ---
 
 ## Ponencias
