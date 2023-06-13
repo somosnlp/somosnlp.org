@@ -95,7 +95,6 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 
 ---
 
-
 <ResourceItem
     name="InfoLibros Corpus"
     :tags="['modelado del lenguaje']"
@@ -125,10 +124,23 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 <ResourceItem
     name="Biomedical Spanish CBOW Word Embeddings in Floret"
     :tags="['modelado del lenguaje','CBOW (Continuous Bag Of Words)']"
-    description="Dataset compuesto por embeddings entrenados en la combinación de todos los textos presentes en el corpus biomédico español, que incluye datos de múltiples fuentes para un total de 1.1B tokens a través de 2,5M de documentos."
+    description="Dataset compuesto por embeddings entrenados en la combinación de todos los textos presentes en el corpus biomédico español, que incluye datos de múltiples fuentes para un total de 1100M tokens a través de 2,5M de documentos."
     website='https://doi.org/10.5281/zenodo.7314041'
     github
-    paper
+    paper='https://arxiv.org/abs/2109.07765'
+    hf_dataset_name
+    hf_contributor_handle
+/>
+
+---
+
+<ResourceItem
+    name="Spanish Biomedical Crawled Corpus"
+    :tags="['modelado del lenguaje']"
+    description="El mayor corpus biomédico y de salud en español hasta la fecha, recopilado a partir de un análisis web masivo de dominios de salud españoles en más de 3.000 URL. Todos los datos recopilados se han preprocesado para producir el recurso CoWeSe (Corpus Web Salud Español)."
+    website='https://doi.org/10.5281/zenodo.5513237'
+    github
+    paper='https://arxiv.org/abs/2109.07765'
     hf_dataset_name
     hf_contributor_handle
 />
@@ -164,7 +176,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 <ResourceItem
     name="BasCrawl"
     :tags="['modelado del lenguaje']"
-    description="BasCrawl es un corpus web de 186 millones de tokens en euskera (basque) obtenido mediante el análisis de más de 12000 dominios en internet [Se incluyen los dominios analizados]. El corpus ha sido preprocesado y depurado."
+    description="BasCrawl es un corpus web de 186 millones de tokens en euskera obtenido mediante el análisis de más de 12000 dominios en internet (se incluyen los dominios analizados). El corpus ha sido preprocesado y depurado siguiendo el mismo procedimiento que MarIA."
     website='https://doi.org/10.5281/zenodo.7313092'
     github
     paper
