@@ -10,16 +10,20 @@ Somos una comunidad internacional en la que todo el mundo es bienvenido independ
 ###  🌱 Estoy empezando a formarme en PLN
 
 - Síguenos y da visibilidad a nuestras iniciativas, artículos y eventos en [LinkedIn](https://www.linkedin.com/company/somosnlp) y [Twitter](https://twitter.com/somosnlp_)
-- Comparte intereses y proyectos con la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR)
-- Ayúdanos organizando eventos, diseñando carteles, creando contenido, o [haciendo lo que mejor se te dé](mailto:info@somosnlp.org)
+- Comparte eventos, intereses y proyectos con la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR)
+- Ayúdanos a organizar eventos, diseñar carteles y crear contenido, [contáctanos](mailto:info@somosnlp.org)
 - Ayúdanos a mantener y mejorar la [página web](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-contribuir-al-desarrollo-de-la-p%C3%A1gina-web)
-- Y no dudes en echar un ojo a nuestro [curso](https://somosnlp.org/nlp-de-cero-a-cien) y otros [recursos](https://somosnlp.org/recursos) para seguir aprendiendo 
+- Sigue aprendiendo con nuestro [curso](https://somosnlp.org/nlp-de-cero-a-cien) y otros [recursos](https://somosnlp.org/recursos)
 
 
 ### 🚀 Estoy desarrollando mis primeros proyectos
 
-- Genial, te animamos a crear bases de datos y entrenar modelos del lenguaje abiertos. Aquí tienes [recursos](https://somosnlp.org/recursos) para inspirarte y también para familiarizarte con el ecosistema de Hugging Face (si te atascas no te preocupes, ¡pídenos ayuda en Discord!)
-- Mientras estudias, aprovecha para traducir tutoriales del inglés y [publícalos](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog) en nuestra página de recursos para ayudar a futuros estudiantes
+- Te animamos a crear bases de datos y entrenar modelos del lenguaje abiertos:
+    - Si te atascas no te preocupes, pregúntanos en el canal #pide-ayuda
+    - Si buscas un equipo para desarrollar un proyecto, escribe tu propuesta en el canal #busco-equipo
+- Si descubres nuevos datasets o modelos abiertos en español, inclúyelos en las listas de [recursos](https://somosnlp.org/recursos)
+- Si mientras estudias creas apuntes o traduces tutoriales del inglés, [compártelos](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog) con la comunidad
+- Sigue formándote con las [charlas y talleres](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI) sobre temas más avanzados
 
 
 ### 💡 Me gustaría compartir mi experiencia en el campo
