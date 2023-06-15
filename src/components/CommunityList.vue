@@ -14,6 +14,7 @@ const routes = router.getRoutes()
             && !i.path.startsWith('/comunidad/manuel-romero')
             && !i.path.startsWith('/comunidad/0-plantilla')
             && (i.meta as any).frontmatter.community
+            && (i.meta as any).frontmatter.community !== 'Ponente'
     )
     .sort(
         (a, b) =>
@@ -23,10 +24,10 @@ const routes = router.getRoutes()
 </script>
 
 <template>
-    <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
+    <div class="auto-rows-fr mx-36 grid gap-6 lg:grid-cols-2">
         <ProfileItemRouter v-for="route in founder_routes" :route="route" />
     </div>
-    <div class="auto-rows-fr grid gap-2 lg:grid-cols-3">
+    <div class="auto-rows-fr mx-12 grid gap-6 lg:grid-cols-3">
         <ProfileItemRouter v-for="route in routes" :route="route" />
     </div>
 </template>

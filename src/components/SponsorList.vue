@@ -17,7 +17,7 @@ const routes = router.getRoutes()
 </script>
 
 <template>
-    <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
+    <div class="auto-rows-fr grid gap-x-16 place-items-center md:grid-cols-3 lg:grid-cols-5">
         <SponsorInfoRouter v-for="route in routes" :route="route" />
     </div>
 </template>
