@@ -6,17 +6,18 @@ defineProps<{
     slides: string
     notebook: string
     name: string
+    bio: string
     website: string
     twitter: string
     linkedin: string
     github: string
-    bio: string
+    hide_personal_info: boolean
     lista: string
 }>()
 </script>
 
 <template>
-    <p class="contents" :description="description">{{  description  }}</p>
+    <p class="contents" :description="description">{{ description }}</p>
 
     <div v-if="video" class="contents">
         <iframe class="mx-auto my-8" width="560" height="315" :src="video" title="YouTube video player" frameborder="0"
@@ -29,8 +30,8 @@ defineProps<{
 
     <div class="grid grid-cols-2">
         <div>
-            <p class="contents" :name="name">{{  name  }}</p>
-            <div class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
+            <p v-if="!hide_personal_info" class="contents" :name="name">{{ name }}</p>
+            <div v-if="!hide_personal_info" class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                 <IconButtonLink v-if="website" :url="website" target="_blank" class="contents">
                     <carbon:user-avatar-filled-alt />
                 </IconButtonLink>
@@ -54,7 +55,7 @@ defineProps<{
             </div>
         </div>
     </div>
-    <div class="my-8">{{  bio  }}</div>
+    <div v-if="!hide_personal_info" class="my-8">{{ bio }}</div>
     <div v-if="lista" class="flex justify-center">
         <a :href="lista" target="_blank">Más charlas y talleres</a>
     </div>

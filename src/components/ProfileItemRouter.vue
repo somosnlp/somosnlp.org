@@ -25,7 +25,11 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
             <div class="text-center grid gap-2">
                 <div class="font-bold text-lg mb-1">{{ frontmatter.title }}</div>
                 <div class="text-sm mb-1">{{ frontmatter.description }}</div>
-                <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
+
+                <!--
+                The social buttons are already shown in each profile page.
+
+                    <div class="flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                     <IconButtonLink v-if="frontmatter.website" :url="frontmatter.website" class="contents">
                         <carbon:user-avatar-filled-alt />
                     </IconButtonLink>
@@ -38,7 +42,8 @@ const frontmatter = computed(() => (props.route.meta as any).frontmatter)
                     <IconButtonLink v-if="frontmatter.github" :url="frontmatter.github" class="contents">
                         <carbon:logo-github />
                     </IconButtonLink>
-                </div>
+                    </div> 
+                -->
             </div>
         </div>
     </router-link>

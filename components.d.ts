@@ -49,6 +49,7 @@ declare module 'vue' {
     ResourceItem: typeof import('./src/components/ResourceItem.vue')['default']
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
+    SpeakerList: typeof import('./src/components/SpeakerList.vue')['default']
     SpeakerSummary: typeof import('./src/components/SpeakerSummary.vue')['default']
     SponsorInfo: typeof import('./src/components/SponsorInfo.vue')['default']
     SponsorInfoRouter: typeof import('./src/components/SponsorInfoRouter.vue')['default']
