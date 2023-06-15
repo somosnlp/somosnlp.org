@@ -1,6 +1,6 @@
 ---
 title: Manuel Romero
-description: Lead ML Engineer @CliBrAIn
+description: Lead ML Engineer @CliBrAIn | Cofundador @SomosNLP & BERTIN
 cover: https://somosnlp.github.io/assets/images/comunidad/manuel_romero.jpg
 website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
@@ -11,9 +11,46 @@ community: Asociación
 
 ## Ponencias
 
-- Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon Somos NLP 2022
-- Recorrido por el ecosistema de Hugging Face | Hackathon Somos NLP 2023
+- Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon Somos NLP 2023
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- Ask Me Anything | Hackathon Somos NLP 2023
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg"
+    video="https://www.youtube.com/embed/ADYPxZlUZDY"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
+
+- Recorrido por el ecosistema de Hugging Face | Hackathon Somos NLP 2022
+
+<EventSummary
+    description="En este taller Manuel Romero nos mostrará todos las herramientas que Hugging Face provee para colaborar a la democratización de la IA: Tokenizers, Datasets, Model Hub y Spaces. Además, nos enseñará cómo aprovechar todas esas herramientas para crear nuestro modelo (y base de datos) desde cero y ponerlo en producción."
+    poster="https://somosnlp.github.io/assets/images/evento_manu.png"
+    video="https://www.youtube.com/embed/_TbNgSodiPY"
+    name="Manuel Romero"
+    website="https://hf.co/mrm8488"
+    twitter="https://twitter.com/mrm8488"
+    linkedin="https://www.linkedin.com/in/manuel-romero-cs/"
+    github="https://github.com/mrm8488"
+    bio="Manuel tiene una “mente inquieta y un alma emprendedora”. Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con casi 300 modelos."
+    hide_personal_info=True
+/>
+
 - Profesor del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)
+
+<div class="flex justify-center">
+    <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" height="289.71" />
+    </a>
+</div>
 
 ## Biografía
 

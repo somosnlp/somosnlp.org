@@ -12,12 +12,38 @@ type: 3. Bronce
 
 - Instituto patrocinador de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
 
-## Personas del IIC que han colaborado con Somos NLP
+## Eventos con el equipo del IIC
 
 - Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback, Alejandro Vaca | Hackathon Somos NLP 2023
-- Ask Me Anything con Alejandro Vaca | Hackathon Somos NLP 2023
+
+<EventSummary
+    description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
+    poster="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg"
+    video="https://www.youtube.com/embed/Ujn379UCHBg"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
+
 - BiomedIA: 1er puesto Hackathon Somos NLP 2022, Alejandro Vaca, David Betancur, Alba Segurado, Guillem García y Álvaro Barbero
-- RigoBERTa: Entrenando un modelo SOTA, Alejandro Vaca, Helena Mont1. Oro, Nuria Aldama y Álvaro Barbero | Hackathon Somos NLP 2022
+
+<EventSummary
+    description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible.
+    BiomedIA genera, con gran precisión, respuestas a preguntas abiertas sobre biomedicina, formuladas tanto de manera escrita como oral."
+    poster=""
+    video="https://www.youtube.com/embed/fOQLPuXewzE"
+/>
+
+- RigoBERTa: Entrenando un modelo SOTA, Alejandro Vaca, Helena Montoro, Nuria Aldama y Álvaro Barbero | Hackathon Somos NLP 2022
+
+<EventSummary
+    description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."
+    poster="https://somosnlp.github.io/assets/images/evento_iic.png"
+    video="https://www.youtube.com/embed/3OhArr1R2Lw"
+/>
 
 <div class="flex justify-center">
     <img alt="IIC" width="250" height="140" 

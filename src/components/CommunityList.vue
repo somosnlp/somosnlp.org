@@ -24,7 +24,7 @@ const routes = router.getRoutes()
 </script>
 
 <template>
-    <div class="auto-rows-fr mx-36 grid gap-6 lg:grid-cols-2">
+    <div class="auto-rows-fr mx-12 grid gap-6 lg:mx-36 lg:grid-cols-2">
         <ProfileItemRouter v-for="route in founder_routes" :route="route" />
     </div>
     <div class="auto-rows-fr mx-12 grid gap-6 lg:grid-cols-3">

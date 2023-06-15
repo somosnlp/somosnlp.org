@@ -11,6 +11,5 @@ community: Diseñadora
 
 ## Colaboración
 
-- Diseño del cartel del 8M (WIP)
-- Diseño del banner de Twitter del Hackathon Somos NLP 2023
-- Traducción de 2 tutoriales de Hugging Face
+- Diseño del banner de Twitter del [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
+- Traducción del tutorial [Fine-tuning un modelo pre-entrenado](https://somosnlp.org/recursos/tutoriales/07_entrenamiento_finetuning)

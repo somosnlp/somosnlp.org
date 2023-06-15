@@ -1,20 +1,14 @@
 ---
-title: DataGénero
-description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png
-twitter: https://www.twitter.com/datagenero
-linkedin: https://www.linkedin.com/company/datagenero
-website: https://www.datagenero.org 
-type: 2. Plata
+title: Ivana Feldfeber
+description: Cofundadora y directora ejecutiva @DataGénero
+cover: https://somosnlp.github.io/assets/images/comunidad/ivana_feldfeber.jpg
+twitter: 
+linkedin: 
+website: 
+community: Ponente
 ---
 
-Observatorio de datos con perspectiva de género.
-
-## Colaboración
-
-- Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
-
-## Eventos con el equipo de DataGénero
+## Ponencias
 
 - IA y los feminismos en América Latina: la experiencia del proyecto AymurAI | Hackathon Somos NLP 2023
 
@@ -31,7 +25,14 @@ Observatorio de datos con perspectiva de género.
     hide_personal_info=True
 />
 
-<div class="flex justify-center">
-    <img alt="DataGenero" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png" />
-</div>
+## Más info
+
+- DataGénero: https://www.datagenero.org
+- AymurAI: https://www.aymurai.info
+
+
+## Biografía
+
+Ivana Feldfeber es especialista en Ciencia de Datos con perspectiva de género. Es cofundadora y directora ejecutiva del primer Observatorio de Datos de Género de América Latina, 'DataGénero'. Es integrante de la Red Latinoamericana de Investigación en Inteligencia Artificial Feminista. Fue becaria en el Centro de Inteligencia Artificial y Política Digital (CAIDP) para el análisis de políticas públicas de IA en América Latina. Ivana es diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Universidad de Córdoba, Argentina.
+
+*Última actualización: 28 de marzo de 2023*

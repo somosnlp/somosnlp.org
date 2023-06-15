@@ -7,9 +7,12 @@ lang: es
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: Hugging Face. Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.
 
 <div class="flex justify-center">
+<figure>
     <img 
         alt="Cartel NLP de 0 a 100"
         src="https://www.spain-ai.com/wp-content/uploads/2021/08/curso_npl.jpeg" />
+    <figcaption> Twitter actual: @SomosNLP_ </figcaption>
+</figure>
 </div>
 
 En esta página encontrarás los enlaces a las grabaciones, diapositivas, notebooks y recursos adicionales de cada una de las siete sesiones del curso de NLP.
@@ -46,3 +49,9 @@ Omar es un Ingeniero de Machine Learning con 7 años de experiencia en la indust
 Lewis es Ingeniero de Machine Learning en el equipo de open-source de Hugging Face. Tiene varios años de experiencia construyendo aplicaciones de Machine Learning para startups y empresas en los dominios de NLP, análisis de datos topológicos y series temporales. Tiene un doctorado en física teórica y ha ocupado puestos de investigación en Australia, Estados Unidos y Suiza. Su trabajo actual se centra en el desarrollo de herramientas para la comunidad de NLP y en la formación de las personas para que las utilicen de forma eficaz.
 
 **Por orden alfabético. Biografías correspondientes al momento en que se implementó el curso.*
+
+## Organizado en colaboración con Spain AI
+
+Spain AI es una red nacional y asociación sin ánimo de lucro, con la finalidad de crear una comunidad colaborativa dentro del ámbito de la Inteligencia Artificial en España.
+
+Ya presentes en 26 ciudades y creciendo. ¡Visita [spain-ai.com](https://www.spain-ai.com/) y sigue a [@Spain_AI](https://twitter.com/spain_ai_)!

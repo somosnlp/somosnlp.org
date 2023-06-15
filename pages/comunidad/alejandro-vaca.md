@@ -1,6 +1,6 @@
 ---
 title: Alejandro Vaca 
-description: Data Scientist @ IIC | Profesor NLP @ IE University
+description: Data Scientist @IIC | Profesor NLP @IE University
 cover: https://somosnlp.github.io/assets/images/comunidad/alejandro_vaca.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
@@ -11,9 +11,50 @@ community: Ponente
 ## Ponencias
 
 - Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback | Hackathon Somos NLP 2023
+
+<EventSummary
+    description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
+    poster="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg"
+    video="https://www.youtube.com/embed/Ujn379UCHBg"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
+
 - Ask Me Anything con Alejandro Vaca | Hackathon Somos NLP 2023
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg"
+    video="https://www.youtube.com/embed/G4R6w0W4Lv0"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
+
 - BiomedIA: 1er premio Hackathon Somos NLP 2022 | Proyectos de la comunidad
+
+<EventSummary
+    description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible.
+    BiomedIA genera, con gran precisión, respuestas a preguntas abiertas sobre biomedicina, formuladas tanto de manera escrita como oral."
+    poster=""
+    video="https://www.youtube.com/embed/fOQLPuXewzE"
+/>
+
 - RigoBERTa: Entrenando un modelo SOTA | Hackathon Somos NLP 2022
+
+<EventSummary
+    description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."
+    poster="https://somosnlp.github.io/assets/images/evento_iic.png"
+    video="https://www.youtube.com/embed/3OhArr1R2Lw"
+/>
+
 
 ## Biografía
 

@@ -31,7 +31,7 @@ const showPastEvents = ref(true);
         src="https://somosnlp.github.io/assets/logo.svg" />
       <p text="lg">{{ t('landing-page.heading-2') }}</p>
       <div class="mt-10 grid gap-4 lg:grid-cols-2">
-        <a href="https://discord.com/invite/eUEkKpSw7d" target="_blank" class="button-accent">
+        <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">
           <carbon:user-multiple />
           {{ t('landing-page.join-us') }}
         </a>
@@ -155,7 +155,7 @@ const showPastEvents = ref(true);
         <img class="p-8" src="https://somosnlp.github.io/assets/images/undraw_content_team_3epn.svg"
           alt="Proyectos open-source" />
         <div class="grid gap-6 justify-center md:grid-cols-2">
-          <a href="https://discord.com/invite/eUEkKpSw7d" target="_blank"
+          <a href="https://discord.com/invite/my8w7JUxZR" target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)">
             <carbon:logo-discord text="xl" />
             <span text="center">{{ t('landing-page.contribute.discord') }}</span>

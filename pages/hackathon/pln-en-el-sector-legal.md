@@ -21,5 +21,6 @@ bio: Ana Gabriela Palomeque Ortiz es ingeniera en Sistemas Computacionales por e
     twitter=""
     linkedin=""
     github=""
-    bio=""
+    bio="Ana Gabriela Palomeque Ortiz es ingeniera en Sistemas Computacionales por el Instituto Tecnológico de Minatitlán realizó una Maestría en Ciencias de la Computación en @LANIA_MX, su principal motivación el aprendizaje continuo y reducir la brecha de género en los roles científicos por lo que ha participado en diversos proyectos de algoritmos genéticos, seguridad, firma electrónica y actualmente en procesamiento de lenguaje natural."
+    hide_personal_info=True
 />

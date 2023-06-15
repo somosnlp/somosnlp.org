@@ -14,9 +14,21 @@ Software Themis es el primer corrector de lenguaje sexista.
 
 - Empresa patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
 
-## Personas que han colaborado con Somos NLP
+## Eventos con el equipo de Themis
 
-- Inés García Sacristán, ponente en la [Mesa Redonda 8M: PLN en la lucha contra el sexismo](https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCIWrABV_JOJbriszTKIRXC)
+- Mesa Redonda 8M: PLN en la lucha contra el sexismo, Inés García Sacristán
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    video="https://www.youtube.com/embed/5fOiLWXQ78c"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
 
 ## Menciones en nuestro blog
 

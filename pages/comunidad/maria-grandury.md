@@ -1,6 +1,6 @@
 ---
 title: María Grandury
-description: ML Research Engineer @neurocat.AI | Fundadora @SomosNLP
+description: ML Research Engineer @neurocat.AI | Fundadora @SomosNLP | Cofundadora @BERTIN
 cover: https://pbs.twimg.com/profile_images/1584913293470273537/6u-Q8SJP_400x400.jpg
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
@@ -12,7 +12,20 @@ community: Asociación
 ## Ponencias
 
 - Evaluación y mitigación de sesgos en LMs | Hackathon Somos NLP 2023
+
+<EventSummary
+    description="Hoy descubriremos diversas técnicas y herramientas open-source integradas en el ecosistema de Hugging Face que podéis utilizar para evaluar y mitigar sesgos tanto en datasets como en modelos de PLN. También hay un mini paréntesis sobre la evaluación de la huella de carbono del entrenamiento de modelos."
+    poster="https://somosnlp.github.io/assets/images/eventos/230328_evaluacion_de_sesgos.jpg"
+    video="https://www.youtube.com/embed/Ng2Yb7qrfY4"
+/>
+
 - Profesora del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)
+
+<div class="flex justify-center">
+    <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" height="289.71" />
+    </a>
+</div>
 
 ## Biografía
 
