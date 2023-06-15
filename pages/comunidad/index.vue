@@ -40,6 +40,10 @@ useHead({
                 <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">¡únete!</a>
             </p>
             <br />
+            <p class="m-auto prose text-center text-sm">
+                <span class="italic">Lista en progreso...</span>⏳
+            </p>
+            <br />
             <CommunityList />
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
                 <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">

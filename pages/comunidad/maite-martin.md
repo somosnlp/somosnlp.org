@@ -1,5 +1,5 @@
 ---
-title: Maite Martín
+title: Maite Martín, PhD
 description: Catedrática @UJaen | @Grupo SINAI | Coordinadora @DiverTLes
 cover: https://somosnlp.github.io/assets/images/comunidad/maite_martin.png
 twitter: https://twitter.com/maite_martin
@@ -7,22 +7,34 @@ linkedin: https://linkedin.com/in/maite-mart%C3%ADn-valdivia-3177b524
 website: http://blogs.ujaen.es/maite/
 other: https://scholar.google.es/citations?user=Y0o3ILIAAAAJ 
 short_bio: "Maite es Catedrática de Informática en la Universidad de Jaén e Investigadora en Tecnologías del Lenguaje del grupo de Sistemas Inteligentes de Acceso a la Información (SINAI). Además, es la coordinadora de la comunidad DiverTLes: Diversidad en Tecnologías del Lenguaje en España impulsada desde la Red Temática de Excelencia PLNnet para visibilizar y fomentar la investigación de la mujer en PLN."
-community: Colaboración
+community: Ponente
 ---
 
 ## Ponencias
 
 - Ponente en la Mesa Redonda 8M: PLN en la lucha contra el sexismo
 
-<a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
-    target="_blank">
-    <img alt="Mesa Redonda 8M" width="500" height="280"
-        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
-</a>
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    video="https://www.youtube.com/embed/5fOiLWXQ78c"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
 
 ## Colaboración
 
-- Miembro del jurado del [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
+- Miembro del jurado del Hackathon Somos NLP 2022
+
+<div class="flex justify-center">
+    <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="500" height="289.71" />
+    </a>
+</div>
 
 
 ## Biografía

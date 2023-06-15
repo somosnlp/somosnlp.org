@@ -29,7 +29,7 @@ Disponemos de instancias de GPU Nvidia de última generación en configuraciones
 
 ## Colaboración
 
-- Empresa patrocinadora de oro del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
+- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
 
 <div class="flex justify-center">
     <img alt="" width="250" height="140" 

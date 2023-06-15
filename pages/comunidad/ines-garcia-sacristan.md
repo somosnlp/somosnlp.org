@@ -13,11 +13,17 @@ community: Ponente
 
 - Ponente en la Mesa Redonda 8M: PLN en la lucha contra el sexismo
 
-<a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
-    target="_blank">
-    <img alt="Mesa Redonda 8M" width="500" height="280"
-        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
-</a>
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    video="https://www.youtube.com/embed/5fOiLWXQ78c"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
 
 ## Biografía
 

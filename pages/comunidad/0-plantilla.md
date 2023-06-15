@@ -29,13 +29,13 @@ community:
 
 ## TODO
 
-- Paulo Villegas
-- Ivana Feldfeber
-- Álvaro Barbero
+- Jurado hackathon 22 y 23
 - Helena Montoro y Nuria Aldama
 - Ximena Gutierrez
 - Jose Camacho y Luis Espinosa
 - Eva Martínez
 - Laura N Montoya y Javier Turek
 - Mario Rodríguez Omdena MX
-- Gabriela Palomeque
+- Somos Mujeres NLP
+- Saturdays AI
+- Spain AI

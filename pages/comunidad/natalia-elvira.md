@@ -1,18 +1,42 @@
 ---
-title: Natalia Elvira Astoreca
-lang: es
+title: Natalia Elvira Astoreca, PhD
+description: Product Manager @Argilla
 cover: "https://somosnlp.github.io/assets/images/comunidad/natalia_elvira.jpeg"
-website: 
 twitter: https://twitter.com/natalakiou
 linkedin: https://www.linkedin.com/in/neastoreca/
-github: 
+website: 
 community: Activo
 ---
 
 ## Ponencias
 
 - Ask Me Anything sobre etiquetado de datos | Hackathon Somos NLP 2023
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg"
+    video="https://www.youtube.com/embed/A0ORiFldWLQ"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
+
 - Vídeo "Somos Mujeres NLP" | Iniciativa 8M 2023
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg"
+    video="https://www.youtube.com/embed/ZLd85RiLViQ"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
 
 ## Colaboración
 

@@ -1,6 +1,6 @@
 ---
-title: Flor Miriam Plaza del Arco
-description: Postdoc @MilaNLP, Bocconi University
+title: Flor Miriam Plaza del Arco, PhD
+description: Postdoc @MilaNLP Bocconi University
 cover: https://somosnlp.github.io/assets/images/comunidad/flor_plaza.jpg
 twitter: https://twitter.com/florplaza22
 linkedin: https://linkedin.com/in/flor-miriam-plaza-del-arco-395770b9
@@ -13,18 +13,31 @@ community: Activo
 
 - Detección del lenguaje ofensivo en la era digital: Retos y avances | Hackathon Somos NLP 2023
 
-<a href="/hackathon/deteccion-del-lenguaje-ofensivo" target="_blank">
-    <img alt="Detección del lenguaje ofensivo" width="500" height="280"
-        src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
-</a>
+<EventSummary
+    description="En esta charla se hablará sobre una de las tareas con más impacto social en el área del PLN: la detección del lenguaje ofensivo. Principales avances y desafíos actuales."
+    poster="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
+    video="https://www.youtube.com/embed/GZbWS5cHZDs"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
 
 - Moderadora de la Mesa Redonda 8M: PLN en la lucha contra el sexismo
 
-<a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
-    target="_blank">
-    <img alt="Mesa Redonda 8M" width="500" height="280"
-        src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
-</a>
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    video="https://www.youtube.com/embed/5fOiLWXQ78c"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
 
 ## Biografía
 

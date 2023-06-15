@@ -14,7 +14,7 @@ Descripción.
 
 - ...
 
-## Personas que han colaborado con Somos NLP
+## Eventos con el equipo de X
 
 - ...
 
