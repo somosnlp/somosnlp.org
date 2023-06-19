@@ -27,6 +27,13 @@ useHead({
             <p class="text-lg">
                 Encuentra ofertas de empleo e investigación relacionadas con el Procesamiento del Lenguaje Natural 🚀
             </p>
+            <div class="justify-center items-center mx-65">
+                <IconButtonLink
+                    :url='`https://twitter.com/intent/tweet?text=Acabamos de publicar una nueva oferta en la bolsa de empleo de @SomosNLP_ ! \n\n https://somosnlp.org/empleo`'>
+                    <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
+                    <span class="font-medium text-sm">Compartir</span>
+                </IconButtonLink>
+            </div>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div class="m-auto text-center grid px-10">
