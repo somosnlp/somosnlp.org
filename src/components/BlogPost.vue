@@ -42,6 +42,7 @@ useHead({
 const route = useRoute()
 const base = 'https://somosnlp.org'
 const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeURIComponent(`¡Qué interesante este artículo de @SomosNLP_! \n\n ${base}${route.path}`)}`)
+const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`${base}${route.path}`)}&title=${encodeURIComponent(`¡Qué interesante este artículo de SomosNLP!`)}`);
 </script>
 
 <template>
@@ -55,11 +56,21 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
                 <span v-if="frontmatter.duration"> · {{ frontmatter.duration }}</span>
             </div>
             <div v-if="frontmatter.author" class="grid items-baseline">
-                <div class="justify-self-end">
-                    <IconButtonLink :url="tweetUrl">
-                        <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
-                        <span class="font-medium text-sm">Compartir</span>
-                    </IconButtonLink>
+                <div class="mt-5 grid lg:grid-cols-2">
+                    <div class="justify-center mx-25">
+                        <IconButtonLink
+                            :url='tweetUrl'>
+                            <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
+                            <span class="font-medium text-sm">Compartir</span>
+                        </IconButtonLink>
+                    </div>
+                    <div class="justify-center mx-25">
+                        <IconButtonLink
+                            :url='linkUrl'>
+                            <carbon:logo-linkedin class="inline align-middle mr-2 text-lg" />
+                            <span class="font-medium text-sm">Compartir</span>
+                        </IconButtonLink>
+                    </div>
                 </div>
             </div>
         </header>
@@ -71,11 +82,19 @@ const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeU
         <footer class="m-auto prose">
             <div v-if="frontmatter.author" class="grid grid-cols-2 items-baseline">
                 <h3 text="lg">{{ frontmatter.author }}</h3>
-                <div class="justify-self-end border-2 border-accent-400 rounded">
+                <div class="flex flex-wrap gap-3 items-center justify-self-center">
+                    <div class = "border-2 border-accent-400 rounded">
                     <IconButtonLink :url="tweetUrl">
                         <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
                         <span class="font-medium text-sm">Compartir</span>
                     </IconButtonLink>
+                    </div>
+                    <div class = "border-2 border-accent-400 rounded">
+                    <IconButtonLink :url="linkUrl">
+                        <carbon:logo-linkedin class="inline align-middle mr-2 text-lg" />
+                        <span class="font-medium text-sm">Compartir</span>
+                    </IconButtonLink>
+                    </div>
                 </div>
             </div>
             <p class="text-md" v-if="frontmatter.bio">{{ frontmatter.bio }}</p>
