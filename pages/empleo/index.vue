@@ -29,7 +29,7 @@ useHead({
             </p>
             <div class="justify-center items-center mx-65">
                 <IconButtonLink
-                    :url='`https://twitter.com/intent/tweet?text=Acabamos de publicar una nueva oferta en la bolsa de empleo de @SomosNLP_ ! \n\n https://somosnlp.org/empleo`'>
+                    :url='`https://twitter.com/intent/tweet?text=¡Nuevas ofertas en la bolsa de empleo de @SomosNLP_! \n\n\n Descúbrelas aquí: https://somosnlp.org/empleo`'>
                     <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
                     <span class="font-medium text-sm">Compartir</span>
                 </IconButtonLink>
