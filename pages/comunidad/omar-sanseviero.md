@@ -46,7 +46,7 @@ community: Activo
 ## Colaboración
 
 - Gestión del patrocinio de Hugging Face durante el Hackathon Somos NLP 2023
-- Colaboración en la definición de las bases del Hackathon Somos NLP 2023
+- Colaboración en la definición de las bases y evaluación de los proyectos del Hackathon Somos NLP 2023
 - Gestión del patrocinio de Hugging Face durante el Hackathon Somos NLP 2022
 - Colaboración en la organización del Hackathon Somos NLP 2022
 - Co-organización del curso "NLP de 0 a 100"

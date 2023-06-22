@@ -12,7 +12,14 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
 
 ## Colaboración
 
-- Colaboración en la organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+- Co-organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+
+<div class="flex justify-center">
+    <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="500" height="289.71" />
+    </a>
+</div>
+
 - Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
 
 ## Eventos con el equipo de Argilla

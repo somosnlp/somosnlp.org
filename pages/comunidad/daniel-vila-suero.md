@@ -13,7 +13,7 @@ community: Activo
 - Introducción a Argilla | [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
 
 <EventSummary
-    description="En este taller, usaremos Argilla para sacar el máximo provecho a todas las innovaciones recientes en el mundo del PLN. En particular, intentaremos responder a la siguiente pregunta : ¿cómo evaluar, adaptar y crear modelos incorporando feedback humano en tus proyectos de PLN?"
+    description="En este taller, usaremos Argilla para sacar el máximo provecho a todas las innovaciones recientes en el mundo del PLN. En particular, intentaremos responder a la siguiente pregunta: ¿cómo evaluar, adaptar y crear modelos incorporando feedback humano en tus proyectos de PLN?"
     poster="https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg"
     video="https://www.youtube.com/embed/kXx8nDGc4bw"
     name=""
@@ -35,7 +35,14 @@ community: Activo
 
 ## Colaboración
 
-- Colaboración en la organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+- Co-organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+
+<div class="flex justify-center">
+    <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="500" height="289.71" />
+    </a>
+</div>
+
 - Argilla es empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
 
 ## Biografía
