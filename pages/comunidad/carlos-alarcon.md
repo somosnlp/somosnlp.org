@@ -3,7 +3,7 @@ title: Carlos Alarcón
 description: Director de la escuela de Datos & AI @Platzi
 cover: https://somosnlp.github.io/assets/images/comunidad/carlos_alarcon.png
 twitter: https://twitter.com/alarcon7a
-linkedin: 
+linkedin: https://www.linkedin.com/in/carlos-alarcon-124a7a69 
 website: 
 community: Activo
 ---
@@ -30,6 +30,12 @@ community: Activo
 ## Colaboración
 
 - Colaboración en la organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+
+<div class="flex justify-center">
+    <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/blog/platzi_llm.png" alt="Platzi LLM" width="500" height="289.71" />
+    </a>
+</div>
 
 ## Biografía
 

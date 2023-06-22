@@ -1,5 +1,5 @@
 ---
-title: Natalia Elvira Astoreca, PhD
+title: Natalia Astoreca, PhD
 description: Product Manager @Argilla
 cover: "https://somosnlp.github.io/assets/images/comunidad/natalia_elvira.jpeg"
 twitter: https://twitter.com/natalakiou
@@ -40,7 +40,14 @@ community: Activo
 
 ## Colaboración
 
-- Colaboración en la organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+- Mentora de etiquetado de datos durante el Hackathon Somos NLP 2023
+- Co-organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+
+<div class="flex justify-center">
+    <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="500" height="289.71" />
+    </a>
+</div>
 
 ## Biografía
 

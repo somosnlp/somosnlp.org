@@ -81,7 +81,7 @@
                             src="https://somosnlp.github.io/assets/images/eventos/230403_proyecto_bertin.jpg" />
                     </a>
 
-                    <a href="" target="_blank">
+                    <a href="/hackathon/estrategias-de-simplificacion-para-llms" target="_blank">
                         <img alt="Estrategias de simplificación" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/230403_estrategias_de_simplificacion.jpg" />
                     </a>
