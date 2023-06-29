@@ -39,6 +39,22 @@ community: Activo
     bio=""
 />
 
+## Colaboración
+
+- Participación en el vídeo "Somos Mujeres NLP" | Iniciativa 8M 2023
+
+<EventSummary
+    description=""
+    poster="https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg"
+    video="https://www.youtube.com/embed/ZLd85RiLViQ"
+    name=""
+    website=""
+    twitter=""
+    linkedin=""
+    github=""
+    bio=""
+/>
+
 ## Biografía
 
 Flor Miriam Plaza del Arco es doctora en Tecnologías de la Información y Comunicación por la Universidad de Jaén. Actualmente, es investigadora postdoctoral en el grupo MilaNLP de la Universidad Bocconi (Italia). Sus intereses científicos versan en una de las principales áreas de la Inteligencia Artificial, el Procesamiento del Lenguaje Natural, siendo su especialidad la detección del discurso de odio y el análisis de emociones en las redes sociales. Realizó su doctorado en el grupo SINAI de la Universidad de Jaén (España) donde trabajó en la detección discurso de odio en las redes sociales, creando diferentes recursos y desarrollando sistemas computacionales incorporando fenómenos lingüísticos para detectar el lenguaje ofensivo con mayor precisión.

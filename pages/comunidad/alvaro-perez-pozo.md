@@ -3,7 +3,7 @@ title: Álvaro Pérez Pozo
 description: Investigador @linhd | Lingüista Computacional @UNED 
 cover: https://somosnlp.github.io/assets/images/comunidad/alvaro_perez_pozo.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/%C3%A1lvaro-p%C3%A9rez-pozo-ab241154/ 
 website: 
 community: Ponente
 ---
@@ -19,7 +19,7 @@ community: Ponente
     name=""
     website=""
     twitter=""
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/%C3%A1lvaro-p%C3%A9rez-pozo-ab241154/"
     github=""
     bio=""
 />

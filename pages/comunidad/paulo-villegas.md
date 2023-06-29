@@ -3,7 +3,7 @@ title: Paulo Villegas
 description: Experto tecnológico @Chief Digital Office de Telefónica | Cofundador @BERTIN
 cover: https://somosnlp.github.io/assets/images/comunidad/paulo_villegas.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/paulovn/ 
 website: 
 community: Ponente
 ---
@@ -20,7 +20,7 @@ community: Ponente
     name=""
     website=""
     twitter=""
-    linkedin=""
+    linkedin="https://www.linkedin.com/in/paulovn/"
     github=""
     bio="Paulo Villegas trabaja de experto tecnológico en la Chief Digital Office de Telefónica, en el área de prototipado de soluciones y servicios sobre Inteligencia Artificial y Data Science. También es profesor asociado en la Universidad Autónoma de Madrid, y profesor colaborador en la UNED y en CESTE."
     hide_personal_info=True

@@ -12,7 +12,14 @@ community: Colaboración
 
 - Miembro del jurado del Hackathon Somos NLP 2023
 - Colaboración en la definición de las bases del [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
-- Big Onion Tech fue empresa patrocinadora de bronce del Hackathon Somos NLP 2023
+- Big Onion Tech y Spain AI fueron entidades patrocinadoras de bronce del Hackathon Somos NLP 2023
+
+<div class="flex justify-center">
+    <a href="https://somosnlp.org/hackathon" target="_blank">
+        <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
+            width="650" height="365" alt="Cartel del Hackathon 2023" />
+    </a>
+</div>
 
 ## Biografía
 

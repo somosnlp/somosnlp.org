@@ -28,14 +28,14 @@ community: Activo
 
 
 <EventSummary
-    description="En este taller práctico mostraremos como usar Rubrix para construir y mejorar datos de entrenamiento para PLN, a partir de ejemplos prácticos de clasificación de texto y reconocimiento de entidades nombradas, en español."
+    description='En este taller práctico mostraremos como usar Rubrix (ahora "Argilla") para construir y mejorar datos de entrenamiento para PLN, a partir de ejemplos prácticos de clasificación de texto y reconocimiento de entidades nombradas, en español.'
     poster="https://somosnlp.github.io/assets/images/evento_daniel.png"
     video="https://www.youtube.com/embed/UR6MHBbPA3g"
 />
 
 ## Colaboración
 
-- Co-organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+- Co-organización del esfuerzo colaborativo de [limpieza y validación de la traducción de Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
 
 <div class="flex justify-center">
     <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
