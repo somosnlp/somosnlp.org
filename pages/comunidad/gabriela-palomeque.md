@@ -3,7 +3,7 @@ title: Gabriela Palomeque
 description: Dictaminadora de cumplimiento de calidad de datos @Suprema Corte de Justicia de la Nación
 cover: https://somosnlp.github.io/assets/images/comunidad/gabriela_palomeque.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/agpalomeque/ 
 website: 
 community: Ponente
 ---

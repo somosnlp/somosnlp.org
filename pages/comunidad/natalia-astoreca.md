@@ -24,7 +24,18 @@ community: Activo
     bio=""
 />
 
-- Vídeo "Somos Mujeres NLP" | Iniciativa 8M 2023
+## Colaboración
+
+- Mentora de etiquetado de datos durante el Hackathon Somos NLP 2023
+- Co-organización del esfuerzo colaborativo de [limpieza y validación de la traducción de Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+
+<div class="flex justify-center">
+    <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="500" height="289.71" />
+    </a>
+</div>
+
+- Participación en el vídeo "Somos Mujeres NLP" | Iniciativa 8M 2023
 
 <EventSummary
     description=""
@@ -37,17 +48,6 @@ community: Activo
     github=""
     bio=""
 />
-
-## Colaboración
-
-- Mentora de etiquetado de datos durante el Hackathon Somos NLP 2023
-- Co-organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
-
-<div class="flex justify-center">
-    <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="500" height="289.71" />
-    </a>
-</div>
 
 ## Biografía
 

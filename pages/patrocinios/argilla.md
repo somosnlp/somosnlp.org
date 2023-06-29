@@ -12,7 +12,7 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
 
 ## Colaboración
 
-- Co-organización del esfuerzo colaborativo de [traducir Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+- Co-organización del esfuerzo colaborativo de [limpieza y validación de la traducción de Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
 
 <div class="flex justify-center">
     <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">

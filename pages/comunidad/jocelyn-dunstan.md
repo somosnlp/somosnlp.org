@@ -2,8 +2,8 @@
 title: Jocelyn Dunstan, PhD
 description: Académica @Universidad Católica de Chile | Investigadora @IMFD
 cover: https://somosnlp.github.io/assets/images/comunidad/jocelyn_dunstan.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/jocelyndunstane 
+linkedin: https://www.linkedin.com/in/jocelyn-dunstan-bb92858b/
 website: 
 community: Ponente
 ---
@@ -18,8 +18,8 @@ community: Ponente
     video="https://www.youtube.com/embed/GQbF1MypKIg"
     name=""
     website=""
-    twitter=""
-    linkedin=""
+    twitter="https://twitter.com/jocelyndunstane"
+    linkedin="https://www.linkedin.com/in/jocelyn-dunstan-bb92858b/"
     github=""
     bio="Jocelyn Dunstan es académica de la Universidad Católica de Chile en vacante compartida entre el Departamento de Computación y el Instituto de Matemática Computacional. Investigadora del Instituto Milenio Fundamento de los Datos del Centro de Modelamiento Matemático. PhD en Matemáticas Aplicada Universidad de Cambridge en el Reino Unido. Magíster y Licenciada en Física de la Universidad de Chile."
     hide_personal_info=True

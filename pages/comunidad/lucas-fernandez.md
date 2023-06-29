@@ -2,8 +2,8 @@
 title: Lucas Fernández 
 description: Ingeniero Industrial, MBA | Fundador @AgilMentor 
 cover: https://somosnlp.github.io/assets/images/comunidad/lucas_fernandez.jpg
-twitter: https://twitter.com/
-linkedin: https:/linkedin.com/in/
+twitter: 
+linkedin: https://www.linkedin.com/in/lucas-g-fernandez/
 website: 
 community: Ponente
 ---
