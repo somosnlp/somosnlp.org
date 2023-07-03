@@ -42,7 +42,7 @@ useHead({
 const route = useRoute()
 const base = 'https://somosnlp.org'
 const tweetUrl = computed(() => `https://twitter.com/intent/tweet?text=${encodeURIComponent(`¡Qué interesante este artículo de @SomosNLP_! \n\n ${base}${route.path}`)}`)
-const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`${base}${route.path}`)}&title=${encodeURIComponent(`¡Qué interesante este artículo de SomosNLP!`)}`);
+const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`${base}${route.path}`)}`);
 </script>
 
 <template>
