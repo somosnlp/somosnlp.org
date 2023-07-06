@@ -1,3 +1,16 @@
+// Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
+
+const investigadora_pln_vicomtech = {
+    ocupación: 'Investigador/a en PLN',
+    "palabras clave": 'PhD',
+    contrato: 'T.Completo',
+    entidad: 'Vicomtech',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Donosti y Bilbao',
+    "fecha publicación (fecha límite)": '2023/07/06',
+    más: 'https://www.vicomtech.org/es/ofertas-de-trabajo/detalle/investigadora-en-procesamiento-de-lenguaje-natural'
+}
+
 const especialista_prodigioso_volcan = {
     ocupación: 'Especialista sénior en IA aplicada a la comunicación',
     "palabras clave": 'formación, gestión',
@@ -156,6 +169,7 @@ const tirant_lo_blanch_nlp_engineer = {
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
+    investigadora_pln_vicomtech,
     especialista_prodigioso_volcan,
     NLP_Engineer_Hitz_phd01,
     NLP_Engineer_Hitz_phd02,
