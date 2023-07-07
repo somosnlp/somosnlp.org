@@ -47,7 +47,7 @@
                 </div>
               </td>
               <td style="text-align: justify;">
-                <div class="desciption-cell mx-5">
+                <div class="desciption-cell mx-5" style="max-width: 300px;">
                   <template v-if="item.description !== ''">
                     {{ item.description }}
                   </template>
