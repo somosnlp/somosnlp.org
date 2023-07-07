@@ -75,7 +75,10 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
             </div>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
-        <article class="m-auto prose">
+        <article v-if="(frontmatter.title && frontmatter.description && frontmatter.cover) && !(frontmatter.author || frontmatter.duration || frontmatter.date || frontmatter.website || frontmatter.community || frontmatter.twitter || frontmatter.type || frontmatter.linkedin)">
+            <slot />
+        </article>
+        <article v-else class="m-auto prose">
             <slot />
         </article>
         <hr v-if="frontmatter.author" class="mx-auto mt-8 mb-4 prose" />
