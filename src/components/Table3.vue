@@ -114,6 +114,9 @@
       </div>
       <hr class="mx-auto mt-8 mb-12 prose" />
       <p class="mx-auto mt-8 mb-12 prose">
+        En esta lista solo hemos incluido modelos grandes con los que puedes hacer fine-tuning para aplicarlos a tareas específicas. La lista completa de modelos disponibles en el Hub de Hugging Face está <a href="https://huggingface.co/models?language=es&sort=downloads"><u><b>aquí</b></u></a>.
+      </p>
+      <p class="mx-auto mt-8 mb-12 prose">
         ¿Echas en falta alguna base de datos? Te animamos a <b>abir una PR</b> <a href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.vue"><u><b>aquí</b></u></a> y contribuir a la lista 🚀
       </p>
     </Container>
