@@ -1,14 +1,12 @@
 ---
 title: DataGénero
-description:
+description: Observatorio de datos con perspectiva de género
 cover: https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png
 twitter: https://www.twitter.com/datagenero
 linkedin: https://www.linkedin.com/company/datagenero
 website: https://www.datagenero.org 
 type: 2. Plata
 ---
-
-Observatorio de datos con perspectiva de género.
 
 ## Colaboración
 
