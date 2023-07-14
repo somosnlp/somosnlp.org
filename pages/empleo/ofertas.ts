@@ -1,5 +1,16 @@
 // Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
 
+const nlp_engineer_uned = {
+    ocupación: 'NLP Engineer para proyecto de investigación FAIRTRANSNLP',
+    "palabras clave": 'Detección de Sesgo, Datasets',
+    contrato: 'T.Completo',
+    entidad: 'Universidad Nacional de Educación a Distancia (UNED)',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Madrid',
+    "fecha publicación (fecha límite)": '2023/07/14 (2023/07/31)',
+    más: 'https://www2.uned.es/bici/Curso2022-2023/32306266/36-1.htm#9.-_____Convocatoria_de_un_contrato_laboral_para_el_proyecto_de_investigaci%C3%B3n_'
+}
+
 const investigadora_pln_vicomtech = {
     ocupación: 'Investigador/a en PLN',
     "palabras clave": 'PhD',
@@ -169,6 +180,7 @@ const tirant_lo_blanch_nlp_engineer = {
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
+    nlp_engineer_uned,
     investigadora_pln_vicomtech,
     especialista_prodigioso_volcan,
     NLP_Engineer_Hitz_phd01,
