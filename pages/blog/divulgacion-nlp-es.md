@@ -28,7 +28,7 @@ Precisamente en este artículo quiero dar visibilidad a comunidades que mediante
 ## 💡 Charlas, talleres y mesas redondas
 
 ### PLN y lingüística computacional
-- [DiverTLes](https://gplsi.dlsi.ua.es/pln/divertles/mesasredondas): Mesas redondas protagonizadas por mujeres que trabajan e investigan en Tecnologías del Lenguaje.
+- [DiverTLes](https://divertles.ujaen.es/actividades/mesas-redondas/): Mesas redondas protagonizadas por mujeres que trabajan e investigan en Tecnologías del Lenguaje.
 - [NLP Spain](https://www.meetup.com/es-ES/nlp-spain/events/past/): Meetups de "una comunidad para disfrutar divulgando y aprendiendo sobre PLN y todas sus vertientes".
 - [Somos NLP](https://www.youtube.com/c/somosnlp): Charlas y talleres impartidos por profesionales del PLN durante el mayor hackathon open-source de PLN en nuestro idioma.
 
