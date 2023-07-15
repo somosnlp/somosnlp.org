@@ -38,8 +38,8 @@
               </td>
               <td>
                 <div class="tag-cell mx-5">
-                    <template v-if="item.tags && item.tags.length > 0">
-                    {{ item.tags.join(', ') }}
+                  <template v-if="item.tags && item.tags.length > 0">
+                    <span class="border rounded bg-gray-50 border-gray-100 text-sm py-0.5 px-2 select-none dark:border-black dark:bg-gray-700" v-for="tag in item.tags">{{ tag }}</span>
                   </template>
                   <template v-else>
                     <span class="centered-cell">-</span>
