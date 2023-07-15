@@ -15,9 +15,9 @@
           <thead >
             <tr>
               <th class="centered-header">Nombre</th>
-              <th class="centered-header">Tags</th>
+              <th class="centered-header">Etiquetas</th>
               <th class="centered-header">Descripción</th>
-              <th class="centered-header">Website</th>
+              <th class="centered-header">Página Web</th>
               <th class="centered-header">GitHub</th>
               <th class="centered-header">Paper</th>
               <th class="centered-header">Dataset HF</th>
@@ -123,32 +123,16 @@
           </tbody>
         </table>
       </div>
-      <hr class="mx-auto mt-8 mb-12 prose" />
       <p class="mx-auto mt-8 mb-12 prose">
-        ¿Echas en falta alguna base de datos? Te animamos a <b>abir una PR</b> <a href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.vue"><u><b>aquí</b></u></a> y contribuir a la lista 🚀
+        ¿Echas en falta alguna base de datos? Te animamos a <b>abir una PR</b> <a href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/TableDatasets.md"><u><b>aquí</b></u></a> y contribuir a la lista 🚀
       </p>
     </Container>
   </template>
 
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import { useHead } from '@vueuse/head';
 
 const searchQuery = ref('');
-
-
-useHead({
-  meta: [
-    { name: 'twitter:card', content: 'summary' },
-    { name: 'twitter:site', content: '@somosnlp_' },
-    { name: 'twitter:creator', content: '@somosnlp_' },
-    { name: 'twitter:title', content: 'Bolsa de Empleo PLN' },
-    { name: 'twitter:description', content: 'Ofertas de empleo e investigación en el ámbito del PLN.' },
-    { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
-    { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
-  ]
-});
-
 
 const props = defineProps({
   resourceItems: {
