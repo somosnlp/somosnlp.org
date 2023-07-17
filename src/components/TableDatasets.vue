@@ -124,7 +124,7 @@
         </table>
       </div>
       <p class="mx-auto mt-8 mb-12 prose">
-        ¿Echas en falta alguna base de datos? Te animamos a <b>abir una PR</b> <a href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/TableDatasets.md" target='_blank'><u><b>aquí</b></u></a> y contribuir a la lista 🚀
+        ¿Echas en falta alguna base de datos? Te animamos a <b>abir una PR</b> <a href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.md" target='_blank'><u><b>aquí</b></u></a> y contribuir a la lista 🚀
       </p>
     </Container>
   </template>
