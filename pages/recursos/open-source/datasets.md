@@ -4,7 +4,7 @@ description: Lista de bases de datos open-source en español.
 cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg" 
 ---
 
-<Table2
+<TableDatasets
   :resourceItems="[
     {
         name: 'Catalonia Independence Corpus',
