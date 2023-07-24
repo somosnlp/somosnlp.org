@@ -55,6 +55,8 @@ declare module 'vue' {
     SponsorInfoRouter: typeof import('./src/components/SponsorInfoRouter.vue')['default']
     SponsorList: typeof import('./src/components/SponsorList.vue')['default']
     Table: typeof import('./src/components/Table.vue')['default']
+    TableDatasets: typeof import('./src/components/TableDatasets.vue')['default']
+    TableModels: typeof import('./src/components/TableModels.vue')['default']
     'Tabler:externalLink': typeof import('virtual:vite-icons/tabler/external-link')['default']
     'Tabler:link': typeof import('virtual:vite-icons/tabler/link')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
