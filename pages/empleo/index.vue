@@ -42,8 +42,8 @@ useHead({
                     class="border-accent-200 border-2px rounded-sm outline-transparent bg-transparent">
             </form>
             <br />
-            <Table :data="ofertas" :columns="columnas" :filter-key="searchQuery">
-            </Table>
+            <TableJobs :data="ofertas" :columns="columnas" :filter-key="searchQuery">
+            </TableJobs>
         </div>
         <div class="mt-8 mb-12">
             <p class="m-auto text-center prose italic">
