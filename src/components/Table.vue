@@ -73,7 +73,6 @@ function capitalize(str) {
     </table>
     <div v-else>
         <p>{{ t('jobs.not_found') }}</p>
-        <p>{{ t('jobs.follow_us') }}</p>
     </div>
 </template>
     

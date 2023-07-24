@@ -57,14 +57,26 @@ useHead({
             </p>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
-        <div>
-            <p class="m-auto text-center prose text-lg">
-                ¿Estás buscando talento y quieres que aparezca aquí tu oferta de empleo?
-            </p>
-            <p class="m-auto text-center prose text-lg">
-                <a class="contents" href="https://forms.gle/H4LenjP1FGWgE6r4A" target="_blank">Rellena este
-                    formulario</a>.
-            </p>
+        <div class="grid grid-cols-2">
+            <div>
+                <p class="m-auto text-center prose text-2xl">BUSCO EMPLEO</p>
+                <p class="m-auto text-center prose">¡Síguenos! Anunciamos las ofertas en</p>
+                <p class="m-auto text-center prose">
+                    <a href="https://twitter.com/SomosNLP_" target="_blank">Twitter</a>,
+                    <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a> y el canal #empleo de
+                    <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> ✅
+                </p>
+            </div>
+            <div>
+                <p class="m-auto text-center prose text-2xl">BUSCO TALENTO</p>
+                <p class="m-auto text-center prose">
+                    Para que aparezca aquí tu oferta de empleo
+                </p>
+                <p class="m-auto text-center prose">
+                    <a class="contents" href="https://forms.gle/H4LenjP1FGWgE6r4A" target="_blank">rellena este
+                        formulario</a> 📝
+                </p>
+            </div>
         </div>
     </Container>
 </template>

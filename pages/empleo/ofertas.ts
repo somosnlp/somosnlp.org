@@ -22,17 +22,6 @@ const investigadora_pln_vicomtech = {
     más: 'https://www.vicomtech.org/es/ofertas-de-trabajo/detalle/investigadora-en-procesamiento-de-lenguaje-natural'
 }
 
-const especialista_prodigioso_volcan = {
-    ocupación: 'Especialista sénior en IA aplicada a la comunicación',
-    "palabras clave": 'formación, gestión',
-    contrato: 'T.Completo',
-    entidad: 'Prodigioso Volcán',
-    "nº trabajadores/as": '50 - 249',
-    localización: 'Remoto Madrid con presencialidad puntual',
-    "fecha publicación (fecha límite)": '2023/07/03 (2023/07/31)',
-    más: 'https://www.linkedin.com/jobs/view/3637252548/'
-}
-
 const NLP_Engineer_Hitz_phd01 = {
     ocupación: 'PhD position on adapting LMs to new languages and domains',
     "palabras clave": 'LLM',
@@ -165,24 +154,12 @@ const NLP_Engineer_Hitz_researcher07 = {
     más: 'http://www.hitz.eus/es/node/280'
 }
 
-const tirant_lo_blanch_nlp_engineer = {
-    ocupación: 'NLP Engineer',
-    "palabras clave": 'Transformers, Legal',
-    contrato: 'T.Completo',
-    entidad: 'Tirant lo Blanch',
-    "nº trabajadores/as": 'Más de 250',
-    localización: 'Remoto 100% (Zona horaria GMT+1)',
-    "fecha publicación (fecha límite)": '2023/01/19',
-    más: 'https://tirant.com/trabaja-con-nosotros/noticia-descripcion-data-engineer/'
-}
-
 
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
     nlp_engineer_uned,
     investigadora_pln_vicomtech,
-    especialista_prodigioso_volcan,
     NLP_Engineer_Hitz_phd01,
     NLP_Engineer_Hitz_phd02,
     NLP_Engineer_Hitz_phd03,
@@ -195,5 +172,4 @@ export const ofertas = [
     NLP_Engineer_Hitz_researcher05,
     NLP_Engineer_Hitz_researcher06,
     NLP_Engineer_Hitz_researcher07,
-    tirant_lo_blanch_nlp_engineer,
 ]
