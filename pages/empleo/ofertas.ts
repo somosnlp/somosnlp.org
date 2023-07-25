@@ -8,7 +8,7 @@ const phd_etsi_upm = {
     "nº trabajadores/as": 'Más de 250',
     localización: 'Madrid',
     "fecha publicación (fecha límite)": '2023/07/25 (2023/10/01)',
-    más: 'https://mcyt.educa.madrid.org/empleo/inscripcionDemandaProfesional/mostrar_oferta.asp?codigo=49387'
+    más: 'https://mcyt.educa.madrid.org/empleo/inscripcionDemandaProfesional/mostrar_oferta.asp?codigo=49815'
 }
 
 const nlp_engineer_uned = {
