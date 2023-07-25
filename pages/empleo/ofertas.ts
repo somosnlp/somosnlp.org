@@ -1,5 +1,16 @@
 // Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
 
+const phd_etsi_upm = {
+    ocupación: 'Scholarship for PhD studies',
+    "palabras clave": 'Investigación, PhD, Chatbots',
+    contrato: 'T.Completo (21.000 €/año)',
+    entidad: 'Grupo de Tecnología del Habla y Aprendizaje Automático - ETSI de Telecomunicación - Universidad Politécnica de Madrid',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Madrid',
+    "fecha publicación (fecha límite)": '2023/07/25 (2023/10/01)',
+    más: 'https://mcyt.educa.madrid.org/empleo/inscripcionDemandaProfesional/mostrar_oferta.asp?codigo=49387'
+}
+
 const nlp_engineer_uned = {
     ocupación: 'NLP Engineer para proyecto de investigación FAIRTRANSNLP',
     "palabras clave": 'Detección de Sesgo, Datasets',
@@ -158,6 +169,7 @@ const NLP_Engineer_Hitz_researcher07 = {
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
+    phd_etsi_upm,
     nlp_engineer_uned,
     investigadora_pln_vicomtech,
     NLP_Engineer_Hitz_phd01,
