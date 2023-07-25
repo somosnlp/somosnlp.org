@@ -1,0 +1,20 @@
+name: Comment on PR when a new offer is published
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run your automation script
+        run: |
+          chmod +x ./.github/scripts/new_offer.sh
+          ./.github/scripts/new_offer.sh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
