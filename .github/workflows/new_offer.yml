@@ -12,6 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Install Dependencies
+        run: npm install --legacy-peer-deps
+
       - name: Run your automation script
         run: |
           chmod +x ./.github/scripts/new_offer.sh
