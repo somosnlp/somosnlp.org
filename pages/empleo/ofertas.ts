@@ -4,7 +4,7 @@ const llmops_clibrain = {
     ocupación: 'Scholarship for PhD studies',
     "palabras clave": 'Investigación, PhD, Chatbots',
     contrato: 'T.Completo (21.000 €/año)',
-    entidad: 'Grupo de Tecnología del Habla y Aprendizaje Automático - ETSI de Telecomunicación - Universidad Politécnica de Madrid',
+    entidad: 'Clibrain',
     "nº trabajadores/as": 'Más de 250',
     localización: 'Madrid',
     "fecha publicación (fecha límite)": '2023/07/25 (2023/10/01)',
