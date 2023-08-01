@@ -1,7 +1,7 @@
 // Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
 
 const llmops_clibrain = {
-    ocupación: 'Scholarship for PhD studies',
+    ocupación: 'Senior Infrastructure Engineer',
     "palabras clave": 'Investigación, PhD, Chatbots',
     contrato: 'T.Completo (21.000 €/año)',
     entidad: 'Clibrain',
