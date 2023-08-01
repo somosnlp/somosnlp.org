@@ -16,12 +16,12 @@ jobs:
 
       - name: Check if PR targets main
         run: |
-            echo "Is Main Branch: ${{ github.event.pull_request.base.ref == 'main' }}"
+          echo "Is Main Branch: ${{ github.event.pull_request.base.ref == 'main' }}"
 
       - name: Check for changes in ofertas.ts
         id: check_changes
         run: |
-          if git diff --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }} | grep -q "ofertas.ts"; then
+          if git diff --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }} | grep -q "pages/empleo/ofertas.ts"; then
             echo "Changes found in ofertas.ts"
             echo "::set-output name=changes::true"
           else
@@ -35,11 +35,15 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const message = `Hey there! It looks like there are new changes in 'ofertas.ts'. Please review the updates. Thank you!`;
+            try {
+              const message = `Hey there! It looks like there are new changes in 'ofertas.ts'. Please review the updates. Thank you!`;
 
-            github.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: message,
-            });
+              github.issues.createComment({
+                issue_number: context.payload.pull_request.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: message,
+              });
+            } catch (error) {
+              console.error('Error posting comment:', error.message);
+            }
