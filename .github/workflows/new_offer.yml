@@ -14,14 +14,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Check if PR targets main
+      - name: Debug pull request info
         run: |
-          echo "Is Main Branch: ${{ github.event.pull_request.base.ref == 'main' }}"
+          echo "Pull Request Number: ${{ github.event.pull_request.number }}"
+          echo "Base SHA: ${{ github.event.pull_request.base.sha }}"
+          echo "Head SHA: ${{ github.event.pull_request.head.sha }}"
 
       - name: Check for changes in ofertas.ts
         id: check_changes
         run: |
-          if git diff --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }} | grep -q "pages/empleo/ofertas.ts"; then
+          git show --pretty="" --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }}
+
+          if git diff --name-only ${{ github.event.pull_request.base.sha }}..${{ github.event.pull_request.head.sha }} | grep -q "./pages/empleo/ofertas.ts"; then
             echo "Changes found in ofertas.ts"
             echo "::set-output name=changes::true"
           else
