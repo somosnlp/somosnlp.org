@@ -1,5 +1,16 @@
 // Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
 
+const llmops_clibrain = {
+    ocupación: 'Senior Infrastructure Engineer',
+    "palabras clave": 'Investigación, PhD, Chatbots',
+    contrato: 'T.Completo (21.000 €/año)',
+    entidad: 'Clibrain',
+    "nº trabajadores/as": '10 - 49',
+    localización: 'Madrid',
+    "fecha publicación (fecha límite)": '2023/07/25 (2023/10/01)',
+    más: 'https://mcyt.educa.madrid.org/empleo/inscripcionDemandaProfesional/mostrar_oferta.asp?codigo=49815'
+}
+
 const phd_etsi_upm = {
     ocupación: 'Scholarship for PhD studies',
     "palabras clave": 'Investigación, PhD, Chatbots',

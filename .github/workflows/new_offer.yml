@@ -1,0 +1,46 @@
+name: Comment on PR
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+
+jobs:
+  comment_on_pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Check for changes in ofertas.ts
+        id: check_changes
+        run: |
+          # Check if the 'pages/empleo/ofertas.ts' file is modified in the pull request
+          if git diff -q ${{ github.base_ref }}...${{ github.head_ref }} -- "pages/empleo/ofertas.ts"; then
+            echo "Changes found in ofertas.ts"
+            echo "::set-output name=changes::true"
+          else
+            echo "No changes in ofertas.ts"
+            echo "::set-output name=changes::false"
+          fi
+
+      - name: Comment on PR if there are changes in ofertas.ts
+        if: steps.check_changes.outputs.changes == 'true'
+        uses: actions/github-script@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            try {
+              const message = `Hey there! It looks like there are new changes in 'ofertas.ts'. Please review the updates. Thank you!`;
+
+              github.issues.createComment({
+                issue_number: context.payload.pull_request.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: message,
+              });
+            } catch (error) {
+              console.error('Error posting comment:', error.message);
+            }
