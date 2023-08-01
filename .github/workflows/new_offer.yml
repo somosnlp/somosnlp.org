@@ -19,7 +19,7 @@ jobs:
         run: |
           git fetch origin main:main
 
-          if git diff --name-only main...${{ github.event.pull_request.head.sha }} | grep -q "pages/empleo/ofertas.ts"; then
+          if git diff --name-only main...HEAD | grep -q "pages/empleo/ofertas.ts"; then
             echo "Changes found in ofertas.ts"
             echo "::set-output name=changes::true"
           else
