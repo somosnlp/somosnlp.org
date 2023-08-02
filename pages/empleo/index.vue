@@ -53,7 +53,7 @@ useHead({
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
             <p class="m-auto text-center prose text-2xl">
-                👏 Total Ofertas Publicadas: 36 👏
+                👏 Total Ofertas Publicadas: 37 👏
             </p>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />

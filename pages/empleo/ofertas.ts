@@ -1,5 +1,16 @@
 // Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
 
+const llmops_clibrain = {
+    ocupación: 'Senior Infrastructure Engineer #LLMOps',
+    "palabras clave": 'MLOps, LLM models',
+    contrato: 'T.Completo',
+    entidad: 'Clibrain',
+    "nº trabajadores/as": '10 - 49',
+    localización: 'Remoto 100%',
+    "fecha publicación (fecha límite)": '2023/08/01',
+    más: 'https://empleo.clibrain.com/jobs/3024318-senior-infrastructure-engineer'
+}
+
 const phd_etsi_upm = {
     ocupación: 'Scholarship for PhD studies',
     "palabras clave": 'Investigación, PhD, Chatbots',
@@ -169,6 +180,7 @@ const NLP_Engineer_Hitz_researcher07 = {
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
+    llmops_clibrain,
     phd_etsi_upm,
     nlp_engineer_uned,
     investigadora_pln_vicomtech,
