@@ -18,7 +18,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_model_name: 'bert-base-spanish-wwm-uncased'
     },
     {
-        name: 'BERTIN',
+        name: 'BERTIN RoBERTa',
         tags: ['RoBERTa', 'base', 'propósito general'],
         description: '',
         website: 'https://huggingface.co/spaces/bertin-project/bertin',
@@ -27,6 +27,17 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_dataset_name: '',
         hf_contributor_handle: 'bertin-project',
         hf_model_name: 'bertin-roberta-base-spanish'
+    },
+    {
+        name: 'LINCE-ZERO',
+        tags: ['LLM', '7B, 40B', 'propósito general', 'instrucciones', 'IT'],
+        description: '',
+        website: 'https://huggingface.co/clibrain/lince-zero',
+        github: '',
+        paper: '',
+        hf_dataset_name: '',
+        hf_contributor_handle: 'clibrain',
+        hf_model_name: 'lince-zero'
     },
     {
         name: 'RoBERTa BNE',
@@ -106,7 +117,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_model_name: 'spanish-gpt2'
     },
     {
-        name: 'GPT-2 Spanish (BERTIN Team)',
+        name: 'GPT-2 Spanish (BERTIN)',
         tags: ['GPT-2', 'base', 'propósito general'],
         description: '',
         website: '',
@@ -172,7 +183,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_model_name: 'spanish-t5-small'
     },
     {
-        name: 'Spanish GPT-J-6B (BERTIN Team)',
+        name: 'BERTIN-GPT-J-6B',
         tags: ['GPT-J', 'LLM', 'propósito general'],
         description: '',
         website: '',
@@ -183,8 +194,8 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_model_name: 'bertin-gpt-j-6B'
     },
     {
-        name: 'BLOOM (BigScience)',
-        tags: ['multiidioma', 'LLM', 'propósito general'],
+        name: 'BLOOM',
+        tags: ['multilingüe', 'LLM', 'propósito general'],
         description: '',
         website: '',
         github: '',
@@ -194,8 +205,8 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_model_name: 'bloom'
     },
     {
-        name: 'BLOOMZ (BigScience)',
-        tags: ['multiidioma', 'LLM', 'propósito general', 'instrucciones', 'IT'],
+        name: 'BLOOMZ',
+        tags: ['multilingüe', 'LLM', 'propósito general', 'instrucciones', 'IT'],
         description: '',
         website: '',
         github: '',
@@ -205,8 +216,8 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
         hf_model_name: 'bloomz'
     },
     {
-        name: 'mT0 (BigScience)',
-        tags: ['multiidioma', 'LLM', 'propósito general', 'instrucciones', 'IT', 'encoder-decoder'],
+        name: 'mT0',
+        tags: ['multilingüe', 'LLM', 'propósito general', 'instrucciones', 'IT', 'encoder-decoder'],
         description: '',
         website: '',
         github: '',
