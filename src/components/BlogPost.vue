@@ -76,7 +76,7 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <!-- Diferenciación necesaria para la correcta visualización de las tablas en recursos -->
-        <article v-if="(frontmatter.tablePage">
+        <article v-if="frontmatter.tablePage">
             <slot />
         </article>
         <article v-else class="m-auto prose">
