@@ -230,7 +230,7 @@
                 Talleres en los que miembros de la comunidad presentan sus
                 proyectos, e.g.: proyectos ganadores de hackathones.
             </p>
-            <p>¿Te gustaría presentar tu proyecto? ¡Este es tu espacio!</p>
+            <p>¿Te gustaría presentar tu proyecto? ¡Este es tu espacio! <a href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank">Mándanos la información</a>💡</p>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
