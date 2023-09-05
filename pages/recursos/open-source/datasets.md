@@ -5,6 +5,7 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 tablePage: in
 ---
 
+
 <TableDatasets
   :resourceItems="[
     {
@@ -18,7 +19,7 @@ tablePage: in
         github: 'https://github.com/ixa-ehu/catalonia-independence-corpus',
         paper: 'https://www.aclweb.org/anthology/2020.lrec-1.171/',
         hf_dataset_name: 'catalonia_independence',
-        hf_contributor_handle: 'lewtun'
+        contributor: 'Lewis Tunstall @Hugging Face'
     },
     {
         name: 'eHealth-KD',
@@ -31,7 +32,7 @@ tablePage: in
         github: 'https://github.com/knowledge-learning/ehealthkd-2020',
         paper: 'http://ceur-ws.org/Vol-2664/eHealth-KD_overview.pdf',
         hf_dataset_name: 'ehealth_kd',
-        hf_contributor_handle: 'mariagrandury'
+        contributor: 'María Grandury'
     },
     {
         name: 'HEAD-QA',
@@ -44,11 +45,11 @@ tablePage: in
         github: 'https://github.com/aghie/head-qa',
         paper: 'https://www.aclweb.org/anthology/P19-1092/',
         hf_dataset_name: 'head_qa',
-        hf_contributor_handle: 'mariagrandury'
+        contributor: 'María Grandury'
     },
     {
         name: 'Large Spanish Corpus',
-        tags: ['modelado del lenguaje', 'pre-entrenamiento'],
+        tags: ['modelado del lenguaje'],
         description: 'El Large Spanish Corpus es una compilación de 15 corpus españoles sin etiquetar que abarcan desde la Wikipedia hasta las notas del Parlamento Europeo. Cada configuración contiene los datos correspondientes a cada corpus diferente.',
         domain: 'general',
         languages: 'español',
@@ -57,7 +58,7 @@ tablePage: in
         github: 'https://github.com/josecannete/spanish-corpora',
         paper: '',
         hf_dataset_name: 'large_spanish_corpus',
-        hf_contributor_handle: 'lewtun'
+        contributor: 'Lewis Tunstall @Hugging Face'
     },
     {
     name: 'Mucho Cine',
@@ -70,11 +71,11 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: 'muchocine',
-    hf_contributor_handle: 'mapmeld'
+    contributor: 'Nick Doiron'
     },
     {
     name: 'Spanish Billion Words',
-    tags: ['modelado del lenguaje', 'pre-entrenamiento'],
+    tags: ['modelado del lenguaje'],
     description: 'Spanish Billion Words es un corpus no anotado de casi 1.500 millones de palabras, compuesto por diferentes recursos online.',
     domain: 'general',
     languages: 'español',
@@ -83,7 +84,7 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: 'spanish_billion_words',
-    hf_contributor_handle: 'mariagrandury'
+    contributor: 'María Grandury'
     },
     {
     name: 'WikiCorpus',
@@ -96,7 +97,7 @@ tablePage: in
     github: '',
     paper: 'https://www.cs.upc.edu/~nlp/papers/reese10.pdf',
     hf_dataset_name: 'wikicorpus',
-    hf_contributor_handle: 'albertvillanova'
+    contributor: 'Albert Villanova @Hugging Face'
     },
     {
     name: 'InfoLibros Corpus',
@@ -109,7 +110,7 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Spanish CBOW Word Embeddings in Floret (BNE)',
@@ -122,7 +123,7 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Biomedical Spanish CBOW Word Embeddings in Floret',
@@ -135,7 +136,7 @@ tablePage: in
     github: '',
     paper: 'https://arxiv.org/abs/2109.07765',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Spanish Biomedical Crawled Corpus',
@@ -148,7 +149,7 @@ tablePage: in
     github: '',
     paper: 'https://arxiv.org/abs/2109.07765',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'TDX Thesis Spanish Corpus',
@@ -161,7 +162,7 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'CSIC Spanish Corpus',
@@ -174,7 +175,7 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'BasCrawl',
@@ -187,7 +188,7 @@ tablePage: in
     github: '',
     paper: '',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Spanish Legal Domain Corpora',
@@ -200,7 +201,7 @@ tablePage: in
     github: 'https://github.com/PlanTL-GOB-ES/lm-legal-es',
     paper: 'https://arxiv.org/abs/2110.12201',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Spanish Skip-Gram Word Embeddings in FastText (BNE)',
@@ -213,7 +214,7 @@ tablePage: in
     github: '',
     paper: 'http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6405',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Spanish CBOW Word Embeddings in FastText (BNE)',
@@ -226,7 +227,7 @@ tablePage: in
     github: '',
     paper: 'http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6405',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     },
     {
     name: 'Spanish Legal Domain Word & Sub-Word Embeddings',
@@ -239,7 +240,7 @@ tablePage: in
     github: 'https://github.com/PlanTL-GOB-ES/lm-legal-es',
     paper: 'https://arxiv.org/abs/2110.12201',
     hf_dataset_name: '',
-    hf_contributor_handle: ''
+    contributor: 'David Arias'
     }
     ]"
 />
