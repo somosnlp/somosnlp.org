@@ -1,134 +1,3 @@
-<template>
-    <Container class="my-12">
-  
-      <div class="search-container">
-        <input
-          type="text"
-          v-model="searchQuery"
-          placeholder="Buscar..."
-          class="search-input"
-        />
-      </div>
-  
-      <div class="table-container">
-        <table class="table border-solid border-1 rounded-3px">
-          <thead >
-            <tr>
-              <th class="centered-header">Nombre</th>
-              <th class="centered-header">Etiquetas</th>
-              <th class="centered-header">Descripción</th>
-              <th class="centered-header">Página Web</th>
-              <th class="centered-header">GitHub</th>
-              <th class="centered-header">Paper</th>
-              <th class="centered-header">Dataset HF</th>
-              <th class="centered-header">Usuario HF </th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr v-for="item in filteredItems" :key="item.name">
-              <td>
-                <div class="name-cell mx-5">
-                  <template v-if="item.name !== ''">
-                    {{ item.name }}
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-              <td>
-                <div class="tag-cell mx-5 flex flex-wrap gap-3">
-                  <template v-if="item.tags && item.tags.length > 0">
-                    <span class="border rounded bg-gray-50 border-gray-100 text-sm py-0.5 px-2 select-none dark:border-black dark:bg-gray-700" v-for="tag in item.tags">{{ tag }}</span>
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-              <td style="text-align: justify;">
-                <div class="desciption-cell mx-5">
-                  <template v-if="item.description !== ''">
-                    {{ item.description }}
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>              
-              </td>
-              <td style="text-align: center;">
-                <div class="website-cell mx-5 centered-content">
-                  <template v-if="item.website !== ''">
-                    <IconButtonLink :url="item.website" style="display: block; width: 37px;">
-                      <carbon:link />
-                    </IconButtonLink>
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-              <td style="text-align: center;">
-                <div class="github-cell mx-5 centered-content">
-                  <template v-if="item.github !== ''">
-                    <IconButtonLink :url="item.github" style="display: block; width: 37px;">
-                      <carbon:logo-github />
-                    </IconButtonLink>
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-              <td style="text-align: center;">
-                <div class="paper-cell mx-5 centered-content">
-                  <template v-if="item.paper !== ''">
-                    <IconButtonLink :url="item.paper" style="display: block; width: 37px;">
-                      <carbon:document />
-                    </IconButtonLink>
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-              <td style="text-align: center;">
-                <div class="HF Dataset Name-cell mx-5 centered-content">
-                  <template v-if="item.hf_dataset_name !== ''">
-                    <IconButtonLink :url="'https://huggingface.co/datasets/' + item.hf_dataset_name" style="display: block; width: 37px;">
-                      <noto:hugging-face />
-                    </IconButtonLink>
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-              <td style="text-align: center;">
-                <div class="HF Contributor Handle mx-5 centered-content">
-                  <template v-if="item.hf_contributor_handle !== ''">
-                    <IconButtonLink :url="'https://huggingface.co/' + item.hf_contributor_handle" style="display: block; width: 37px;">
-                      <noto:hugging-face />
-                    </IconButtonLink>
-                  </template>
-                  <template v-else>
-                    <span class="centered-cell">-</span>
-                  </template>
-                </div>
-              </td>
-            </tr>
-            <tr v-if="filteredItems.length === 0">
-              <td colspan="8" class="centered-cell"><b>No se han encontrado coincidencias</b></td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <p class="mx-auto mt-8 mb-12 prose">
-        ¿Echas en falta alguna base de datos? Te animamos a <b>abir una PR</b> <a href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.md" target='_blank'><u><b>aquí</b></u></a> y contribuir a la lista 🚀
-      </p>
-    </Container>
-  </template>
-
 <script setup lang="ts">
 import { ref, computed } from 'vue';
 
@@ -149,6 +18,158 @@ const filteredItems = computed(() => {
   );
 });
 </script>
+
+<template>
+  <Container class="my-12">
+
+    <div class="search-container">
+      <input type="text" v-model="searchQuery" placeholder="Buscar..." class="search-input" />
+    </div>
+
+    <div class="table-container">
+      <table class="table border-solid border-1 rounded-3px">
+        <thead>
+          <tr>
+            <th class="centered-header">Nombre</th>
+            <th class="centered-header">Tareas</th>
+            <th class="centered-header">Dominio</th>
+            <th class="centered-header">Idiomas</th>
+            <th class="centered-header">Países</th>
+            <th class="centered-header">Página Web</th>
+            <th class="centered-header">GitHub</th>
+            <th class="centered-header">Paper</th>
+            <th class="centered-header">Hugging Face Hub</th>
+            <th class="centered-header">Gracias A</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="item in filteredItems" :key="item.name">
+            <td>
+              <div class="name-cell mx-5">
+                <template v-if="item.name !== ''">
+                  {{ item.name }}
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td>
+              <div class="tag-cell mx-5 flex flex-wrap gap-3">
+                <template v-if="item.tags && item.tags.length > 0">
+                  <span
+                    class="border rounded bg-gray-50 border-gray-100 text-sm py-0.5 px-2 select-none dark:border-black dark:bg-gray-700"
+                    v-for="tag in item.tags">{{ tag }}</span>
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: justify;">
+              <div class="tag-cell mx-5">
+                <template v-if="item.domain !== ''">
+                  {{ item.domain }}
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: justify;">
+              <div class="tag-cell mx-5">
+                <template v-if="item.languages !== ''">
+                  {{ item.languages }}
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: justify;">
+              <div class="tag-cell mx-5">
+                <template v-if="item.countries !== ''">
+                  {{ item.countries }}
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: center;">
+              <div class="website-cell mx-5 centered-content">
+                <template v-if="item.página_web !== ''">
+                  <IconButtonLink :url="item.página_web" style="display: block; width: 37px;">
+                    <carbon:link />
+                  </IconButtonLink>
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: center;">
+              <div class="github-cell mx-5 centered-content">
+                <template v-if="item.github !== ''">
+                  <IconButtonLink :url="item.github" style="display: block; width: 37px;">
+                    <carbon:logo-github />
+                  </IconButtonLink>
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: center;">
+              <div class="paper-cell mx-5 centered-content">
+                <template v-if="item.paper !== ''">
+                  <IconButtonLink :url="item.paper" style="display: block; width: 37px;">
+                    <carbon:document />
+                  </IconButtonLink>
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: center;">
+              <div class="HF Dataset Name-cell mx-5 centered-content">
+                <template v-if="item.hf_dataset_name !== ''">
+                  <IconButtonLink :url="'https://huggingface.co/datasets/' + item.hf_dataset_name"
+                    style="display: block; width: 37px;">
+                    <noto:hugging-face />
+                  </IconButtonLink>
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+            <td style="text-align: center;">
+              <div class="name-cell mx-5">
+                <template v-if="item.contributor !== ''">
+                  {{ item.contributor }}
+                </template>
+                <template v-else>
+                  <span class="centered-cell">-</span>
+                </template>
+              </div>
+            </td>
+          </tr>
+          <tr v-if="filteredItems.length === 0">
+            <td colspan="8" class="centered-cell"><b>No se han encontrado coincidencias</b></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="mx-auto mt-8 mb-12 prose">
+      ¡Ayúdanos a recolectar bases de datos de todas las variedades del español!
+      Te animamos a <b>abir una PR</b> <a
+        href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.md"
+        target='_blank'><u><b>aquí</b></u></a> y contribuir a la lista 🚀
+    </p>
+  </Container>
+</template>
  
 <style>
 .table-container {
@@ -197,10 +218,10 @@ th.centered-header {
 }
 
 .centered-content {
-    display: flex;
-    justify-content: center;
-  }
-    
+  display: flex;
+  justify-content: center;
+}
+
 .desciption-cell {
   width: 300px !important;
   min-width: 300px !important;
