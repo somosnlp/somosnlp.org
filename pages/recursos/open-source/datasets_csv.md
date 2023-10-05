@@ -5,4 +5,4 @@ cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
 tablePage: in
 ---
 
-<TableDatasetsCSV :csvFileUrl="'https://raw.githubusercontent.com/somosnlp/recursos/main/datasets.csv'" />
+<TableDatasetsCSV :csvFileUrl="'https://raw.githubusercontent.com/somosnlp/corpus-es/main/datasets.csv'" />
