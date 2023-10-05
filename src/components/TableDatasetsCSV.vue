@@ -195,12 +195,6 @@ const filteredItems = computed(() => {
         </tbody>
       </table>
     </div>
-    <p class="mx-auto mt-8 mb-12 prose">
-      ¡Ayúdanos a recolectar bases de datos de todas las variedades del español!
-      Te animamos a <b>abir una PR</b> <a
-        href="https://github.com/somosnlp/somosnlp.org/edit/main/pages/recursos/open-source/datasets.md"
-        target='_blank'><u><b>aquí</b></u></a> y contribuir a la lista 🚀
-    </p>
   </Container>
 </template>
    
