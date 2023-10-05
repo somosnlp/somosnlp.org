@@ -11,5 +11,5 @@ tablePage: in
     ¡Ayúdanos a recolectar bases de datos de todas las variedades del español!
     Participa en nuestra iniciativa <a
         href="https://github.com/somosnlp/corpus-es"
-        target='_blank'><u><b>HackCorpusES</b></u></a> y contribuye a la lista 🚀
+        target='_blank'><u><b>#HackCorpusES</b></u></a> y contribuye a la lista 🚀
 </p>
