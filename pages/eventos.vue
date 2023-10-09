@@ -22,7 +22,24 @@
             </a>
             -->
 
-            <h3>🚀 Charlas y talleres del Hackathon 2023</h3>
+            <div class="m-12">
+                <ul>
+                    <li>
+                        <a href="#hackathon-2023">Charlas y talleres del Hackathon 2023</a>
+                    </li>
+                    <li>
+                        <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
+                    </li>
+                    <li>
+                        <a href="#somos-mujeres-nlp">Somos Mujeres NLP</a>
+                    </li>
+                    <li>
+                        <a href="#proyectos-de-la-comunidad">Proyectos de la comunidad</a>
+                    </li>
+                </ul>
+            </div>
+
+            <h3 id="hackathon-2023">🚀 Charlas y talleres del Hackathon 2023</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -111,22 +128,6 @@
 
             <hr class="mx-auto mt-8 mb-12 prose" />
 
-            <h2>Eventos Anteriores</h2>
-
-            <div class="m-12">
-                <ul>
-                    <li>
-                        <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
-                    </li>
-                    <li>
-                        <a href="#somos-mujeres-nlp">Somos Mujeres NLP</a>
-                    </li>
-                    <li>
-                        <a href="#proyectos-de-la-comunidad">Proyectos de la comunidad</a>
-                    </li>
-                </ul>
-            </div>
-
             <h3 id="hackathon-2022">🚀 Charlas y talleres del Hackathon 2022</h3>
             <p>
                 El ecosistema de 🤗, etiquetado y muestreo de
@@ -205,6 +206,8 @@
                 </div>
             </div>
 
+            <hr class="mx-auto mt-8 mb-12 prose" />
+
             <h3 id="somos-mujeres-nlp">💜 Somos Mujeres NLP</h3>
             <p>
                 Iniciativas para dar visibilidad a mujeres que trabajan e investigan en el campo del PLN y a proyectos que
@@ -225,12 +228,15 @@
                 </div>
             </div>
 
+            <hr class="mx-auto mt-8 mb-12 prose" />
+
             <h3 id="proyectos-de-la-comunidad">🙌 Proyectos de la comunidad</h3>
             <p>
                 Talleres en los que miembros de la comunidad presentan sus
                 proyectos, e.g.: proyectos ganadores de hackathones.
             </p>
-            <p>¿Te gustaría presentar tu proyecto? ¡Este es tu espacio! <a href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank">Mándanos la información</a>💡</p>
+            <p>¿Te gustaría presentar tu proyecto? ¡Este es tu espacio! <a
+                    href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank">Mándanos la información</a>💡</p>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
