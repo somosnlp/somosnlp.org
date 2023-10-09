@@ -1,7 +1,7 @@
 ---
 title: Modelos
 description: Lista de modelos open-source en español. 
-cover: "https://somosnlp.github.io/assets/images/undraw_education_edited.svg"
+cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
 tablePage: in
 ---
 
