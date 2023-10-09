@@ -66,12 +66,12 @@ Por favor, utiliza ["Semantic Commit Messages"](https://gist.github.com/joshbuch
 
 ### "Development"
 
-Primero, instala las dependencias
+Primero asegúrate de que tienes `pnpm`. Después, instala las dependencias del repo
 ```bash
 pnpm install
 ```
 
-Después ejecuta
+Cuando termine la instalación, ejecuta
 ```bash
 pnpm dev
 ```
