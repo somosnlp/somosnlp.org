@@ -54,6 +54,8 @@ const routes_notebooks = router.getRoutes()
         <BlogItem v-for="route in routes_open_source" :key="route.path" :route="route" />
     </div>
 
+    <hr class="mx-auto mt-8 mb-12 prose" />
+
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
         <BlogItem v-for="route in routes" :key="route.path" :route="route" />
     </div>
