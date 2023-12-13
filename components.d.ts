@@ -35,6 +35,7 @@ declare module 'vue' {
     EventHackathon2022List: typeof import('./src/components/EventHackathon2022List.vue')['default']
     EventSummary: typeof import('./src/components/EventSummary.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
+    'Gg:eventbrite': typeof import('virtual:vite-icons/gg/eventbrite')['default']
     IconButton: typeof import('./src/components/IconButton.vue')['default']
     IconButtonLink: typeof import('./src/components/IconButtonLink.vue')['default']
     LocaleToggle: typeof import('./src/components/LocaleToggle.vue')['default']
