@@ -35,28 +35,6 @@ const llmops_clibrain = {
     más: 'https://empleo.clibrain.com/jobs/3024318-senior-infrastructure-engineer'
 }
 
-const phd_etsi_upm = {
-    ocupación: 'Scholarship for PhD studies',
-    "palabras clave": 'Investigación, PhD, Chatbots',
-    contrato: 'T.Completo (21.000 €/año)',
-    entidad: 'Grupo de Tecnología del Habla y Aprendizaje Automático - ETSI de Telecomunicación - Universidad Politécnica de Madrid',
-    "nº trabajadores/as": 'Más de 250',
-    localización: 'Madrid',
-    "fecha publicación (fecha límite)": '2023/07/25 (2023/10/01)',
-    más: 'https://mcyt.educa.madrid.org/empleo/inscripcionDemandaProfesional/mostrar_oferta.asp?codigo=49815'
-}
-
-const nlp_engineer_uned = {
-    ocupación: 'NLP Engineer para proyecto de investigación FAIRTRANSNLP',
-    "palabras clave": 'Detección de Sesgo, Datasets',
-    contrato: 'T.Completo',
-    entidad: 'Universidad Nacional de Educación a Distancia (UNED)',
-    "nº trabajadores/as": 'Más de 250',
-    localización: 'Madrid',
-    "fecha publicación (fecha límite)": '2023/07/14 (2023/07/31)',
-    más: 'https://www2.uned.es/bici/Curso2022-2023/32306266/36-1.htm#9.-_____Convocatoria_de_un_contrato_laboral_para_el_proyecto_de_investigaci%C3%B3n_'
-}
-
 const investigadora_pln_vicomtech = {
     ocupación: 'Investigador/a en PLN',
     "palabras clave": 'PhD',
@@ -207,8 +185,6 @@ export const ofertas = [
     mle_clibrain,
     data_scientist_clibrain,
     llmops_clibrain,
-    phd_etsi_upm,
-    nlp_engineer_uned,
     investigadora_pln_vicomtech,
     NLP_Engineer_Hitz_phd01,
     NLP_Engineer_Hitz_phd02,
