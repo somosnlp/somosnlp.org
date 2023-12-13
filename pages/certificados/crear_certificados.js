@@ -1,11 +1,19 @@
+// Create a certificate and save it under its hash ID
+// node pages/certificados/crear_certificados.js
+
+
 const Jimp = require('jimp'); // For image processing
 const crypto = require('crypto'); // For generating unique hash
 const fs = require('fs'); // For file system operations
 const csv = require('csv-parser'); // For parsing CSV files
 
+
+const BASE_CERTIFICATE_PATH = 'pages/certificados/certificado_base.jpeg';
+
+
 // Function to create a certificate
-async function createCertificate(baseImagePath, name, project, prize) {
-    const image = await Jimp.read(baseImagePath);
+async function createCertificate(name, project, prize) {
+    const image = await Jimp.read(BASE_CERTIFICATE_PATH);
     const font = await Jimp.loadFont(Jimp.FONT_SANS_32_BLACK);
 
     // Define the text to print on the certificate
@@ -26,6 +34,7 @@ async function createCertificate(baseImagePath, name, project, prize) {
     return image;
 }
 
+
 // Function to save the certificate image
 function saveCertificate(image, name, project, prize) {
     // Create a SHA256 hash
@@ -39,12 +48,13 @@ function saveCertificate(image, name, project, prize) {
     return id;
 }
 
+
 // Read the CSV file containing participant data
 fs.createReadStream('pages/certificados/participantes.csv')
     .pipe(csv()) // Parse the CSV data
     .on('data', async (row) => { // For each row in the CSV
         // Create a certificate
-        const image = await createCertificate('pages/certificados/dummy_certificado.jpeg', row.name, row.project, row.prize);
+        const image = await createCertificate(row.name, row.project, row.prize);
 
         // Save the certificate image
         const id = saveCertificate(image, row.name, row.project, row.prize);
