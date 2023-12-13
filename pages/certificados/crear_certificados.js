@@ -8,9 +8,20 @@ async function createCertificate(baseImagePath, name, project, prize) {
     const image = await Jimp.read(baseImagePath);
     const font = await Jimp.loadFont(Jimp.FONT_SANS_32_BLACK);
 
-    image.print(font, 10, 10, `Name: ${name}`);
-    image.print(font, 10, 50, `Project: ${project}`);
-    image.print(font, 10, 90, `Prize: ${prize}`);
+    // Define the text to print on the certificate
+    const textName = `Name: ${name}`;
+    const textProject = `Project: ${project}`;
+    const textPrize = `Prize: ${prize}`;
+
+    // Calculate the "x" position to center the text based on the image and text width
+    const xName = (image.bitmap.width - Jimp.measureText(font, textName)) / 2;
+    const xProject = (image.bitmap.width - Jimp.measureText(font, textProject)) / 2;
+    const xPrize = (image.bitmap.width - Jimp.measureText(font, textPrize)) / 2;
+
+    // Print the text
+    image.print(font, xName, 10, textName);
+    image.print(font, xProject, 50, textProject);
+    image.print(font, xPrize, 90, textPrize);
 
     return image;
 }
