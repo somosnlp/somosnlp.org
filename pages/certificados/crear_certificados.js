@@ -1,9 +1,10 @@
-const Jimp = require('jimp');
-const crypto = require('crypto');
-const fs = require('fs');
-const csv = require('csv-parser');
+const Jimp = require('jimp'); // For image processing
+const crypto = require('crypto'); // For generating unique hash
+const fs = require('fs'); // For file system operations
+const csv = require('csv-parser'); // For parsing CSV files
 
-async function createDiploma(baseImagePath, name, project, prize) {
+// Function to create a certificate
+async function createCertificate(baseImagePath, name, project, prize) {
     const image = await Jimp.read(baseImagePath);
     const font = await Jimp.loadFont(Jimp.FONT_SANS_32_BLACK);
 
@@ -14,20 +15,29 @@ async function createDiploma(baseImagePath, name, project, prize) {
     return image;
 }
 
-function saveDiploma(image, name, project, prize) {
+// Function to save the certificate image
+function saveCertificate(image, name, project, prize) {
+    // Create a SHA256 hash
     const hash = crypto.createHash('sha256');
+    // Update the hash with the name, project, and prize
     hash.update(name + project + prize);
+    // Get the hash value in hexadecimal format
     const id = hash.digest('hex');
 
     image.write(`pages/certificados/${id}.png`);
-
     return id;
 }
 
+// Read the CSV file containing participant data
 fs.createReadStream('pages/certificados/participantes.csv')
-    .pipe(csv())
-    .on('data', async (row) => {
-        const image = await createDiploma('pages/certificados/dummy_diploma.jpeg', row.name, row.project, row.prize);
-        const id = saveDiploma(image, row.name, row.project, row.prize);
-        console.log(`Saved diploma with id ${id}`);
+    .pipe(csv()) // Parse the CSV data
+    .on('data', async (row) => { // For each row in the CSV
+        // Create a certificate
+        const image = await createCertificate('pages/certificados/dummy_certificado.jpeg', row.name, row.project, row.prize);
+
+        // Save the certificate image
+        const id = saveCertificate(image, row.name, row.project, row.prize);
+
+        // Log the saved certificate's ID
+        console.log(`Saved certificate with ID ${id}`);
     });
