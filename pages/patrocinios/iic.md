@@ -10,7 +10,7 @@ type: 3. Bronce
 
 ## Colaboración
 
-- Instituto patrocinador de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
+- Instituto patrocinador de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo del IIC
 

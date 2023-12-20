@@ -12,5 +12,5 @@ community: Patrocinio
 ## Colaboración
 
 - Representación de Somos NLP en la conferencia de código abierto FliSol Loja
-- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) | [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
+- Gestión del patrocinio de la Universidad Nacional de Loja (UNL) | [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
 - Gestión del patrocinio de la Universidad Nacional de Loja (UNL) | [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
