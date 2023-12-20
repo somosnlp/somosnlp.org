@@ -13,7 +13,7 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Presentamos las empresas patrocinadores de oro del Hackathon Somos NLP 2022:
+Presentamos las empresas patrocinadores de oro del Hackathon Somos NLP 2023:
 Argilla,
 Hugging Face,
 Q Blocks,
@@ -130,4 +130,4 @@ Además, la persona que consiga una mayor puntuación en el proceso de selecció
 
 ---
 
-🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://somosnlp.org/hackathon)! 
+🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://somosnlp.org/hackathon-2023)! 

@@ -10,7 +10,7 @@ bio: Graduate Innovation Developer @Vodafone
 linkedin: https://www.linkedin.com/in/laura-segura-mayordomo
 ---
 
-¡Tenemos tickets para la WomenTech Global Conference 2023! Todas las personas que entreguen un proyecto completo al [hackathon](https://somosnlp.org/hackathon) podrán disfrutar de un 20% de descuento en los tickets. Además, al unirte al hackathon tendrás la oportunidad de participar en el sorteo de 3 tickets completamente gratis.
+¡Tenemos tickets para la WomenTech Global Conference 2023! Todas las personas que entreguen un proyecto completo al [hackathon](https://somosnlp.org/blog/hackathon-2023) podrán disfrutar de un 20% de descuento en los tickets. Además, al unirte al hackathon tendrás la oportunidad de participar en el sorteo de 3 tickets completamente gratis.
 
 Te contamos más sobre la conferencia #WTGC2023 y la comunidad WomenTech Network.
 
