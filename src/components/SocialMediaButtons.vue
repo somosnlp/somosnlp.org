@@ -11,10 +11,10 @@
     <IconButtonLink url="https://github.com/somosnlp">
         <carbon:logo-github />
     </IconButtonLink>
-    <IconButtonLink url="https://www.youtube.com/c/somosnlp?sub_confirmation=1">
-        <carbon:logo-youtube />
-    </IconButtonLink>
     <IconButtonLink url="https://somosnlp.eventbrite.com">
         <gg:eventbrite />
+    </IconButtonLink>
+    <IconButtonLink url="https://www.youtube.com/c/somosnlp?sub_confirmation=1">
+        <carbon:logo-youtube />
     </IconButtonLink>
 </template>
