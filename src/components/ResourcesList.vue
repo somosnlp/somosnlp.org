@@ -4,39 +4,19 @@ import { RouteRecordNormalized, useRouter } from 'vue-router'
 const router = useRouter()
 
 function sort_alphabetically(a: RouteRecordNormalized, b: RouteRecordNormalized) {
-    let fa = a.path, fb = b.path;
-    if (fa < fb) {
-        return -1
-    }
-    if (fa > fb) {
-        return 1
-    }
-    return 0
+    return a.path.localeCompare(b.path);
 }
 
-const routes_open_source = router.getRoutes()
-    .filter(
-        i => i.path.startsWith('/recursos/datasets') ||
-            i.path.startsWith('/recursos/modelos')
-    )
-    .sort((a, b) => sort_alphabetically(a, b))
+function filterRoutes(startsWith: string[], notStartsWith: string[] = []) {
+    return router.getRoutes()
+        .filter(route => startsWith.some(sw => route.path.startsWith(sw)) && !notStartsWith.some(nsw => route.path.startsWith(nsw)))
+        .sort(sort_alphabetically);
+}
 
-const routes = router.getRoutes()
-    .filter(
-        i => i.path.startsWith('/recursos/')
-            && !i.path.startsWith('/recursos/datasets')
-            && !i.path.startsWith('/recursos/modelos')
-            && !i.path.startsWith('/recursos/tutoriales')
-            && !i.path.startsWith('/recursos/wip')
-    )
-    .sort((a, b) => sort_alphabetically(a, b))
-
-const routes_notebooks = router.getRoutes()
-    .filter(
-        i => i.path.startsWith('/recursos/tutoriales')
-    )
-    .sort((a, b) => sort_alphabetically(a, b))
-
+const routes_open_source = filterRoutes(['/recursos/datasets', '/recursos/modelos']);
+const route_nlp_de_0_a_100 = filterRoutes(['/recursos/curso-nlp-de-0-a-100'])[0];
+const routes = filterRoutes(['/recursos/'], ['/recursos/datasets', '/recursos/modelos', '/recursos/curso-nlp-de-0-a-100', '/recursos/tutoriales', '/recursos/wip']);
+const routes_notebooks = filterRoutes(['/recursos/tutoriales']);
 </script>
         
 <template>
@@ -55,6 +35,10 @@ const routes_notebooks = router.getRoutes()
     </div>
 
     <hr class="mx-auto mt-8 mb-12 prose" />
+
+    <div class="mx-auto mt-12 text-center max-w-200">
+        <BlogItem :key="route_nlp_de_0_a_100.path" :route="route_nlp_de_0_a_100" />
+    </div>
 
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
         <BlogItem v-for="route in routes" :key="route.path" :route="route" />
@@ -81,7 +65,8 @@ const routes_notebooks = router.getRoutes()
 
     <hr class="mx-auto mt-8 mb-12 prose" />
     <p class="m-auto text-center prose my-12">
-        ¿Tu asociación o empresa tiene recursos abiertos y gratuitos de PLN en español? Compártenos el enlace por Discord o
+        ¿Tu asociación o empresa tiene recursos abiertos y gratuitos de PLN en español? Compártenos el enlace por MD,
+        Discord o
         mándalo a
         info@somosnlp.org, lo incluiremos en la lista para que llegue a más gente 🚀
     </p>
