@@ -12,7 +12,7 @@ Maestría en Ciencia de Datos del Departamento de Matemáticas de la Universidad
 
 ## Colaboración
 
-- Grupo patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
+- Grupo patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 <div class="flex justify-center">
     <img alt="MCDunisonMX" width="250" height="140" 

@@ -24,7 +24,7 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
 
 ## Eventos con el equipo de Argilla
 
-- Introducción a Argilla | [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
+- Introducción a Argilla | [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
 
 <EventSummary
     description="En este taller, usaremos Argilla para sacar el máximo provecho a todas las innovaciones recientes en el mundo del PLN. En particular, intentaremos responder a la siguiente pregunta : ¿cómo evaluar, adaptar y crear modelos incorporando feedback humano en tus proyectos de PLN?"

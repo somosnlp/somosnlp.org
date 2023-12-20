@@ -29,7 +29,7 @@ community: Ponente
 
 ## Colaboración
 
-- Mentora durante el [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
+- Mentora durante el [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
 
 ## Biografía
 

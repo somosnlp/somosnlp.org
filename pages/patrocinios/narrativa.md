@@ -12,7 +12,7 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
 
 ## Colaboración
 
-- Empresa patrocinadora de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
+- Empresa patrocinadora de plata del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 - Empresa patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 <div class="flex justify-center">

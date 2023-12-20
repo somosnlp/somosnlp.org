@@ -11,7 +11,7 @@ community: Diseñadora
 
 ## Colaboración
 
-- Diseño del banner de Twitter del [Hackathon Somos NLP 2023](https://somosnlp.org/hackathon)
+- Diseño del banner de Twitter del [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/hackathon" target="_blank">

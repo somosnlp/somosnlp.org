@@ -10,7 +10,7 @@ type: 2. Plata
 
 ## Colaboración
 
-- Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
+- Organización patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo de DataGénero
 

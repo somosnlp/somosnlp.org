@@ -12,7 +12,7 @@ DiverTLes es una comunidad de mujeres que trabajan e investigan en Tecnologías 
 
 ## Colaboración
 
-- Comunidad patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/hackathon)
+- Comunidad patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 - Comunidad patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 ## Menciones en nuestros canales
