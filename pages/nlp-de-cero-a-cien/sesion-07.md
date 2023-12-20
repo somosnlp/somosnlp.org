@@ -17,12 +17,16 @@ author: Omar, Manu, Lewis y María
     />
 </div>
 
+¡Enhorabuena, has llegado al final del curso NLP de 0 a 100! 👏👏👏
+
+Esperamos que hayas aprendido muchíiisimo, comparte tu logro en redes y menciónanos para que llegue a más gente! También será un placer conocer tu feedback para mejorar y ayudar a más personas a adentrarse en el maravilloso mundo del PLN.
+
 ---
 
-¡Enhorabuena, has llegado al final del curso NLP de 0 a 100! 👏
+## ¿Y ahora qué?
 
-Anímate a compartir con la comunidad en Discord tus bases de datos, modelos y demos. 
+Te damos la bienvenida al open-source, anímate a compartir con la comunidad en Discord tus bases de datos, modelos y demos. Si las quieres compartir en redes y nos mencionas, ¡le daremos visibilidad a tus proyectos!
 
-¿Quieres seguir aprendiendo? Echa un vistazo a nuestro canal de YouTube:
+¿Quieres seguir aprendiendo? Echa un vistazo a nuestro canal de YouTube donde encontrarás contenido más avanzado:
 
 ➡️ [Más charlas y talleres impartidos por profesionales](https://www.youtube.com/@somosnlp)
