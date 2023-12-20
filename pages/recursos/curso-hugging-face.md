@@ -5,6 +5,8 @@ lang: es
 cover: https://dxj7eshgz03ln.cloudfront.net/production/link/image/664567/original_ratio_extra_large_aa86a82c-ec13-4d21-bb6f-fe3ba12e009b.png
 ---
 
+El equipo de Hugging Face ha creado tres cursos: [NLP, Deep RL y Audio](https://huggingface.co/learn).
+
 <div class="flex justify-center">
     <a href="https://huggingface.co/learn/nlp-course/es/chapter1/1" target="_blank">
         <img src="https://dxj7eshgz03ln.cloudfront.net/production/link/image/664567/original_ratio_extra_large_aa86a82c-ec13-4d21-bb6f-fe3ba12e009b.png"
