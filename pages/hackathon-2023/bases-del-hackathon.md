@@ -66,8 +66,8 @@ Define tu proyecto teniendo en cuenta que valoraremos el impacto social del mism
 - Cumplimenta bien la Dataset Card, tendremos en cuenta a la hora de evaluar los proyectos si está completa e incluye temas como una evaluación de los sesgos del dataset.
 
 Recursos:
-- <a href="https://somosnlp.org/hackathon/etiquetado-de-datos-con-argilla" target="_blank">Taller práctico: Etiquetado de datos con Argilla</a> impartido por Daniel Vila Suero, co-fundador y CEO @Argilla. *(Grabación ya disponible)*
-- <a href="https://somosnlp.org/hackathon/ama-con-natalia-elvira" target="_blank">AMA de etiquetado de datos</a>, pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla. *(Grabación ya disponible)*
+- <a href="https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla" target="_blank">Taller práctico: Etiquetado de datos con Argilla</a> impartido por Daniel Vila Suero, co-fundador y CEO @Argilla. *(Grabación ya disponible)*
+- <a href="https://somosnlp.org/hackathon-2023/ama-con-natalia-elvira" target="_blank">AMA de etiquetado de datos</a>, pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla. *(Grabación ya disponible)*
 - Reto colaborativo Alpaca ES: <a href="https://www.youtube.com/watch?v=Q-2qsvOEgnA&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" target="_blank">Vídeo explicativo de Argilla (10 mins)</a>, <a href="https://platzi.com/blog/ayuda-a-mejorar-los-llm-en-espanol-en-7-sencillos-pasos/" target="_blank">Explicación en 7 pasos de Platzi</a>
 
   
@@ -82,9 +82,9 @@ Recursos:
 - Para tener más posibilidades de ganar una beca para el programa de incubación patrocinado por AgilMentor, puede incluir tu canvas de modelo de negocio, [Lucas te explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s).
 
 Recursos:
-- <a href="https://somosnlp.org/hackathon/fine-tuning-llms" target="_blank">Taller práctico: Fine-tuning de grandes modelos de lenguaje</a> impartido por Manu Romero, el mayor contribuidor del Hub de Hugging Face. *(Grabación ya disponible)*
-- <a href="https://somosnlp.org/hackathon/what-is-q-blocks" target="_blank">Taller: How to get started with Q Blocks</a> impartido por Gaurav Vij, Head of Product & Co-founder de Q Blocks.
-- <a href="https://somosnlp.org/hackathon/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP. *(Grabación ya disponible)*
+- <a href="https://somosnlp.org/hackathon-2023/fine-tuning-llms" target="_blank">Taller práctico: Fine-tuning de grandes modelos de lenguaje</a> impartido por Manu Romero, el mayor contribuidor del Hub de Hugging Face. *(Grabación ya disponible)*
+- <a href="https://somosnlp.org/hackathon-2023/what-is-q-blocks" target="_blank">Taller: How to get started with Q Blocks</a> impartido por Gaurav Vij, Head of Product & Co-founder de Q Blocks.
+- <a href="https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP. *(Grabación ya disponible)*
 - Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como
 <a href="https://mlco2.github.io/impact" target="_blank">ML CO2 Impact</a> o 
 <a href="https://codecarbon.io" target="_blank">Code Carbon</a>,

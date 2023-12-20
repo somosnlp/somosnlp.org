@@ -38,7 +38,7 @@ useHead({
             </p>
             <p>
                 <a href="https://somosnlp.org/hackathon">
-                    ¡Únete a la edición 2023!
+                    ¡Únete a la nueva edición!
                 </a>
             </p>
         </div>
