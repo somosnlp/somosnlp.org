@@ -1,11 +1,23 @@
 ---
-title: "Hackathon Somos NLP 2024: Un nuevo corpus para 600M"
-description: Desarrolla al lado de profesionales, expertas y mentores la siguiente generación de modelos de PLN en tu idioma.
+title: "Hackathon Somos NLP 2024: Somos 600M"
+description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes.
+---
+
+LANZAMIENTO: 26 de diciembre
+
+Llega la tercera edición del mayor hackathon open-source de PLN en español. El objetivo de este año es crear un corpus que represente las variedades del español de los 600M de personas hispanohablantes. Anímate a participar, a organizarlo, a dar una keynote, o a patrocinarnos. ¡Contamos contigo!
+
 ---
 
 Después de dos ediciones en la que contamos con más de 1000 participantes de 30 países distintos, superamos las 10.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, finalizamos 50 proyectos y publicamos 3 papers.... ¡Volvemos a por eso y mucho más!
 
 ¡Únete a la tercera edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
+
+- [Participa en el hackathon](eventbrite)
+- [Únete al equipo](call-for-volunteers)
+- [Propón una keynote](call-for-keynotes)
+- [Patrocínanos](call-for-sponsors)
+- [Soy profe](soy-profe)
 
 ![Cartel del Hackathon 2024]()
 
@@ -26,7 +38,9 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 - Recibir apoyo para presentar tu proyecto como paper a una conferencia o para desarrollar tu idea y llevarla al mercado
 - Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
 
-¡Regístrate ya!
+[¡Regístrate ya!](eventbrite)
+
+¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](call-for-volunteers) 
 
 ---
 
