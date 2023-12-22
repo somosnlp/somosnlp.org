@@ -1,6 +1,6 @@
 ---
 title: María Grandury
-description: ML Engineer @CliBrAIn | Fundadora @SomosNLP | Cofundadora @BERTIN
+description: Fundadora @SomosNLP | Cofundadora @BERTIN
 cover: https://pbs.twimg.com/profile_images/1584913293470273537/6u-Q8SJP_400x400.jpg
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
@@ -29,6 +29,6 @@ community: Asociación
 
 ## Biografía
 
-María Grandury es una ingeniera e investigadora de Machine Learning especializada en las áreas del PLN y la fiabilidad de la IA. Es matemática y física y actualmente trabaja en CliBrAIn, donde contribuye a la creación de modelos fundacionales en español como parte del equipo de Labs. Anteriormente trabajó en neurocat, una startup con sede en Berlín, donde desarrollaba métodos de explicabilidad (XAI) y ataques adversarios para evaluar la seguridad de modelos de ML. Además, es la fundadora de Somos NLP, una comunidad internacional cuya misión es democratizar y acelerar el avance del NLP en español. Es Hugging Face Fellow y forma parte de varios proyectos de investigación de PLN internacionales, además de colaborar activamente con diversas iniciativas de mujeres en IA.
+María Grandury es una ingeniera e investigadora de Machine Learning comprometida con la IA responsable, inclusiva, abierta, y en español, que cuenta con un Doble Grado en Matemáticas y Física. María es la fundadora de Somos NLP, es Hugging Face Fellow y forma parte de varios proyectos de investigación de PLN internacionales, además de colaborar activamente con diversas iniciativas de mujeres en IA. Anteriormente ha trabajado en Clibrain como parte del equipo de Labs, con el objetivo de desarrollar de modelos de IA que realmente comprendan y respeten los ricos matices lingüísticos y culturales del español. También trabajó en neurocat, una startup con sede en Berlín, donde desarrollaba métodos de explicabilidad (XAI) y ataques adversarios para evaluar la seguridad de modelos de ML.
 
-*Última actualización: 16 de agosto de 2023*
+*Última actualización: 01 de diciembre de 2023*
