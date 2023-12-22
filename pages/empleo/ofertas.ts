@@ -1,5 +1,38 @@
 // Para añadir una nueva oferta, crea una constante con la información correspondiente y añádela a la lista `ofertas` al final del archivo.
 
+const nlp_biomedical_re1_bsc = {
+    ocupación: 'Research Engineer - NLP for Biomedical Information Analysis (RE1)',
+    "palabras clave": 'LLM, MLOps',
+    contrato: 'T.Completo',
+    entidad: 'Barcelona Supercomputing Center (BSC)',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Híbrido, Plaça Eusebi Güell, 1-3, 08034, Barcelona',
+    "fecha publicación (fecha límite)": '2023/12/22 (2023/12/31)',
+    más: 'https://www.bsc.es/join-us/job-opportunities/53323lsnlpbiare1'
+}
+
+const nlp_biomedical_re2_bsc = {
+    ocupación: 'Research Engineer - NLP for Biomedical Information Analysis (RE2)',
+    "palabras clave": 'LLM, MLOps, PhD',
+    contrato: 'T.Completo',
+    entidad: 'Barcelona Supercomputing Center (BSC)',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Híbrido, Plaça Eusebi Güell, 1-3, 08034, Barcelona',
+    "fecha publicación (fecha límite)": '2023/12/22 (2023/12/31)',
+    más: 'https://www.bsc.es/join-us/job-opportunities/52023lsnlpbiare2'
+}
+
+const dl_engineer_bsc = {
+    ocupación: 'Deep Learning Engineer for Language Technologies (RE1)',
+    "palabras clave": 'LLM, MLOps',
+    contrato: 'T.Completo',
+    entidad: 'Barcelona Supercomputing Center (BSC)',
+    "nº trabajadores/as": 'Más de 250',
+    localización: 'Híbrido, Plaça Eusebi Güell, 1-3, 08034, Barcelona',
+    "fecha publicación (fecha límite)": '2023/12/22 (2023/12/31)',
+    más: 'https://www.bsc.es/join-us/job-opportunities/55123lsltre1'
+}
+
 const mle_clibrain = {
     ocupación: 'Senior Machine Learning Engineer',
     "palabras clave": 'LLM models',
@@ -11,7 +44,6 @@ const mle_clibrain = {
     más: 'https://empleo.clibrain.com/jobs/3039820-senior-machine-learning-engineer'
 }
 
-
 const data_scientist_clibrain = {
     ocupación: 'Senior Data Scientist',
     "palabras clave": 'LLM models',
@@ -22,7 +54,6 @@ const data_scientist_clibrain = {
     "fecha publicación (fecha límite)": '2023/08/01',
     más: 'https://empleo.clibrain.com/jobs/3039657-senior-data-scientist'
 }
-
 
 const llmops_clibrain = {
     ocupación: 'Senior Infrastructure Engineer #LLMOps',
@@ -182,6 +213,9 @@ const NLP_Engineer_Hitz_researcher07 = {
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
+    nlp_biomedical_re1_bsc,
+    nlp_biomedical_re2_bsc,
+    dl_engineer_bsc,
     mle_clibrain,
     data_scientist_clibrain,
     llmops_clibrain,
