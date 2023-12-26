@@ -1,6 +1,8 @@
 ---
 title: "Hackathon Somos NLP 2024: Info para universidades"
 description: ¡Anima a tu alumnado a participar en este hackathon!
+lang: es
+cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
 ¡Hola profe!

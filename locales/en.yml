@@ -2,7 +2,7 @@ jobs:
   not_found: No matches found.
   search: Search
 landing-page:
-  banner: We organized the largest NLP hackathon in Spanish 🚀
+  banner: Join the largest open-source NLP hackathon in Spanish 🚀
   contribute:
     blog: Write an article or tutorial
     button: More ideas
@@ -20,7 +20,7 @@ landing-page:
     join-event: Join the event!
     more-events: Recorded events
     recorded-events: Recorded events
-    upcoming-events: Featured event
+    upcoming-events: Upcoming event
     watch-recordings: Watch recordings
   heading: Somos NLP
   heading-2: >-

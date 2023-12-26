@@ -49,8 +49,8 @@ const showPastEvents = ref(true);
           t('landing-page.events.upcoming-events')
         }}</span>
       </h1>
-      <img class="mx-auto my-8" alt="Upcoming events"
-        src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" />
+      <img class="mx-auto my-8" alt="Próximos eventos"
+        src="https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png" />
       <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/hackathon">
         {{ t('landing-page.events.join-event') }}
       </a>
