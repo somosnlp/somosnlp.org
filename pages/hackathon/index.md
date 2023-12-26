@@ -7,11 +7,11 @@ Después de dos ediciones en la que contamos con más de 1000 participantes de 3
 
 ¡Únete a la tercera edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
 
-- [Participa en el hackathon](eventbrite)
+- [Participa en el hackathon](https://hackathonsomosnlp2024.eventbrite.com)
 - [Únete al equipo](https://forms.gle/radg18NMLRZMPu38A)
 - [Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
 - [Patrocínanos](https://forms.gle/sEkxstwbJSRYpgDa8)
-- [Soy profe](https://somosnlp.org/hackathon/soy-profe)
+- [Info para universidades](https://somosnlp.org/hackathon/universidades)
 
 ![Cartel del Hackathon 2024]()
 
@@ -32,7 +32,7 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 - Recibir apoyo para presentar tu proyecto como paper a una conferencia o para desarrollar tu idea y llevarla al mercado
 - Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
 
-[¡Regístrate ya!](eventbrite)
+[¡Regístrate ya!](https://hackathonsomosnlp2024.eventbrite.com)
 
 ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A) 
 

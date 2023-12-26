@@ -1,3 +1,8 @@
+---
+title: "Hackathon Somos NLP 2024: Info para universidades"
+description: ¡Anima a tu alumnado a participar en este hackathon!
+---
+
 ¡Hola profe!
 
 Este hackathon es una experiencia ideal para que tus estudiantes mejoren sus conocimientos sobre Inteligencia Artificial, en particular sobre modelos de lenguaje: retos, desarrollo, aplicaciones, riesgos, y mucho más.
@@ -12,9 +17,8 @@ Preguntas que nos soléis hacer:
 
 ¿Otra duda? Mándanos un correo a info@somosnlp.org, ¡contamos contigo y tus estudiantes!
 
-
-Poner logos de las unis que presentan sus estudiantes
-
+<!-- 
+Poner logos de las unis que presentan sus estudiantes:
 - uc3m
 - ie
 - upr
@@ -24,3 +28,4 @@ Poner logos de las unis que presentan sus estudiantes
 - argentina
 - loja
 - cdmx
+-->
