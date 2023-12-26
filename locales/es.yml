@@ -2,7 +2,7 @@ jobs:
   not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   search: Buscar
 landing-page:
-  banner: ¡Organizamos el mayor hackathon open-source de PLN en español! 🚀
+  banner: ¡Únete al mayor hackathon open-source de PLN en español! 🚀
   contribute:
     blog: Escribe un artículo o un tutorial
     button: Más ideas
@@ -20,7 +20,7 @@ landing-page:
     join-event: ¡Me apunto!
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
-    upcoming-events: Evento destacado
+    upcoming-events: Próximo evento
     watch-recordings: Ver todas las grabaciones
   heading: Somos NLP
   heading-2: >-

@@ -1,13 +1,15 @@
 ---
 title: "Hackathon Somos NLP 2024: Somos 600M"
 description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes.
+lang: es
+cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
 Después de dos ediciones en la que contamos con más de 1000 participantes de 30 países distintos, superamos las 10.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, finalizamos 50 proyectos y publicamos 3 papers.... ¡Volvemos a por eso y mucho más!
 
 ¡Únete a la tercera edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
 
-- [Participa en el hackathon](https://hackathonsomosnlp2024.eventbrite.com)
+- [Participa en el hackathon](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 - [Únete al equipo](https://forms.gle/radg18NMLRZMPu38A)
 - [Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
 - [Patrocínanos](https://forms.gle/sEkxstwbJSRYpgDa8)
@@ -34,7 +36,7 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 
 [¡Regístrate ya!](https://hackathonsomosnlp2024.eventbrite.com)
 
-¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A) 
+¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, ¡[únete al equipo](https://forms.gle/radg18NMLRZMPu38A)!
 
 ---
 
@@ -44,6 +46,12 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 - [Talleres y AMAs](#talleres-y-amas)
 - [Evaluación y Premios](#evaluacion-y-premios)
 - [Patrocinios](#patrocinios)
+
+---
+
+## Bases del hackathon
+
+¿Cómo participar en el hackathon? Lee todo [aquí](https://somosnlp.org/hackathon/universidades).
 
 ---
 

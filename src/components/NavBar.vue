@@ -8,6 +8,8 @@ const { t } = useI18n()
     <nav class="flex gap-4 items-center justify-between select-none">
         <div class="flex gap-8 items-center">
             <Logo />
+            <router-link to="/hackathon" class="whitespace-nowrap text-accent-500">{{ t('navbar.hackathon') }}
+            </router-link>
             <router-link to="/recursos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.resources') }}
             </router-link>
             <router-link to="/eventos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.events') }}

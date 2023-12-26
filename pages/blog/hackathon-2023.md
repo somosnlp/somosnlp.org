@@ -1,6 +1,6 @@
 ---
 title: Finaliza nuestro hackathon 2023
-description: El mayor hackathon open-source de PLN en español con más de 500 participantes y 5000 visualizaciones de los eventos
+description: Segunda edición del mayor hackathon open-source de PLN en español con más de 500 participantes y 5000 visualizaciones de los eventos
 date: 2023-12-03T18:00:00.000+00:00
 lang: es
 duration: 6min
