@@ -13,7 +13,7 @@ Después de dos ediciones en la que contamos con más de 1000 participantes de 3
 - [Patrocínanos](https://forms.gle/sEkxstwbJSRYpgDa8)
 - [Info para universidades](https://somosnlp.org/hackathon/universidades)
 
-![Cartel del Hackathon 2024]()
+![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png)
 
 La democratización del PLN en español es el objetivo principal de Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es creando más recursos abiertos de PLN en nuestro idioma.
 
