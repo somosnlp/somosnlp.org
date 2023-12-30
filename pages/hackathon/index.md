@@ -17,9 +17,11 @@ Después de dos ediciones en la que contamos con más de 1000 participantes de 3
 
 ![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png)
 
-La democratización del PLN en español es el objetivo principal de Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es creando más recursos abiertos de PLN en nuestro idioma.
+La democratización del PLN en español es el objetivo principal de Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de más recursos abiertos de PLN en nuestro idioma.
 
-Con la revolución de los LLMs queremos enfocar este hackathon en la **creación de un corpus que represente las variedades del español de los 600M de personas hispanohablantes.** 💛
+Con la revolución de los LLMs queremos enfocar este hackathon a dos objetivos:
+1. la creación de un **corpus de calidad que represente las variedades del español de los 600M de personas hispanohablantes.** 💛
+2. la creación de una **leaderboard de LLMs en español** que permita evaluar el progreso y comparar los modelos disponibles para diferentes tareas. 🚀 
 
 ---
 
@@ -42,6 +44,7 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 
 ## 📝 Índice
 
+- [Cómo participar](https://somosnlp.org/hackathon/bases)
 - [Keynotes de especialistas](#keynotes-de-especialistas)
 - [Talleres y AMAs](#talleres-y-amas)
 - [Evaluación y Premios](#evaluacion-y-premios)
@@ -51,7 +54,7 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 
 ## Bases del hackathon
 
-¿Cómo participar en el hackathon? Lee todo [aquí](https://somosnlp.org/hackathon/universidades).
+¿Cómo participar en el hackathon? Lee todo [aquí](https://somosnlp.org/hackathon/bases).
 
 ---
 
