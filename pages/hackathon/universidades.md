@@ -7,9 +7,9 @@ cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.p
 
 ¡Hola profe!
 
-Este hackathon es una experiencia ideal para que tus estudiantes mejoren sus conocimientos sobre Inteligencia Artificial, en particular sobre modelos de lenguaje: retos, desarrollo, aplicaciones, riesgos, y mucho más.
+Este hackathon es una experiencia ideal para que tus estudiantes mejoren sus conocimientos sobre Inteligencia Artificial, en particular sobre modelos de lenguaje en el mundo real: retos, desarrollo, aplicaciones, riesgos, y mucho más.
 
-Preguntas que nos soléis hacer:
+Preguntas que nos habéis hecho:
 
 - ¿Puedo utilizar el hackathon como actividad en el aula? Sí, siempre y cuando se respeten las fechas y condiciones fijadas para el resto de participantes.
 - ¿Hay un número máximo de equipos por universidad o profe? No, ¡cuantos más, mejor!
@@ -20,7 +20,17 @@ Preguntas que nos soléis hacer:
 ¿Otra duda? Mándanos un correo a info@somosnlp.org, ¡contamos contigo y tus estudiantes!
 
 <!-- 
-Poner logos de las unis que presentan sus estudiantes:
+## Universidades patrocinadoras de ediciones anteriores
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="path_to_image1.jpg" alt="University Logo 1" style="width: 100%;">
+  <img src="path_to_image2.jpg" alt="University Logo 2" style="width: 100%;">
+  <img src="path_to_image3.jpg" alt="University Logo 3" style="width: 100%;">
+  <img src="path_to_image4.jpg" alt="University Logo 4" style="width: 100%;">
+  <img src="path_to_image5.jpg" alt="University Logo 5" style="width: 100%;">
+  <img src="path_to_image6.jpg" alt="University Logo 6" style="width: 100%;">
+</div>
+
 - uc3m
 - ie
 - upr
