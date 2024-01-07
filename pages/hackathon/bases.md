@@ -26,7 +26,7 @@ y crea una cuenta en
 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w"
 target="_blank">Eventbrite</a>.
 
-3. De momento esto es todo, publicaremos los detalles de la competición en febrero :)
+3. De momento esto es todo, para que todos los equipos comiencen el hackathon con las mismas oportunidades publicaremos los detalles de la competición en febrero.
 
 
 ## Cómo apoyar a la organización del evento
@@ -35,4 +35,4 @@ target="_blank">Eventbrite</a>.
 
 Si te gustaría que tu universidad participase en el hackathon, lee cómo [aquí](https://somosnlp.org/hackathon/universidades).
 
-Toda la ayuda es bienvenida, [contáctanos para patrocinar el Hackathon Somos NLP 2024](https://forms.gle/sEkxstwbJSRYpgDa8).
+Toda la ayuda es bienvenida, [contáctanos para patrocinar el Hackathon Somos NLP 2024](https://somosnlp.org/hackathon/patrocinios).
