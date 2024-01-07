@@ -5,13 +5,13 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento. En las dos ediciones anteriores contamos con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos. Este año nuestro reto es crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
+Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento. En las dos ediciones anteriores contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos. Este año nuestro reto es crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
 
 Los tipos de patrocinios están explicados a continuación. En cuanto rellenes este [formulario](https://forms.gle/sEkxstwbJSRYpgDa8) nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
 Estamos a tu disposición en info@somosnlp.org, ¡contamos tu apoyo! 💪
 
-## Beneficios
+## Beneficios por tipo de patrocinio
 
 | | Platino | Oro | Plata | Expert | Comunidad |
 |-| --------|-----|-------|--------|-----------|
@@ -41,8 +41,6 @@ Toda persona que sea ponente o dé una mentoría será añadida a la sección de
 - RT / comentar las publicaciones en las que os mencionemos
 
 #### 🤗 Patrocinio Comunidad
-
-Una entidad que sea patrocinadora de Comunidad tiene que:
 - Publicar posts / mención en podcast / newsletter animando a participar antes del 1 de febrero
 - Publicar posts animando a participar antes del 1 de marzo
 - Publicar posts anunciando los días de keynotes
