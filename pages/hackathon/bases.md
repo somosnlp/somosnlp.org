@@ -15,7 +15,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.p
 
 ## Pasos para participar
 
-Participar en nuestro hackathon y aplicar tus conocimientos a una buena causa es muy sencillo, ¡anímate!
+Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
 
 1. Únete a nuestra comunidad de
 <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>

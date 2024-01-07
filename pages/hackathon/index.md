@@ -1,11 +1,11 @@
 ---
 title: "Hackathon Somos NLP 2024: Somos 600M"
-description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes.
+description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y una leaderboard para poder evaluar nuestros LLMs.
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-Después de dos ediciones en la que contamos con más de 1000 participantes de 30 países distintos, superamos las 10.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, finalizamos 50 proyectos y publicamos 3 papers.... ¡Volvemos a por eso y mucho más!
+Después de dos ediciones en las que contamos con más de 1000 participantes de 30 países distintos, superamos las 10.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, finalizamos 50 proyectos y publicamos 3 papers.... ¡Volvemos a por eso y mucho más!
 
 ¡Únete a la tercera edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
 
@@ -36,7 +36,7 @@ Al unirte a este evento, además de ayudarnos a crear recursos abiertos y democr
 - Recibir apoyo para presentar tu proyecto como paper a una conferencia o para desarrollar tu idea y llevarla al mercado
 - Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
 
-[¡Regístrate ya!](https://hackathonsomosnlp2024.eventbrite.com)
+[¡Regístrate ya!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 
 ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, ¡[únete al equipo](https://forms.gle/radg18NMLRZMPu38A)!
 
@@ -79,7 +79,7 @@ Desde el equipo de Somos NLP queremos animarte a participar independientemente d
 
 ## 🏆 Evaluación y Premios
 
-Las bases del hackathon junto con información detallada sobre la evaluación de los proyectos se publicarán en febrero.
+Para que todos los equipos comiencen el hackathon con las mismas oportunidades, las [bases](https://somosnlp.org/hackathon/bases) del hackathon junto con información detallada sobre la evaluación de los proyectos se publicarán en febrero.
 
 Estamos hablando con todo el mundo para conseguir premios increíbles, ¡os mantendremos al corriente! 
 
