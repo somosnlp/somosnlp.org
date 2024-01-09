@@ -33,7 +33,7 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 
 ## 🤔 Inspiración
 
-- Por ejemplo, en la edición de [2023](https://somosnlp.org/hackathon-2023) utilizamos Midjourney para la creación de la "mujer-libro"
+- Por ejemplo, en la edición de [2023](https://somosnlp.org/hackathon-2023) utilizamos Midjourney para la creación de la "persona-libro"
 - Os puede ayudar pensar que, una vez seleccionado el cartel del hackathon, tendremos que diseñar carteles para las charlas
 
 ¡Esperamos con emoción vuestros carteles! 🤩
