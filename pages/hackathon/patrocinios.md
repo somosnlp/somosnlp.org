@@ -5,52 +5,121 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento. En las dos ediciones anteriores contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos. Este año nuestro reto es crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
+¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
 
-Los tipos de patrocinios están explicados a continuación. En cuanto rellenes este [formulario](https://forms.gle/sEkxstwbJSRYpgDa8) nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
+Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
-Estamos a tu disposición en info@somosnlp.org, ¡contamos tu apoyo! 💪
+Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 ## Beneficios por tipo de patrocinio
 
 | | Platino | Oro | Plata | Expert | Comunidad |
 |-| --------|-----|-------|--------|-----------|
-| | Más de 500€ | Hasta 500€ | Hasta 150€ | Ponencias / Mentorías| Visibilidad |
-| Logo en la página web y Eventbrite | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Logo en la sección "comunidad" | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Agradecimiento en RRSS | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Mención en un artículo de blog presentando los patrocinios | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Anuncio individual del patrocinio en Twitter | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Anuncio individual del patrocinio en LinkedIn | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Publicación de un artículo en el blog | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Mención en directo en los eventos | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Mención en directo en la ponencia / mentoría | ❌ | ❌ | ❌ | ✅ | ❌ |
+| | Más de 600€ | Hasta 600€ | Hasta 200€ | Ponencias /Mentorías | Visibilidad |
+| Logo en la página web del hackathon y la de registro (tamaño) | ✅ XL | ✅ L | ✅ L | ✅ L | ✅ M |
+| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 4º | ✅ 5º |
+| Agradecimiento en redes sociales | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 5 | ✅ 5 | 
+| Anuncio individual del patrocinio en Twitter presentando vuestra misión y proyectos actuales | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Anuncio individual del patrocinio en LinkedIn presentando vuestra misión y proyectos actuales | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Mención en un artículo de blog describiendo los patrocinios | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ❌ | ❌ |
+| Mención en directo en la ponencia / mentoría correspondiente | ✅  | ❌ | ❌ | ✅ | ❌ |
+| Mención en posts anunciando la ponencia / mentoría | ✅  | ❌ | ❌ | ✅ | ❌ |
+| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Charla promocional (30') * | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Acceso a los CVs de participantes en búsqueda de empleo ?? | ✅ | ✅ | ✅ | ❌ | ❌ |
 
-#### 🚀 Patrocinios Platino, Oro y Plata
+*En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad.
 
-Se calculará el valor total de donaciones, premios, GPUs, corpus, etc. Dentro de cada categoría, los logos se ordenarán por valor.
+## Tipos de patrocinios 
 
-De estos patrocinios simplemente se espera RT / comentario en las publicaciones en las que os mencionemos agradeciendo vuestro apoyo.
+¿Cómo te gustaría apoyarnos en nuestra misión de democratizar el PLN en español?
 
-#### 💡 Patrocinio Expert
+<details>
+<summary>🚀 Patrocinios Platino, Oro y Plata</summary>
 
-Toda persona que sea ponente o dé una mentoría será añadida a la sección de "comunidad". Para que su organización se considere patrocinadora Expert tiene que:
-- Publicar posts / mención en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero
+Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Platino, Oro y Plata podemos garantizar:
+- Premios para los equipos ganadores
+- Sorteos para todas las personas participantes
+- Corpus y GPUs 
+- Merchandising
+- Streaming de primera calidad
+- Buena gestión de este evento internacional online
+
+Para determinar el tipo de patrocinio se calculará el valor total combinando donaciones, premios, corpus y GPUs patrocinadas por cada entidad. Dentro de cada categoría, los logos también se ordenarán por valor total.
+
+Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN, merchandising específicamente creado para el hackathon, tiempo de computación, etc.
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+
+</details>
+
+<details>
+<summary>💡 Patrocinio Expert</summary>
+
+Los patrocinios Expert comparten su conocimiento con la comunidad. Toda persona que imparta una ponencia o mentoría será promocionada y añadida individualmente a la página de "Comunidad". Para que su organización se considere patrocinadora Expert tiene que:
+- Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero
 - Publicar posts anunciando la keynote/mentoría una semana antes del evento
 - Publicar posts anunciando la keynote/mentoría un día antes del evento
 - RT / comentar las publicaciones en las que os mencionemos
 
-#### 🤗 Patrocinio Comunidad
-- Publicar posts / mención en podcast / newsletter animando a participar antes del 1 de febrero
+Notas:
+- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
+- Se facilitará el material visual necesario para los posts
+- Recordad siempre mencionar a Somos NLP
+
+¡Contáctanos ya para compartir tu experiencia!
+
+Enlaces útiles:
+- [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
+- [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
+- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+
+</details>
+
+<details>
+<summary>🤗 Patrocinio Comunidad</summary>
+
+Los patrocinios de Comunidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
+
+Qué os pedimos:
+- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 1 de febrero
 - Publicar posts animando a participar antes del 1 de marzo
 - Publicar posts anunciando los días de keynotes
 - Publicar posts / blog anunciando los resultados del hackathon
-- RT / comentar las publicaciones en las que os mencionemos 
+- RT / comentar las publicaciones en las que os mencionemos
+
+Notas:
+- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
+- Se facilitará el material visual necesario para los posts
+- Recordad siempre mencionar a Somos NLP
+
+Enlaces útiles:
+- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+
+</details>
 
 #### Notas:
-- Publicar posts = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts, así como un ejemplo de post
+
+- Estamos a tu disposición en info@somosnlp.org
 - Si no se cumplen los requisitos, se eliminará el logo correspondiente 😢
 - ¡Agradecemos toda la visibilidad extra! 🤩
 
-Si tienes más ideas te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias!
+Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+
+---
+
+#### 💛 Patrocinio Individual
+
+Sabemos que hay personas que nos apoyáis desde el comienzo y otras que nos acabáis de conocer y nos apoyaréis en esta nueva etapa. Os queremos agradecer vuestro esfuerzo y confianza añadiendo vuestra foto en la nueva página "Comunidad", ¡mandadnos vuestra info!
