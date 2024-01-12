@@ -101,9 +101,9 @@ const showPastEvents = ref(true);
         </div>
         <br />
         <br />
-        <a href="https://cvc.cervantes.es/lengua/anuario/anuario_22/default.htm" target="_blank">
+        <a href="https://cvc.cervantes.es/lengua/anuario/anuario_23/informes_ic/p01.htm" target="_blank">
           <p class="italic text-sm">
-            * "El español en cifras", El español en el mundo, Anuario del Instituto Cervantes 2022
+            * "El español en cifras", El español en el mundo, Anuario del Instituto Cervantes 2023
           </p>
         </a>
       </div>

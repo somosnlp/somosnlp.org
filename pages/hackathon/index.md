@@ -1,6 +1,6 @@
 ---
 title: "Hackathon Somos NLP 2024: Somos 600M"
-description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y una leaderboard para poder evaluar nuestros LLMs.
+description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y a estandarizar cómo evaluar nuestros LLMs.
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
@@ -25,7 +25,7 @@ La democratización del PLN en español es el objetivo principal de Somos NLP y 
 
 Dada la increíble revolución de los LLMs, queremos enfocar este hackathon a dos objetivos:
 1. Crear un **corpus de calidad que represente las variedades del español de los 600M de personas hispanohablantes.** 💛
-2. Crear una **leaderboard de LLMs en español** que permita evaluar el progreso y comparar los modelos disponibles. 🚀 
+2. Crear una **leaderboard de LLMs en español** que permita estandarizar la evaluación del progreso y comparar los modelos disponibles. 🚀 
 
 ---
 
