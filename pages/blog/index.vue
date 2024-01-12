@@ -32,7 +32,7 @@
         </div>
         <div class="mx-auto mt-8 mb-12 prose">
             <center>
-                <a href="https://somosnlp.org/blog/objetivos-2024" target="_blank"
+                <a href="https://somosnlp.org/blog/nuestros-objetivos-para-2024" target="_blank"
                     style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Lee
                     más!</a>
             </center>
