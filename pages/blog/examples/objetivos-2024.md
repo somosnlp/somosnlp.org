@@ -1,9 +1,9 @@
 ---
 title: Nuestros objetivos para 2024
-description: Cómo conseguir que la IA comprenda a 600M de personas hispanohablantes
+description: Conseguir que la IA comprenda a 600M de personas hispanohablantes
 date: 2023-12-30T16:00:00.000+00:00
 lang: es
-duration: 4min
+duration: 2min
 cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_gifts_re_97j6.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
@@ -13,20 +13,34 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Nuestros propósitos para 2024: crear un corpus de instrucciones de calidad y lo más diverso posible, y un ranking de LLMs en español. ¿Quién se apunta? somosnlp.org/hackathon
-
 Hoy en Discord un miembro muy activo de la comunidad me ha preguntado cuáles eran los objetivos de la comunidad para 2024, así que aquí van un par de ideas. ¡Se aceptan sugerencias!
 
-Como sabéis, el objetivo original con el que surgió la comunidad fue el de crear más recursos abiertos en español. Hace casi tres años había tan solo X datasets y Y modelos monolingües en español en el hub de Hugging Face. A día de hoy (30 de diciembre) hay X e Y. ¡Es increíble!
+1. Crear un corpus de instrucciones de alta calidad y diversidad, que represente las diferentes variedades del español y lenguas cooficiales
+2. Crear un sistema para evaluar las capacidades de LLMs en estas ricas lenguas
+3. Ofreceros mayor soporte y visibilidad (¡porque estáis creando proyectos increíbles!)
 
-Las contribuciones open-source están revolucionando el desarrollo de la IA, y los idiomas diferentes del inglés no nos podemos quedar atrás. Mucho más siendo el español el segundo idioma más hablado en el mundo con X millones de hispanohablantes según el último reporte del Instituto Cervantes.
+¿Quién se apunta? somosnlp.org/hackathon
 
-El hecho de ser lengua oficial en X países nos da una riqueza inigualable. ¿Cuántas maneras hay de decir que algo nos encanta? Qué guay, qué chiva, ... Los sistemas de IA tienen que entender y saber utilizar todos y cada una de estas expresiones, y de igual manera todas las otras expresiones que componen nuestro maravilloso idioma.
+## De Somos NLP al mundo
 
-Volviendo a los objetivos para el 2024, presentamos nuestro gran evento anual, el Hackathon Somos NLP. Tras dos ediciones en las que desarrollamos proyectos enfocados a los Objetivos de Desarrollo Sostenible con modelos de lenguaje clásicos (2022) y con LLMs (2023). El objetivo de este año está enfocado en la creación de datasets para entrenar esos increíbles modelos, y las técnicas para evaluar correctamente dichos modelos. En concreto vamos a crear un corpus de calidad de instrucciones en español y lenguas cooficiales y una leaderboard que permita evaluar LLMs en español.
+Somos NLP es una comunidad abierta y apasionada de hispanohablantes comprometida con una misión crucial: democratizar el Procesamiento del Lenguaje Natural en nuestros idiomas. A través de la creación y promoción de recursos de **código abierto**, queremos impulsar el avance del PLN en español y las lenguas cooficiales.
 
-Si te interesa contribuir a estos objetivos, participa en nuestro próximo hackathon! Puedes participar, ser ponente, dar mentorías, patrocinarlo, o ayudar a asentar las bases técnicas para el evento. ¡Toda la ayuda es bienvenida!
+En los últimos años hemos visto un crecimiento en los recursos disponibles en español, pero aún hay un largo camino por recorrer. Las contribuciones open-source están revolucionando la IA, y tenemos que seguir de cerca los desarrollos en inglés. En el mundo somos más de 599 millones de hispanohablantes (dominio nativo + competencia limitada + estudiantes de español) según el Anuario del Instituto Cervantes de 2023, **¡somos el 7.5% de la población mundial!**
 
-Si se te ocurren otras formas en las que podamos apoyar a la comunidad hispanohablante dínoslas! Somos NLP también es tu comunidad, nuestra prioridad es apoyarte. Para cualquier duda, estamos en Discord.
+Además, el hecho de ser lengua oficial en **21 países** nos da una riqueza inigualable. ¿Cómo dices que algo te encanta? Qué guay, copado, chévere, bacán, chido, padre, bárbaro, ... Los sistemas de IA tienen que entender y utilizar todas las expresiones que componen nuestro colorido idioma y sus variedades.
 
-¡Nos vemos como tarde en marzo! Feliz comienzo de 2024
+## Llega la tercera edición de nuestro hackathon
+
+Volviendo a los objetivos para el 2024, presentamos nuestro gran evento anual, el #HackathonSomosNLP.
+
+Tras dos ediciones en las que desarrollamos proyectos enfocados a los Objetivos de Desarrollo Sostenible con Transformers "clásicos" (2022) y con LLMs (2023), el enfoque de este año es en los datasets para entrenar modelos de instrucciones inclusivos, y en las técnicas para evaluarlos correctamente. **Necesitamos modelos que comprendan y hablen las variedades del español de los 600M de hispanohablantes, y necesitamos una manera estandarizada de evaluar y comparar dichos modelos.**
+
+Hay muchas formas de contribuir: participando en el hackathon, compartiendo conocimiento como ponente, ofreciendo mentoría, patrocinando el evento, o ayudando en la logística técnica. ¡Toda el apoyo es bienvenido!
+
+## ¡Feliz 2024, nos vemos en Marzo!
+
+Somos NLP es tu comunidad. Queremos escuchar tus ideas y sugerencias para apoyarte en tus proyectos. ¡Estamos en Discord!
+
+Te esperamos en nuestro próximo encuentro. ¡Feliz año, vamos a hacer de 2024 un año memorable para el NLP en español!
+
+<center><a href="https://somosnlp.org/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Únete al hackathon!</a></center>

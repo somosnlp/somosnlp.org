@@ -3,7 +3,7 @@ title: Finaliza nuestro hackathon 2023
 description: Segunda edición del mayor hackathon open-source de PLN en español con más de 500 participantes y 5000 visualizaciones de los eventos
 date: 2023-12-03T18:00:00.000+00:00
 lang: es
-duration: 6min
+duration: 1min
 cover: https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
