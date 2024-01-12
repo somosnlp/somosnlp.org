@@ -3,7 +3,7 @@ title: Divulgación de PLN en español
 description: Iniciativas que contribuyen a avanzar el estado del arte del PLN en español
 date: 2022-10-30T18:00:00.000+00:00
 lang: es
-duration: 4min
+duration: 3min
 cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_Graduation_re_gthn.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
