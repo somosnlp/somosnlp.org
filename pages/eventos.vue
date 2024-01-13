@@ -15,19 +15,32 @@
 
         <article class="m-auto prose">
 
-            <a
-                href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
-                ➡️ Únete al calendario de Google con nuestros eventos
-            </a>
-
             <div class="mx-auto my-8 text-center">
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximo
+                    evento</span>
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon Somos NLP 2024" width="650" height="365"
                         src="https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png" />
                 </a>
             </div>
 
+            <div class="mt-10 grid gap-4 lg:grid-cols-2">
+                <a href="https://somosnlp.org/calendario" target="_blank" class="button-accent">
+                    <carbon:calendar />
+                    Ver el calendario de eventos
+                </a>
+                <a href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+                    target="_blank" class="button-gray">
+                    <carbon:logo-google />
+                    Unirme al calendario
+                </a>
+            </div>
+
+            <hr class="mx-auto mt-8 mb-12 prose" />
+
             <div class="m-12">
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
+                    dark="text-accent-400">Grabaciones de eventos</span>
                 <ul>
                     <li>
                         <a href="#hackathon-2023">Charlas y talleres del Hackathon 2023</a>
