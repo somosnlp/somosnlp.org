@@ -9,22 +9,17 @@
         <hr class="mx-auto mt-8 mb-12 prose" />
 
         <div class="mx-auto mt-8 mb-12 prose italic">
-            <p>
-                Hoy en Discord un miembro muy activo de la comunidad me ha
-                preguntado cuáles eran los objetivos de la comunidad para 2024,
-                así que aquí van un par de ideas. ¡Se aceptan sugerencias!
-            </p>
             <ol>
                 <li>
-                    Crear un corpus de instrucciones de alta calidad y
-                    diversidad, que represente las diferentes variedades
-                    del español y lenguas cooficiales
+                    Crear un corpus de instrucciones de calidad que represente las variedades del español habladas por 600M
+                    de personas, así como las lenguas cooficiales 💛
                 </li>
                 <li>
-                    Crear un sistema para evaluar las capacidades de LLMs en estas ricas lenguas
+                    Estandarizar la evaluación de LLMs en estas ricas lenguas, permitiendo analizar el progreso y comparar
+                    los modelos disponibles ✅
                 </li>
                 <li>
-                    Ofreceros mayor soporte y visibilidad (¡porque estáis creando proyectos increíbles!)
+                    Ofreceros mayor soporte y visibilidad (¡porque estáis creando proyectos increíbles!) 🚀
                 </li>
             </ol>
 
