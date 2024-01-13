@@ -15,13 +15,15 @@ github: https://github.com/mariagrandury
 
 Hoy en Discord un miembro muy activo de la comunidad me ha preguntado cuáles eran los objetivos de la comunidad para 2024, así que aquí van un par de ideas. ¡Se aceptan sugerencias!
 
-1. Crear un corpus de instrucciones de alta calidad y diversidad, que represente las diferentes variedades del español y lenguas cooficiales
-2. Crear un sistema para evaluar las capacidades de LLMs en estas ricas lenguas
-3. Ofreceros mayor soporte y visibilidad (¡porque estáis creando proyectos increíbles!)
+1. Crear un corpus de instrucciones de calidad que represente las variedades del español habladas por 600M de personas, así como las lenguas cooficiales 💛
+
+2. Estandarizar la evaluación de LLMs en estas ricas lenguas, permitiendo analizar el progreso y comparar los modelos disponibles ✅ 
+
+3. Ofreceros mayor soporte y visibilidad (¡porque estáis creando proyectos increíbles!) 🚀
 
 ¿Quién se apunta? somosnlp.org/hackathon
 
-## De Somos NLP al mundo
+## Continuamos con nuestra misión
 
 Somos NLP es una comunidad abierta y apasionada de hispanohablantes comprometida con una misión crucial: democratizar el Procesamiento del Lenguaje Natural en nuestros idiomas. A través de la creación y promoción de recursos de **código abierto**, queremos impulsar el avance del PLN en español y las lenguas cooficiales.
 

@@ -15,12 +15,10 @@
 
         <article class="m-auto prose">
 
-            <!--
             <a
                 href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t">
-                ➡️ Calendario de Google con nuestros eventos
+                ➡️ Únete al calendario de Google con nuestros eventos
             </a>
-            -->
 
             <div class="mx-auto my-8 text-center">
                 <a href="/hackathon" target="_blank">
