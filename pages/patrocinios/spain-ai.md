@@ -8,7 +8,7 @@ website: https://www.spain-ai.com
 type: 2. Plata
 ---
 
-Spain AI nace en 2017 con el objetivo de democratizar la Inteligencia Artificial en todos los países de habla hispanohablante y dar apoyo a empresas y profesionales para la integración o el uso de la IA. Es una asociación sin ánimo de lucro que busca democratizar la IA en castellano mediante
+Spain AI nace en 2017 con el objetivo de democratizar la Inteligencia Artificial en todos los países de habla hispanohablante y dar apoyo a empresas y profesionales para la integración o el uso de la IA. Es una asociación sin ánimo de lucro que busca democratizar la IA en castellano mediante:
 - La divulgación y formación continua de casos de uso, estado del arte de la IA y sus herramientas.
 - La realización de proyectos transversales que permitan aportar valor a la sociedad mediante el uso de la IA.
 Entre otras iniciativas

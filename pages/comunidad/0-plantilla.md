@@ -40,7 +40,6 @@ community:
 - Mario Rodríguez Omdena MX
 - Somos Mujeres NLP
 - Saturdays AI: Miguel Guerrero
-- Spain AI: Néstor Álvaro y Alba Pérez
 - Elena Glez Blanco
 - Salva Ros
 -->

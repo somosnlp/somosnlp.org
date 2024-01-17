@@ -24,3 +24,5 @@ community: Colaboración
 ## Biografía
 
 Paul es profesor en diversas instituciones como CUNEF, EOI e ISDI, CTO de Big Onion Tech y co-fundador de Spain AI.
+
+*Última actualización: 1 de abril de 2023*
