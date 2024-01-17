@@ -27,6 +27,8 @@ community:
 - Patrocinio
 - Ponente
 
+
+<!--
 ## TODO
 
 - Jurado hackathon 22 y 23
@@ -37,5 +39,10 @@ community:
 - Laura N Montoya y Javier Turek
 - Mario Rodríguez Omdena MX
 - Somos Mujeres NLP
-- Saturdays AI
-- Spain AI
+- Saturdays AI: Miguel Guerrero
+- Elena Glez Blanco
+- Salva Ros
+- BSC: Martin, Salva y Luis
+- Moisés
+- Diego Caballero
+-->

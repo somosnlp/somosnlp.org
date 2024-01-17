@@ -53,5 +53,6 @@ Lewis es Ingeniero de Machine Learning en el equipo de open-source de Hugging Fa
 ## Organizado en colaboración con Spain AI
 
 Spain AI es una red nacional y asociación sin ánimo de lucro, con la finalidad de crear una comunidad colaborativa dentro del ámbito de la Inteligencia Artificial en España.
+Gracias especialmente a Néstor Álvaro (Fundador) y Alba Pérez (Global Head of Community).
 
 Ya presentes en 26 ciudades y creciendo. ¡Visita [spain-ai.com](https://www.spain-ai.com/) y sigue a [@Spain_AI](https://twitter.com/spain_ai_)!
