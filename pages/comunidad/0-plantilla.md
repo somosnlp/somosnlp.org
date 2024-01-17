@@ -42,4 +42,7 @@ community:
 - Saturdays AI: Miguel Guerrero
 - Elena Glez Blanco
 - Salva Ros
+- BSC: Martin, Salva y Luis
+- Moisés
+- Diego Caballero
 -->
