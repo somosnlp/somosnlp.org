@@ -12,7 +12,7 @@ Somos un grupo de investigación de la UNAM especializado en el Procesamiento de
 
 ## Colaboración
 
-- Patrocinador de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Patrocinador de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 <div class="flex justify-center">
     <img alt="GIL_UNAM" width="250" height="140" 

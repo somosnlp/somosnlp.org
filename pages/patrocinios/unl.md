@@ -12,8 +12,8 @@ Es misión de la Universidad Nacional de Loja: la formación académica y profes
 
 ## Colaboración
 
-- Universidad patrocinadora de bronce del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
-- Universidad patrocinadora de plata del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Universidad patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Universidad patrocinadora de comunidad del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 <div class="flex justify-center">
     <img alt="UNL" width="250" height="140" 
