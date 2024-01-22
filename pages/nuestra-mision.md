@@ -2,7 +2,7 @@
 title: ¡Únete!
 description: Vamos a avanzar el estado del arte del NLP en español
 lang: es
-cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_gifts_re_97j6.svg"
+cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
 ---
 
 Somos una comunidad internacional en la que todo el mundo es bienvenido independientemente de sus conocimientos previos sobre PLN. Si te interesa este apasionante campo, únete y ayúdanos en nuestra misión de democratizar el PLN en español. ¿Cómo?

@@ -4,7 +4,7 @@ description: Ayúdanos a democratizar el PLN en español
 date: 2021-07-03T16:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.svg"
+cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_remote_design_team_0hp4.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com
@@ -14,7 +14,7 @@ github: https://github.com/mariagrandury
 ---
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/undraw_remote_design_team_0hp4.svg" />
+    <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_remote_design_team_0hp4.svg" />
 </div>
 
 Nuestra misión es crear y compartir recursos que posibiliten y aceleren el avance del PLN en español. Es un objetivo muy amplio que se puede traducir en:

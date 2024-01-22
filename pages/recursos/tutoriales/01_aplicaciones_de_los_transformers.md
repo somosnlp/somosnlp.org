@@ -1,7 +1,7 @@
 ---
 title: Tareas de NLP
 description: Un recorrido por las aplicaciones de los Transformers
-cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
+cover: https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg
 author: Omar Sanseviero y Lewis Tunstall
 bio: Ingenieros de Machine Learning @HuggingFace
 ---

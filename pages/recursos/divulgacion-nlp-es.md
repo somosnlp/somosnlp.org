@@ -2,7 +2,7 @@
 title: Divulgación de PLN en español
 description: Iniciativas que contribuyen a avanzar el estado del arte del PLN en español
 lang: es
-cover: https://github.com/somosnlp/assets/raw/main/images/undraw_Traveling_re_weve.svg
+cover: https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_Traveling_re_weve.svg
 ---
 
 *Lista tomada de un artículo del blog escrito por María Grandury (ver [post](https://somosnlp.org/blog/divulgacion-nlp-es)).*

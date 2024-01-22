@@ -1,7 +1,7 @@
 ---
 title: Calendario de eventos de PLN
 description: Charlas y talleres sobre PLN impartidas por Somos NLP y organizaciones colaboradoras
-cover: "https://somosnlp.github.io/assets/images/undraw_calendar.png"
+cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_calendar.png"
 ---
 
 <div style="display: flex; justify-content: center;">

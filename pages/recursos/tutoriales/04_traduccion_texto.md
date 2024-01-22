@@ -1,7 +1,7 @@
 ---
 title: Traducción de Texto
 description: Cómo afinar un modelo de T5 en español para traduccir frases del español al portugués
-cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
+cover: https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg
 author: Oscar Cumbicus
 bio: Profesor @UNL e Investigador @IxaGroup
 twitter: https://twitter.com/OscarCumbicus
