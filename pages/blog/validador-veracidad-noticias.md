@@ -22,7 +22,7 @@ El objetivo principal de los [Capítulos Locales de Omdena](https://omdena.com/l
 Como ejemplo, se puede navegar a través de algunos de nuestros más de 350 proyectos completados a través de: https://omdena.com/projects/ o https://omdena.com/local-chapters/
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/logo_omdena_mexico_portada.png" alt="Omdena México" width="500" height="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/logo_omdena_mexico_portada.png" alt="Omdena México" width="560" height="315"/>
 </div>
 
 
@@ -47,7 +47,7 @@ El equipo que está trabajando en este interesante proyecto está formado por
 No te pierdas el evento, [¡regístrate ya!](https://somosnlp_omdenamx_news_veracity_validator.eventbrite.com/)
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/eventos/221129_news_veracity_validator_en.png" alt="Cartel Evento News Veracity Validator" width="500" height="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/eventos/221129_news_veracity_validator_en.png" alt="Cartel Evento News Veracity Validator" width="560" height="315"/>
 </div>
 
 *Nota: Excepcionalmente, este taller se impartirá en inglés.*

@@ -48,7 +48,7 @@ community: Asociación
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" height="289.71" />
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
     </a>
 </div>
 

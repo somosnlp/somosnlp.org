@@ -16,11 +16,11 @@ github: https://github.com/mariagrandury
 Ha finalizado la segunda edición del [hackathon de Somos NLP](https://somosnlp.org/hackathon), ¡vaya experiencia!
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" alt="Cartel Hackathon 2023" width="500" height="289.71"/>
+    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" alt="Cartel Hackathon 2023" width="560" height="315"/>
 </div>
 
 Es todo un placer haber organizado un evento que haya conseguido reunir una vez más a más de 500 participantes de 30 países.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes 2023" width="500" height="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes 2023" width="560" height="315"/>
 </div>

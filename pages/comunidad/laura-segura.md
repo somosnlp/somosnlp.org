@@ -23,7 +23,7 @@ community: Escritora
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/womentech-global-conference-2023" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/WTGC_banner.jpg" alt="WTGC 2023" width="500" height="289.71" />
+        <img src="https://somosnlp.github.io/assets/images/blog/WTGC_banner.jpg" alt="WTGC 2023" width="560" height="315" />
     </a>
 </div>
 

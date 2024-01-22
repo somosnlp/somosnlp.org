@@ -18,6 +18,6 @@ Su objetivo es desarrollar soluciones de IA que sean inherentemente 'nacidas y c
 
 <div class="flex justify-center">
     <a href="https://www.ie.edu/es/universidad/noticias-eventos/noticias/neural-nomads-ganador-hackaton-ia-espanol-ie-university-clibrain/" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/hackathon_ie_clibrain.jpeg" alt="Hackathon IE Clibrain" width="500" height="289.71" />
+        <img src="https://somosnlp.github.io/assets/images/blog/hackathon_ie_clibrain.jpeg" alt="Hackathon IE Clibrain" width="560" height="315" />
     </a>
 </div>
