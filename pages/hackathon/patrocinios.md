@@ -15,35 +15,39 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
 ## Beneficios por tipo de patrocinio
 
-| | Platino | Oro | Plata | Expert | Comunidad |
-|-| --------|-----|-------|--------|-----------|
-| | Más de 600€ | Hasta 600€ | Hasta 200€ | Ponencias /Mentorías | Visibilidad |
-| Logo en la página web del hackathon y la de registro (tamaño) | ✅ XL | ✅ L | ✅ L | ✅ L | ✅ M |
-| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 4º | ✅ 5º |
-| Agradecimiento en redes sociales | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 5 | ✅ 5 | 
-| Anuncio individual del patrocinio en Twitter presentando vuestra misión y proyectos actuales | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Anuncio individual del patrocinio en LinkedIn presentando vuestra misión y proyectos actuales | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Mención en un artículo de blog describiendo los patrocinios | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Mención en directo en la ponencia / mentoría correspondiente | ✅  | ❌ | ❌ | ✅ | ❌ |
-| Mención en posts anunciando la ponencia / mentoría | ✅  | ❌ | ❌ | ✅ | ❌ |
-| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Charla promocional (30') * | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Acceso a los CVs de participantes en búsqueda de empleo ?? | ✅ | ✅ | ✅ | ❌ | ❌ |
+| | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
+|-| --------|-----|-------|--------|--------|-----------|
+| | 1000€ | 600€ | 200€ | Corpus de evaluación | Ponencias /Mentorías | Visibilidad |
+| Logo en la página web del hackathon y la de registro | ✅ XL | ✅ L | ✅ L | ✅ XL | ✅ L | ✅ M |
+| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
+| Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
+| Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
+| Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Logo y link en la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención en un artículo de blog describiendo la creación de la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
-*En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad.
+<!--
+| Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 
+| Acceso a los CVs de participantes en búsqueda de empleo ?? | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | 
+-->
+
+*En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad. El tema debe ser acordado previamente.
+        
 ## Tipos de patrocinios 
 
 ¿Cómo te gustaría apoyarnos en nuestra misión de democratizar el PLN en español?
 
 <details>
-<summary>🚀 Patrocinios Platino, Oro y Plata</summary>
+<summary>🚀 Patrocinios Oro, Plata y Bronce</summary>
 
-Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Platino, Oro y Plata podemos garantizar:
+Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
 - Premios para los equipos ganadores
 - Sorteos para todas las personas participantes
 - Corpus y GPUs 
@@ -56,6 +60,15 @@ Para determinar el tipo de patrocinio se calculará el valor total combinando do
 Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN, merchandising específicamente creado para el hackathon, tiempo de computación, etc.
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+
+</details>
+
+<details>
+<summary>📚 Patrocinios Corpus</summary>
+
+Vamos a crear una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
+
+<center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Lee toda la info aquí</a></center>
 
 </details>
 
