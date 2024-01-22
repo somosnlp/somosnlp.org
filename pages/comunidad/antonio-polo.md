@@ -12,7 +12,7 @@ community: Patrocinio
 ## Colaboración
 
 - Colaboración en la definición de las bases del [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
-- IBiDat fue patrocinador de plata del [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
+- IBiDat fue patrocinador de comunidad del [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">
