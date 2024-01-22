@@ -16,6 +16,7 @@ Después de dos ediciones en las que contamos en total con más de 1000 particip
 - [🎨 Diseña el cartel](https://somosnlp.org/hackathon/cartel)
 - [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
 - [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
+- [📚 Dona un corpus de evaluación](https://somosnlp.org/donatucorpus)
 - [🙌 Patrocínanos](https://forms.gle/sEkxstwbJSRYpgDa8)
 - [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
