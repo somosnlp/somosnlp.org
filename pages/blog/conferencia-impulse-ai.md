@@ -21,7 +21,7 @@ Como community sponsors del evento, ¡tenemos una oferta increíble para ti!
 ✨ [Código de descuento exclusivo: SomosNLP50](https://bit.ly/somosNLP)
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/240116_impulse_ai.png" alt="Cartel Impulse AI 2024" width="500" height="289.71"/>
+    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/240116_impulse_ai.png" alt="Cartel Impulse AI 2024" width="560" height="315"/>
 </div>
 
 Habrá más de 30 sesiones organizadas en 4 pistas:

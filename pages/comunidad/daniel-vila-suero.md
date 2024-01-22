@@ -39,7 +39,7 @@ community: Activo
 
 <div class="flex justify-center">
     <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="500" height="289.71" />
+        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="560" height="315" />
     </a>
 </div>
 

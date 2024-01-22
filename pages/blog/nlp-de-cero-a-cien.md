@@ -20,7 +20,7 @@ Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP 
 ➡️ Puedes encontrar tanto las grabaciones de los talleres como las diapositivas y los notebooks [aquí](https://somosnlp.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="500" height="289.71" />
+    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
 </div>
 
 

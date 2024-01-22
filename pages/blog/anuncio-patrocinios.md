@@ -109,7 +109,7 @@ para las personas que durante el transcurso del hackathon demuestren ser más pr
 Además, la persona que consiga una mayor puntuación en el proceso de selección de Nova tendrá la oportunidad de participar en un **curso de Personal Branding**, impartido por el Co-Fundador y CEO de Nova Ramón Rodrigáñez, durante el que desarrollará conocimientos clave para encontrar nuevas oportunidades profesionales, triunfar dentro de tu empresa y causar buena impresión al buscar inversores.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/Nova.png" alt="Nova" width="500" height="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/patrocinios/Nova.png" alt="Nova" width="560" height="315"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ Además, la persona que consiga una mayor puntuación en el proceso de selecció
 🎟️ Todas las personas que entreguen un proyecto completo al hackathon tendrán un **20% de descuento** en los tickets de la WomenTech Network Global Conference 2023 #WTGC2023. Además, al participar en el hackathon tendrás la oportunidad de participar en el **sorteo de 3 tickets** (cada uno por un valor de 137,95€).
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/WTGC.png" alt="WomenTech Global Conference banner" width="500" height="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/blog/WTGC.png" alt="WomenTech Global Conference banner" width="560" height="315"/>
 </div>
 
 ---

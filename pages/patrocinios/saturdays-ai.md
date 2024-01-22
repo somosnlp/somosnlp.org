@@ -10,8 +10,8 @@ type: 2. Plata
 
 ## Colaboración
 
-- Empresa patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
-- Empresa patrocinadora de comunidad del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Asociación patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Asociación patrocinadora de comunidad del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 ## Menciones en nuestro blog
 

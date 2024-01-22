@@ -22,7 +22,7 @@ Hemos crecido hasta ser una increíble comunidad internacional de casi 900 miemb
 En 2022 organizamos el **mayor hackathon open-source de NLP en español**. Nos juntamos más de 500 personas de 29 países para crear bases de datos y entrenar modelos de PLN enfocados a los Objetivos de Desarrollo Sostenible. Los resultados fueron espectaculares.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes" width="500" height="289.71"/>
+    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes" width="560" height="315"/>
 </div>
 
 Algunos de los proyectos han dado lugar a papers, como es el caso de "BiomedIA" y el "Evaluador de Legibilidad de Textos", y otros se siguen utilizando a día de hoy, como es el caso del "Modelo Jurídico Mexicano" en la Suprema Corte de Justicia de la Nación. También se crearon bases de datos de calidad como el corpus paralelo español-náhuatl o modelos de gran impacto social como el "Neutralizador de Género" y el "Detector de Sexismo".
@@ -31,7 +31,7 @@ Además, durante los días que se celebró el hackathon tuvimos la suerte de con
 
 <div class="flex justify-center">
     <a href="https://www.youtube.com/@somosnlp" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="500" height="289.71"  />
+        <img src="https://somosnlp.github.io/assets/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="560" height="315"  />
     </a>
 </div>
 
@@ -39,7 +39,7 @@ A finales del 2022 lanzamos un nuevo tipo de eventos: **"Proyectos de la comunid
 
 <div class="flex justify-center">
     <a href="https://www.eventbrite.com/o/somos-nlp-42049489323#collections" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/eventos/2212XX_proyectos_ganadores_hackathon_lista.jpg" alt="Proyectos de la comunidad" width="500" height="289.71"  />
+        <img src="https://somosnlp.github.io/assets/images/eventos/2212XX_proyectos_ganadores_hackathon_lista.jpg" alt="Proyectos de la comunidad" width="560" height="315"  />
     </a>
 </div>
 
@@ -47,7 +47,7 @@ En el 2021 ya habíamos creado, con el apoyo de Spain AI, el curso **"NLP de 0 a
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="NLP de 0 a 100" width="500" height="289.71" />
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="NLP de 0 a 100" width="560" height="315" />
     </a>
 </div>
 

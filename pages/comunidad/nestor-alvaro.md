@@ -14,6 +14,12 @@ community: Patrocinio
 - Spain AI fue asociación patrocinadora de comunidad del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 - Co-organización del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)
 
+<div class="flex justify-center">
+    <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
+    </a>
+</div>
+
 ## Biografía
 
 Néstor es fundador de Spain AI, investigador de PLN en la Universidad de Tokyo y Head of Advanced Analytics en santalucía seguros.
