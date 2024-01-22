@@ -1,10 +1,10 @@
 ---
 title: Visibilidad para los proyectos de la comunidad
-description: Cómo Somos NLP os puede ayudar a darle mayor visibilidad a vuestros proyectos
+description: Cómo Somos NLP puede darle mayor visibilidad a vuestros proyectos
 date: 2024-01-13T16:00:00.000+00:00
 lang: es
 duration: 2min
-cover: "https://somosnlp.github.io/assets/images/undraw_Traveling_re_weve.svg"
+cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com
@@ -23,8 +23,9 @@ Pasos:
 1. [Únete a la organización](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
 2. Sube tu dataset, modelo y/o demo en modo privado
 3. Completa la dataset o model card
-4. Escriba los nombres de la persona o equipo que lo ha desarrollado y facilita un correo de contacto 
+4. Escribe los nombres de la persona o equipo que lo ha desarrollado y facilita un correo de contacto 
 5. Cambia la visibilidad a pública y comparte el enlace en Discord y RRSS
+6. Avísanos para que también lo compartamos y lo añadamos a las colecciones correspondientes
 
 IMPORTANTE: La visibilidad de los proyectos sin documentación será cambiada a modo privado.
 

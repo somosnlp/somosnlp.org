@@ -1,7 +1,7 @@
 ---
 title: Bases de Datos
 description: Lista de bases de datos open-source en español. 
-cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
+cover: https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg
 tablePage: in
 ---
 

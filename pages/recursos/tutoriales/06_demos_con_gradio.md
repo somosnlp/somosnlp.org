@@ -1,7 +1,7 @@
 ---
 title: Demos con Gradio y Hugging Face
 description: Creación y hosting de demos con Gradio y Hugging Face
-cover: https://somosnlp.github.io/assets/images/undraw_education_edited.svg
+cover: https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg
 author: Abubakar Abid
 bio: Gradio Founder @HuggingFace
 website: https://abidlabs.github.io/

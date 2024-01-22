@@ -4,7 +4,7 @@ description: De dónde venimos y a dónde vamos
 date: 2023-01-03T16:00:00.000+00:00
 lang: es
 duration: 4min
-cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_gifts_re_97j6.svg"
+cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com

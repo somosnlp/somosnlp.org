@@ -27,8 +27,8 @@ const routes_notebooks = filterRoutes(['/recursos/tutoriales']);
 
     <hr class="mx-auto mt-8 mb-12 prose" />
     <div class="my-8 flex justify-center">
-        <img src="https://somosnlp.github.io/assets/images/undraw_education_edited.svg" alt="Recursos" width="200"
-            height="230" />
+        <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg" alt="Recursos"
+            width="200" height="230" />
     </div>
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
         <BlogItem v-for="route in routes_open_source" :key="route.path" :route="route" />
@@ -59,8 +59,8 @@ const routes_notebooks = filterRoutes(['/recursos/tutoriales']);
     </div>
 
     <div class="my-12 flex justify-center">
-        <img src="https://somosnlp.github.io/assets/images/undraw_video_upload_3d4u.svg" alt="Tutoriales" width="300"
-            height="365" />
+        <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_video_upload_3d4u.svg" alt="Tutoriales"
+            width="300" height="365" />
     </div>
 
     <hr class="mx-auto mt-8 mb-12 prose" />

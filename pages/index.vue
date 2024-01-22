@@ -108,7 +108,8 @@ const showPastEvents = ref(true);
           </p>
         </a>
       </div>
-      <img src="https://somosnlp.github.io/assets/images/undraw_Traveling_re_weve.svg" alt="Comunidad internacional" />
+      <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg"
+        alt="Comunidad internacional" />
     </div>
   </Container>
   <Container v-if="showPastEvents" class="bg-gray-50 dark:bg-dark-700">
@@ -153,7 +154,7 @@ const showPastEvents = ref(true);
       <h2 class="font-medium text-center mb-6 tracking-wider text-4xl">{{ t('landing-page.contribute.heading') }}</h2>
       <p class="mx-auto text-lg text-center max-w-65ch opacity-75">{{ t('landing-page.contribute.text') }}</p>
       <div class="grid gap-16 place-items-center lg:grid-cols-2 my-8">
-        <img class="p-8" src="https://somosnlp.github.io/assets/images/undraw_content_team_3epn.svg"
+        <img class="p-8" src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_content_team_3epn.svg"
           alt="Proyectos open-source" />
         <div class="grid gap-6 justify-center md:grid-cols-2">
           <a href="https://discord.com/invite/my8w7JUxZR" target="_blank"

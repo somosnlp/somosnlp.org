@@ -4,7 +4,7 @@ description: Iniciativas que contribuyen a avanzar el estado del arte del PLN en
 date: 2022-10-30T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://github.com/somosnlp/assets/raw/main/images/undraw_Graduation_re_gthn.svg"
+cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_Graduation_re_gthn.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de Somos NLP
 website: https://mariagrandury.com
