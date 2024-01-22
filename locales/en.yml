@@ -17,6 +17,16 @@ landing-page:
     twitter: Follow us on Twitter
   events:
     all-events: See all the events
+    event-description: >-
+      Vuelve el #HackathonSomosNLP, una competición internacional online cuyo
+      objetivo principal es desarrollar proyectos open-source de PLN en español
+      y lenguas cooficiales. En las ediciones pasadas, contamos con un total de
+      1000 participantes de más de 30 países y nos enfocamos en proyectos
+      relacionados con los Objetivos de Desarrollo Sostenibles de la ONU,
+      demostrando el potencial del PLN para abordar desafíos sociales. En la
+      próxima edición de marzo de 2024, el hackathon se centrará en generar
+      bases de datos diversas y de calidad para el entrenamiento de LLMs que se
+      expresen con propiedad en español.
     join-event: Join the event!
     more-events: Recorded events
     recorded-events: Recorded events
@@ -35,13 +45,13 @@ landing-page:
     coming-soon: Coming soon
     community: >-
       Building the largest international network of Spanish-speaking NLP
-      students, professionals and researchers. We are already 1000!
+      students, professionals and researchers. We are already 1500!
     education: >-
       Creating tutorials, organize talks & workshops and discuss the state of
       the art of NLP in Spanish.
     heading: Almost 600M Spanish speakers
     jobs: Providing a marketplace for NLP jobs in Spanish.
-    new-job-board: New Job Board
+    new-job-board: Job Board
     text: >-
       NLP research is focused on English and neglects the particular
       difficulties of other languages. Let's give our widespread (and beautiful)

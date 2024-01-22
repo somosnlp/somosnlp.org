@@ -51,6 +51,7 @@ const showPastEvents = ref(true);
       </h1>
       <img class="mx-auto my-8" alt="Próximos eventos"
         src="https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png" />
+      <p class="my-8">{{ t('landing-page.events.event-description') }}</p>
       <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/hackathon">
         {{ t('landing-page.events.join-event') }}
       </a>
@@ -95,7 +96,7 @@ const showPastEvents = ref(true);
             {{ t('landing-page.why.jobs') }}
             <a href="empleo" target="_blank">
               <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
-                border="2 accent-300">{{ t('landing-page.why.new-job-board') }}</span>
+                border="2 accent-300">{{ t('landing-page.why.job-board') }}</span>
             </a>
           </div>
         </div>

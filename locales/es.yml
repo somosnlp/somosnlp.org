@@ -17,37 +17,58 @@ landing-page:
     twitter: Síguenos en Twitter
   events:
     all-events: Ver todos los eventos
-    join-event: ¡Me apunto!
+    event-description: >-
+      Vuelve el #HackathonSomosNLP, una competición
+      internacional online cuyo objetivo principal es desarrollar proyectos open-source de PLN en español y lenguas cooficiales.
+      En las ediciones pasadas, contamos con
+      un total de 1000 participantes de más de 30 países y nos enfocamos en
+      proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la
+      ONU, demostrando el potencial del PLN para abordar desafíos sociales. En
+      la próxima edición de marzo de 2024, el hackathon se centrará en generar
+      bases de datos diversas y de calidad para el entrenamiento de LLMs que se
+      expresen con propiedad en español.
+    join-event: ¡Quiero saber más!
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
     upcoming-events: Próximo evento
     watch-recordings: Ver todas las grabaciones
   heading: Somos NLP
   heading-2: >-
-    Somos una red internacional de personas que estudian, trabajan e investigan
-    en el campo del PLN. Nuestro objetivo es democratizar y avanzar el estado
-    del arte del PLN en español mediante la creación de recursos abiertos en
-    nuestro idioma.
+    Somos una comunidad internacional de hispanohablantes que estudian, trabajan
+    e investigan en el campo del PLN. Nuestro objetivo es democratizar y avanzar
+    el estado del arte del PLN en español mediante la creación de recursos
+    abiertos en nuestro idioma.
   introducing: Presentamos
   join-us: Únete a Discord
   learn-with-us: Aprende en comunidad
   read-the-announcement: Contribuye a nuestra misión
   why:
+    collabs: >-
+      Colaboramos con instituciones y entidades para desarrollar proyectos
+      abiertos de PLN que generen impacto social.
     coming-soon: Próximamente
     community: >-
-      Creando la mayor red internacional de hispanohablantes que estudian,
-      trabajan e investigan en el ámbito del PLN. ¡Ya somos 1000!
+      Hemos creado la mayor red internacional de hispanohablantes que estudian,
+      trabajan e investigan en el ámbito del PLN. ¡Ya somos 1500!
     education: >-
-      Creando tutoriales, organizando charlas y cursos prácticos, y debatiendo
-      el estado del arte del PLN en español.
+      Organizamos gran variedad de actividades educativas: contamos con 40
+      talleres prácticos y charlas de especialistas con 20k visualizaciones y
+      hemos diseñado un curso práctico de 0 a 100 con 35k visualizaciones. 
     heading: Casi 600M de hispanohablantes
-    jobs: Conectando talento con empresas y grupos de investigación.
-    new-job-board: Nueva Bolsa de Empleo
+    job-board: Bolsa de Empleo
+    jobs: >-
+      Conectamos talento con empresas y grupos de investigación gracias a
+      nuestra
+    resources: >-
+      Impulsamos la creación de bases de datos y modelos open-source en español,
+      proporcionando herramientas para la investigación y el desarrollo, y
+      recopilando los recursos existentes para mejorar su visibilidad.
     text: >-
-      ¡Somos el 7.5% de la población mundial! La investigación en PLN está centrada en el inglés y descuida las
-      dificultades particulares de los otros idiomas. Vamos a darle a nuestro
-      idioma tan extendido (y bonito) una representación justa en el ámbito del
-      PLN. Nuestra misión es impulsar el desarrollo del PLN en español, ¿cómo?
+      ¡Somos el 7.5% de la población mundial! La investigación en PLN está
+      centrada en el inglés y descuida las dificultades particulares de los
+      otros idiomas. Vamos a darle a nuestro idioma tan extendido y colorido una
+      representación justa en el ámbito del PLN. Nuestra misión es impulsar el
+      desarrollo del PLN en español, ¿cómo?
 navbar:
   about: Acerca de
   blog: Blog
