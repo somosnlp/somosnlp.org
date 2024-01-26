@@ -17,7 +17,7 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
 | | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
 |-| --------|-----|-------|--------|--------|-----------|
-| | 1000€ | 600€ | 200€ | Corpus de evaluación | Ponencias /Mentorías | Visibilidad |
+| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Ponencias /Mentorías | Visibilidad |
 | Logo en la página web del hackathon y la de registro | ✅ XL | ✅ L | ✅ L | ✅ XL | ✅ L | ✅ M |
 | Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
 | Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -28,8 +28,8 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 | Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
 | Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
 | Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| Logo y link en la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en un artículo de blog describiendo la creación de la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Logo y link en la página del corpus / la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención en un artículo de blog describiendo la creación del corpus/ leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
 | Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
 <!--
@@ -66,7 +66,7 @@ Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago
 <details>
 <summary>📚 Patrocinios Corpus</summary>
 
-Vamos a crear una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
+Vamos a crear un corpus de instrucciones que represente a todas las personas hispanohablantes y una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
 
 <center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Lee toda la info aquí</a></center>
 
