@@ -23,7 +23,7 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 4. De momento esto es todo, para que todos los equipos comiencen el hackathon con las mismas oportunidades publicaremos los detalles de la competición en febrero.
 
 
-## 🙌 Mientras tanto... apoya la organización del evento
+## 🙌 Meanwhile... support the organization of the event
 
 ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, ¡[únete al equipo](https://forms.gle/radg18NMLRZMPu38A)!
 
