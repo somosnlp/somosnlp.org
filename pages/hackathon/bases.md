@@ -1,7 +1,7 @@
 ---
-title: Bases del Hackathon Somos NLP 2024
-description: Todo lo que necesitas saber para presentar un buen proyecto al hackathon
-lang: es
+title: Bases of Somos NLP Hackathon 2024
+description: All you need to know to present a good project at the hackathon
+lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
@@ -13,7 +13,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.p
 </div>
 
 
-## ✅ Pasos para participar
+## ✅ Steps to participate
 
 Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
 
