@@ -10,13 +10,13 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 ## 🎨 Cómo participar
 
 1. Diseña un cartel (o varios)
-2. [Mándanoslo](https://forms.gle/iJrKZtBXvnAk5Ji38) antes del 28 de enero
-3. Publicaremos los carteles para que la comunidad vote
+2. [Mándanoslo](https://forms.gle/iJrKZtBXvnAk5Ji38) antes del 30 de enero
+3. Agradeceremos públicamente todas las propuestas (si quieres, claro)
 4. ¡Si ganas, tu cartel será la imagen del hackathon 2024!
 
 ## ✅ Qué tiene que incluir el cartel
 
-- Dimensiones: 
+- Dimensiones: 1280 × 720 como mínimo con relación de aspecto de 16:9
 - Título: #Somos600M
 - Edición: Tercera
 - Fecha: 1 al 24 de marzo de 2024
