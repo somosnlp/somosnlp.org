@@ -15,18 +15,18 @@ cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.p
 
 ## ✅ Steps to participate
 
-Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
+Participating in our hackathon and applying your knowledge to democratize PLN in Spanish is very simple, go ahead!
 
-1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR) (¡y preséntate!)
-2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [Somos NLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
-3. Regístrate en [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
-4. De momento esto es todo, para que todos los equipos comiencen el hackathon con las mismas oportunidades publicaremos los detalles de la competición en febrero.
+1. Join our community of [Discord](https://discord.com/invite/my8w7JUxZR) (an introduce yourself!)
+2. Create an account at [Hugging Face](https://huggingface.co/join) and join the organization of [Somos NLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
+3. Register at [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
+4. At the moment this is all, we will publish the details of the competition in February.
 
 
 ## 🙌 Meanwhile... support the organization of the event
 
-¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, ¡[únete al equipo](https://forms.gle/radg18NMLRZMPu38A)!
+Do you have two hours to help us with the organization of this amazing event? We are waiting for you, [join the team](https://forms.gle/radg18NMLRZMPu38A)!
 
-Si te gustaría que tu universidad participase en el hackathon, lee cómo [aquí](https://somosnlp.org/hackathon/universidades).
+If you would like your university to participate in the hackathon, read how [here](https://somosnlp.org/hackathon/universidades).
 
-Toda la ayuda es bienvenida, [contáctanos para patrocinar el Hackathon Somos NLP 2024](https://forms.gle/sEkxstwbJSRYpgDa8).
+All the help is welcome, [contact us to sponsor the Somos NLP Hackathon 2024](https://forms.gle/sEkxstwbJSRYpgDa8).
