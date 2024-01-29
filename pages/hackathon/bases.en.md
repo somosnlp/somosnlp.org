@@ -20,7 +20,7 @@ Participating in our hackathon and applying your knowledge to democratize PLN in
 1. Join our community of [Discord](https://discord.com/invite/my8w7JUxZR) (and introduce yourself!)
 2. Create an account at [Hugging Face](https://huggingface.co/join) and join the organization of [Somos NLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
 3. Register at [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
-4. At the moment this is all, we will publish the details of the competition in February.
+4. By the moment this is all, we will publish the details of the competition in February.
 
 
 ## 🙌 Meanwhile... support the organization of the event
