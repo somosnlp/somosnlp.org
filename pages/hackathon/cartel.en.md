@@ -1,7 +1,7 @@
 ---
 title: "Somos NLP Hackathon 2024: Design the Poster"
 description: Design the Poster for the Somos NLP Hackathon 2024!
-lang: eng
+lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
