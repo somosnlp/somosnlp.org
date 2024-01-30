@@ -1,5 +1,5 @@
 ---
-title: Bases of Somos NLP Hackathon 2024
+title: Guidelines of Somos NLP Hackathon 2024
 description: All you need to know to present a good project at the hackathon
 lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
