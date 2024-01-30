@@ -32,7 +32,7 @@ To promote different skills in our community, this year we want to give you the 
 
 ## 🤔 Inspiration
 
-- For example, in the edition of [2023](https://somosnlp.org/hackathon-2023) we use Midjourney for the creation of the "person-book"
+- For example, in the edition of [2023](https://somosnlp.org/hackathon-2023) we used Midjourney for the creation of the "person-book"
 - It may help you to think that, once the hackathon poster has been selected, we will have to design posters for the talks
 
 We look forward to your posters! 🤩
