@@ -20,7 +20,7 @@ To promote different skills in our community, this year we want to give you the 
 - Title: #Somos600M
 - Edition: Third
 - Date: March 1 to 24, 2024
-- Website: Somosnlp.org/hackathon
+- Website: somosnlp.org/hackathon
 - #HackathonSomosNLP
 - [Somos NLP Logo](https://github.com/somosnlp/assets/blob/main/logo_somos_nlp.png)
 
