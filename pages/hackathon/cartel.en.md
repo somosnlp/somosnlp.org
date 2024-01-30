@@ -37,4 +37,3 @@ To promote different skills in our community, this year we want to give you the 
 
 We look forward to your posters! 🤩
 
-<!-- Idea: Twitter thread with the posters in order of delivery -->
