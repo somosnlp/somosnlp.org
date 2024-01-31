@@ -1,27 +1,27 @@
 ---
-title: "Hackathon Somos NLP 2024: Patrocinios"
-description: ¡Gracias por ayudarnos a democratizar el PLN en español!
+title: "Somos NLP Hackathon 2024: Sponsorships"
+description: Thank you for helping us democratize NLP in Spanish!
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
+Thank you very much for your interest in supporting us in organizing and giving visibility to this wonderful event! In the two previous editions, we had a total of more than 1,000 participants from 30 different countries and we exceeded 10,000 views of our events. This year our challenges are to create a database of quality instructions and the first evaluation ranking of LLMs in Spanish.
 
-Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
+The types of sponsorships are explained below. As soon as we receive the form we will contact you to set the details and we will add your logo to the website.
 
-Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
+We are at your disposal at info@somosnlp.org, we count on your support! 💪
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;"> Fill the form📝 </a></center>
 
-## Beneficios por tipo de patrocinio
+## Benefits by type of sponsorship
 
-| | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
+| | Gold | Silver | Bronze | Corpus | Expert | Community |
 |-| --------|-----|-------|--------|--------|-----------|
-| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Ponencias /Mentorías | Visibilidad |
-| Logo en la página web del hackathon y la de registro | ✅ XL | ✅ L | ✅ L | ✅ XL | ✅ L | ✅ M |
-| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
-| Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
+| | Value 1000€ | Value 600€ | Value 200€ | Corpus | Presentations/Mentoring | Visibility |
+| Logo at the hackathon and register web | ✅ XL | ✅ L | ✅ L | ✅ XL | ✅ L | ✅ M |
+| Logo at the "Community" page (order) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
+| Special thanks at social networks and announcement of collaboration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Tags in posts (minimun) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
 | Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
 | Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
