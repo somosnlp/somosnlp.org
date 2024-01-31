@@ -1,15 +1,15 @@
 ---
-title: "Hackathon Somos NLP 2024: Somos 600M"
-description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y a estandarizar cómo evaluar nuestros LLMs.
-lang: es
+title: "Somos NLP 2024 Hackathon: We are 600M"
+description: We are going to create a corpus that represents the 600M people who speak Spanish and to standardize how to evaluate our LLMs.
+lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido (y bonito) una representación justa en el ámbito del PLN. Nuestra misión en Somos NLP es democratizar y acelerar el avance del PLN en español 🚀 
+We are 600M people speaking Spanish, we are going to give our widespread (and beautiful) language a fair representation in the NLP context. Our mission at Somos NLP is to democratize and accelerate advances of NLP in Spanish 🚀 
 
-Después de dos ediciones en las que contamos en total con más de 1000 participantes de 30 países distintos, superamos las 10.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, finalizamos 50 proyectos y publicamos 3 papers.... ¡Volvemos a por eso y mucho más! 💪
+After two editions with more than 1,000 participants from 30 different countries, we exceeded 10,000 views of our events, we learned from 20 speakers, completed 50 projects, and published 3 papers... We are back for that and much more! 💪
 
-¡Únete a la tercera edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
+Join the third edition of the largest open-source Natural Language Processing hackathon in Spanish!
 
 - [💻 Participa en el hackathon](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 - [🤗 Únete al equipo que lo organiza](https://forms.gle/radg18NMLRZMPu38A)
