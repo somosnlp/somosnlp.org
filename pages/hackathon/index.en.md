@@ -11,16 +11,16 @@ After two editions with more than 1,000 participants from 30 different countries
 
 Join the third edition of the largest open-source Natural Language Processing hackathon in Spanish!
 
-- [💻 Participa en el hackathon](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
-- [🤗 Únete al equipo que lo organiza](https://forms.gle/radg18NMLRZMPu38A)
-- [🎨 Diseña el cartel](https://somosnlp.org/hackathon/cartel)
-- [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
-- [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
-- [📚 Dona un corpus de evaluación](https://somosnlp.org/donatucorpus)
-- [🙌 Patrocínanos](https://forms.gle/sEkxstwbJSRYpgDa8)
-- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
+- [💻 Participate in the hackathon](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
+- [🤗 Join the organizing team](https://forms.gle/radg18NMLRZMPu38A)
+- [🎨 Design the poster](https://somosnlp.org/hackathon/cartel)
+- [🔊 Propose a keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
+- [🧑‍🏫 Offer mentoring](https://forms.gle/7UmsVDnFmNo1pCrf9)
+- [📚 Donate an evaluation corpus](https://somosnlp.org/donatucorpus)
+- [🙌 Sponsor us](https://forms.gle/sEkxstwbJSRYpgDa8)
+- [💡 Info for universities](https://somosnlp.org/hackathon/universidades)
 
-![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png)
+![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png)
 
 La democratización del PLN en español es el objetivo principal de Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de más recursos abiertos de PLN en nuestro idioma.
 
@@ -30,31 +30,31 @@ Dada la increíble revolución de los LLMs, queremos enfocar este hackathon a do
 
 ---
 
-## 🚀 Por qué participar
+## 🚀 Why participate
 
-Al unirte a este evento tendrás la oportunidad de:
+By joining this event you will have the opportunity to:
 
-- Asistir a charlas y talleres impartidas por profesionales del mundo del PLN, independientemente de si participas en el hackathon
-- Comprender cómo funcionan los grandes modelos del lenguaje (LLMs) y sus retos en el mundo real
-- Participar en la creación de un corpus de calidad y diverso que incluya las distintas variedades del español y lenguas cooficiales
-- Participar en la creación del primer leaderboard de evaluación de LLMs en español
-- Resolver todas tus dudas sobre PLN con mentores y mentoras en sesiones "Ask My Anything"
-- Recibir apoyo para presentar tu trabajo en un paper
-- Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
+- Attend talks and workshops given by professionals from the world of PLN, regardless of whether you participate in the hackathon
+- Understand how large language models (LLMs) work and their challenges in the real world
+- Participate in the creation of a quality and diverse corpus that includes the different varieties of Spanish and co-official languages
+- Participate in the creation of the first LLM evaluation leaderboard in Spanish
+- Solve all your doubts about NLP with mentors in "Ask Me Anything" sessions
+- Receive support to present your work in a paper
+- Join the largest community of Spanish speakers who study, work, and research in NLP
 
-<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 ¡Regístrate ya!</a></center>
+<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now!</a></center>
 
-¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento?
+Do you have 2 hours to help us with the organization of this incredible event?
 
-<center><a href="https://forms.gle/radg18NMLRZMPu38A" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 ¡Únete al equipo!</a></center>
+<center><a href="https://forms.gle/radg18NMLRZMPu38A" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Join the team!</a></center>
 
-¿Te gustaría diseñar el cartel de la edición 2024?
+Would you like to design the poster for the 2024 edition?
 
-<center><a href="https://somosnlp.org/hackathon/cartel" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎨 Mándanos tu propuesta</a></center>
+<center><a href="https://somosnlp.org/hackathon/cartel" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎨 Send us your proposal</a></center>
 
 ---
 
-## 📝 Índice
+## 📝 Index
 
 - [Cómo participar](https://somosnlp.org/hackathon/bases)
 - [Keynotes de especialistas](#keynotes-de-especialistas)
