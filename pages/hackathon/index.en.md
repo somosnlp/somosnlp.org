@@ -5,9 +5,9 @@ lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-We are 600M people speaking Spanish, we are going to give our widespread (and beautiful) language a fair representation in the NLP context. Our mission at Somos NLP is to democratize and accelerate advances of NLP in Spanish 🚀 
+We are 600M people speaking Spanish, and we plan to give our widespread (and beautiful) language a fair representation in the NLP context. Our mission at Somos NLP is to democratize and accelerate advances of NLP in Spanish 🚀 
 
-After two editions with more than 1,000 participants from 30 different countries, we exceeded 10,000 views of our events, we learned from 20 speakers, completed 50 projects, and published 3 papers... We are back for that and much more! 💪
+After two editions with more than 1,000 participants from 30 different countries, we exceeded 10,000 views of our events, learned from 20 speakers, completed 50 projects, and published 3 papers... We are back for that and much more! 💪
 
 Join the third edition of the largest open-source Natural Language Processing hackathon in Spanish!
 
@@ -32,7 +32,7 @@ Dada la increíble revolución de los LLMs, queremos enfocar este hackathon a do
 
 ## 🚀 Why participate
 
-By joining this event you will have the opportunity to:
+You will have the opportunity to:
 
 - Attend talks and workshops given by professionals from the world of PLN, regardless of whether you participate in the hackathon
 - Understand how large language models (LLMs) work and their challenges in the real world
@@ -44,7 +44,7 @@ By joining this event you will have the opportunity to:
 
 <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now!</a></center>
 
-Do you have 2 hours to help us with the organization of this incredible event?
+Do you have 2 hours to help organize this incredible event?
 
 <center><a href="https://forms.gle/radg18NMLRZMPu38A" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Join the team!</a></center>
 
@@ -56,60 +56,60 @@ Would you like to design the poster for the 2024 edition?
 
 ## 📝 Index
 
-- [Cómo participar](https://somosnlp.org/hackathon/bases)
-- [Keynotes de especialistas](#keynotes-de-especialistas)
-- [Talleres y AMAs](#talleres-y-amas)
-- [Evaluación y Premios](#evaluacion-y-premios)
-- [Patrocinios](#patrocinios)
+- [How to participate?](https://somosnlp.org/hackathon/bases)
+- [Specialists Keynotes](#specialists-keynotes)
+- [Workshops and AMAs](#workshops-and-amas)
+- [Evaluation and Prices](#evaluation-and-prices)
+- [Sponsorships](#sponsorships)
 
 ---
 
-## 💻 Bases del hackathon
+## 💻 How to participate?
 
-¿Cómo participar en el hackathon? Lee todo [aquí](https://somosnlp.org/hackathon/bases).
-
----
-
-## 💡 Keynotes de especialistas
-
-Durante un par de días del hackathon tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos están abiertos a todas las personas, independientemente de si participan en el hackathon. [¡Están disponibles las grabaciones del 2023!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
-
-Para estar al día de los eventos:
-- Síguenos en [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
-- Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
-- Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-<center><a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una keynote</a></center>
+How do I participate in the hackathon? read all [here](https://somosnlp.org/hackathon/bases).
 
 ---
 
-## 📖 Talleres y AMAs
+## 💡 Specialists Keynotes
 
-Desde el equipo de Somos NLP queremos animarte a participar independientemente de tus conocimientos actuales.
+During a couple of days of the hackathon, various keynotes will take place given by professionals from the world of Natural Language Processing. These events are open to everyone, regardless of whether they participate in the hackathon. [Recordings from 2023 are available!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
 
-- Durante los primeros días del hackathon daremos una serie de **talleres prácticos** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia. Aquí están los de la edición anterior:
+To stay up to date with events:
+- Follows on [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
+- Subscribe to our [YouTube channel](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
+- Join the [Google calendar](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+<center><a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propose a keynote</a></center>
+
+---
+
+## 📖 Workshops and AMAs
+
+From the Somos NLP team, we want to encourage you to participate regardless of your current knowledge.
+
+- During the first days of the hackathon we will give a series of **practical workshops** showing you how to develop a project so that you have a reference example. Here are those from the previous edition:
 
   - [Fine-tuning LLMs (Manu Romero)](https://somosnlp.org/hackathon-2023/fine-tuning-llms)
-  - [Etiquetado de datos con Argilla (Daniel Vila)](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla)
+  - [Data labeling with Argilla (Daniel Vila)](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla)
 
-- Organizaremos **AMAs** (del inglés, Ask Me Anything) con expertas y mentores para que puedan solucionar tus dudas.
+- We will organize **AMAs** (Ask Me Anything) with experts and mentors so they can solve your doubts.
 
 <center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
 
 ---
 
-## 🏆 Evaluación y Premios
+## 🏆 Evaluation and Prices
 
-Para que todos los equipos comiencen el hackathon con las mismas oportunidades, las [bases](https://somosnlp.org/hackathon/bases) del hackathon junto con información detallada sobre la evaluación de los proyectos se publicarán en febrero.
+So that all teams start the hackathon with the same opportunities, the [bases](https://somosnlp.org/hackathon/bases) of the hackathon together with detailed information on the evaluation of the projects will be published in February.
 
-Estamos hablando con todo el mundo para conseguir premios increíbles, ¡os mantendremos al corriente! 
+We're talking to everyone about awesome prizes, we'll keep you posted!
 
 ---
 
-## 👏 Patrocinios
+## 👏 Sponsorships
 
-Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a democratizar el PLN en español!
+Thank you very much for your time and for supporting us so that our initiative goes further. Let's democratize NLP in Spanish!
 
-Toda la ayuda es bienvenida, descubre cómo puedes apoyar al Hackathon Somos NLP 2024. ¡Contamos contigo!
+All help is welcome, find out how you can support the Somos NLP Hackathon 2024. We are counting on you!
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Sponsor the hackathon</a></center>
