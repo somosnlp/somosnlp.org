@@ -22,11 +22,11 @@ Join the third edition of the largest open-source Natural Language Processing ha
 
 ![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png)
 
-La democratización del PLN en español es el objetivo principal de Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de más recursos abiertos de PLN en nuestro idioma.
+The democratization of LNP in Spanish is the main objective of Somos NLP and we believe that one of the best ways to move towards this goal is by promoting the creation of more open NLP resources in our language.
 
-Dada la increíble revolución de los LLMs, queremos enfocar este hackathon a dos objetivos:
-1. Crear un **corpus de calidad que represente las variedades del español de los 600M de personas hispanohablantes.** 💛
-2. Crear una **leaderboard de LLMs en español** que permita estandarizar la evaluación del progreso y comparar los modelos disponibles. 🚀 
+Given the incredible revolution of LLMs, we want to focus this hackathon on two objectives:
+1. Create a **quality corpus that represents the varieties of Spanish of the 600M Spanish-speaking people.** 💛
+2. Create a **leaderboard of LLMs in Spanish** that allows standardizing the evaluation of progress and comparing the available models. 🚀
 
 ---
 
