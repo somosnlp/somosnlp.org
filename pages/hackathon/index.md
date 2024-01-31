@@ -14,7 +14,7 @@ Después de dos ediciones en las que contamos en total con más de 1000 particip
 - [💻 Participa en el hackathon](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 - [🤗 Únete al equipo que lo organiza](https://forms.gle/radg18NMLRZMPu38A)
 - [🎨 Diseña el cartel](https://somosnlp.org/hackathon/cartel)
-- [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
+- [🔊 Propón una ponencia](https://somosnlp.org/hackathon/ponencias)
 - [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
 - [📚 Dona un corpus de evaluación](https://somosnlp.org/donatucorpus)
 - [🙌 Patrocínanos](https://forms.gle/sEkxstwbJSRYpgDa8)
