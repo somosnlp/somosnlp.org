@@ -94,7 +94,7 @@ From the Somos NLP team, we want to encourage you to participate regardless of y
 
 - We will organize **AMAs** (Ask Me Anything) with experts and mentors so they can solve your doubts.
 
-<center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
+<center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Offer mentoring</a></center>
 
 ---
 
