@@ -1,7 +1,7 @@
 ---
 title: "Somos NLP Hackathon 2024: Sponsorships"
 description: Thank you for helping us democratize NLP in Spanish!
-lang: es
+lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
