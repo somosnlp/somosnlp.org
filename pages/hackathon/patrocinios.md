@@ -13,56 +13,23 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
-## Beneficios por tipo de patrocinio
+## Tipos de patrocinio
 
-### Donación
-- **Oro**, donación total valorada en 1000€: logo en primer puesto y con el mayor tamaño, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
-- **Plata**, donación total valorada en 600€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
-- **Bronce**, donación total valorada en 200€: logo mediano en tercer puesto y visibilidad en RRSS.
+### 1. 🚀 Donación
 
-Nota: Las donaciones pueden ser directas o indirectas (e.g., compra y envío de un premio).
-
-### Colaboración
-- **Corpus**, donación de un corpus: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo o taller promocional relacionado con el corpus.
-- **Expert**, impartición de una ponencia (no promocional) o mentoría y visibilidad: logo mediano, promoción del evento y posible artículo promocional.
-- **Comunidad**, visibilidad: logo pequeño y agradecimiento en redes.
-
+Aceptamos donaciones económicas directa o indirectamente (e.g., compra y envío de un premio).
 
 <details closed>
-<summary>Tabla detallada de beneficios</summary>
+<summary>Categorías de donación</summary>
 
-| | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
-|-| --------|-----|-------|--------|--------|-----------|
-| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Evento + Visibilidad | Visibilidad |
-| Logo en la página web del hackathon y la de registro | ✅ L | ✅ M | ✅ M | ✅ L | ✅ M | ✅ S |
-| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
-| Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
-| Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
-| Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| Logo y link en la página del corpus / la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en un artículo de blog describiendo la creación del corpus/ leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
+- **🥇 Oro**, donación total valorada en 1000€: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
+- **🥈 Plata**, donación total valorada en 600€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
+- **🥉 Bronce**, donación total valorada en 200€: logo mediano en tercer puesto y visibilidad en RRSS.
 
-<!--
-| Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-
-| Acceso a los CVs de participantes en búsqueda de empleo ?? | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | 
--->
-
-*En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad. El tema debe ser acordado previamente.
 </details>
-        
-## Qué implica cada tipo de patrocinio
-
-¿Cómo te gustaría apoyarnos en nuestra misión de democratizar el PLN en español?
 
 <details>
-<summary>🚀 Patrocinios Oro, Plata y Bronce</summary>
+<summary>¿Para qué se usará tu patrocinio?</summary>
 
 Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
 - Premios para los equipos ganadores
@@ -80,21 +47,63 @@ Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago
 
 </details>
 
-<details>
-<summary>📚 Patrocinios Corpus</summary>
+
+### 2. 📚 Publicación de bases de datos
 
 Vamos a crear un corpus de instrucciones que represente a todas las personas hispanohablantes y una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
+
+<details closed>
+<summary>Tipos de bases de datos</summary>
+
+- **Corpus**, donación de una base de datos: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo o taller promocional relacionado con el corpus.
+
+</details>
+
+<details>
+<summary>¿Cómo puedo donar mi base de datos?</summary>
 
 <center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Lee toda la info aquí</a></center>
 
 </details>
 
+### 3. 📣 Visibilidad
+
+Los patrocinios de visibilidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
+
+<details closed>
+<summary>Tipos de visibilidad</summary>
+
+- **🤗 Comunidad**, dar visibilidad al hackathon en general: logo pequeño y visibilidad en RRSS.
+- **💡 Expert**, dar visibilidad a la ponencia o mentoría impartida por una persona de tu organización: logo pequeño, promoción relativa al evento y posible artículo promocional.
+
+</details>
+
 <details>
-<summary>💡 Patrocinio Expert</summary>
+<summary>¿Cómo darle visibilidad al hackathon?</summary>
 
-Los patrocinios Expert comparten su conocimiento con la comunidad. Atención: si quieres promocionar tu producto en una charla debes contar con un patrocinio de tipo Oro.
+Para consideraros patrocinio de Comunidad os pedimos:
+- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 15 de febrero
+- Publicar posts animando a participar antes del 1 de marzo
+- Publicar posts anunciando los días de keynotes
+- Publicar posts / blog anunciando los resultados del hackathon
+- RT / comentar las publicaciones en las que os mencionemos
 
-Toda persona que imparta una ponencia o mentoría será promocionada y añadida individualmente a la página de "Comunidad". Para que la entidad de el/la ponente se considere patrocinadora Expert tiene que:
+Aclaraciones:
+- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
+- Se facilitará el material visual necesario para los posts
+- Recordad siempre mencionar a Somos NLP
+
+Enlaces útiles:
+- [Info para universidades](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+
+</details>
+
+<details>
+<summary>¿Cómo darle visibilidad a una ponencia o mentoría?</summary>
+
+Para que la entidad a la que pertenece la persona que imparte la ponencia/mentoría se considere patrocinadora Expert tiene que:
 - Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero
 - Publicar posts anunciando la keynote/mentoría una semana antes del evento
 - Publicar posts anunciando la keynote/mentoría un día antes del evento
@@ -104,6 +113,8 @@ Notas:
 - "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
 - Se facilitará el material visual necesario para los posts
 - Recordad siempre mencionar a Somos NLP
+
+Disclaimer: si quieres promocionar tu producto en una charla debes contar con un patrocinio de tipo Oro.
 
 ¡Contáctanos ya para compartir tu experiencia!
 
@@ -116,35 +127,47 @@ Enlaces útiles:
 
 </details>
 
-<details>
-<summary>🤗 Patrocinio Comunidad</summary>
 
-Los patrocinios de Comunidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
 
-Qué os pedimos:
-- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 1 de febrero
-- Publicar posts animando a participar antes del 1 de marzo
-- Publicar posts anunciando los días de keynotes
-- Publicar posts / blog anunciando los resultados del hackathon
-- RT / comentar las publicaciones en las que os mencionemos
+### Tabla detallada de beneficios
 
-Notas:
-- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a Somos NLP
+<details closed>
+<summary>Tabla detallada de beneficios</summary>
 
-Enlaces útiles:
-- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
+| | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
+|-| --------|-----|-------|--------|--------|-----------|
+| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Evento + Visibilidad | Visibilidad |
+| Logo en la página web del hackathon y la de registro | ✅ L | ✅ M | ✅ M | ✅ L | ✅ S | ✅ S |
+| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
+| Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
+| Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
+| Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ❌  | ❌ |
+| Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Logo y link en la página del corpus / la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención en un artículo de blog describiendo la creación del corpus/ leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<!--
+| Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+
+| Acceso a los CVs de participantes en búsqueda de empleo ?? | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | 
+-->
 
 </details>
 
-#### Notas:
+### Disclaimer
 
-- Estamos a tu disposición en info@somosnlp.org
 - Si no se cumplen los requisitos, se eliminará el logo correspondiente 😢
+- En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad 🤓 
 - ¡Agradecemos toda la visibilidad extra! 🤩
+
+## Contacto
+
+Estamos a tu disposición en info@somosnlp.org, Discord y mensajes directos en X (@SomosNLP_) y LinkedIn (@Somos NLP).
 
 Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
 
