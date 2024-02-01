@@ -10,19 +10,20 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 ## 🎨 Cómo participar
 
 1. Diseña un cartel (o varios)
-2. [Mándanoslo](https://forms.gle/iJrKZtBXvnAk5Ji38) antes del 30 de enero
+2. [Mándanoslo](https://forms.gle/iJrKZtBXvnAk5Ji38) antes del 4 de febrero
 3. Agradeceremos públicamente todas las propuestas (si quieres, claro)
 4. ¡Si ganas, tu cartel será la imagen del hackathon 2024!
 
 ## ✅ Qué tiene que incluir el cartel
 
-- Dimensiones: 1280 × 720 como mínimo con relación de aspecto de 16:9
+- Dimensiones: 1280 × 720 como mínimo con relación de aspecto de 16:9 (horizontal)
 - Título: #Somos600M
 - Edición: Tercera
 - Fecha: 1 al 24 de marzo de 2024
 - Página web: somosnlp.org/hackathon
 - #HackathonSomosNLP
 - [Logo de Somos NLP](https://github.com/somosnlp/assets/blob/main/logo_somos_nlp.png)
+- Algún elemento gráfico extra
 
 ## 📝 Notas
 
@@ -34,7 +35,7 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 ## 🤔 Inspiración
 
 - Por ejemplo, en la edición de [2023](https://somosnlp.org/hackathon-2023) utilizamos Midjourney para la creación de la "persona-libro"
-- Os puede ayudar pensar que, una vez seleccionado el cartel del hackathon, tendremos que diseñar carteles para las charlas
+- Os puede ayudar pensar que, una vez seleccionado el cartel del hackathon, tendremos que adaptarlo para diseñar los carteles de las charlas
 
 ¡Esperamos con emoción vuestros carteles! 🤩
 

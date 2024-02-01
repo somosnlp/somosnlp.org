@@ -5,7 +5,7 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
+¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
 
 Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
@@ -15,10 +15,26 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
 ## Beneficios por tipo de patrocinio
 
+### Donación
+- **Oro**, donación total valorada en 1000€: logo en primer puesto y con el mayor tamaño, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
+- **Plata**, donación total valorada en 600€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
+- **Bronce**, donación total valorada en 200€: logo mediano en tercer puesto y visibilidad en RRSS.
+
+Nota: Las donaciones pueden ser directas o indirectas (e.g., compra y envío de un premio).
+
+### Colaboración
+- **Corpus**, donación de un corpus: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo o taller promocional relacionado con el corpus.
+- **Expert**, impartición de una ponencia (no promocional) o mentoría y visibilidad: logo mediano, promoción del evento y posible artículo promocional.
+- **Comunidad**, visibilidad: logo pequeño y agradecimiento en redes.
+
+
+<details closed>
+<summary>Tabla detallada de beneficios</summary>
+
 | | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
 |-| --------|-----|-------|--------|--------|-----------|
-| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Ponencias /Mentorías | Visibilidad |
-| Logo en la página web del hackathon y la de registro | ✅ XL | ✅ L | ✅ L | ✅ XL | ✅ L | ✅ M |
+| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Evento + Visibilidad | Visibilidad |
+| Logo en la página web del hackathon y la de registro | ✅ L | ✅ M | ✅ M | ✅ L | ✅ M | ✅ S |
 | Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
 | Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
@@ -39,8 +55,9 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 -->
 
 *En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad. El tema debe ser acordado previamente.
+</details>
         
-## Tipos de patrocinios 
+## Qué implica cada tipo de patrocinio
 
 ¿Cómo te gustaría apoyarnos en nuestra misión de democratizar el PLN en español?
 
@@ -75,7 +92,9 @@ Vamos a crear un corpus de instrucciones que represente a todas las personas his
 <details>
 <summary>💡 Patrocinio Expert</summary>
 
-Los patrocinios Expert comparten su conocimiento con la comunidad. Toda persona que imparta una ponencia o mentoría será promocionada y añadida individualmente a la página de "Comunidad". Para que su organización se considere patrocinadora Expert tiene que:
+Los patrocinios Expert comparten su conocimiento con la comunidad. Atención: si quieres promocionar tu producto en una charla debes contar con un patrocinio de tipo Oro.
+
+Toda persona que imparta una ponencia o mentoría será promocionada y añadida individualmente a la página de "Comunidad". Para que la entidad de el/la ponente se considere patrocinadora Expert tiene que:
 - Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero
 - Publicar posts anunciando la keynote/mentoría una semana antes del evento
 - Publicar posts anunciando la keynote/mentoría un día antes del evento
