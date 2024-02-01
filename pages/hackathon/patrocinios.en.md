@@ -21,24 +21,19 @@ We are at your disposal at info@somosnlp.org, we count on your support! 💪
 | Logo at the hackathon and register web | ✅ XL | ✅ L | ✅ L | ✅ XL | ✅ L | ✅ M |
 | Logo at the "Community" page (order) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
 | Special thanks at social networks and announcement of collaboration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Tags in posts (minimun) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
-| Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
-| Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| Logo y link en la página del corpus / la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en un artículo de blog describiendo la creación del corpus/ leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
+| Tags in posts (minimum) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
+| Post in social networks presenting your mission and projects | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
+| Mention in an article describing sponsorships | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| Live mention at the opening and closing | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Promotional blog article * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Promotional video (3') * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Promotional talk (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| Logo and link on the corpus page / leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mention in a blog article describing the creation of the corpus/leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Live mention in the corresponding presentation / mentoring | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
-<!--
-| Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 
-| Acceso a los CVs de participantes en búsqueda de empleo ?? | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | 
--->
-
-*En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad. El tema debe ser acordado previamente.
+* In articles, videos, and promotional talks you can share your *relevant* projects for the community. The topic must be agreed upon in advance.
         
 ## Tipos de patrocinios 
 
