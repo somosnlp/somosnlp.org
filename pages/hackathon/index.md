@@ -29,8 +29,8 @@ La democratización del PLN en español es nuestro objetivo principal en Somos N
 En las ediciones pasadas nos enfocamos en proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. 
 
 En esta tercera edición nos sumamos a la revolución de los LLMs, nuestros objetivos son:
-1. Crear un **corpus de calidad que represente las variedades del español de los 600M de personas hispanohablantes.** 💛
-2. Crear una **leaderboard de LLMs en español** que permita estandarizar la evaluación del progreso y comparar los modelos disponibles. 🚀 
+1. 🌎 Crear un **corpus de calidad que represente las variedades del español de los 600M de personas hispanohablantes.**
+2. ✅ Crear una **leaderboard de LLMs en español** que permita estandarizar la evaluación del progreso y comparar los modelos disponibles. 
 
 ---
 

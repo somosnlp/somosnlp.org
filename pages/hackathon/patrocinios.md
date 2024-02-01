@@ -20,7 +20,7 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 Aceptamos donaciones económicas directa o indirectamente (e.g., compra y envío de un premio).
 
 <details closed>
-<summary>Categorías de donación</summary>
+<summary>Categorías de donación y beneficios</summary>
 
 - **🥇 Oro**, donación total valorada en 1000€: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
 - **🥈 Plata**, donación total valorada en 600€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
@@ -29,7 +29,7 @@ Aceptamos donaciones económicas directa o indirectamente (e.g., compra y envío
 </details>
 
 <details>
-<summary>¿Para qué se usará tu patrocinio?</summary>
+<summary>¿Para qué se usará mi patrocinio?</summary>
 
 Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
 - Premios para los equipos ganadores
@@ -48,14 +48,14 @@ Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago
 </details>
 
 
-### 2. 📚 Publicación de bases de datos
+### 2. 📚 Donación de bases de datos
 
 Vamos a crear un corpus de instrucciones que represente a todas las personas hispanohablantes y una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
 
 <details closed>
-<summary>Tipos de bases de datos</summary>
+<summary>¿Cuáles son los beneficios y cómo puedo contribuir?</summary>
 
-- **Corpus**, donación de una base de datos: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo o taller promocional relacionado con el corpus.
+- **Corpus**, donación de una base de datos: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo, vídeo o taller promocional relacionado con el corpus.
 
 </details>
 
@@ -128,7 +128,6 @@ Enlaces útiles:
 </details>
 
 
-
 ### Tabla detallada de beneficios
 
 <details closed>
@@ -147,8 +146,8 @@ Enlaces útiles:
 | Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
 | Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ❌  | ❌ |
 | Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| Logo y link en la página del corpus / la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en un artículo de blog describiendo la creación del corpus/ leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención y enlace en la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
+| Mención en un artículo de blog describiendo la creación de la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
 | Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
 
 <!--
