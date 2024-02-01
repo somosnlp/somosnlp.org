@@ -18,13 +18,8 @@ landing-page:
   events:
     all-events: See all the events
     event-description: >-
-      Vuelve el #HackathonSomosNLP, una competición internacional online cuyo
-      objetivo principal es desarrollar proyectos open-source de PLN en español
-      y lenguas cooficiales. En las ediciones pasadas, contamos con un total de
-      1000 participantes de más de 30 países y nos enfocamos en proyectos
-      relacionados con los Objetivos de Desarrollo Sostenibles de la ONU,
-      demostrando el potencial del PLN para abordar desafíos sociales. En la
-      próxima edición de marzo de 2024, el hackathon se centrará en generar
+      Vuelve el #HackathonSomosNLP,
+      en la próxima edición de marzo de 2024, nos centraremos en generar
       bases de datos diversas y de calidad para el entrenamiento de LLMs que se
       expresen con propiedad en español.
     join-event: Join the event!
