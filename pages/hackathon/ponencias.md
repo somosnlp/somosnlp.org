@@ -9,36 +9,18 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 A continuación, presentamos una lista de temas sugeridos que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito.
 
-1. **Creación y curación de corpus:**
-    - Estrategias manuales y (semi)automáticas para la construcción y curación de corpus en (con preferencia a lenguas íbero-romances)
-2. **Creación de modelos del lenguaje o sistemas conversacionales:**
-    - Resumen de los avances del último año y actuales retos en la creación de modelos del lenguaje
-3. **Multilingüismo y lenguas con recursos limitados:**
-    - Desarrollo de modelos para idiomas con pocos recursos y multilingüismo
-4. **Multimodalidad:**
-    - Integración de diferentes modalidades de datos en modelos de PLN
-5. **Evaluación:**
-    - Utilización de benchmarks y métricas para la evaluación de modelos
-    - Evaluación humana vs. automática en el ámbito del PLN
-6. **Impacto social:**
-    - Abordaje de prejuicios y equidad en modelos de PLN
-    - Detección del discurso de odio, detección de conductas de riesgo (depresión, TCA…), educación, accesibilidad…
-7. **Impacto medioambiental computacional:**
-    - Consideraciones sobre la sostenibilidad y eficiencia en el ámbito computacional
-8. **Seguridad:**
-    - Gestión de la seguridad y privacidad en modelos de PLN
-    - Estrategias contra desinformación, ataques adversarios y defensas
-9. **Interpretabilidad:**
-    - Herramientas y enfoques para mejorar la interpretabilidad de modelos de PLN
-    - Evaluación y mejora de la trazabilidad en modelos de lenguaje
-10. **IA, regulación y ética:**
-    - Discusión sobre regulaciones y ética relacionadas con la IA y el PLN
-    - Uso indebido de tecnologías de procesamiento de lenguaje natural
-11. **Lingüística:**
-    - Nociones fundamentales de lingüística computacional para PLN
-12. **Aplicaciones y multidisciplinariedad:**
-    - Casos de uso y avances en el uso de PLN en el campo médico (radiología, informes médicos, ayuda a la toma de decisiones…), legal, financiero, etc.
-    - Exploración de la colaboración entre la PLN y diversas disciplinas, como la medicina, la sociología, la psicología, entre otras, para abordar problemas complejos de manera integral
+1. **Creación y curación de corpus:** Estrategias manuales y (semi)automáticas para la construcción y curación de corpus (con preferencia en lenguas íbero-romances).
+2. **Creación de modelos del lenguaje o sistemas conversacionales:** Resumen de los avances del último año y actuales retos en la creación de modelos del lenguaje.
+3. **Multilingüismo y lenguas con recursos limitados:** Desarrollo de modelos para idiomas con pocos recursos y multilingüismo.
+4. **Multimodalidad:** Integración de diferentes modalidades de datos en modelos.
+5. **Evaluación:** Benchmarks y métricas para la evaluación de modelos de lenguaje. Evaluación humana vs. automática en el ámbito del PLN.
+6. **Impacto social:** Abordaje de prejuicios y equidad en modelos de PLN. Detección del discurso de odio, detección de conductas de riesgo (depresión, TCA…), sesgos, educación, accesibilidad…
+7. **Impacto medioambiental:** Consideraciones sobre la sostenibilidad y eficiencia en el ámbito computacional, huella de carbono y consumo de agua.
+8. **Seguridad:** Gestión de la seguridad y privacidad en modelos de PLN. Estrategias contra desinformación, ataques adversarios y defensas.
+9. **Interpretabilidad:** Herramientas y enfoques para mejorar la interpretabilidad de modelos de PLN. Evaluación y mejora de la trazabilidad en modelos de lenguaje.
+10. **IA, regulación y ética:** Discusión sobre temas éticos, la regulación de la IA, licencias, y uso indebido de tecnologías de PLN.
+11. **Lingüística:** Nociones fundamentales de lingüística computacional para PLN.
+12. **Aplicaciones y multidisciplinariedad:** Colaboraciones entre disciplinas, casos de uso y avances en el uso de PLN en el campo médico (radiología, informes médicos, ayuda a la toma de decisiones…), sociológico, psicológico, legal, financiero, etc.
 
 ¡Esperamos con interés tu participación!
 
