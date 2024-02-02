@@ -35,65 +35,65 @@ We are at your disposal at info@somosnlp.org, we count on your support! 💪
 
 * In articles, videos, and promotional talks you can share your *relevant* projects for the community. The topic must be agreed upon in advance.
         
-## Tipos de patrocinios 
+## Types of sponsorships 
 
-¿Cómo te gustaría apoyarnos en nuestra misión de democratizar el PLN en español?
+How would you like to support us in our mission to democratize the NLP in Spanish?
 
 <details>
-<summary>🚀 Patrocinios Oro, Plata y Bronce</summary>
+<summary>🚀 Gold, Silver and Bronze Sponsorships</summary>
 
-Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
-- Premios para los equipos ganadores
-- Sorteos para todas las personas participantes
-- Corpus y GPUs 
+Our hackathon is a free and non-profit event, thanks to Gold, Silver, and Bronze sponsorships we can guarantee:
+- Prizes for the winning teams
+- Raffles for all participating people
+- Corpus and GPUs
 - Merchandising
-- Streaming de primera calidad
-- Buena gestión de este evento internacional online
+- Premium streaming
+- Good management of this international online event
 
-Para determinar el tipo de patrocinio se calculará el valor total combinando donaciones, premios, corpus y GPUs patrocinadas por cada entidad. Dentro de cada categoría, los logos también se ordenarán por valor total.
+To determine the type of sponsorship, the total value will be calculated by combining donations, prizes, corpus, and GPUs sponsored by each entity. Within each category, logos will also be sorted by total value.
 
-Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN, merchandising específicamente creado para el hackathon, tiempo de computación, etc.
+Examples of prizes and raffles that you can sponsor: a scholarship for a paid course, access to a training platform, NLP books, merchandising specifically created for the hackathon, computing time, etc.
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
-
-</details>
-
-<details>
-<summary>📚 Patrocinios Corpus</summary>
-
-Vamos a crear un corpus de instrucciones que represente a todas las personas hispanohablantes y una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
-
-<center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Lee toda la info aquí</a></center>
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
 
 </details>
 
 <details>
-<summary>💡 Patrocinio Expert</summary>
+<summary>📚 Corpus Sponsorship</summary>
 
-Los patrocinios Expert comparten su conocimiento con la comunidad. Toda persona que imparta una ponencia o mentoría será promocionada y añadida individualmente a la página de "Comunidad". Para que su organización se considere patrocinadora Expert tiene que:
-- Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero
-- Publicar posts anunciando la keynote/mentoría una semana antes del evento
-- Publicar posts anunciando la keynote/mentoría un día antes del evento
-- RT / comentar las publicaciones en las que os mencionemos
+We are going to create a corpus of instructions that represents all Spanish-speaking people and a leaderboard to standardize the evaluation of LLMs and we need your help, donate your corpus!
 
-Notas:
-- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a Somos NLP
-
-¡Contáctanos ya para compartir tu experiencia!
-
-Enlaces útiles:
-- [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
-- [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
-- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
-
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Read all the info here</a></center>
 
 </details>
 
 <details>
-<summary>🤗 Patrocinio Comunidad</summary>
+<summary>💡 Expert Sponsorship</summary>
+
+Expert sponsorships share their knowledge with the community. Anyone who gives a presentation or mentorship will be promoted and added individually to the "Community" page. For your organization to be considered an Expert sponsor you must:
+- Publish posts/mention in podcast/newsletter encouraging people to participate in the hackathon before February 15
+- Publish posts announcing the keynote/mentoring a week before the event
+- Publish posts announcing the keynote/mentoring a day before the event
+- RT/comment on posts in which we mention you
+
+Grades:
+- "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
+- The visual material necessary for the posts will be provided
+- Always remember to mention Somos NLP
+
+Contact us now to share your experience!
+
+Useful links:
+- [🔊 Propose a keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
+- [🧑‍🏫 Offer mentoring](https://forms.gle/7UmsVDnFmNo1pCrf9)
+- [💡 Info for universities](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
+
+</details>
+
+<details>
+<summary>🤗 Community Sponsorship</summary>
 
 Los patrocinios de Comunidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
 
@@ -128,6 +128,6 @@ Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que n
 
 ---
 
-#### 💛 Patrocinio Individual
+#### 💛 Individual Sponsorship
 
-Sabemos que hay personas que nos apoyáis desde el comienzo y otras que nos acabáis de conocer y nos apoyaréis en esta nueva etapa. Os queremos agradecer vuestro esfuerzo y confianza añadiendo vuestra foto en la nueva página "Comunidad", ¡mandadnos vuestra info!
+We know that there are people who have supported us from the beginning and others who have just met us and will support us in this new stage. We want to thank you for your effort and trust by adding your photo on the new "Community" page, send us your information!
