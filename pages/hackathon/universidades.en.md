@@ -1,41 +1,40 @@
 ---
-title: "Hackathon Somos NLP 2024: Info para universidades"
-description: ¡Anima a tu alumnado a participar en este hackathon!
-lang: es
+title: "Somos NLP Hackathon 2024: Info for universities"
+description: Encourage your students to participate in this hackathon!
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-¡Hola profe!
+Hi teacher!
 
-Este hackathon es una experiencia ideal para que tus estudiantes mejoren sus conocimientos sobre Inteligencia Artificial, en particular sobre modelos de lenguaje en el mundo real: retos, desarrollo, aplicaciones, riesgos, y mucho más 🤓
+This hackathon is an ideal experience for your students to improve their knowledge about Artificial Intelligence, particularly about language models in the real world: challenges, development, applications, risks, and much more 🤓
 
-## ❓ Preguntas que nos habéis hecho
+## ❓ Questions you have done for us
 
-- ¿Puedo utilizar el hackathon como actividad en el aula? Sí, siempre y cuando se respeten las fechas y condiciones fijadas para el resto de participantes.
-- ¿Hay un número máximo de equipos por universidad o profe? No, ¡cuantos más, mejor!
-- ¿Podéis dar una charla de presentación de la comunidad y el evento para mi universidad o clase? Sí, claro, contáctanos cuanto antes para fijar la fecha.
-- Parte de mi alumnado no habla español, ¿es un problema? No, todo el mundo es bienvenido, en esta edición todas las instrucciones están traducidas al inglés.
-- *¡NOVEDAD!* ¿Podemos celebrar el hackathon de manera **presencial** en la universidad? Sí, las universidades que quieran pueden poner a disposición de su alumnado (y participantes de la misma ciudad) una sala en la que se puedan juntar y desarrollar de manera presencial sus proyectos. Avísanos para que os podamos ayudar.
+- Can I use the hackathon as a classroom activity? Yes, if the dates and conditions set for the rest of the participants are respected.
+- Is there a maximum number of teams per university or teacher? No, the more the better!
+- Can you give a presentation talk about the community and the event for my university or class? Yes, please reach out to us as soon as possible to set the date.
+- Some of my students do not speak Spanish, is this a problem? No, everyone is welcome, in this edition all instructions will be translated into English.
+- *NEW!* Can we hold the hackathon **in person** at the university? Yes, universities that wish can make a room available to their students (and participants from the same city) where they can meet and develop their projects in person. Let us know so we can help you.
 
-➡️ Mándanos un correo a info@somosnlp.org, ¡contamos contigo y tus estudiantes!
+  
+➡️ Send us an email to info@somosnlp.org, We count on you and your students!
 
-Si eres estudiante y te gustaría que tu universidad participara en el hackathon, ¡díselo a tu profe!
+If you are a student and would like your university to participate in the hackathon, tell your teacher!
 
-## ✨ Beneficios
+## ✨ Benefits
 
-Al presentar al menos 5 estudiantes al hackathon, además de contar con soporte del equipo organizativo, la universidad se convierte en patrocinadora de comunidad y contará con los beneficios correspondientes:
-- Logo de la universidad en la página web del hackathon y la de registro (*)
-- Logo de la universidad en la página de "Comunidad" (*)
-- Agradecimiento en redes sociales
-- Etiquetas en posts de redes sociales (x5)
+By presenting at least 5 students to the hackathon, in addition to having support from the organizational team, the university becomes a community sponsor and will have the corresponding benefits:
+- University logo on the hackathon and registration website (*)
+- University logo on the "Community" page (*)
+- Thanks on social networks
+- Tags on social media posts (x5)
 
 (*) Los logos de las universidades colaboradoras se ordenarán por número de estudiantes participantes.
 
-Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar antes del 15 de febrero
-- Publicar noticia, blog o similar en su página web antes del 15 de febrero
-- Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
-
+What we ask from collaborating universities:
+- Publish posts encouraging participation before February 15
+- Publish news, blog, or similar on your website before February 15
+- Publish posts/blogs announcing the results of the hackathon, (clearly, they can focus on their students' projects!)
 
 <!-- 
 
