@@ -95,36 +95,36 @@ Useful links:
 <details>
 <summary>🤗 Community Sponsorship</summary>
 
-Los patrocinios de Comunidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
+Community sponsorships are of utmost importance as they allow us to reach more people, which is essential for our mission to democratize NLP in Spanish.
 
-Qué os pedimos:
-- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 1 de febrero
-- Publicar posts animando a participar antes del 1 de marzo
-- Publicar posts anunciando los días de keynotes
-- Publicar posts / blog anunciando los resultados del hackathon
-- RT / comentar las publicaciones en las que os mencionemos
+What do we ask you for:
+- Publish posts/mentions in podcasts/ newsletters encouraging participation before February 1st
+- Publish posts encouraging participation before March 1st 
+- Publish posts announcing keynote days
+- Publish posts/blog announcing the results of the hackathon
+- RT/comment on posts in which we mention you
 
-Notas:
-- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a Somos NLP
+Notes:
+- "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
+- The visual material necessary for the posts will be provided
+- Always remember to mention Somos NLP
+  
+Useful links:
+- [💡 Info for universities](https://somosnlp.org/hackathon/universidades)
 
-Enlaces útiles:
-- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
-
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
 
 </details>
 
-#### Notas:
+#### Notes:
 
-- Estamos a tu disposición en info@somosnlp.org
-- Si no se cumplen los requisitos, se eliminará el logo correspondiente 😢
-- ¡Agradecemos toda la visibilidad extra! 🤩
+- We are at your disposal at info@somosnlp.org
+- If the requirements are not met, the corresponding logo will be removed 😢
+- We appreciate all the extra visibility! 🤩
 
-Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
+If you have more collaboration ideas, we encourage you to tell us how you think you can help us or how we can thank you for your support. Thank you very much again! ❤️
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
 
 ---
 
