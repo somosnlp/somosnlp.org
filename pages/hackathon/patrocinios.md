@@ -74,7 +74,8 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 <summary>Tipos de visibilidad</summary>
 
 - **🤗 Comunidad**, dar visibilidad al hackathon en general: logo pequeño y visibilidad en RRSS.
-- **💡 Expert**, dar visibilidad a la ponencia o mentoría impartida por una persona de tu organización: logo pequeño, promoción relativa al evento y posible artículo promocional.
+- **💡 Expert**, dar visibilidad a la ponencia (no promocional) o mentoría impartida por una persona de tu organización: logo pequeño y visibilidad relativa al evento.
+- **🎓 Universidad**, dar visibilidad al hackathon entre tu alumnado: logo pequeño y visibilidad en RRSS.
 
 </details>
 
@@ -92,9 +93,6 @@ Aclaraciones:
 - "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
 - Se facilitará el material visual necesario para los posts
 - Recordad siempre mencionar a Somos NLP
-
-Enlaces útiles:
-- [Info para universidades](https://somosnlp.org/hackathon/universidades)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
@@ -121,10 +119,29 @@ Disclaimer: si quieres promocionar tu producto en una charla debes contar con un
 Enlaces útiles:
 - [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
 - [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
-- [💡 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
+</details>
+
+<details>
+<summary>¿Cómo darle visibilidad entre mis estudiantes?</summary>
+
+Lo que pedimos a las universidades colaboradoras:
+- Publicar posts animando a participar antes del 15 de febrero
+- Publicar noticia, blog o similar en su página web antes del 23 de febrero
+- Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
+- Presentar al menos 1 equipo de estudiantes al hackathon
+
+Notas:
+- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
+- Se facilitará el material visual necesario para los posts
+- Recordad siempre mencionar a Somos NLP
+
+Enlaces útiles:
+- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 </details>
 
 
@@ -133,23 +150,20 @@ Enlaces útiles:
 <details closed>
 <summary>Tabla detallada de beneficios</summary>
 
-| | Oro | Plata | Bronce | Corpus | Expert | Comunidad |
-|-| --------|-----|-------|--------|--------|-----------|
-| | Valor 1000€ | Valor 600€ | Valor 200€ | Corpus | Evento + Visibilidad | Visibilidad |
-| Logo en la página web del hackathon y la de registro | ✅ L | ✅ M | ✅ M | ✅ L | ✅ S | ✅ S |
-| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ 5º |
-| Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | ✅ 5 | 
-| Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ | ❌ |
-| Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
-| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ❌  | ❌ |
-| Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| Mención y enlace en la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en un artículo de blog describiendo la creación de la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | ❌ |
-| Mención en directo en la ponencia / mentoría correspondiente | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
-
+| | Oro | Plata | Bronce | Corpus | Visibilidad |
+|-| --------|-----|-------|--------|-----------|
+| Logo en la página web del hackathon y la de registro | ✅ L | ✅ M | ✅ M | ✅ L | ✅ S |
+| Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º |
+| Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Etiquetas en posts (mínimo) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | 
+| Post en RRSS presentando vuestra misión y proyectos | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ |
+| Mención en un artículo describiendo los patrocinios | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Mención en directo en la inauguración y clausura | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Artículo de blog promocional * | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Vídeo promocional (3') * | ✅ | ✅ | ❌ | ✅ | ❌  |
+| Charla promocional (30') * | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Mención y enlace en la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
+| Mención en un artículo de blog describiendo la creación de la leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
 <!--
 | Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
 
