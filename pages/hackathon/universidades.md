@@ -21,9 +21,14 @@ Este hackathon es una experiencia ideal para que tus estudiantes mejoren sus con
 
 Si eres estudiante y te gustaría que tu universidad participara en el hackathon, ¡díselo a tu profe!
 
-## ✨ Beneficios
+## ✨ Colaboración y beneficios
 
-Al presentar al menos 5 estudiantes al hackathon, además de contar con soporte del equipo organizativo, la universidad se convierte en patrocinadora de comunidad y contará con los beneficios correspondientes:
+Lo que pedimos a las universidades colaboradoras:
+- Publicar posts animando a participar antes del 15 de febrero
+- Publicar noticia, blog o similar en su página web antes del 23 de febrero
+- Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
+
+Al dar visibilidad al hackathon y presentar al menos 1 equipo de estudiantes al hackathon, la universidad se convierte en patrocinadora y contará con los beneficios correspondientes:
 - Logo de la universidad en la página web del hackathon y la de registro (*)
 - Logo de la universidad en la página de "Comunidad" (*)
 - Agradecimiento en redes sociales
@@ -31,10 +36,6 @@ Al presentar al menos 5 estudiantes al hackathon, además de contar con soporte 
 
 (*) Los logos de las universidades colaboradoras se ordenarán por número de estudiantes participantes.
 
-Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar antes del 15 de febrero
-- Publicar noticia, blog o similar en su página web antes del 15 de febrero
-- Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
 
 
 <!-- 

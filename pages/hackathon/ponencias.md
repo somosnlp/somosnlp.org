@@ -19,8 +19,10 @@ A continuación, presentamos una lista de temas sugeridos que reflejan la divers
 8. **Seguridad:** Gestión de la seguridad y privacidad en modelos de PLN. Estrategias contra desinformación, ataques adversarios y defensas.
 9. **Interpretabilidad:** Herramientas y enfoques para mejorar la interpretabilidad de modelos de PLN. Evaluación y mejora de la trazabilidad en modelos de lenguaje.
 10. **IA, regulación y ética:** Discusión sobre temas éticos, la regulación de la IA, licencias, y uso indebido de tecnologías de PLN.
-11. **Lingüística:** Nociones fundamentales de lingüística computacional para PLN.
+11. **Lingüística:** Nociones fundamentales de lingüística computacional para PLN. La importancia de equipos interdisciplinares y cómo este campo está impulsando la revolución de los modelos de lenguaje.
 12. **Aplicaciones y multidisciplinariedad:** Colaboraciones entre disciplinas, casos de uso y avances en el uso de PLN en el campo médico (radiología, informes médicos, ayuda a la toma de decisiones…), sociológico, psicológico, legal, financiero, etc.
+
+Disclaimer: Se debe contar con un Patrocinio de Oro para impartir una charla promocional, que igualmente debe ser *de interés para la comunidad*.
 
 ¡Esperamos con interés tu participación!
 
