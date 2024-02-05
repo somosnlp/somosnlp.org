@@ -158,18 +158,18 @@ Useful links:
 <summary>Benefits table</summary>
 | | Gold | Silver | Bronze | Corpus | Visibility |
 |-| --------|-----|-------|--------|-----------|
-| Logo at the hackathon and register web | ✅ L | ✅ M | ✅ M | ✅ L | ✅ S |
-| Logo at the "Community" page (order) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º | ✅ |
-| Special thanks at social networks and announcement of collaboration | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Tags in posts (minimum) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5  | 
+| Logo on the hackathon website and registration page | ✅ L | ✅ M | ✅ M | ✅ L | ✅ S |
+| Logo on the "Community" page (order) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º |
+| Thanks in RRSS and announcement of collaboration | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Tags in posts (minimum) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | 
 | Post in social networks presenting your mission and projects | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ |
 | Mention in an article describing sponsorships | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Live mention at the opening and closing | ✅ | ✅ | ❌ | ✅ | ❌ | 
-| Promotional blog article * | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Promotional video (3') * | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Live mention at the opening and closing | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Promotional Blog Article | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Promocional video (3') * | ✅ | ✅ | ❌ | ✅ | ❌  |
 | Promotional talk (30') * | ✅ | ❌ | ❌ | ✅ | ❌ |
-| Mention and link at the leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
-| Mention in a blog article describing the creation of the leaderboard | ❌ | ❌ |❌ | ✅ | ❌ | 
+| Mention and link on the leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
+| Mention in a blog article describing the creation of the leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
 
 </details>
 
