@@ -11,8 +11,6 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
 
-(Cambiar este cartel por el vídeo promocional)
-
 ## 🚀 Nuestros objetivos
 
 La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
@@ -119,9 +117,6 @@ Para estar al día de todos los eventos y avances:
 - Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
 - Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
----
-
-## 👏 Agradecimientos
 
 <!--
 ## 👏 Agradecimientos 
