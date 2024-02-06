@@ -26,7 +26,7 @@ useHead({
 
         <div class="flex justify-center">
             <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
-                <img src="https://somosnlp.github.io/assets/images/blog/ya_somos_1000.gif" alt="Ya Somos 1000" width="500"
+                <img src="https://somosnlp.github.io/assets/images/blog/ya_somos_1500.gif" alt="Ya Somos 1000" width="500"
                     height="289.71" />
             </a>
         </div>
