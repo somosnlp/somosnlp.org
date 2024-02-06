@@ -5,19 +5,14 @@ lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-Thank you very much for your interest in supporting us in organizing and giving visibility to this wonderful event! In the two previous editions, we had a total of more than 1,000 participants from 30 different countries and we exceeded 10,000 views of our events. This year our challenges are to create a database of quality instructions and the first evaluation ranking of LLMs in Spanish.
+Thank you very much for your interest in supporting us in organizing and giving visibility to this wonderful event! In the two previous editions, we had a total of more than 1,000 participants from 30 different countries and we exceeded 20,000 views of our events. This year our challenges are to create a database of quality instructions and the first evaluation ranking of LLMs in Spanish.
 
 The types of sponsorships are explained below. As soon as we receive the form we will contact you to set the details and we will add your logo to the website.
 
 We are at your disposal at info@somosnlp.org, we count on your support! 💪
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;"> Fill the form📝 </a></center>
-
-
-
-
-* In articles, videos, and promotional talks you can share your *relevant* projects for the community. The topic must be agreed upon in advance.
-        
+     
 ## Types of sponsorships 
 
 ### 1. 🚀 Donation
@@ -61,11 +56,6 @@ We are going to create a corpus of instructions that represents all Spanish-spea
 
 - **Corpus**, donation of a database: large logo, mention in the leaderboard and everything related to the evaluation, possible article, video, or promotional workshop related to the corpus.
 
-</details>
-
-<details>
-<summary>How can I donate my database?</summary>
-
 <center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration :none; border-radius:5px;">📝 Read all the info here</a></center>
 
 </details>
@@ -93,7 +83,7 @@ To consider you a Community sponsor we ask you:
 - Publish posts/blog announcing the results of the hackathon
 - RT/comment on posts in which we mention you
 
-Clarifications:
+Notes:
 - "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
 - The visual material necessary for the posts will be provided
 - Always remember to mention Somos NLP
@@ -111,7 +101,7 @@ For the entity to which the person is giving the presentation/mentorship belongs
 - Publish posts announcing the keynote/mentoring a day before the event
 - RT/comment on posts in which we mention you
 
-Grades:
+Notes:
 - "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
 - The visual material necessary for the posts will be provided
 - Always remember to mention Somos NLP
@@ -120,14 +110,13 @@ Disclaimer: if you want to promote your product in a talk you must have a Gold s
 
 Contact us now to share your experience!
 
-Helpful Links:
+Helpful links:
 - [🔊 Suggest a keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
 - [🧑‍🏫 Offer a mentorship](https://forms.gle/7UmsVDnFmNo1pCrf9)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border- radius:5px;">📝 Fill out the form</a></center>
 
 </details>
-
 
 <details>
 <summary>How to give it visibility among my students?</summary>
@@ -137,7 +126,7 @@ What we ask of collaborating universities:
 - Publish news, blog, or similar on your website before February 23
 - Publish posts/blogs announcing the results of the hackathon, (clearly, they can focus on their students' projects!)
 - Submit at least 1 student team to the hackathon
--      
+ 
 Notes:
 - "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
 - The visual material necessary for the posts will be provided
@@ -149,8 +138,6 @@ Useful links:
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
 
 </details>
-
-
 
 ## Benefits table
 
@@ -181,7 +168,7 @@ Useful links:
 
 ## Contact
 
-We are at your disposal at info@somosnlp.org, Discord and direct messages on X (@SomosNLP_) and LinkedIn (@Somos NLP).
+We are at your disposal at info@somosnlp.org and Discord.
 
 If you have more collaboration ideas, please tell us how you think you can help us or how we can thank you for your support. Thank you very much again! ❤️
 
