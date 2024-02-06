@@ -9,7 +9,7 @@ const { d } = useI18n();
 const { frontmatter } = defineProps<{ frontmatter: any }>()
 
 useHead({
-    title: 'Somos NLP - Democratizando el NLP en español',
+    title: 'SomosNLP - Democratizando el NLP en español',
     meta: [
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: '@somosnlp_' },
@@ -19,7 +19,7 @@ useHead({
             content: computed(
                 () => frontmatter.title
                     ? frontmatter.title
-                    : 'Somos NLP - Democratizando el NLP en español')
+                    : 'SomosNLP - Democratizando el NLP en español')
         },
         {
             name: 'twitter:description',
@@ -35,7 +35,7 @@ useHead({
                     ? frontmatter.cover
                     : 'https://somosnlp.github.io/assets/logo.png')
         },
-        { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
+        { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
     ]
 })
 
@@ -58,15 +58,13 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
             <div v-if="frontmatter.author" class="grid items-baseline">
                 <div class="mt-5 grid lg:grid-cols-2">
                     <div class="justify-center mx-25">
-                        <IconButtonLink
-                            :url='tweetUrl'>
+                        <IconButtonLink :url='tweetUrl'>
                             <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
                             <span class="font-medium text-sm">Compartir</span>
                         </IconButtonLink>
                     </div>
                     <div class="justify-center mx-25">
-                        <IconButtonLink
-                            :url='linkUrl'>
+                        <IconButtonLink :url='linkUrl'>
                             <carbon:logo-linkedin class="inline align-middle mr-2 text-lg" />
                             <span class="font-medium text-sm">Compartir</span>
                         </IconButtonLink>
@@ -87,17 +85,17 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
             <div v-if="frontmatter.author" class="grid grid-cols-2 items-baseline">
                 <h3 text="lg">{{ frontmatter.author }}</h3>
                 <div class="flex flex-wrap gap-3 items-center justify-self-center">
-                    <div class = "border-2 border-accent-400 rounded">
-                    <IconButtonLink :url="tweetUrl">
-                        <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
-                        <span class="font-medium text-sm">Compartir</span>
-                    </IconButtonLink>
+                    <div class="border-2 border-accent-400 rounded">
+                        <IconButtonLink :url="tweetUrl">
+                            <carbon:logo-twitter class="inline align-middle mr-2 text-lg" />
+                            <span class="font-medium text-sm">Compartir</span>
+                        </IconButtonLink>
                     </div>
-                    <div class = "border-2 border-accent-400 rounded">
-                    <IconButtonLink :url="linkUrl">
-                        <carbon:logo-linkedin class="inline align-middle mr-2 text-lg" />
-                        <span class="font-medium text-sm">Compartir</span>
-                    </IconButtonLink>
+                    <div class="border-2 border-accent-400 rounded">
+                        <IconButtonLink :url="linkUrl">
+                            <carbon:logo-linkedin class="inline align-middle mr-2 text-lg" />
+                            <span class="font-medium text-sm">Compartir</span>
+                        </IconButtonLink>
                     </div>
                 </div>
             </div>

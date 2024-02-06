@@ -6,7 +6,7 @@ lang: es
 duration: 1min
 cover: https://somosnlp.github.io/assets/logo.svg
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
@@ -14,10 +14,10 @@ github: https://github.com/mariagrandury
 ---
 
 <div class="flex justify-center">
-    <img alt="Somos NLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
+    <img alt="SomosNLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
 </div>
 
-Somos NLP es la comunidad de estudiantes, profesionales e investigadores hispanohablantes democratizando el PLN en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del PLN en español.
+SomosNLP es la comunidad de estudiantes, profesionales e investigadores hispanohablantes democratizando el PLN en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del PLN en español.
 
 ## ¿Por qué?
 
@@ -39,4 +39,4 @@ Vamos a darle nuestro idioma tan extendido (y bonito) una representación justa 
 
 🚀 Compartiendo experiencia y recursos en la comunidad de Discord.
 
-👉 [¡Únete a Somos NLP!](https://discord.com/invite/my8w7JUxZR) 👈
+👉 [¡Únete a SomosNLP!](https://discord.com/invite/my8w7JUxZR) 👈

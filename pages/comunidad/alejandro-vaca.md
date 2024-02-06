@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback | Hackathon Somos NLP 2023
+- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback | Hackathon SomosNLP 2023
 
 <EventSummary
     description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
@@ -24,7 +24,7 @@ community: Ponente
     bio=""
 />
 
-- Ask Me Anything con Alejandro Vaca | Hackathon Somos NLP 2023
+- Ask Me Anything con Alejandro Vaca | Hackathon SomosNLP 2023
 
 <EventSummary
     description=""
@@ -38,7 +38,7 @@ community: Ponente
     bio=""
 />
 
-- BiomedIA: 1er premio Hackathon Somos NLP 2022 | Proyectos de la comunidad
+- BiomedIA: 1er premio Hackathon SomosNLP 2022 | Proyectos de la comunidad
 
 <EventSummary
     description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible.
@@ -47,7 +47,7 @@ community: Ponente
     video="https://www.youtube.com/embed/fOQLPuXewzE"
 />
 
-- RigoBERTa: Entrenando un modelo SOTA | Hackathon Somos NLP 2022
+- RigoBERTa: Entrenando un modelo SOTA | Hackathon SomosNLP 2022
 
 <EventSummary
     description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."

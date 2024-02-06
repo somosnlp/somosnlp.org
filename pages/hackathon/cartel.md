@@ -1,6 +1,6 @@
 ---
-title: "Hackathon Somos NLP 2024: Diseña el Cartel"
-description: ¡Diseña el cartel del hackathon Somos NLP 2024!.
+title: "Hackathon SomosNLP 2024: Diseña el Cartel"
+description: ¡Diseña el cartel del hackathon SomosNLP 2024!.
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
@@ -22,7 +22,7 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 - Fecha: 1 al 24 de marzo de 2024
 - Página web: somosnlp.org/hackathon
 - #HackathonSomosNLP
-- [Logo de Somos NLP](https://github.com/somosnlp/assets/blob/main/logo_somos_nlp.png)
+- [Logo de SomosNLP](https://github.com/somosnlp/assets/blob/main/logo_somos_nlp.png)
 - Algún elemento gráfico extra
 
 ## 📝 Notas

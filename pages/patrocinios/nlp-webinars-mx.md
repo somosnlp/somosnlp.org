@@ -10,7 +10,7 @@ type: 3. Bronce
 
 ## Colaboración
 
-- Organización patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Organización patrocinadora de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 <div class="flex justify-center">
     <img alt="NLPmx" width="250" height="140" 

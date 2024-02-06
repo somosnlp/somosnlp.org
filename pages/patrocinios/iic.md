@@ -10,11 +10,11 @@ type: 3. Bronce
 
 ## Colaboración
 
-- Instituto patrocinador expert del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Instituto patrocinador expert del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo del IIC
 
-- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback, Alejandro Vaca | Hackathon Somos NLP 2023
+- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback, Alejandro Vaca | Hackathon SomosNLP 2023
 
 <EventSummary
     description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
@@ -28,7 +28,7 @@ type: 3. Bronce
     bio=""
 />
 
-- BiomedIA: 1er puesto Hackathon Somos NLP 2022, Alejandro Vaca, David Betancur, Alba Segurado, Guillem García y Álvaro Barbero
+- BiomedIA: 1er puesto Hackathon SomosNLP 2022, Alejandro Vaca, David Betancur, Alba Segurado, Guillem García y Álvaro Barbero
 
 <EventSummary
     description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible.
@@ -37,7 +37,7 @@ type: 3. Bronce
     video="https://www.youtube.com/embed/fOQLPuXewzE"
 />
 
-- RigoBERTa: Entrenando un modelo SOTA, Alejandro Vaca, Helena Montoro, Nuria Aldama y Álvaro Barbero | Hackathon Somos NLP 2022
+- RigoBERTa: Entrenando un modelo SOTA, Alejandro Vaca, Helena Montoro, Nuria Aldama y Álvaro Barbero | Hackathon SomosNLP 2022
 
 <EventSummary
     description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."

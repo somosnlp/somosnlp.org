@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- De la idea a la startup | Hackathon Somos NLP 2023
+- De la idea a la startup | Hackathon SomosNLP 2023
 
 <EventSummary
     description="En la charla abordaremos cual es el camino que recorre un proyecto en estadio idea hasta convertirse en una startup con alcance global. En este camino veremos específicamente cómo financiarse para crecer y qué puntos son relevantes para un inversor. No te pierdas los consejos que vamos a darte!"
@@ -27,7 +27,7 @@ community: Ponente
 
 ## Colaboración
 
-- AgilMentor fue empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
+- AgilMentor fue empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
 
 ## Biografía
 

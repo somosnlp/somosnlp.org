@@ -44,7 +44,7 @@ lang: es
 duration: 3min
 cover: https://raw.githubusercontent.com/somosnlp/assets/main/logo.svg
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury

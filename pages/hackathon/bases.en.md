@@ -1,5 +1,5 @@
 ---
-title: Guidelines of Somos NLP Hackathon 2024
+title: Guidelines of SomosNLP Hackathon 2024
 description: All you need to know to submit a good project at the hackathon
 lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
@@ -18,7 +18,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 Participating in our hackathon and applying your knowledge to democratize PLN in Spanish is very simple, go ahead!
 
 1. Join our community on [Discord](https://discord.com/invite/my8w7JUxZR) (and introduce yourself!)
-2. Create an account at [Hugging Face](https://huggingface.co/join) and join the organization of [Somos NLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
+2. Create an account at [Hugging Face](https://huggingface.co/join) and join the organization of [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
 3. Register at [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
 4. By the moment this is all, we will publish the details of the competition on March 1.
 
@@ -29,4 +29,4 @@ Do you have two hours to help us with the organization of this amazing event? We
 
 If you would like your university to participate in the hackathon, read how [here](https://somosnlp.org/hackathon/universidades).
 
-All the help is welcome, [contact us to sponsor the Somos NLP Hackathon 2024](https://forms.gle/sEkxstwbJSRYpgDa8).
+All the help is welcome, [contact us to sponsor the SomosNLP Hackathon 2024](https://forms.gle/sEkxstwbJSRYpgDa8).

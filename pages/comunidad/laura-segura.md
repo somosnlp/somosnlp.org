@@ -10,7 +10,7 @@ community: Escritora
 
 ## Colaboración
 
-- Autora de la llamada a patrocinar el Hackathon Somos NLP 2023
+- Autora de la llamada a patrocinar el Hackathon SomosNLP 2023
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/hackathon" target="_blank">

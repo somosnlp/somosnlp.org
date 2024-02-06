@@ -84,7 +84,7 @@ Recursos:
 Recursos:
 - <a href="https://somosnlp.org/hackathon-2023/fine-tuning-llms" target="_blank">Taller práctico: Fine-tuning de grandes modelos de lenguaje</a> impartido por Manu Romero, el mayor contribuidor del Hub de Hugging Face. *(Grabación ya disponible)*
 - <a href="https://somosnlp.org/hackathon-2023/what-is-q-blocks" target="_blank">Taller: How to get started with Q Blocks</a> impartido por Gaurav Vij, Head of Product & Co-founder de Q Blocks.
-- <a href="https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de Somos NLP. *(Grabación ya disponible)*
+- <a href="https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos" target="_blank">Detección y mitigación de sesgos en modelos de lenguaje</a> impartido por María Grandury, ML Research Engineer en neurocat y fundadora de SomosNLP. *(Grabación ya disponible)*
 - Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como
 <a href="https://mlco2.github.io/impact" target="_blank">ML CO2 Impact</a> o 
 <a href="https://codecarbon.io" target="_blank">Code Carbon</a>,
@@ -117,7 +117,7 @@ para que aparezcan en la
 target="_blank">leaderboard</a>
 y todo el mundo pueda verlo y darle likes. Habrá una mención de honor al proyecto con más ❤️
 - Puedes compartir tu proyecto en el canal #nuestros-proyectos.
-- Si quieres compartir tu proyecto en redes utiliza el hashtag #HackathonSomosNLP y menciona a Somos NLP para que le demos más visibilidad.
+- Si quieres compartir tu proyecto en redes utiliza el hashtag #HackathonSomosNLP y menciona a SomosNLP para que le demos más visibilidad.
 
 ## FAQ
 

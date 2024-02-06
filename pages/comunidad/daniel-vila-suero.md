@@ -10,7 +10,7 @@ community: Activo
 
 ## Ponencias
 
-- Introducción a Argilla | [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
+- Introducción a Argilla | [Hackathon SomosNLP 2023](https://somosnlp.org/blog/hackathon-2023)
 
 <EventSummary
     description="En este taller, usaremos Argilla para sacar el máximo provecho a todas las innovaciones recientes en el mundo del PLN. En particular, intentaremos responder a la siguiente pregunta: ¿cómo evaluar, adaptar y crear modelos incorporando feedback humano en tus proyectos de PLN?"
@@ -24,7 +24,7 @@ community: Activo
     bio=""
 />
 
-- Etiquetado de datos para PLN con Rubrix | [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
+- Etiquetado de datos para PLN con Rubrix | [Hackathon SomosNLP 2022](https://somosnlp.org/blog/hackathon-2022)
 
 
 <EventSummary
@@ -43,7 +43,7 @@ community: Activo
     </a>
 </div>
 
-- Argilla es empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
+- Argilla es empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
 
 ## Biografía
 

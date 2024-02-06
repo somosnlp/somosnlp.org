@@ -13,14 +13,14 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
 
 ## Colaboración
 
-- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
-- Patrocinador de oro del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
+- Patrocinador de oro del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 ## Eventos con el equipo de Hugging Face
 
-- Ask Me Anything con Omar Sanseviero | Hackathon Somos NLP 2023
+- Ask Me Anything con Omar Sanseviero | Hackathon SomosNLP 2023
 
-- Análisis de error en modelos de PLN, Omar Sanseviero | Hackathon Somos NLP 2022
+- Análisis de error en modelos de PLN, Omar Sanseviero | Hackathon SomosNLP 2022
 
 <EventSummary
     description="En esta charla, Omar explicará diferentes mecanismos para evaluar un modelo y encontrar errores. ¡La charla hablará sobre diferentes métricas, técnicas de depuración de transformadores, revisión de datos y más!"
@@ -35,7 +35,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     hide_personal_info=True
 />
 
-- Ask Me Anything con Lewis Tunstall | Hackathon Somos NLP 2022
+- Ask Me Anything con Lewis Tunstall | Hackathon SomosNLP 2022
 
 <EventSummary
     description="Pregúntale lo que quieras a Lewis Tunstall, Ingeniero de ML en Hugging Face y Co-Autor del libro 'Natural Language Processing with Transformers' junto con Leandro von Werra y Thomas Wolf. Además, el host de este AMA será Manuel Romero, el mayor contribuidor del Model Hub de Hugging Face. Te resolverán todas tus dudas relacionadas con el libro de Lewis, el ecosistema de Hugging Face y el desarrollo tu proyecto. ¡No te pierdas esta oportunidad!"
@@ -50,7 +50,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     hide_personal_info=True
 />
 
-- Crear una demo en Spaces con Gradio, Omar Espejel | Hackathon Somos NLP 2022
+- Crear una demo en Spaces con Gradio, Omar Espejel | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""
@@ -58,7 +58,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     video="https://www.youtube.com/embed/Q0t1bNoa0tI"
 />
 
-- Crear una demo en Spaces con Streamlit, Omar Espejel | Hackathon Somos NLP 2022
+- Crear una demo en Spaces con Streamlit, Omar Espejel | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""
@@ -66,7 +66,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     video="https://www.youtube.com/embed/u3ThC9u2-Uc"
 />
 
-- Crear una demo en Spaces con Flask, Omar Sanseviero | Hackathon Somos NLP 2022
+- Crear una demo en Spaces con Flask, Omar Sanseviero | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""
@@ -78,7 +78,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

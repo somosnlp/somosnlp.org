@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- Proyecto BERTIN: Entrenando LMs en Español de manera abierta | Hackathon Somos NLP 2023
+- Proyecto BERTIN: Entrenando LMs en Español de manera abierta | Hackathon SomosNLP 2023
 
 <EventSummary
     description="En esta charla presentaremos el origen de BERTIN y los nuevos modelos generativos liberados como parte de la iniciativa, que tiene como objetivo entrenar modelos de lenguaje en español de forma abierta, lo que significa que los datos y el código utilizados en el proceso de entrenamiento son accesibles para cualquier persona interesada en ellos."

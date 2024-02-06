@@ -5,10 +5,10 @@ useHead({
         { name: 'twitter:card', content: 'summary' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
-        { name: 'twitter:title', content: 'Comunidad Somos NLP' },
+        { name: 'twitter:title', content: 'Comunidad SomosNLP' },
         { name: 'twitter:description', content: 'Únete a nuestra comunidad internacional de personas apasionadas por el PLN' },
         { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
-        { name: 'twitter:image:alt', content: 'Logo de la comunidad Somos NLP' }
+        { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
     ]
 })
 </script>

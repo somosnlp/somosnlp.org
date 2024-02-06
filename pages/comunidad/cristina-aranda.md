@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- Inteligencia Artificial y Procesamiento de Lenguaje Natural, una apasionante encrucijada | Hackathon Somos NLP 2022
+- Inteligencia Artificial y Procesamiento de Lenguaje Natural, una apasionante encrucijada | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""
@@ -27,7 +27,7 @@ La inteligencia artificial (IA) forma parte de forma silenciosa de nuestro día 
 
 ## Colaboración
 
-- Gestión del patrocinio de Mujeres Tech y Big Onion | Hackathon Somos NLP 2023
+- Gestión del patrocinio de Mujeres Tech y Big Onion | Hackathon SomosNLP 2023
 
 ## Biografía
 

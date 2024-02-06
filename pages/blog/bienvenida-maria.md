@@ -6,7 +6,7 @@ lang: es
 duration: 1min
 cover: "https://huggingface.co/spaces/PlanTL-GOB-ES/README/resolve/main/maria.jpg"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury

@@ -10,9 +10,9 @@ community: Colaboración
 
 ## Colaboración
 
-- Miembro del jurado del Hackathon Somos NLP 2023
-- Colaboración en la definición de las bases del [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
-- Big Onion Tech y Spain AI fueron entidades patrocinadoras de bronce del Hackathon Somos NLP 2023
+- Miembro del jurado del Hackathon SomosNLP 2023
+- Colaboración en la definición de las bases del [Hackathon SomosNLP 2023](https://somosnlp.org/blog/hackathon-2023)
+- Big Onion Tech y Spain AI fueron entidades patrocinadoras de bronce del Hackathon SomosNLP 2023
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/hackathon" target="_blank">

@@ -12,11 +12,11 @@ Big Onion es un equipo de personas experimentadas en innovación con foco en neg
 
 ## Colaboración
 
-- Empresa patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Empresa patrocinadora de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo de Big Onion
 
-- Inteligencia Artificial y Procesamiento de Lenguaje Natural, una apasionante encrucijada, con Cristina Aranda | Hackathon Somos NLP 2022
+- Inteligencia Artificial y Procesamiento de Lenguaje Natural, una apasionante encrucijada, con Cristina Aranda | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""

@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- BiomedIA: 1er puesto Hackathon Somos NLP 2022
+- BiomedIA: 1er puesto Hackathon SomosNLP 2022
 
 <EventSummary
     description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible.
@@ -19,7 +19,7 @@ community: Ponente
     video="https://www.youtube.com/embed/fOQLPuXewzE"
 />
 
-- RigoBERTa: Entrenando un modelo SOTA | Hackathon Somos NLP 2022
+- RigoBERTa: Entrenando un modelo SOTA | Hackathon SomosNLP 2022
 
 <EventSummary
     description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."

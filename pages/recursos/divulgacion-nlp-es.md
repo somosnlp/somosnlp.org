@@ -13,7 +13,7 @@ cover: https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_T
 ### PLN y lingüística computacional
 - [DiverTLes](https://divertles.ujaen.es/actividades/mesas-redondas/): Mesas redondas protagonizadas por mujeres que trabajan e investigan en Tecnologías del Lenguaje.
 - [NLP Spain](https://www.meetup.com/es-ES/nlp-spain/events/past/): Meetups de "una comunidad para disfrutar divulgando y aprendiendo sobre PLN y todas sus vertientes".
-- [Somos NLP](https://www.youtube.com/c/somosnlp): Charlas y talleres impartidos por profesionales del PLN durante el mayor hackathon open-source de PLN en nuestro idioma.
+- [SomosNLP](https://www.youtube.com/c/somosnlp): Charlas y talleres impartidos por profesionales del PLN durante el mayor hackathon open-source de PLN en nuestro idioma.
 
 ### Inteligencia Artificial
 - [Spain AI](https://www.spain-ai.com/eventos/): Charlas y talleres de todos los niveles con el objetivo de hacer llegar la IA a todo el mundo.

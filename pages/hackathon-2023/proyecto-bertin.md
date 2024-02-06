@@ -38,5 +38,5 @@ Javier de la Rosa es Senior Research Scientist en el Laboratorio de Inteligencia
 
 ## Charlas relacionadas
 
-- [Estrategias de simplificación para LLMs](https://somosnlp.org/hackathon-2023/estrategias-de-simplificacion-para-llms), Paulo Villegas | Hackathon Somos NLP 2023
-- [Muestreo de datos para entrenamiento de modelos](https://somosnlp.org/hackathon-2022/muestreo-de-datos-para-entrenamiento-de-modelos-nlp), Paulo Villegas | Hackathon Somos NLP 2022
+- [Estrategias de simplificación para LLMs](https://somosnlp.org/hackathon-2023/estrategias-de-simplificacion-para-llms), Paulo Villegas | Hackathon SomosNLP 2023
+- [Muestreo de datos para entrenamiento de modelos](https://somosnlp.org/hackathon-2022/muestreo-de-datos-para-entrenamiento-de-modelos-nlp), Paulo Villegas | Hackathon SomosNLP 2022

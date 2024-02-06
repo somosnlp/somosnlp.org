@@ -11,7 +11,7 @@ community: Colaboración
 
 ## Ponencias
 
-- 2 sesiones Ask Me Anything durante el Hackathon Somos NLP 2022
+- 2 sesiones Ask Me Anything durante el Hackathon SomosNLP 2022
 
 <EventSummary
     description="Pregúntale lo que quieras a Lewis Tunstall, Ingeniero de ML en Hugging Face y Co-Autor del libro 'Natural Language Processing with Transformers' junto con Leandro von Werra y Thomas Wolf. Además, el host de este AMA será Manuel Romero, el mayor contribuidor del Model Hub de Hugging Face. Te resolverán todas tus dudas relacionadas con el libro de Lewis, el ecosistema de Hugging Face y el desarrollo tu proyecto. ¡No te pierdas esta oportunidad!"
@@ -30,14 +30,14 @@ community: Colaboración
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 
 ## Colaboración
 
-- Colaboración en la organización del Hackathon Somos NLP 2022
-- Envío de 5 copias firmadas del libro "NLP with Transformers" al equipo ganador del Hackathon Somos NLP 2022
+- Colaboración en la organización del Hackathon SomosNLP 2022
+- Envío de 5 copias firmadas del libro "NLP with Transformers" al equipo ganador del Hackathon SomosNLP 2022
 - Co-organización del curso "NLP de 0 a 100"
 
 ## Biografía

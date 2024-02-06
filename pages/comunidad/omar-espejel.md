@@ -11,12 +11,12 @@ community: Colaboración
 
 ## Ponencias
 
-- Crear una demo en Spaces con Gradio | Hackathon Somos NLP 2022
-- Crear una demo en Spaces con Streamlit | Hackathon Somos NLP 2022
+- Crear una demo en Spaces con Gradio | Hackathon SomosNLP 2022
+- Crear una demo en Spaces con Streamlit | Hackathon SomosNLP 2022
 
 ## Colaboración
 
-- Gran ayuda en la organización del [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
+- Gran ayuda en la organización del [Hackathon SomosNLP 2022](https://somosnlp.org/blog/hackathon-2022)
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">

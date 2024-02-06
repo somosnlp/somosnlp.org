@@ -27,7 +27,7 @@ const showPastEvents = ref(true);
         }}</p>
         <h1 class="font-medium tracking-tighter text-3xl">{{ t('landing-page.heading') }}</h1>
       </div>
-      <img class="mx-auto my-8" alt="Somos NLP logo" width="320" length="320"
+      <img class="mx-auto my-8" alt="SomosNLP logo" width="320" length="320"
         src="https://somosnlp.github.io/assets/logo.svg" />
       <p text="lg">{{ t('landing-page.heading-2') }}</p>
       <div class="mt-10 grid gap-4 lg:grid-cols-2">

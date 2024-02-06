@@ -12,7 +12,7 @@ Software Themis es el primer corrector de lenguaje sexista.
 
 ## Colaboración
 
-- Empresa patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Empresa patrocinadora de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo de Themis
 

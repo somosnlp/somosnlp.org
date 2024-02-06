@@ -10,7 +10,7 @@ community: Activo
 
 ## Ponencias
 
-- Impacto de los LLMs en el mundo actual | Hackathon Somos NLP 2023
+- Impacto de los LLMs en el mundo actual | Hackathon SomosNLP 2023
 
 <EventSummary
     description="En esta keynote se explorará el impacto de los Modelos de Lenguaje de Aprendizaje Profundo (LLM) en la sociedad, así como su alcance y las implicaciones éticas y económicas de su adopción. Se analizarán las oportunidades y desafíos que plantea esta tecnología en rápida evolución y se propondrán pautas para una adopción responsable y equitativa."

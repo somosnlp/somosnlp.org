@@ -28,8 +28,8 @@ community: Ponente
 
 ## Colaboración
 
-- Gestión del patrocinio de DiverTLes durante el [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
-- Miembro del jurado del Hackathon Somos NLP 2022
+- Gestión del patrocinio de DiverTLes durante el [Hackathon SomosNLP 2023](https://somosnlp.org/blog/hackathon-2023)
+- Miembro del jurado del Hackathon SomosNLP 2022
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">
@@ -37,7 +37,7 @@ community: Ponente
     </a>
 </div>
 
-- Gestión del patrocinio de DiverTLes y PLNnet durante el [Hackathon Somos NLP 2022](https://somosnlp.org/blog/hackathon-2022)
+- Gestión del patrocinio de DiverTLes y PLNnet durante el [Hackathon SomosNLP 2022](https://somosnlp.org/blog/hackathon-2022)
 
 ## Biografía
 

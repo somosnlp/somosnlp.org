@@ -6,7 +6,7 @@ lang: es
 duration: 1min
 cover: "https://github.com/somosnlp/assets/raw/main/images/eventos/240116_impulse_ai.png"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury

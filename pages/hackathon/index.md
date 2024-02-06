@@ -1,11 +1,11 @@
 ---
-title: "Hackathon Somos NLP 2024: #Somos600M"
+title: "Hackathon SomosNLP 2024: #Somos600M"
 description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y a estandarizar cómo evaluar nuestros LLMs.
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon Somos NLP, una competición internacional online cuyo objetivo principal es **crear recursos abiertos de PLN en español y lenguas cooficiales**.
+Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos abiertos de PLN en español y lenguas cooficiales**.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
@@ -15,7 +15,7 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ## 🚀 Nuestros objetivos
 
-La democratización del PLN en español es nuestro objetivo principal en Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
+La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
 
 En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
@@ -47,7 +47,7 @@ En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos 
 
 Al unirte a este hackathon tendrás la oportunidad de comprender cómo funcionan los grandes modelos del lenguaje (LLMs) y descubrir de manera aplicada los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento y evaluación.
 
-Desde Somos NLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
+Desde SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
 
 <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 

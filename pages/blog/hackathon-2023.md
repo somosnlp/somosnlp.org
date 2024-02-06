@@ -6,14 +6,14 @@ lang: es
 duration: 1min
 cover: https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Ha finalizado la segunda edición del [hackathon de Somos NLP](https://somosnlp.org/hackathon), ¡vaya experiencia!
+Ha finalizado la segunda edición del [hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia!
 
 <div class="flex justify-center">
     <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" alt="Cartel Hackathon 2023" width="560" height="315"/>

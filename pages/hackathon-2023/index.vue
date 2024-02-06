@@ -2,15 +2,15 @@
 import { useHead } from '@vueuse/head'
 
 useHead({
-    title: 'Hackathon Somos NLP 2023: Los LLMs hablan Español',
+    title: 'Hackathon SomosNLP 2023: Los LLMs hablan Español',
     meta: [
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
-        { name: 'twitter:title', content: 'Hackathon Somos NLP 2023: Los LLMs hablan Español' },
+        { name: 'twitter:title', content: 'Hackathon SomosNLP 2023: Los LLMs hablan Español' },
         { name: 'twitter:description', content: '¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
         { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg' },
-        { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
+        { name: 'twitter:image:alt', content: 'Cartel del Hackathon de SomosNLP' }
     ]
 })
 
@@ -19,7 +19,7 @@ useHead({
 <template>
     <Container class="my-12">
         <header class="m-auto text-center prose">
-            <h1>Hackathon Somos NLP 2023: Los LLMs hablan Español</h1>
+            <h1>Hackathon SomosNLP 2023: Los LLMs hablan Español</h1>
             <p class="text-lg">
                 Construye al lado de profesionales, expertas y mentores la siguiente generación de modelos de PLN en tu
                 idioma
@@ -83,7 +83,7 @@ useHead({
 
             <p>
                 La democratización del PLN en español es el objetivo principal
-                de Somos NLP y creemos que una de las mejores maneras de avanzar
+                de SomosNLP y creemos que una de las mejores maneras de avanzar
                 hacia este objetivo es creando más recursos abiertos de PLN en
                 nuestro idioma.
             </p>
@@ -232,7 +232,7 @@ useHead({
 
             <h2 id="recursos">📖 Talleres y AMAs</h2>
             <p>
-                Desde el equipo de Somos NLP queremos animarte a participar
+                Desde el equipo de SomosNLP queremos animarte a participar
                 independientemente de tus conocimientos actuales.
             </p>
             <ul>
@@ -313,7 +313,7 @@ useHead({
                     crear un MVP a partir de vuestro proyecto
                 </li>
                 <li>
-                    📜 Certificado de participación o de equipo ganador del "Hackathon Somos NLP 2023: Los LLMs hablan
+                    📜 Certificado de participación o de equipo ganador del "Hackathon SomosNLP 2023: Los LLMs hablan
                     Español"
                     (verificado en nuestra web)
                 </li>

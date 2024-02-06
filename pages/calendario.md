@@ -1,6 +1,6 @@
 ---
 title: Calendario de eventos de PLN
-description: Charlas y talleres sobre PLN impartidas por Somos NLP y organizaciones colaboradoras
+description: Charlas y talleres sobre PLN impartidas por SomosNLP y organizaciones colaboradoras
 cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_calendar.png"
 ---
 
@@ -18,7 +18,7 @@ cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_calendar.p
 ¿Estás organizando un evento? ¡Publícalo en este calendario!
 
 Requisitos:
-- La temática del evento debe estar alineada con la misión de Somos NLP.
+- La temática del evento debe estar alineada con la misión de SomosNLP.
 - El evento debe ser impartido en español o alguna de las lenguas cooficiales. Ocasionalmente también se publicarán eventos en inglés sobre PLN multilingüe.
 - El evento debe ser gratuito. En caso de ser un evento de pago, solo se publicarán eventos que ofrezcan un descuento a los miembros de la comunidad.
 

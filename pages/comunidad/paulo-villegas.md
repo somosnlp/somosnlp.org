@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- Estrategias de simplificación para LLMs | Hackathon Somos NLP 2023
+- Estrategias de simplificación para LLMs | Hackathon SomosNLP 2023
 
 <EventSummary
     description="Los modelos grandes de lenguaje (LLM) tienen capacidades impresionantes para el análisis y la generación de lenguaje. Pero son cada vez más grandes, y eso demanda cada vez más recursos de computación, con costes económicos, ecológicos y de accesibilidad.
@@ -26,7 +26,7 @@ community: Ponente
     hide_personal_info=True
 />
 
-- Muestreo de datos para entrenamiento de modelos | Hackathon Somos NLP 2022
+- Muestreo de datos para entrenamiento de modelos | Hackathon SomosNLP 2022
 
 <EventSummary
     description="Los modelos NLP modernos con arquitectura tipo Transformer son increíblemente efectivos, pero también necesitan una increíble cantidad de datos para entrenar bien. En esta charla comentaré procedimientos para filtrar adecuadamente esos datasets de entrenamiento, especialmente el muestreo basado en perplejidad."

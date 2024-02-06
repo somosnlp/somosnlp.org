@@ -6,14 +6,14 @@ lang: es
 duration: 4min
 cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Presentamos las empresas patrocinadores de oro del Hackathon Somos NLP 2023:
+Presentamos las empresas patrocinadores de oro del Hackathon SomosNLP 2023:
 Argilla,
 Hugging Face,
 Q Blocks,

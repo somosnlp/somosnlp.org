@@ -1,5 +1,5 @@
 ---
-title: "Somos NLP Hackathon 2024: Info for universities"
+title: "SomosNLP Hackathon 2024: Info for universities"
 description: Encourage your students to participate in this hackathon!
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
