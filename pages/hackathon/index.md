@@ -9,7 +9,7 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
+<iframe width="650" height="375" src="https://www.youtube.com/embed/VZl4xI3Oeuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 🚀 Nuestros objetivos
 
@@ -83,7 +83,7 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 <details  style="margin-bottom: 20px;">
 <summary>🔊 Propón una ponencia</summary>
 
-Comparte tu experiencia y conocimiento con la comunidad. Lee los temas sugeridos y mándanos tu propuesta.
+Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances. ¡Lee los temas sugeridos y mándanos tu propuesta!
 
 <center><a href="https://somosnlp.org/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
 
@@ -92,7 +92,7 @@ Comparte tu experiencia y conocimiento con la comunidad. Lee los temas sugeridos
 <details  style="margin-bottom: 20px;">
 <summary>🧑‍🏫 Ofrece una mentoría</summary>
 
-Comparte tu experiencia y conocimiento apoyando a los equipos participantes. Puedes impartir una mentoría puntual o continua.
+Comparte tu experiencia y conocimiento apoyando a los equipos participantes a crear bases de datos de calidad y entrenar un buen LLM. Puedes impartir una mentoría puntual o continua. ¡Piensa en tus puntos fuertes y ofrece una mentoría!
 
 <center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
 
@@ -101,7 +101,7 @@ Comparte tu experiencia y conocimiento apoyando a los equipos participantes. Pue
 <details  style="margin-bottom: 20px;">
 <summary>🙌 Patrocina este maravilloso evento</summary>
 
-Buscamos donaciones, premios y visibilidad. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión. ¡Contamos contigo!
+SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y crear impacto en el mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión. ¡Contamos contigo!
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
