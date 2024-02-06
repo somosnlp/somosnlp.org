@@ -20,7 +20,7 @@
                     evento</span>
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon Somos NLP 2024" width="650" height="365"
-                        src="https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png" />
+                        src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
                 </a>
             </div>
 

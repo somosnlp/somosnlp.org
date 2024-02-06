@@ -2,12 +2,12 @@
 title: "Somos NLP 2024 Hackathon: We are 600M"
 description: We are going to create a corpus that represents the 600M people who speak Spanish and to standardize how to evaluate our LLMs.
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 We are 600M people speaking Spanish, and we plan to give our widespread (and beautiful) language a fair representation in the NLP context. Our mission at Somos NLP is to democratize and accelerate advances of NLP in Spanish 🚀 
 
-After two editions with more than 1,000 participants from 30 different countries, we exceeded 10,000 views of our events, learned from 20 speakers, completed 50 projects, and published 3 papers... We are back for that and much more! 💪
+After two editions with more than 1,000 participants from 30 different countries, we exceeded 10,000 views of our events, learned from 20 speakers, completed 50 projects with social impact, and published 3 papers... We are back for that and much more! 💪
 
 Join the third edition of the largest open-source Natural Language Processing hackathon in Spanish!
 
@@ -20,7 +20,7 @@ Join the third edition of the largest open-source Natural Language Processing ha
 - [🙌 Sponsor us](https://forms.gle/sEkxstwbJSRYpgDa8)
 - [💡 Info for universities](https://somosnlp.org/hackathon/universidades)
 
-![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png)
+![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
 
 The democratization of LNP in Spanish is the main objective of Somos NLP and we believe that one of the best ways to move towards this goal is by promoting the creation of more open NLP resources in our language.
 

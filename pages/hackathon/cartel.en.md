@@ -2,7 +2,7 @@
 title: "Somos NLP Hackathon 2024: Design the Poster"
 description: Design the Poster for the Somos NLP Hackathon 2024!
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 To promote different skills in our community, this year we want to give you the chance to design the hackathon poster. The objectives of this year's hackathon are the creation of a quality Spanish corpus that includes the varieties of this rich language spoken by 600M people and the creation of a leaderboard that allows us to evaluate LLMs in Spanish. Show your most artistic version and help us create the poster!

@@ -50,7 +50,7 @@ const showPastEvents = ref(true);
         }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Próximos eventos"
-        src="https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png" />
+        src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
       <p class="my-8">{{ t('landing-page.events.event-description') }}</p>
       <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/hackathon">
         {{ t('landing-page.events.join-event') }}

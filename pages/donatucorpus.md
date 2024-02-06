@@ -2,7 +2,7 @@
 title: Dona tu corpus
 description: Vamos a estandarizar el proceso de evaluación de LLMs en nuestras lenguas y necesitamos tu ayuda
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 El Hackathon Somos NLP 2024 es una iniciativa con dos objetivos ambiciosos:
@@ -12,7 +12,25 @@ El Hackathon Somos NLP 2024 es una iniciativa con dos objetivos ambiciosos:
 Si quieres colaborar con el primer objetivo, ¡increíble!
 ¿Tienes ya el corpus? Mándanos un email a info@somosnlp.org. ¿Te gustaría crearlo con tu equipo o con apoyo de la comunidad? [¡Apúntate al hackathon!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 
-➡️ Si quieres colaborar con el segundo objetivo, ¡sigue leyendo, tu expertise es crucial! Invitamos a especialistas, empresas y grupos de investigación a ser parte de este increíble (y muy necesario) avance donando bases de datos de evaluación. Tu contribución será la base para la creación de una leaderboard pública y unificada, que servirá como referente en el campo.
+➡️ Si quieres colaborar con el segundo objetivo, ¡sigue leyendo, tu expertise es crucial! Invitamos a especialistas, empresas y grupos de investigación a ser parte de este increíble (y muy necesario) avance donando bases de datos de evaluación. Tu contribución es clave para la creación de una leaderboard pública y unificada, que servirá como referente en el campo.
+
+<center><a href="https://forms.gle/c82mcSwNujNk4Pf48" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 ¡Rellena el formulario!</a></center>
+
+
+<!--
+Diferentes tipos de datos
+
+Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa #Somos600M está centrada principalmente en la creación y recolección de bases de datos. Así que **tanto si tienes un maravilloso corpus como si tienes un montón de documentos, ¡seguro que puedes colaborar!**
+
+Será un placer contar con tus datos si:
+- No sabes lo que es un "corpus" pero tienes grandes cantidades de documentos que te gustaría publicar para que los modelos de lenguaje se expresen mejor en tu idioma (y que funcionen mejor para tus tareas del día a día), ¡contáctanos!
+- Tienes una base de datos que te gustaría utilizar para automatizar tus tareas diarias, ¡apúntate al hackathon!
+- Tienes un corpus de entrenamiento que te gustaría donar para que la siguiente generación de LLMs en español y lenguas cooficiales funcionen mejor para tu caso de uso, ¡dona tu corpus!
+- Tienes un corpus de evaluación creado por especialistas y quieres participar en la creación de la primera leaderboard pública de LLMs en español, ¡dona tu corpus!
+
+En cualquier caso, mándanos un correo a info@somosnlp.org o contáctanos por Discord, ¡te estamos esperando!
+-->
+
 
 ## 💡 Motivación y preguntas frecuentes
 
