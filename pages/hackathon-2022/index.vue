@@ -2,15 +2,15 @@
 import { useHead } from '@vueuse/head'
 
 useHead({
-    title: 'Hackathon Somos NLP 2022 - Democratizando el NLP en español',
+    title: 'Hackathon SomosNLP 2022 - Democratizando el NLP en español',
     meta: [
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:site', content: '@somosnlp_' },
         { name: 'twitter:creator', content: '@somosnlp_' },
-        { name: 'twitter:title', content: 'Hackathon Somos NLP 2022' },
+        { name: 'twitter:title', content: 'Hackathon SomosNLP 2022' },
         { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
         { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/hackathon_pln_es_3.png' },
-        { name: 'twitter:image:alt', content: 'Cartel del Hackathon de Somos NLP' }
+        { name: 'twitter:image:alt', content: 'Cartel del Hackathon de SomosNLP' }
     ]
 })
 </script>
@@ -205,7 +205,7 @@ useHead({
 
             <h2 id="recursos">📖 Recursos</h2>
             <p>
-                Desde el equipo de Somos NLP queremos animarte a participar independientemente de
+                Desde el equipo de SomosNLP queremos animarte a participar independientemente de
                 tus conocimientos actuales.
             </p>
             <ul>

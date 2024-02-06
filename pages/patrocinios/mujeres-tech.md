@@ -12,11 +12,11 @@ Mujeres Tech es una asociación sin ánimo de lucro que nace a principios de 201
 
 ## Colaboración
 
-- Asociación patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Asociación patrocinadora de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo de MujeresTech
 
-- Inteligencia Artificial y Procesamiento de Lenguaje Natural, una apasionante encrucijada, con Cristina Aranda | Hackathon Somos NLP 2022
+- Inteligencia Artificial y Procesamiento de Lenguaje Natural, una apasionante encrucijada, con Cristina Aranda | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""

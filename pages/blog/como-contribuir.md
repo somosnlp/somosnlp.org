@@ -6,7 +6,7 @@ lang: es
 duration: 3min
 cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_remote_design_team_0hp4.svg"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury

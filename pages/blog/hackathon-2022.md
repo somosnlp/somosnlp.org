@@ -6,14 +6,14 @@ lang: es
 duration: 6min
 cover: https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Ha finalizado el [primer hackathon de Somos NLP](https://somosnlp.org/hackathon), ¡vaya experiencia! Es todo un placer haber organizado un evento que haya conseguido reunir a más de 500 participantes de 29 países.
+Ha finalizado el [primer hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia! Es todo un placer haber organizado un evento que haya conseguido reunir a más de 500 participantes de 29 países.
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes" width="560" height="315"/>
@@ -23,13 +23,13 @@ Como ya sabéis, la democratización del PLN en español es el objetivo principa
 
 ## ¡Enhorabuena, equipos!
 
-Antes de nada, un aplauso para [TODOS los equipos participantes](https://hf.co/hackathon-pln-es) por vuestro esfuerzo y dedicación. La verdad es que nos lo pusisteis muy complicado a los miembros del jurado y, en nombre de todo el equipo de Somos NLP quiero decir que estamos muy orgullosxs y esperamos que hayáis aprendido mucho y os animéis a participar en las siguientes ediciones.
+Antes de nada, un aplauso para [TODOS los equipos participantes](https://hf.co/hackathon-pln-es) por vuestro esfuerzo y dedicación. La verdad es que nos lo pusisteis muy complicado a los miembros del jurado y, en nombre de todo el equipo de SomosNLP quiero decir que estamos muy orgullosxs y esperamos que hayáis aprendido mucho y os animéis a participar en las siguientes ediciones.
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315"/>
 </div> 
 
-A continuación, los proyectos ganadores de la primera edición del hackathon de PLN en español de Somos NLP:
+A continuación, los proyectos ganadores de la primera edición del hackathon de PLN en español de SomosNLP:
 
 🥇 El proyecto ganador del hackathon fue [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M), desarrollado por el equipo del Instituto de Ingeniería del Conocimiento constituido por Alejandro Vaca, David Betancur, Álvaro Barbero, Alba Segurado y Guillem García. BiomedIA genera, con gran precisión, respuestas a preguntas biomédicas formuladas tanto de manera escrita como oral. BiomedIA también ganó la mención de honor al proyecto más querido por la comunidad al conseguir el mayor número de likes en el hub de Hugging Face. Además, dio lugar al paper ["A Complete Voice-to-Voice Generative Question Answering System for the Biomedical Domain in Spanish"](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) que posteriormente fue presentado en el NAACL 2022, obteniendo el Premio a la Mejor Presentación de Póster.
 
@@ -79,7 +79,7 @@ Gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue m�
 
 ## ¡El año que viene más y mejor!
 
-Muchas gracias de nuevo al equipo de Somos NLP, a los patrocinadores, a los miembros del jurado, a lxs ponentes y, sobre todo, a todas las personas que participasteis, por habernos ayudado a avanzar el estado del arte del PLN en español.
+Muchas gracias de nuevo al equipo de SomosNLP, a los patrocinadores, a los miembros del jurado, a lxs ponentes y, sobre todo, a todas las personas que participasteis, por habernos ayudado a avanzar el estado del arte del PLN en español.
 
 ¡El año que viene más y mejor!
 

@@ -38,7 +38,7 @@ En esta página encontrarás los enlaces a las grabaciones, diapositivas, notebo
 ## Equipo*
 
 [María Grandury](https://www.linkedin.com/in/mariagrandury):
-María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad Somos NLP con el objetivo de acelerar el avance del NLP en español.
+María es una Ingeniera e Investigadora de Machine Learning enfocada en NLP y en la fiabilidad de la IA (i.e. XAI, ataques adversarios). Estudió el doble grado de Matemáticas y Física y actualmente trabaja en neurocat, donde desarrolla una herramienta para explicar y evaluar la estabilidad de cualquier modelo de ML. María forma parte de Women in AI & Robotics cuya misión es promover una IA inclusiva y responsable. También fundó la comunidad SomosNLP con el objetivo de acelerar el avance del NLP en español.
 
 [Manuel Romero](https://www.linkedin.com/in/manuel-romero-cs/):
 Manuel tiene una "mente inquieta y un alma emprendedora". Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con más de 200 modelos.

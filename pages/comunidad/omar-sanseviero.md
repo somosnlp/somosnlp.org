@@ -11,8 +11,8 @@ community: Activo
 
 ## Ponencias
 
-- Ask Me Anything con Omar Sanseviero | Hackathon Somos NLP 2023
-- Análisis de error en modelos de PLN | Hackathon Somos NLP 2022
+- Ask Me Anything con Omar Sanseviero | Hackathon SomosNLP 2023
+- Análisis de error en modelos de PLN | Hackathon SomosNLP 2022
 
 <EventSummary
     description="En esta charla, Omar explicará diferentes mecanismos para evaluar un modelo y encontrar errores. ¡La charla hablará sobre diferentes métricas, técnicas de depuración de transformadores, revisión de datos y más!"
@@ -27,7 +27,7 @@ community: Activo
     hide_personal_info=True
 />
 
-- Crear una demo en Spaces con Flask | Hackathon Somos NLP 2022
+- Crear una demo en Spaces con Flask | Hackathon SomosNLP 2022
 
 <EventSummary
     description=""
@@ -39,16 +39,16 @@ community: Activo
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 
 ## Colaboración
 
-- Gestión del patrocinio de Hugging Face durante el Hackathon Somos NLP 2023
-- Colaboración en la definición de las bases y evaluación de los proyectos del Hackathon Somos NLP 2023
-- Gestión del patrocinio de Hugging Face durante el Hackathon Somos NLP 2022
-- Colaboración en la organización del Hackathon Somos NLP 2022
+- Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2023
+- Colaboración en la definición de las bases y evaluación de los proyectos del Hackathon SomosNLP 2023
+- Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2022
+- Colaboración en la organización del Hackathon SomosNLP 2022
 - Co-organización del curso "NLP de 0 a 100"
 
 ## Biografía

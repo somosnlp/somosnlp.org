@@ -12,7 +12,7 @@ NLP Spain es una comunidad para disfrutar divulgando y aprendiendo sobre Procesa
 
 ## Colaboración
 
-- Comunidad patrocinadora de comunidad del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Comunidad patrocinadora de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Menciones en nuestro blog
 

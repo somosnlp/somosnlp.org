@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- NLP Clínico | Hackathon Somos NLP 2023
+- NLP Clínico | Hackathon SomosNLP 2023
 
 <EventSummary
     description="La idea es explicar por qué es un dominio interesante y sus desafíos actuales. Al asistir a esta charla aprenderás sobre las tareas clásicas de NLP en medicina y los avances en NLP clínico en Chile."
@@ -27,7 +27,7 @@ community: Ponente
 
 ## Colaboración
 
-- El Instituto Milenio Fundamento de los Datos fue [patrocinador de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon Somos NLP 2023
+- El Instituto Milenio Fundamento de los Datos fue [patrocinador de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
 
 
 ## Biografía

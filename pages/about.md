@@ -2,7 +2,7 @@
 title: About
 ---
 
-Comunidad de profesionales, investigadores y estudiantes acelerando el avance del [Somos NLP](https://github.com/somosnlp).
+Comunidad de profesionales, investigadores y estudiantes acelerando el avance del [SomosNLP](https://github.com/somosnlp).
 
 ### Ejemplo
 

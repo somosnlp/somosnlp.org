@@ -1,5 +1,5 @@
 ---
-title: "Hackathon Somos NLP 2024: Patrocinios"
+title: "Hackathon SomosNLP 2024: Patrocinios"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
@@ -86,7 +86,7 @@ Para consideraros patrocinio de Comunidad os pedimos:
 Aclaraciones:
 - "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
 - Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a Somos NLP
+- Recordad siempre mencionar a SomosNLP
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
@@ -104,7 +104,7 @@ Para que la entidad a la que pertenece la persona que imparte la ponencia/mentor
 Notas:
 - "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
 - Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a Somos NLP
+- Recordad siempre mencionar a SomosNLP
 
 Disclaimer: si quieres promocionar tu producto en una charla debes contar con un patrocinio de tipo Oro.
 
@@ -130,7 +130,7 @@ Lo que pedimos a las universidades colaboradoras:
 Notas:
 - "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
 - Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a Somos NLP
+- Recordad siempre mencionar a SomosNLP
 
 Enlaces útiles:
 - [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)

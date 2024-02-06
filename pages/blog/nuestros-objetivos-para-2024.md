@@ -6,7 +6,7 @@ lang: es
 duration: 2min
 cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
@@ -25,7 +25,7 @@ Hoy en Discord un miembro muy activo de la comunidad me ha preguntado cuáles er
 
 ## Continuamos con nuestra misión
 
-Somos NLP es una comunidad abierta y apasionada de hispanohablantes comprometida con una misión crucial: democratizar el Procesamiento del Lenguaje Natural en nuestros idiomas. A través de la creación y promoción de recursos de **código abierto**, queremos impulsar el avance del PLN en español y las lenguas cooficiales.
+SomosNLP es una comunidad abierta y apasionada de hispanohablantes comprometida con una misión crucial: democratizar el Procesamiento del Lenguaje Natural en nuestros idiomas. A través de la creación y promoción de recursos de **código abierto**, queremos impulsar el avance del PLN en español y las lenguas cooficiales.
 
 En los últimos años hemos visto un crecimiento en los recursos disponibles en español, pero aún hay un largo camino por recorrer. Las contribuciones open-source están revolucionando la IA, y tenemos que seguir de cerca los desarrollos en inglés. En el mundo somos más de 599 millones de hispanohablantes (dominio nativo + competencia limitada + estudiantes de español) según el Anuario del Instituto Cervantes de 2023, **¡somos el 7.5% de la población mundial!**
 
@@ -41,7 +41,7 @@ Hay muchas formas de contribuir: participando en el hackathon, compartiendo cono
 
 ## ¡Feliz 2024, nos vemos en Marzo!
 
-Somos NLP es tu comunidad. Queremos escuchar tus ideas y sugerencias para apoyarte en tus proyectos. ¡Estamos en Discord!
+SomosNLP es tu comunidad. Queremos escuchar tus ideas y sugerencias para apoyarte en tus proyectos. ¡Estamos en Discord!
 
 Te esperamos en nuestro próximo encuentro. ¡Feliz año, vamos a hacer de 2024 un año memorable para el NLP en español!
 

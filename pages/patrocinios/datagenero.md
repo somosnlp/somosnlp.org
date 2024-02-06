@@ -10,11 +10,11 @@ type: 2. Plata
 
 ## Colaboración
 
-- Organización patrocinadora expert del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Organización patrocinadora expert del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo de DataGénero
 
-- IA y los feminismos en América Latina: la experiencia del proyecto AymurAI | Hackathon Somos NLP 2023
+- IA y los feminismos en América Latina: la experiencia del proyecto AymurAI | Hackathon SomosNLP 2023
 
 <EventSummary
     description="En esta charla presentaremos el trabajo en conjunto que estamos realizando desde DataGénero - Observatorio de Datos con Perspectiva de Género y el Juzgado N°10 Contravenciona, Penal y de Faltas de la Ciudad de Buenos Aires, para construir una herramienta (software) que genere datos estructurados a partir de datos no estructurados. Nuestro software se llama AymurAI que en quechua significa cosecha. Queremos 'cosechar' datos sobre resoluciones judiciales sobre casos de violencia de género. Nuestra herramienta utiliza reglas y reconocimiento de entidades (NER) para extraer información clave de documentos judiciales, pasa por una pantalla de validación y luego estructura la información recolectada en un set de datos abiertos con perspectiva de género. A través de este proyecto queremos promover la justicia abierta, el gobierno abierto, los datos abiertos con perspectiva de género y la visibilización de problemáticas urgentes a través de los datos."

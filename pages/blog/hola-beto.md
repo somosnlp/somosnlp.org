@@ -6,7 +6,7 @@ lang: es
 duration: 1min
 cover: "https://avatars.githubusercontent.com/u/49038439?s=200&v=4"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury

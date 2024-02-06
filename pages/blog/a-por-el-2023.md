@@ -6,14 +6,14 @@ lang: es
 duration: 4min
 cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Hace casi dos años buscaba recursos para realizar un proyecto de PLN en español y no encontré nada. Entonces creé un grupo en Slack con un par de personas que se habían topado con el mismo problema; nunca imaginé que ese grupo llegaría a convertirse en lo que es hoy Somos NLP. 
+Hace casi dos años buscaba recursos para realizar un proyecto de PLN en español y no encontré nada. Entonces creé un grupo en Slack con un par de personas que se habían topado con el mismo problema; nunca imaginé que ese grupo llegaría a convertirse en lo que es hoy SomosNLP. 
 
 ## 👏 Gracias por estos dos años
 
@@ -35,7 +35,7 @@ Además, durante los días que se celebró el hackathon tuvimos la suerte de con
     </a>
 </div>
 
-A finales del 2022 lanzamos un nuevo tipo de eventos: **"Proyectos de la comunidad"**, con el objetivo de dar visibilidad a proyectos desarrollados por miembros de Somos NLP. Los primeros protagonistas de esta serie fueron un equipo de Omdena Mexico y los equipos ganadores del hackathon que nos explicaron la motivación, retos y desarrollo de sus interesantes proyectos.
+A finales del 2022 lanzamos un nuevo tipo de eventos: **"Proyectos de la comunidad"**, con el objetivo de dar visibilidad a proyectos desarrollados por miembros de SomosNLP. Los primeros protagonistas de esta serie fueron un equipo de Omdena Mexico y los equipos ganadores del hackathon que nos explicaron la motivación, retos y desarrollo de sus interesantes proyectos.
 
 <div class="flex justify-center">
     <a href="https://www.eventbrite.com/o/somos-nlp-42049489323#collections" target="_blank">
@@ -51,7 +51,7 @@ En el 2021 ya habíamos creado, con el apoyo de Spain AI, el curso **"NLP de 0 a
     </a>
 </div>
 
-Así, con estas iniciativas y las de otras organizaciones, estamos consiguiendo darle más visibilidad e importancia al PLN en nuestro idioma. Cuantifiquemos este logro: cuando creé el grupo de Slack del que surgió Somos NLP, había 259 modelos en español en el hub de Hugging Face. A día 3 de enero de 2023 hay [1000 modelos](https://huggingface.co/models?language=es). Hace menos de 2 años había 7 bases de datos monolingües en español y hoy hay [64 bases de datos](https://huggingface.co/datasets?language=language:es&multilinguality=multilinguality:monolingual), 23 de las cuales fueron creadas para el hackathon.
+Así, con estas iniciativas y las de otras organizaciones, estamos consiguiendo darle más visibilidad e importancia al PLN en nuestro idioma. Cuantifiquemos este logro: cuando creé el grupo de Slack del que surgió SomosNLP, había 259 modelos en español en el hub de Hugging Face. A día 3 de enero de 2023 hay [1000 modelos](https://huggingface.co/models?language=es). Hace menos de 2 años había 7 bases de datos monolingües en español y hoy hay [64 bases de datos](https://huggingface.co/datasets?language=language:es&multilinguality=multilinguality:monolingual), 23 de las cuales fueron creadas para el hackathon.
 
 Nos merecemos un muuuy fuerte aplauso 👏👏👏
 
@@ -60,7 +60,7 @@ Nos merecemos un muuuy fuerte aplauso 👏👏👏
 En 2023 seguiremos organizando iniciativas y creando recursos para acelerar el avance del estado del arte del PLN en nuestro idioma. ¿Algunos ejemplos?
 
 🔥 Organizaremos series de eventos con las que llevar tus conocimientos de PLN al siguiente nivel, comenzamos este mes con una serie sobre **Cuantización de Grandes Modelos del Lenguaje**.
-También seguiremos con los "Proyectos de la comunidad", un espacio para dar visibilidad a proyectos desarrollados por miembros de Somos NLP.
+También seguiremos con los "Proyectos de la comunidad", un espacio para dar visibilidad a proyectos desarrollados por miembros de SomosNLP.
 Y... organizaremos otro hackathon para seguir impulsando la creación de bases de datos y modelos del lenguaje abiertos en nuestro idioma.
 
 Durante estas primeras semanas del año iremos anunciando las fechas de los próximos eventos y publicando más detalles, síguenos en [Eventbrite]( https://somosnlp.eventbrite.com) y [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1).
@@ -85,4 +85,4 @@ Somos una comunidad internacional en la que todo el mundo es bienvenido independ
 
 ## 🤗 Feliz 2023
 
-Todo el equipo de Somos NLP te deseamos un muy feliz 2023, ¡en el que esperamos verte mucho! 
+Todo el equipo de SomosNLP te deseamos un muy feliz 2023, ¡en el que esperamos verte mucho! 

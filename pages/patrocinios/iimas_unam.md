@@ -10,7 +10,7 @@ type: 3. Bronce
 
 ## Colaboración
 
-- Universidad patrocinadora de comunidad del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Universidad patrocinadora de comunidad del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 
 <div class="flex justify-center">

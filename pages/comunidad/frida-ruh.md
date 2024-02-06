@@ -11,7 +11,7 @@ community:
 
 ## Colaboración
 
-- Gestión del patrocinio de AI The New Sexy | [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
+- Gestión del patrocinio de AI The New Sexy | [Hackathon SomosNLP 2023](https://somosnlp.org/blog/hackathon-2023)
 - Entrevista a María Grandury en su podcast "AI The New Sexy"
 
 <a href="https://open.spotify.com/episode/38Y2K2gAe8IujRZOMjv1BH?si=S8VO6ifPT4WYWLbSLr91tg"

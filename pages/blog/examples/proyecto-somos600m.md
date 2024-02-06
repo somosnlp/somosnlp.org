@@ -6,7 +6,7 @@ lang: es
 duration: 4min
 cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
@@ -25,4 +25,4 @@ Leaderboard
 
 ...
 
-Lo lanzamos con la tercera edición de nuestro Hackathon Somos NLP...
+Lo lanzamos con la tercera edición de nuestro Hackathon SomosNLP...

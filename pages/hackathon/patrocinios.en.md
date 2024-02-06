@@ -1,5 +1,5 @@
 ---
-title: "Somos NLP Hackathon 2024: Sponsorships"
+title: "SomosNLP Hackathon 2024: Sponsorships"
 description: Thank you for helping us democratize NLP in Spanish!
 lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
@@ -86,7 +86,7 @@ To consider you a Community sponsor we ask you:
 Notes:
 - "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
 - The visual material necessary for the posts will be provided
-- Always remember to mention Somos NLP
+- Always remember to mention SomosNLP
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Fill out the form</a></center>
 
@@ -104,7 +104,7 @@ For the entity to which the person is giving the presentation/mentorship belongs
 Notes:
 - "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
 - The visual material necessary for the posts will be provided
-- Always remember to mention Somos NLP
+- Always remember to mention SomosNLP
 
 Disclaimer: if you want to promote your product in a talk you must have a Gold sponsorship.
 
@@ -130,7 +130,7 @@ What we ask of collaborating universities:
 Notes:
 - "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
 - The visual material necessary for the posts will be provided
-- Always remember to mention Somos NLP
+- Always remember to mention SomosNLP
   
 Useful links:
 - [💡 Info for universities](https://somosnlp.org/hackathon/universidades)

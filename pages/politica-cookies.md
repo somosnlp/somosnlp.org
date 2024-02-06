@@ -24,7 +24,7 @@ Para garantizar el anonimato, Google convertirá su información en anónima tru
 Si usted quiere puede denegar el permiso para el tratamiento estadístico de los datos o la información con Google Analytics, tal y como se describe al final de esta página, en el apartado "Modificar la configuración de las cookies". Esta acción establece que no se envíe la información relativa a la visita del sitio a Google Analytics. Deberá ejecutar esta acción cada vez que cambie de navegador o su configuración. Recuerde que si borra las cookies deberá volver a ejecutar esta acción para volver a denegar el permiso, ya que el indicador de denegación se guarda en una cookie.
 
 ## ACEPTACIÓN DE LA POLÍTICA DE COOKIES
-Navegando por el portal de Somos NLP se asume que usted acepta el uso de cookies. No obstante, usted puede modificar la configuración de las cookies como explicamos a continuación.
+Navegando por el portal de SomosNLP se asume que usted acepta el uso de cookies. No obstante, usted puede modificar la configuración de las cookies como explicamos a continuación.
 
 ## MODIFICAR LA CONFIGURACIÓN DE LAS COOKIES
 Usted puede restringir, bloquear o borrar las cookies de la Sede Judicial Electrónica o cualquier otra página web, utilizando su navegador. En cada navegador la operativa es diferente, la función de 'Ayuda" le mostrará cómo hacerlo:

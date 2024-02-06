@@ -18,11 +18,11 @@ type: 1. Oro
     </a>
 </div>
 
-- Comunidad patrocinadora de oro del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Comunidad patrocinadora de oro del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 ## Eventos con el equipo de Platzi
 
-- Impacto de los LLMs en el mundo actual, Carlos Alarcón | Hackathon Somos NLP 2023
+- Impacto de los LLMs en el mundo actual, Carlos Alarcón | Hackathon SomosNLP 2023
 
 <EventSummary
     description="En esta keynote se explorará el impacto de los Modelos de Lenguaje de Aprendizaje Profundo (LLM) en la sociedad, así como su alcance y las implicaciones éticas y económicas de su adopción. Se analizarán las oportunidades y desafíos que plantea esta tecnología en rápida evolución y se propondrán pautas para una adopción responsable y equitativa."

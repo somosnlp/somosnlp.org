@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- PLN en el sector legal | Hackathon Somos NLP 2023
+- PLN en el sector legal | Hackathon SomosNLP 2023
 
 <EventSummary
     description="Descubre cómo el PLN puede ser utilizado para construir diversas herramientas que apoyen a impartir de justicia."
@@ -25,11 +25,11 @@ community: Ponente
     hide_personal_info=True
 />
 
-- Modelo Jurídico Mexicano: 2o premio Hackathon Somos NLP 2022 | Proyectos de la comunidad
+- Modelo Jurídico Mexicano: 2o premio Hackathon SomosNLP 2022 | Proyectos de la comunidad
 
 ## Colaboración
 
-- Mentora durante el [Hackathon Somos NLP 2023](https://somosnlp.org/blog/hackathon-2023)
+- Mentora durante el [Hackathon SomosNLP 2023](https://somosnlp.org/blog/hackathon-2023)
 
 ## Biografía
 

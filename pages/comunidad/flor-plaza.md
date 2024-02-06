@@ -11,7 +11,7 @@ community: Activo
 
 ## Ponencias
 
-- Detección del lenguaje ofensivo en la era digital: Retos y avances | Hackathon Somos NLP 2023
+- Detección del lenguaje ofensivo en la era digital: Retos y avances | Hackathon SomosNLP 2023
 
 <EventSummary
     description="En esta charla se hablará sobre una de las tareas con más impacto social en el área del PLN: la detección del lenguaje ofensivo. Principales avances y desafíos actuales."

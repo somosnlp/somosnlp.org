@@ -12,16 +12,16 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
 
 ## Colaboración
 
-- Empresa patrocinadora expert del [Hackathon Somos NLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
-- Empresa patrocinadora de comunidad del [Hackathon Somos NLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Empresa patrocinadora expert del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
+- Empresa patrocinadora de comunidad del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 ## Eventos con el equipo de Narrativa
 
-- Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon Somos NLP 2023
+- Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon SomosNLP 2023
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Recorrido por el ecosistema de Hugging Face | Hackathon Somos NLP 2022
+- Recorrido por el ecosistema de Hugging Face | Hackathon SomosNLP 2022
 
 <EventSummary
     description="En este taller Manuel Romero nos mostrará todos las herramientas que Hugging Face provee para colaborar a la democratización de la IA: Tokenizers, Datasets, Model Hub y Spaces. Además, nos enseñará cómo aprovechar todas esas herramientas para crear nuestro modelo (y base de datos) desde cero y ponerlo en producción."
@@ -40,7 +40,7 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="Somos NLP logo" width="560" height="315" />
+        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

@@ -5,7 +5,7 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-El Hackathon Somos NLP 2024 es una iniciativa con dos objetivos ambiciosos:
+El Hackathon SomosNLP 2024 es una iniciativa con dos objetivos ambiciosos:
 1. 🌎 Crear un dataset de instrucciones de calidad y diverso, que cubra una amplia variedad de países representados, registros y temáticas. 
 2. ✅ **Crear una leaderboard pública de LLMs que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales.**
 
@@ -44,7 +44,7 @@ Entendemos que los corpus son muuuy preciados. ¿Por qué donarlos?
 
 4. Publicar en la leaderboard tus resultados no implica que la comunidad tenga acceso a tus modelos.
 
-5. Al donar un corpus te convertirás en patrocinador del Hackathon Somos NLP, ¡lee a continuación todos los beneficios que esto conlleva!
+5. Al donar un corpus te convertirás en patrocinador del Hackathon SomosNLP, ¡lee a continuación todos los beneficios que esto conlleva!
 
 Tu donación no solo contribuye al avance científico, sino que también fortalece tu posición como líder en la innovación del Procesamiento del Lenguaje Natural en tu lengua. 💪
 

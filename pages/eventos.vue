@@ -19,7 +19,7 @@
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximo
                     evento</span>
                 <a href="/hackathon" target="_blank">
-                    <img alt="Hackathon Somos NLP 2024" width="650" height="365"
+                    <img alt="Hackathon SomosNLP 2024" width="650" height="365"
                         src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
                 </a>
             </div>

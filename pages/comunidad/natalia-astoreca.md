@@ -10,7 +10,7 @@ community: Activo
 
 ## Ponencias
 
-- Ask Me Anything sobre etiquetado de datos | Hackathon Somos NLP 2023
+- Ask Me Anything sobre etiquetado de datos | Hackathon SomosNLP 2023
 
 <EventSummary
     description=""
@@ -26,7 +26,7 @@ community: Activo
 
 ## Colaboración
 
-- Mentora de etiquetado de datos durante el Hackathon Somos NLP 2023
+- Mentora de etiquetado de datos durante el Hackathon SomosNLP 2023
 - Co-organización del esfuerzo colaborativo de [limpieza y validación de la traducción de Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
 
 <div class="flex justify-center">

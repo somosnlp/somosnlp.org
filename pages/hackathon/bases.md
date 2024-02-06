@@ -1,5 +1,5 @@
 ---
-title: Bases del Hackathon Somos NLP 2024
+title: Bases del Hackathon SomosNLP 2024
 description: Todo lo que necesitas saber para presentar un buen proyecto al hackathon
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
@@ -18,7 +18,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
 
 1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR) (¡y preséntate!)
-2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [Somos NLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
+2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
 3. Regístrate en [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
 4. De momento esto es todo, para que todos los equipos comiencen el hackathon con las mismas oportunidades publicaremos los detalles de la competición el 1 de marzo.
 
@@ -41,7 +41,7 @@ Al unirte a este hackathon tendrás la oportunidad de:
 <details closed>
 <summary>¿Cuál es el nivel necesario?</summary>
 
-Desde el equipo de Somos NLP queremos animarte a participar independientemente de tus conocimientos actuales. En ediciones anteriores hemos contado con grupos de institutos de investigación y grupos de estudiantes de grado, ¡todos los proyectos suman!
+Desde el equipo de SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. En ediciones anteriores hemos contado con grupos de institutos de investigación y grupos de estudiantes de grado, ¡todos los proyectos suman!
 
 - 📖 Durante los primeros días del hackathon daremos una serie de **talleres prácticos** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia. Para calentar puedes visualizar los de la edición anterior:
 

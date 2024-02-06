@@ -6,7 +6,7 @@ lang: es
 duration: 1min
 cover: "https://www.iic.uam.es/wp-content/uploads/2021/11/Rigoberta.jpg"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury

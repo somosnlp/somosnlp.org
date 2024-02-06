@@ -1,5 +1,5 @@
 ---
-title: "Hackathon Somos NLP 2023: Los LLMs hablan Español"
+title: "Hackathon SomosNLP 2023: Los LLMs hablan Español"
 description: Construye al lado de profesionales, expertas y mentores la siguiente generación de modelos de PLN en tu idioma.
 ---
 
@@ -21,7 +21,7 @@ Después de una primera edición en la que contamos con más de 500 participante
 
 ![Cartel del Hackathon 2023](https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg)
 
-La democratización del PLN en español es el objetivo principal de Somos NLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es creando más recursos abiertos de PLN en nuestro idioma.
+La democratización del PLN en español es el objetivo principal de SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es creando más recursos abiertos de PLN en nuestro idioma.
 
 Con este hackathon te animamos a unirte a nuestro esfuerzo y **crear datasets y modelos que apliquen el potencial de los grandes modelos del lenguaje (LLMs) a una buena causa.**
 
@@ -89,7 +89,7 @@ Todo lo que necesitas saber para desarrollar un buen proyecto para el hackathon 
 
 ## 📖 Talleres y AMAs
 
-Desde el equipo de Somos NLP queremos animarte a participar independientemente de tus conocimientos actuales.
+Desde el equipo de SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales.
 
 - Durante los primeros días del hackathon daremos una serie de **talleres prácticos** mostrándote cómo hacer fine-tuning de un LLM y cómo etiquetar tu base de datos para que tengas un ejemplo de referencia.
 
@@ -115,7 +115,7 @@ TODAS las personas que entreguen un proyecto completo conseguiréis:
 - 🤗 Swag de Hugging Face exclusivo del evento
 - 💜 Descuento de 20% en tickets para asistir a la WomenTech Network Global Conference 2023 y la opción de ganar 3 tickets completamente gratis
 - 🚀 Descuento de 20% para participar en el programa de incubación de cuatro meses y medio de AgilMentor y crear un MVP a partir de vuestro proyecto
-- 📜 Certificado de participación o de equipo ganador del "Hackathon Somos NLP 2023: Los LLMs hablan Español" (verificado en nuestra web)
+- 📜 Certificado de participación o de equipo ganador del "Hackathon SomosNLP 2023: Los LLMs hablan Español" (verificado en nuestra web)
 
 Además de los tres proyectos ganadores elegidos por el jurado, habrá varias menciones de honor:
 - 🤗 Proyecto con más likes en el Hub de Hugging Face ([leaderboard](https://huggingface.co/spaces/hackathon-somos-nlp-2023/leaderboard))

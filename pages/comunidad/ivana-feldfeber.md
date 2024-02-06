@@ -10,7 +10,7 @@ community: Ponente
 
 ## Ponencias
 
-- IA y los feminismos en América Latina: la experiencia del proyecto AymurAI | Hackathon Somos NLP 2023
+- IA y los feminismos en América Latina: la experiencia del proyecto AymurAI | Hackathon SomosNLP 2023
 
 <EventSummary
     description=""

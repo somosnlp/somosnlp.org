@@ -6,7 +6,7 @@ lang: es
 duration: 1min
 cover: "https://huggingface.co/bertin-project/bertin-roberta-base-spanish/resolve/main/images/bertin.png"
 author: María Grandury
-bio: ML Research Engineer y fundadora de Somos NLP
+bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
