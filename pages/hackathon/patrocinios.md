@@ -2,7 +2,7 @@
 title: "Hackathon Somos NLP 2024: Patrocinios"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 ¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 20.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.

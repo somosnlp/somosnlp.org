@@ -2,7 +2,7 @@
 title: "Hackathon Somos NLP 2024: Diseña el Cartel"
 description: ¡Diseña el cartel del hackathon Somos NLP 2024!.
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 Para fomentar distintas habilidades de nuestra comunidad, este año queremos daros la oportunidad de diseñar el cartel del hackathon. Los objetivos del hackathon son la creación un corpus en español de calidad que incluya las variedades de este rico idioma hablado por 600M personas y la creación de una leaderboard que nos permita evaluar los LLMs en español. ¡Muestra tu versión más artística y ayúdanos a crear el cartel!

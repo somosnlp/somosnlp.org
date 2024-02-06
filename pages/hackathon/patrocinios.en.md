@@ -2,7 +2,7 @@
 title: "Somos NLP Hackathon 2024: Sponsorships"
 description: Thank you for helping us democratize NLP in Spanish!
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 Thank you very much for your interest in supporting us in organizing and giving visibility to this wonderful event! In the two previous editions, we had a total of more than 1,000 participants from 30 different countries and we exceeded 20,000 views of our events. This year our challenges are to create a database of quality instructions and the first evaluation ranking of LLMs in Spanish.

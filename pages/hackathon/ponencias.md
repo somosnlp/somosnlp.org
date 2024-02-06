@@ -2,7 +2,7 @@
 title: "Hackathon Somos NLP 2024: Call for Talks"
 description: ¡Comparte tu conocimiento con la comunidad!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon Somos NLP.

@@ -2,12 +2,12 @@
 title: Guidelines of Somos NLP Hackathon 2024
 description: All you need to know to submit a good project at the hackathon
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
 <div class="flex justify-center">
 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
-    <img src="https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png"
+    <img src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg"
         width="650" height="365" alt="Cartel del Hackathon 2024" />
 </a>
 </div>
