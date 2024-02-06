@@ -7,6 +7,10 @@ cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.p
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon Somos NLP.
 
+<center><a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
+
+## Temas sugeridos
+
 A continuación, presentamos una lista de temas sugeridos que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito.
 
 1. **Creación y curación de corpus:** Estrategias manuales y (semi)automáticas para la construcción y curación de corpus (con preferencia en lenguas íbero-romances).

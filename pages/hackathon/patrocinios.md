@@ -5,7 +5,7 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/20230301_hackathon_wip.png
 ---
 
-¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 10.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
+¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 20.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
 
 Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
@@ -47,7 +47,6 @@ Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago
 
 </details>
 
-
 ### 2. 📚 Donación de bases de datos
 
 Vamos a crear un corpus de instrucciones que represente a todas las personas hispanohablantes y una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
@@ -55,12 +54,7 @@ Vamos a crear un corpus de instrucciones que represente a todas las personas his
 <details closed>
 <summary>¿Cuáles son los beneficios y cómo puedo contribuir?</summary>
 
-- **Corpus**, donación de una base de datos: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo, vídeo o taller promocional relacionado con el corpus.
-
-</details>
-
-<details>
-<summary>¿Cómo puedo donar mi base de datos?</summary>
+- **📚 Corpus**, donación de una base de datos: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo, vídeo o taller promocional relacionado con el corpus.
 
 <center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Lee toda la info aquí</a></center>
 
@@ -180,7 +174,7 @@ Enlaces útiles:
 
 ## Contacto
 
-Estamos a tu disposición en info@somosnlp.org, Discord y mensajes directos en X (@SomosNLP_) y LinkedIn (@Somos NLP).
+Estamos a tu disposición en info@somosnlp.org y Discord.
 
 Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
 
