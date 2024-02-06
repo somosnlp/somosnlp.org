@@ -9,7 +9,7 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-<iframe width="650" height="375" src="https://www.youtube.com/embed/VZl4xI3Oeuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif)
 
 ## 🚀 Nuestros objetivos
 
@@ -54,9 +54,9 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
 <details  style="margin-bottom: 20px;">
 <summary>💡 Asiste a las charlas de especialistas</summary>
 
-Durante los martes del mes de marzo tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas, independientemente de si participan en el hackathon.
+En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de marzo tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
 
-¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones del 2023!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
+¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
 
 <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 
