@@ -5,7 +5,7 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-El Hackathon SomosNLP 2024 es una iniciativa con dos objetivos ambiciosos:
+El Hackathon #Somos600M es una iniciativa con dos objetivos ambiciosos:
 1. 🌎 Crear un dataset de instrucciones de calidad y diverso, que cubra una amplia variedad de países representados, registros y temáticas. 
 2. ✅ **Crear una leaderboard pública de LLMs que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales.**
 

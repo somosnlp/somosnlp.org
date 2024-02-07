@@ -1,5 +1,5 @@
 ---
-title: "Hackathon SomosNLP 2024: Call for Talks"
+title: "Hackathon #Somos600M: Call for Talks"
 description: ¡Comparte tu conocimiento con la comunidad!
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
@@ -13,11 +13,11 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 A continuación, presentamos una lista de temas sugeridos que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito.
 
-1. **Creación y curación de corpus:** Estrategias manuales y (semi)automáticas para la construcción y curación de corpus (con preferencia en lenguas íbero-romances).
-2. **Creación de modelos del lenguaje o sistemas conversacionales:** Resumen de los avances del último año y actuales retos en la creación de modelos del lenguaje.
-3. **Multilingüismo y lenguas con recursos limitados:** Desarrollo de modelos para idiomas con pocos recursos y multilingüismo.
+1. **Creación y curación de corpus:** Estrategias manuales, semi- y automáticas para la construcción y curación de corpus (con preferencia en lenguas íbero-romances).
+2. **Creación de modelos del lenguaje o sistemas conversacionales:** Resumen de los avances del último año y actuales retos.
+3. **Multilingüismo y lenguas con recursos limitados:** Desarrollo de modelos para idiomas con pocos recursos y multilingüismo. Relevancia del desarrollo de recursos en idiomas distintos del inglés.
 4. **Multimodalidad:** Integración de diferentes modalidades de datos en modelos.
-5. **Evaluación:** Benchmarks y métricas para la evaluación de modelos de lenguaje. Evaluación humana vs. automática en el ámbito del PLN.
+5. **Evaluación:** Benchmarks, métricas y retos para la evaluación de modelos de lenguaje. Evaluación humana vs. automática en el ámbito del PLN.
 6. **Impacto social:** Abordaje de prejuicios y equidad en modelos de PLN. Detección del discurso de odio, detección de conductas de riesgo (depresión, TCA…), sesgos, educación, accesibilidad…
 7. **Impacto medioambiental:** Consideraciones sobre la sostenibilidad y eficiencia en el ámbito computacional, huella de carbono y consumo de agua.
 8. **Seguridad:** Gestión de la seguridad y privacidad en modelos de PLN. Estrategias contra desinformación, ataques adversarios y defensas.

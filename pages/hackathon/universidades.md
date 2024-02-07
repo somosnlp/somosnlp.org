@@ -1,5 +1,5 @@
 ---
-title: "Hackathon SomosNLP 2024: Info para universidades"
+title: "Hackathon #Somos600M: Info para universidades"
 description: ¡Anima a tu alumnado a participar y aprender con nuestro hackathon!
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
