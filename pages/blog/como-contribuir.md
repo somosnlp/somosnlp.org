@@ -82,4 +82,4 @@ Al terminar, te animamos a abrir una [PR](https://github.com/somosnlp/somosnlp.o
 ## Eventos
 Si te interesa dar una charla o taller relacionado con el PLN contáctanos, estaremos encantados de aprender de tu experiencia.
 
-➡️ **[Call for speakers](https://kq8ietkql1m.typeform.com/to/BYH9KG3f?typeform-source=localhost)**
+➡️ **[Call for talks](https://forms.gle/YpUvifDNLG6E56Cy9?typeform-source=localhost)**

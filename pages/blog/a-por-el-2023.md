@@ -78,7 +78,7 @@ Somos una comunidad internacional en la que todo el mundo es bienvenido independ
 - Únete al equipo y ayúdanos a organizar eventos, crear carteles, escribir contenido, o [lo que mejor se te dé](mailto:info@somosnlp.org)
 - Publica un artículo o tutorial en nuestro [blog](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog)
 - Ayúdanos a mantener y mejorar la [página web](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-contribuir-al-desarrollo-de-la-p%C3%A1gina-web) (por ejemplo, si sabes de Vue / Netlify agradecería ayuda para arreglar el bug que elimina los espacios antes y después de palabras en negrita y enlaces)
-- Comparte tu experiencia en una [charla o taller](https://kq8ietkql1m.typeform.com/to/BYH9KG3f)
+- Comparte tu experiencia en una [charla o taller](https://forms.gle/YpUvifDNLG6E56Cy9)
 - Y, por supuesto, crea bases de datos y entrena modelos del lenguaje abiertos (si te atascas no te preocupes, ¡pídenos ayuda en Discord!)
 
 ¡Muchas gracias por tu apoyo!

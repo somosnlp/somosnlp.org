@@ -162,7 +162,7 @@ const showPastEvents = ref(true);
             <carbon:logo-discord text="xl" />
             <span text="center">{{ t('landing-page.contribute.discord') }}</span>
           </a>
-          <a href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank"
+          <a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank"
             class="md:flex-col rounded-md flex p-6 gap-4 items-center hover:(bg-gray-50 dark:bg-gray-800)">
             <carbon:microphone-filled text="xl" />
             <span text="center">{{ t('landing-page.contribute.speaker') }}</span>
