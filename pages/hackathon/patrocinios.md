@@ -1,5 +1,5 @@
 ---
-title: "Hackathon SomosNLP 2024: Patrocinios"
+title: "Hackathon #Somos600M: Patrocinios"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
