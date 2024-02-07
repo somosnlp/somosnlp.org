@@ -29,7 +29,7 @@ Somos una comunidad internacional en la que todo el mundo es bienvenido independ
 ### 💡 Me gustaría compartir mi experiencia en el campo
 
 - Publica un artículo o tutorial en nuestro [blog](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog)
-- Comparte tu experiencia en una [charla o taller](https://kq8ietkql1m.typeform.com/to/BYH9KG3f)
+- Comparte tu experiencia en una [charla o taller](https://forms.gle/YpUvifDNLG6E56Cy9)
 
 
 Estas son algunas ideas, si quieres contribuir a nuestra misión de otra manera contacta con el equipo por Discord o mándanos un email a info@somosnlp.org.

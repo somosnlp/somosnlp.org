@@ -9,7 +9,7 @@
 ## 🙌 Contribuir
 - [¿Cómo publicar tu artículo o tutorial en nuestro blog?](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog)
 - [¿Cómo contribuir al desarrollo de la página web?](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-contribuir-al-desarrollo-de-la-p%C3%A1gina-web)
-- [¿Cómo dar una charla o taller?](https://kq8ietkql1m.typeform.com/to/BYH9KG3f)
+- [¿Cómo dar una charla o taller?](https://forms.gle/YpUvifDNLG6E56Cy9)
 
 ¿Tienes otra pregunta? Te respondemos en Discord. Aquí tienes una [invitación](https://discord.com/invite/my8w7JUxZR), ¡nos vemos!
 

@@ -64,7 +64,7 @@ El requisito es que el taller no sea simplemente publicitario, si no que esté e
 
 El taller será en directo el día que elijáis y la grabación será incluida en nuestra playlist de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) "Proyectos de la Comunidad".
 
-[Rellena este formulario](https://kq8ietkql1m.typeform.com/to/BYH9KG3f) para proponer un taller.
+[Rellena este formulario](https://forms.gle/YpUvifDNLG6E56Cy9) para proponer un taller.
 
 ## 🙌 Dinos qué más podemos hacer
 

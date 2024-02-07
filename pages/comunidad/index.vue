@@ -69,7 +69,7 @@ useHead({
                     <carbon:logoYoutube />
                     Todos los eventos
                 </router-link>
-                <a href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank" class="button-gray">
+                <a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" class="button-gray">
                     <carbon:bullhorn />
                     Quiero ser ponente
                 </a>
