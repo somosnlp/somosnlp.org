@@ -10,14 +10,16 @@ El Hackathon #Somos600M es una iniciativa con dos objetivos ambiciosos:
 2. ✅ **Crear una leaderboard pública de LLMs que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales.**
 
 Si quieres colaborar con el primer objetivo, ¡increíble!
-¿Tienes ya el corpus? Mándanos un email a info@somosnlp.org. ¿Te gustaría crearlo con tu equipo o con apoyo de la comunidad? [¡Apúntate al hackathon!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
+¿Tienes ya el corpus? Mándanoslo con [este formulario](https://forms.gle/74ZM6wnW6Zp8oXMV8). ¿Te gustaría crearlo con tu equipo o con apoyo de la comunidad? [¡Apúntate al hackathon!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 
 ➡️ Si quieres colaborar con el segundo objetivo, ¡sigue leyendo, tu expertise es crucial! Invitamos a especialistas, empresas y grupos de investigación a ser parte de este increíble (y muy necesario) avance donando bases de datos de evaluación. Tu contribución es clave para la creación de una leaderboard pública y unificada, que servirá como referente en el campo.
 
-<center><a href="https://forms.gle/c82mcSwNujNk4Pf48" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 ¡Rellena el formulario!</a></center>
-
+<center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
 
 <!--
+
+Form: https://forms.gle/74ZM6wnW6Zp8oXMV8
+
 Diferentes tipos de datos
 
 Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa #Somos600M está centrada principalmente en la creación y recolección de bases de datos. Así que **tanto si tienes un maravilloso corpus como si tienes un montón de documentos, ¡seguro que puedes colaborar!**
@@ -40,13 +42,15 @@ Entendemos que los corpus son muuuy preciados. ¿Por qué donarlos?
 
 2. Te permitirá mostrar a toda la comunidad cómo se comparan vuestros modelos con el mercado con una mayor fiabilidad, dado que los resultados serán publicados por una entidad imparcial.
 
-3. Entendemos el valor de tus corpus. Puedes optar por donar solo la parte de evaluación, manteniendo tu ventaja competitiva con la parte de entrenamiento en privado. (¡Si quieres donarlo entero, genial!)
+3. Entendemos el valor de tus corpus. Puedes optar por donar solo la parte de evaluación, manteniendo tu ventaja competitiva con la parte de entrenamiento en privado. (¡Si quieres donarlo al completo, genial!)
 
 4. Publicar en la leaderboard tus resultados no implica que la comunidad tenga acceso a tus modelos.
 
-5. Al donar un corpus te convertirás en patrocinador del Hackathon SomosNLP, ¡lee a continuación todos los beneficios que esto conlleva!
+5. Al donar un corpus, aparecerá en la cita de la leaderboard y tu organización se convertirá en patrocinadora del Hackathon SomosNLP, ¡lee a continuación todos los beneficios que esto conlleva!
 
 Tu donación no solo contribuye al avance científico, sino que también fortalece tu posición como líder en la innovación del Procesamiento del Lenguaje Natural en tu lengua. 💪
+
+<center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
 
 ## 📸 Visibilidad para patrocinios de corpus
 
@@ -76,6 +80,16 @@ Características de los corpus de evaluación:
 - Dado que el corpus será utilizado para evaluar y comparar modelos, se debe proveer una manera clara y poco variable de evaluar modelos generativos con el corpus donado. Podemos colaborar para investigar dicha métrica.
 - Daremos prioridad a los corpus originalmente creados en español o lenguas cooficiales (vs. a traducciones). Igualmente, se aceptarán traducciones adecuadamente revisadas.
 
+<center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
+
 ## 🙌 Agradecimientos
 
-Muchísimas gracias a todos los equipos que ya nos habéis contactado para donar corpus, ¡añadiremos también aquí los logos próximamente!
+Muchísimas gracias a todos los equipos que ya nos habéis contactado para donar corpus, ¡añadiremos aquí los logos próximamente!
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
+logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+
+</div>
