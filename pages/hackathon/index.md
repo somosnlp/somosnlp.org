@@ -15,11 +15,11 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
 
-En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
 En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos fijando objetivos de alto impacto:
-1. 🌎 Crear un **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes.**
-2. ✅ Crear una **leaderboard pública de LLMs en español** que permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
+1. 🌎 Crear un **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
+2. ✅ Crear una **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
 
 ¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
 
@@ -43,7 +43,9 @@ En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos 
 <details  style="margin-bottom: 20px;">
 <summary>💻 Participa en el hackathon</summary>
 
-Al unirte a este hackathon tendrás la oportunidad de comprender cómo funcionan los grandes modelos del lenguaje (LLMs) y descubrir de manera aplicada los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento y evaluación.
+Al unirte a este hackathon tendrás la oportunidad de colaborar con la creación de LLMs de calidad e inclusivos en tu lengua. Aplica tus conocimientos para superar los retos de cada etapa de desarrollo de tu LLM: creación del corpus, entrenamiento y evaluación.
+
+**Cada equipo participante (1-5 personas) generará un corpus de instrucciones, entrenará su LLM y creará una demo para compartir su gran trabajo con la comunidad.**
 
 Desde SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
 
@@ -103,9 +105,54 @@ Comparte tu experiencia y conocimiento apoyando a los equipos participantes a cr
 
 SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y crear impacto en el mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión. ¡Contamos contigo!
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
+<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
+
+---
+
+## 👏 Agradecimientos 
+
+Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a democratizar el PLN en español!
+
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<SponsorInfo sponsor="Argilla" url="http://somosnlp.org/patrocinios/argilla"
+logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
+
+<SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
+logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
+
+<SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
+logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+
+<SponsorInfo sponsor="DiverTLes" url="http://somosnlp.org/patrocinios/divertles"
+logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
+
+<SponsorInfo sponsor="Mujeres Tech" url="http://somosnlp.org/patrocinios/mujeres-tech"
+logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
+
+<SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+
+<SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"
+logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
+
+<SponsorInfo sponsor="Spain AI" url="http://somosnlp.org/patrocinios/spain-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png" />
+
+<SponsorInfo sponsor="Big Onion" url="http://somosnlp.org/patrocinios/big-onion"
+logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
+</div>
 
 ---
 
@@ -116,11 +163,3 @@ Para estar al día de todos los eventos y avances:
 - Síguenos en [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
 - Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
 - Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-
-
-<!--
-## 👏 Agradecimientos 
-
-Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a democratizar el PLN en español!
-[logos]
--->

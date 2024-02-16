@@ -24,8 +24,8 @@ Si eres estudiante y te gustaría que tu universidad participara en el hackathon
 ## ✨ Colaboración y beneficios
 
 Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar antes del 15 de febrero
-- Publicar noticia, blog o similar en su página web antes del 23 de febrero
+- Publicar posts animando a participar antes del 22 de febrero (incluido)
+- Publicar noticia, blog o similar en su página web antes del 29 de febrero (incluido)
 - Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
 
 Al dar visibilidad al hackathon y presentar al menos 1 equipo de estudiantes al hackathon, la universidad se convierte en patrocinadora y contará con los beneficios correspondientes:
@@ -49,13 +49,23 @@ Si además queréis darles la oportunidad a vuestro alumnado de participar en el
 
 ## Universidades colaboradoras en ediciones anteriores
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
-  <img src="path_to_image1.jpg" alt="University Logo 1" style="width: 100%;">
-  <img src="path_to_image2.jpg" alt="University Logo 2" style="width: 100%;">
-  <img src="path_to_image3.jpg" alt="University Logo 3" style="width: 100%;">
-  <img src="path_to_image4.jpg" alt="University Logo 4" style="width: 100%;">
-  <img src="path_to_image5.jpg" alt="University Logo 5" style="width: 100%;">
-  <img src="path_to_image6.jpg" alt="University Logo 6" style="width: 100%;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="UNED Research Group in NLP & IR" url="https://sites.google.com/view/nlp-uned/home"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png" />
+
+<SponsorInfo sponsor="UNAM" url="https://www.unam.mx/"
+logo="https://somosnlp.github.io/assets/images/logo_UNAM.png"
+logo_dark="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png" />
+
+<SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
+logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
+
+<SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UNL.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png" />
 </div>
 
 - uc3m

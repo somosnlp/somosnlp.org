@@ -5,7 +5,7 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 20.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear una base de datos de instrucciones de calidad y el primer ranking de evaluación de LLMs en español.
+¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 20.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear bases de datos que nos permitan entrenar LLMs inclusivos y de calidad y crear el primer ranking de evaluación de LLMs en español y lenguas cooficiales.
 
 Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
@@ -17,7 +17,7 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
 ### 1. 🚀 Donación
 
-Aceptamos donaciones económicas directa o indirectamente (e.g., compra y envío de un premio).
+Aceptamos donaciones económicas directa o indirectamente. Por ejemplo, podéis donar hacer una donación para que compremos un premio o podéis comprar directamente el premio y enviarlo al equipo ganador.
 
 <details closed>
 <summary>Categorías de donación y beneficios</summary>
@@ -31,11 +31,10 @@ Aceptamos donaciones económicas directa o indirectamente (e.g., compra y envío
 <details>
 <summary>¿Para qué se usará mi patrocinio?</summary>
 
-Nuestro hackathon es un evento gratuito y sin ánimo de lucro, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
+Nuestro hackathon es un evento gratuito, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
+- Tiempo de computación en la nube
 - Premios para los equipos ganadores
-- Sorteos para todas las personas participantes
-- Corpus y GPUs 
-- Merchandising
+- Merchandising y sorteos para todo el mundo
 - Streaming de primera calidad
 - Buena gestión de este evento internacional online
 
@@ -65,46 +64,38 @@ Vamos a crear un corpus de instrucciones que represente a todas las personas his
 Los patrocinios de visibilidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
 
 <details closed>
-<summary>Tipos de visibilidad</summary>
+<summary>Tipos de visibilidad y beneficios</summary>
 
 - **🤗 Comunidad**, dar visibilidad al hackathon en general: logo pequeño y visibilidad en RRSS.
-- **💡 Expert**, dar visibilidad a la ponencia (no promocional) o mentoría impartida por una persona de tu organización: logo pequeño y visibilidad relativa al evento.
-- **🎓 Universidad**, dar visibilidad al hackathon entre tu alumnado: logo pequeño y visibilidad en RRSS.
+- **🎓 Universidad**, dar visibilidad al hackathon entre tu alumnado y grupos de investigación: logo pequeño y visibilidad en RRSS.
 
 </details>
 
 <details>
-<summary>¿Cómo darle visibilidad al hackathon?</summary>
+<summary>🤗 ¿Cómo darle visibilidad al hackathon?</summary>
 
 Para consideraros patrocinio de Comunidad os pedimos:
-- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 15 de febrero
-- Publicar posts animando a participar antes del 1 de marzo
+- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 22 de febrero (incluido)
+- Publicar posts animando a participar antes del 29 de febrero (incluido)
 - Publicar posts anunciando los días de keynotes
 - Publicar posts / blog anunciando los resultados del hackathon
 - RT / comentar las publicaciones en las que os mencionemos
-
-Aclaraciones:
-- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a SomosNLP
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 </details>
 
+<!--
 <details>
 <summary>¿Cómo darle visibilidad a una ponencia o mentoría?</summary>
 
+Form: Expert: Visibilidad de una ponencia o mentoría impartida por alguien de tu organización (mín. 3 publicaciones)
+
 Para que la entidad a la que pertenece la persona que imparte la ponencia/mentoría se considere patrocinadora Expert tiene que:
-- Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero
+- Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero (incluido)
 - Publicar posts anunciando la keynote/mentoría una semana antes del evento
 - Publicar posts anunciando la keynote/mentoría un día antes del evento
 - RT / comentar las publicaciones en las que os mencionemos
-
-Notas:
-- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a SomosNLP
 
 Disclaimer: si quieres promocionar tu producto en una charla debes contar con un patrocinio de tipo Oro.
 
@@ -115,25 +106,20 @@ Enlaces útiles:
 - [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
-
 </details>
+-->
 
 <details>
-<summary>¿Cómo darle visibilidad entre mis estudiantes?</summary>
+<summary>🎓 ¿Cómo darle visibilidad entre mis estudiantes?</summary>
 
 Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar antes del 15 de febrero
-- Publicar noticia, blog o similar en su página web antes del 23 de febrero
+- Publicar posts animando a participar antes del 22 de febrero (incluido)
+- Publicar noticia, blog o similar en su página web antes del 29 de febrero (incluido)
 - Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
 - Presentar al menos 1 equipo de estudiantes al hackathon
 
-Notas:
-- "Publicar posts" = publicar al menos un post en LinkedIn y un tweet en Twitter (excepto si no tenéis cuenta, obviamente)
-- Se facilitará el material visual necesario para los posts
-- Recordad siempre mencionar a SomosNLP
-
 Enlaces útiles:
-- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
+- [❓ Info para universidades](https://somosnlp.org/hackathon/universidades)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 </details>
