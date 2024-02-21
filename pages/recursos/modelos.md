@@ -30,7 +30,7 @@ tablePage: in
         hf_model_name: 'bert-base-spanish-wwm-uncased'
     },
     {
-        name: 'BETO (Spanish BERT) + Spanish SQuAD2.0 + distillation using 'bert-base-multilingual-cased' as teacher',
+        name: 'bert2bert-shared-spanish-finetuned-summarization',
         tags: ['SQuAD-es-v2.0', 'BETO', 'Respuestas a preguntas'],
         description: '',
         website: '',
@@ -266,7 +266,7 @@ tablePage: in
         description: '',
         website: '',
         github: 'https://github.com/csebuetnlp/xl-sum',
-	    paper: 'https://aclanthology.org/2021.findings-acl.413/',
+        paper: 'https://aclanthology.org/2021.findings-acl.413/',
         hf_dataset_name: '',
         hf_contributor_handle: 'csebuetnlp',
         hf_model_name: 'mT5_multilingual_XLSum'
@@ -365,7 +365,7 @@ tablePage: in
         description: '',
         website: '',
         github: '',
-	      paper: '',
+	    paper: '',
         hf_dataset_name: '',
         hf_contributor_handle: 'hiiamsid',
         hf_model_name: 'sentence_similarity_spanish_es'
@@ -398,7 +398,7 @@ tablePage: in
         description: '',
         website: '',
         github: '',
-	    paper: '',
+        paper: '',
         hf_dataset_name: '',
         hf_contributor_handle: 'dccuchile',
         hf_model_name: 'tulio-chilean-spanish-bert'
@@ -409,7 +409,7 @@ tablePage: in
         description: '',
         website: '',
         github: '',
-	    paper: '',
+        paper: '',
         hf_dataset_name: '',
         hf_contributor_handle: 'papluca',
         hf_model_name: 'xlm-roberta-base-language-detection'
