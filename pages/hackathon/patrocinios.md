@@ -35,7 +35,7 @@ Nuestro hackathon es un evento gratuito, gracias a los patrocinios Oro, Plata y 
 - Tiempo de computación en la nube
 - Premios para los equipos ganadores
 - Merchandising y sorteos para todo el mundo
-- Streaming de primera calidad
+- Streaming de calidad
 - Buena gestión de este evento internacional online
 
 Para determinar el tipo de patrocinio se calculará el valor total combinando donaciones, premios, corpus y GPUs patrocinadas por cada entidad. Dentro de cada categoría, los logos también se ordenarán por valor total.
@@ -72,9 +72,9 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 </details>
 
 <details>
-<summary>🤗 ¿Cómo darle visibilidad al hackathon?</summary>
+<summary>¿Cómo darle visibilidad al hackathon?</summary>
 
-Para consideraros patrocinio de Comunidad os pedimos:
+Para consideraros patrocinio de Comunidad 🤗 os pedimos:
 - Publicar posts / mencionar en podcast / newsletter animando a participar antes del 22 de febrero (incluido)
 - Publicar posts animando a participar antes del 29 de febrero (incluido)
 - Publicar posts anunciando los días de keynotes
@@ -110,7 +110,7 @@ Enlaces útiles:
 -->
 
 <details>
-<summary>🎓 ¿Cómo darle visibilidad entre mis estudiantes?</summary>
+<summary>¿Cómo darle visibilidad entre mis estudiantes?</summary>
 
 Lo que pedimos a las universidades colaboradoras:
 - Publicar posts animando a participar antes del 22 de febrero (incluido)
@@ -119,7 +119,7 @@ Lo que pedimos a las universidades colaboradoras:
 - Presentar al menos 1 equipo de estudiantes al hackathon
 
 Enlaces útiles:
-- [❓ Info para universidades](https://somosnlp.org/hackathon/universidades)
+- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 </details>

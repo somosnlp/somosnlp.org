@@ -9,9 +9,11 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 <center><a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
 
+<center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
+
 ## Temas sugeridos
 
-A continuación, presentamos una lista de temas sugeridos que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito.
+A continuación, presentamos una lista de temas sugeridos para las ponencias que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito.
 
 1. **Creación y curación de corpus:** Estrategias manuales, semi- y automáticas para la construcción y curación de corpus (con preferencia en lenguas íbero-romances).
 2. **Creación de modelos del lenguaje o sistemas conversacionales:** Resumen de los avances del último año y actuales retos.
