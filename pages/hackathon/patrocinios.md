@@ -17,9 +17,9 @@ Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
 ### 1. 🚀 Donación
 
-Aceptamos donaciones económicas directa o indirectamente. Por ejemplo, podéis donar hacer una donación para que compremos un premio o podéis comprar directamente el premio y enviarlo al equipo ganador.
+Aceptamos donaciones económicas y vales (e.g., créditos para GPUs, formación, libros, ...).
 
-<details closed>
+<details>
 <summary>Categorías de donación y beneficios</summary>
 
 - **🥇 Oro**, donación total valorada en 1000€: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
@@ -31,16 +31,16 @@ Aceptamos donaciones económicas directa o indirectamente. Por ejemplo, podéis 
 <details>
 <summary>¿Para qué se usará mi patrocinio?</summary>
 
-Nuestro hackathon es un evento gratuito, gracias a los patrocinios Oro, Plata y Bronce podemos garantizar:
+Nuestro hackathon es un evento gratuito, gracias a los patrocinios de Oro, Plata y Bronce podemos garantizar:
 - Tiempo de computación en la nube
 - Premios para los equipos ganadores
 - Merchandising y sorteos para todo el mundo
 - Streaming de calidad
 - Buena gestión de este evento internacional online
 
-Para determinar el tipo de patrocinio se calculará el valor total combinando donaciones, premios, corpus y GPUs patrocinadas por cada entidad. Dentro de cada categoría, los logos también se ordenarán por valor total.
+Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA, merchandising específicamente creado para el hackathon, tiempo de computación, vale para tiendas de informática, etc.
 
-Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN, merchandising específicamente creado para el hackathon, tiempo de computación, etc.
+Para determinar la categoría de patrocinio se calculará el valor total combinando donaciones y vales.
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
@@ -50,7 +50,7 @@ Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago
 
 Vamos a crear un corpus de instrucciones que represente a todas las personas hispanohablantes y una leaderboard para estandarizar la evaluación de LLMs y necesitamos tu ayuda, ¡dona tu corpus!
 
-<details closed>
+<details>
 <summary>¿Cuáles son los beneficios y cómo puedo contribuir?</summary>
 
 - **📚 Corpus**, donación de una base de datos: logo grande, mención en la leaderboard y todo lo relacionado con la evaluación, posible artículo, vídeo o taller promocional relacionado con el corpus.
@@ -63,7 +63,7 @@ Vamos a crear un corpus de instrucciones que represente a todas las personas his
 
 Los patrocinios de visibilidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
 
-<details closed>
+<details>
 <summary>Tipos de visibilidad y beneficios</summary>
 
 - **🤗 Comunidad**, dar visibilidad al hackathon en general: logo pequeño y visibilidad en RRSS.
@@ -127,7 +127,7 @@ Enlaces útiles:
 
 ### Tabla detallada de beneficios
 
-<details closed>
+<details>
 <summary>Tabla detallada de beneficios</summary>
 
 | | Oro | Plata | Bronce | Corpus | Visibilidad |

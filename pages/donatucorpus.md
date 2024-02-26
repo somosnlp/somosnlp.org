@@ -5,64 +5,82 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-El Hackathon #Somos600M es una iniciativa con dos objetivos ambiciosos:
-1. 🌎 Crear un dataset de instrucciones de calidad y diverso, que cubra una amplia variedad de países representados, registros y temáticas. 
-2. ✅ **Crear una leaderboard pública de LLMs que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales.**
+La iniciativa #Somos600M tiene dos objetivos ambiciosos:
+1. 🌎 Crear un corpus de instrucciones de calidad y diverso, que represente una amplia variedad de países, registros y temáticas. 
+2. ✅ Crear una leaderboard pública de LLMs que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales.
 
-Si quieres colaborar con el primer objetivo, ¡increíble!
-¿Tienes ya el corpus? Mándanoslo con [este formulario](https://forms.gle/74ZM6wnW6Zp8oXMV8). ¿Te gustaría crearlo con tu equipo o con apoyo de la comunidad? [¡Apúntate al hackathon!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
+Tanto si tienes un maravilloso corpus como si tienes un montón de documentos, ¡seguro que puedes colaborar!
 
-➡️ Si quieres colaborar con el segundo objetivo, ¡sigue leyendo, tu expertise es crucial! Invitamos a especialistas, empresas y grupos de investigación a ser parte de este increíble (y muy necesario) avance donando bases de datos de evaluación. Tu contribución es clave para la creación de una leaderboard pública y unificada, que servirá como referente en el campo.
+- Si no sabes lo que es un "corpus" pero tienes grandes cantidades de documentos que te gustaría publicar para que los sistemas de IA se expresen mejor en tu idioma y funcionen mejor para tus tareas del día a día, [¡contáctanos!](mailto:info@somosnlp.org)
+- Si tienes un conjunto de documentos que te gustaría utilizar para extraer información o automatizar tus tareas diarias, [¡apúntate al hackathon!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
+- Si tienes un corpus de entrenamiento que te gustaría donar para que la siguiente generación de LLMs en tu idioma funcione mejor para tus casos de uso, ¡sigue leyendo!
+- Si tienes un corpus de evaluación creado por especialistas y quieres participar en la creación de la primera leaderboard pública de LLMs en español, ¡sigue leyendo!
+
+Para cualquier duda mándanos un correo a info@somosnlp.org o contáctanos por Discord, ¡te estamos esperando!
 
 <center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
-
-<!--
-
-Form: https://forms.gle/74ZM6wnW6Zp8oXMV8
-
-Diferentes tipos de datos
-
-Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa #Somos600M está centrada principalmente en la creación y recolección de bases de datos. Así que **tanto si tienes un maravilloso corpus como si tienes un montón de documentos, ¡seguro que puedes colaborar!**
-
-Será un placer contar con tus datos si:
-- No sabes lo que es un "corpus" pero tienes grandes cantidades de documentos que te gustaría publicar para que los modelos de lenguaje se expresen mejor en tu idioma (y que funcionen mejor para tus tareas del día a día), ¡contáctanos!
-- Tienes una base de datos que te gustaría utilizar para automatizar tus tareas diarias, ¡apúntate al hackathon!
-- Tienes un corpus de entrenamiento que te gustaría donar para que la siguiente generación de LLMs en español y lenguas cooficiales funcionen mejor para tu caso de uso, ¡dona tu corpus!
-- Tienes un corpus de evaluación creado por especialistas y quieres participar en la creación de la primera leaderboard pública de LLMs en español, ¡dona tu corpus!
-
-En cualquier caso, mándanos un correo a info@somosnlp.org o contáctanos por Discord, ¡te estamos esperando!
--->
-
 
 ## 💡 Motivación y preguntas frecuentes
 
 Entendemos que los corpus son muuuy preciados. ¿Por qué donarlos?
 
+<details>
+<summary>Corpus de entrenamiento</summary>
+
+Tu contribución es clave para la creación de un corpus de instrucciones público, diverso y de calidad, que servirá como referente en el campo.
+
+1. Los LLMs open-source que entrene la comunidad obtendrán mejores resultados en tus casos de uso. ¡El modelo de partida sobre el que hacer tus adaptaciones será de mayor calidad!
+
+2. Al donar un corpus, se incluirá su cita correspondiente en la tabla y tu organización se convertirá en patrocinadora del Hackathon #Somos600M, ¡lee a continuación todos los beneficios que esto conlleva!
+
+</details>
+
+<details>
+<summary>Corpus de evaluación</summary>
+
+<!-- Invitamos a especialistas, empresas y grupos de investigación a ser parte de este increíble (y muy necesario) avance donando datos. -->
+Tu contribución es clave para la creación de una leaderboard pública y unificada, que servirá como referente en el campo.
+
 1. Al donar, tienes la oportunidad única de moldear el futuro de la evaluación de los LLMs en español y lenguas cooficiales, estableciendo nuevos estándares de calidad y rendimiento.
 
 2. Te permitirá mostrar a toda la comunidad cómo se comparan vuestros modelos con el mercado con una mayor fiabilidad, dado que los resultados serán publicados por una entidad imparcial.
 
-3. Entendemos el valor de tus corpus. Puedes optar por donar solo la parte de evaluación, manteniendo tu ventaja competitiva con la parte de entrenamiento en privado. (¡Si quieres donarlo al completo, genial!)
+3. Al optar por donar solo la parte de evaluación, mantienes tu ventaja competitiva con la parte de entrenamiento en privado. Publicar en la leaderboard tus resultados no implica que la comunidad tenga acceso a tus modelos.
 
-4. Publicar en la leaderboard tus resultados no implica que la comunidad tenga acceso a tus modelos.
+4. Al donar un corpus, se incluirá su cita correspondiente en la cita de la leaderboard y tu organización se convertirá en patrocinadora del Hackathon #Somos600M, ¡lee a continuación todos los beneficios que esto conlleva!
 
-5. Al donar un corpus, aparecerá en la cita de la leaderboard y tu organización se convertirá en patrocinadora del Hackathon SomosNLP, ¡lee a continuación todos los beneficios que esto conlleva!
+</details>
 
-Tu donación no solo contribuye al avance científico, sino que también fortalece tu posición como líder en la innovación del Procesamiento del Lenguaje Natural en tu lengua. 💪
+Tu donación no solo contribuye al avance científico, sino que también fortalece tu posición como líder en la innovación del Procesamiento del Lenguaje Natural en tu lengua 💪
 
 <center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
 
 ## 📸 Visibilidad para patrocinios de corpus
 
-A continuación enumeramos los beneficios de visibilidad:
-- Mención en la leaderboard
+Crearemos una tabla pública con todos los corpus donados que incluirá, además de información básica del corpus, la institución que lo creó, cómo citarlo y un enlace a vuestra documentación donde podéis incluir toda la información adicional que queráis.
+
+<details>
+<summary>Corpus de entrenamiento</summary>
+
+Animaremos a los equipos participantes en el hackathon a utilizar tu corpus en sus proyectos, lo que le dará visibilidad y favorecerá que se utilice en proyectos con impacto social 💛
+
+</details>
+
+<details>
+<summary>Corpus de evaluación</summary>
+
+Al igual que en la [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard), se incluirá la cita de tu corpus en la cita de la leaderboard. Además, se citará el corpus en el artículo que publiquemos describiendo el proceso de creación de la leaderboard 📝
+
+</details>
+
+<details>
+<summary>Visibilidad extra para todos los corpus</summary>
+
 - Logo en la página web del hackathon y la de registro: tamaño L
-- Logo en la página "Comunidad": en la primera categoría
+- Logo en la página "Comunidad": primera categoría
 - Agradecimiento en la sección "Comunidad" a las personas que crearon el corpus
 - Agradecimiento en RRSS: a la entidad y en particular a las personas que crearon el corpus
 - Etiquetas en posts: mínimo 10
-- Link en la leaderboard a la documentación de vuestro dataset donde podéis incluir toda la información extra que queráis
-- Mención en el artículo que describirá el proceso de creación de la leaderboard
 - Artículo de blog promocional sobre la creación del corpus
 - Charla promocional (max 45') sobre la creación del corpus
 - Vídeo promocional (3') sobre la empresa o grupo de investigación
@@ -70,15 +88,15 @@ A continuación enumeramos los beneficios de visibilidad:
 - Mención en directo en la inauguración y clausura del hackathon
 
 Todos los beneficios son opcionales, elige los que más te gusten. Si tienes otras propuestas será un placer escucharlas.
+</details>
 
-## ✅ Características de los corpus
+## ✅ Requisitos de los corpus
 
-Ahora mismo estamos haciendo hincapié en la recolección de corpus de evaluación. Igualmente, si quieres donar corpus de entrenamiento será todo un placer, ¡contáctanos!
+Son bienvenidos corpus de todas las tareas tanto de comprensión (NLU) como de generación de texto (NLG), así como corpus de instrucciones de todo tipo. También se aceptan corpus de todas las modalidades (texto, audio e imágenes con descripción).
 
-Características de los corpus de evaluación: 
-- Debe ser un corpus de calidad elaborado por especialistas. Si es un corpus relacionado con la salud, es indispensable la participación de una persona con formación sanitaria en la creación del corpus.
-- Dado que el corpus será utilizado para evaluar y comparar modelos, se debe proveer una manera clara y poco variable de evaluar modelos generativos con el corpus donado. Podemos colaborar para investigar dicha métrica.
-- Daremos prioridad a los corpus originalmente creados en español o lenguas cooficiales (vs. a traducciones). Igualmente, se aceptarán traducciones adecuadamente revisadas.
+- **Deben ser corpus de calidad elaborados por especialistas.** Si se trata de un corpus relacionado con la salud, es indispensable la participación de personas con formación sanitaria en la creación del mismo.
+- Damos prioridad a los corpus originalmente creados en la lengua correspondiente (vs. a traducciones). Igualmente, se aceptan traducciones si se asegura un proceso de validación posterior.
+- Respecto a corpus de evaluación, dado que serán utilizados para evaluar y comparar modelos, se debe proveer una manera clara y poco variable de evaluación con el corpus correspondiente.
 
 <center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
 
