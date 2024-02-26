@@ -115,6 +115,7 @@ SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y vi
 
 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a democratizar el PLN en español!
 
+### Patrocinios de Oro
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/patrocinios/argilla"
@@ -129,6 +130,19 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
 logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
 
+<SponsorInfo sponsor="LenguajeNatural.AI" url="https://lenguajenatural.ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+
+<SponsorInfo sponsor="Impulse Data & AI Conference" url="https://latam-ai.com/"
+logo="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI_dark.png" />
+
+</div>
+
+### Patrocinios de Comunidad
+
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 <SponsorInfo sponsor="DiverTLes" url="http://somosnlp.org/patrocinios/divertles"
 logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
@@ -152,6 +166,15 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png
 <SponsorInfo sponsor="Big Onion" url="http://somosnlp.org/patrocinios/big-onion"
 logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
+
+<SponsorInfo sponsor="Universidad de Puerto Rico" url="https://upr.edu"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
+
+<SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" />
+
 </div>
 
 ---
