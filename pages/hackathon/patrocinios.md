@@ -75,8 +75,8 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 <summary>¿Cómo darle visibilidad al hackathon?</summary>
 
 Para consideraros patrocinio de Comunidad 🤗 os pedimos:
-- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 22 de febrero (incluido)
-- Publicar posts animando a participar antes del 29 de febrero (incluido)
+- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 8 de marzo
+- Publicar posts animando a participar antes del 8 de marzo
 - Publicar posts anunciando los días de keynotes
 - Publicar posts / blog anunciando los resultados del hackathon
 - RT / comentar las publicaciones en las que os mencionemos
@@ -113,8 +113,8 @@ Enlaces útiles:
 <summary>¿Cómo darle visibilidad entre mis estudiantes?</summary>
 
 Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar antes del 22 de febrero (incluido)
-- Publicar noticia, blog o similar en su página web antes del 29 de febrero (incluido)
+- Publicar posts animando a participar antes del 8 de marzo
+- Publicar noticia, blog o similar en su página web antes del 8 de marzo
 - Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
 - Presentar al menos 1 equipo de estudiantes al hackathon
 
