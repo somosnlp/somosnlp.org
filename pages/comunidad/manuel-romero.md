@@ -1,12 +1,12 @@
 ---
 title: Manuel Romero
-description: Lead ML Engineer @CliBrAIn | Cofundador @SomosNLP & BERTIN
+description: Lead ML Engineer @CliBrAIn | Equipo @SomosNLP
 cover: https://somosnlp.github.io/assets/images/comunidad/manuel_romero.jpg
 website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
 linkedin: https://www.linkedin.com/in/manuel-romero-cs/
 github: https://github.com/mrm8488
-community: Asociación
+community: AA
 ---
 
 ## Ponencias

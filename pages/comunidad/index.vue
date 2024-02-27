@@ -33,17 +33,6 @@ useHead({
 
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
-            <p class="m-auto text-center prose text-lg">
-                La fuerza de la comunidad reside en las 1500 personas apasionadas por el PLN que la forman. Aquí te
-                presentamos a las que colaboran o han colaborado más activamente con
-                <a class="contents" href="http://somosnlp.org/nuestra-mision" target="_blank">nuestra misión</a>,
-                <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">¡únete!</a>
-            </p>
-            <br />
-            <p class="m-auto prose text-center text-sm">
-                <span class="italic">Lista en continua evolución...</span>⏳
-            </p>
-            <br />
             <CommunityList />
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
                 <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">
