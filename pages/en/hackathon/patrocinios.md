@@ -31,6 +31,7 @@ We accept financial donations and vouchers (e.g., credits for GPUs, training, bo
 <details>
 <summary>What will my sponsorship be used for?</summary>
 
+<<<<<<< HEAD
 Our hackathon is a free event, thanks to Gold, Silver, and Bronze sponsorships we can guarantee:
 - Cloud computing time
 - Prizes for the winning teams
@@ -68,10 +69,52 @@ Visibility sponsorships are of utmost importance as they allow us to reach more 
 
 - **🤗 Community**, give visibility to the hackathon in general: small logo and visibility on social networks.
 - **🎓 University**, give visibility to the hackathon among your students and research groups: small logo and visibility on social networks.
+=======
+Our hackathon is a free and non-profit event, thanks to Gold, Silver, and Bronze sponsorships we can guarantee:
+- Prizes for the winning teams
+- Raffles for all participating people
+- Corpus and GPUs
+- Merchandising
+- Premium streaming
+- Good management of this international online event
+
+To determine the type of sponsorship, the total value will be calculated by combining donations, prizes, corpus, and GPUs sponsored by each entity. Within each category, logos will also be sorted by total value.
+
+Examples of prizes and raffles that you can sponsor: a scholarship for a paid course, access to a training platform, NLP books, merchandising specifically created for the hackathon, computing time, etc.
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration :none; border-radius:5px;">📝 Fill out the form</a></center>
+
+</details>
+
+### 2. 📚 Database donation
+
+We are going to create a corpus of instructions that represents all Spanish-speaking people and a leaderboard to standardize the evaluation of LLMs and we need your help, donate your corpus!
+
+<details closed>
+<summary>What are the benefits and how can I contribute?</summary>
+
+- **Corpus**, donation of a database: large logo, mention in the leaderboard and everything related to the evaluation, possible article, video, or promotional workshop related to the corpus.
+
+<center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration :none; border-radius:5px;">📝 Read all the info here</a></center>
+
+</details>
+
+## 3. 📣 Visibility
+
+Visibility sponsorships are of utmost importance as they allow us to reach more people, which is essential for our mission to democratize PLN in Spanish.
+
+<details closed>
+<summary>Types of visibility</summary>
+
+- **🤗 Community**, give visibility to the hackathon in general: small logo and visibility in social netwoeks.
+- **💡 Expert**, give visibility to the presentation (non-promotional) or mentoring given by a person from your organization: small logo and visibility relative to the event.
+- **🎓 University**, give visibility to the hackathon among your students: small logo and visibility in RRSS.
+>>>>>>> 8cd0443 (feat(locale): update route when switching locale)
 
 </details>
 
 <details>
+<<<<<<< HEAD
 <summary>How to give visibility to the hackathon?</summary>
 
 To consider your sponsorship as Community 🤗 we ask you:
@@ -98,3 +141,110 @@ Let's make this hackathon a success together! 💪🚀
 ---
 
 [Back to hackathon main page](https://somosnlp.org/en/hackathon)
+=======
+<summary>How can I give visibility to the hackathon?</summary>
+
+To consider you a Community sponsor we ask you:
+- Publish posts/mention in podcast/newsletter encouraging participation before February 15
+- Publish posts encouraging participation before March 1
+- Publish posts announcing keynote days
+- Publish posts/blog announcing the results of the hackathon
+- RT/comment on posts in which we mention you
+
+Notes:
+- "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
+- The visual material necessary for the posts will be provided
+- Always remember to mention SomosNLP
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Fill out the form</a></center>
+
+</details>
+
+<details>
+<summary>How to give visibility to a presentation or mentoring?</summary>
+
+For the entity to which the person is giving the presentation/mentorship belongs to be considered an Expert sponsor, it must:
+- Publish posts/mention in podcast/newsletter encouraging people to participate in the hackathon before February 15
+- Publish posts announcing the keynote/mentoring a week before the event
+- Publish posts announcing the keynote/mentoring a day before the event
+- RT/comment on posts in which we mention you
+
+Notes:
+- "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
+- The visual material necessary for the posts will be provided
+- Always remember to mention SomosNLP
+
+Disclaimer: if you want to promote your product in a talk you must have a Gold sponsorship.
+
+Contact us now to share your experience!
+
+Helpful links:
+- [🔊 Suggest a keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
+- [🧑‍🏫 Offer a mentorship](https://forms.gle/7UmsVDnFmNo1pCrf9)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border- radius:5px;">📝 Fill out the form</a></center>
+
+</details>
+
+<details>
+<summary>How to give it visibility among my students?</summary>
+
+What we ask of collaborating universities:
+- Publish posts encouraging participation before February 15
+- Publish news, blog, or similar on your website before February 23
+- Publish posts/blogs announcing the results of the hackathon, (clearly, they can focus on their students' projects!)
+- Submit at least 1 student team to the hackathon
+ 
+Notes:
+- "Publish posts" = publish at least one post on LinkedIn and one tweet on Twitter (except if you don't have an account, obviously)
+- The visual material necessary for the posts will be provided
+- Always remember to mention SomosNLP
+  
+Useful links:
+- [💡 Info for universities](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
+
+</details>
+
+## Benefits table
+
+<details closed>
+<summary>Benefits table</summary>
+| | Gold | Silver | Bronze | Corpus | Visibility |
+|-| --------|-----|-------|--------|-----------|
+| Logo on the hackathon website and registration page | ✅ L | ✅ M | ✅ M | ✅ L | ✅ S |
+| Logo on the "Community" page (order) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 1º | ✅ 4º |
+| Thanks in RRSS and announcement of collaboration | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Tags in posts (minimum) | ✅ 15 | ✅ 15 | ✅ 10 | ✅ 10 | ✅ 5 | 
+| Post in social networks presenting your mission and projects | ✅ In+X | ✅ In+X | ✅ X | ✅ | ❌ |
+| Mention in an article describing sponsorships | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Live mention at the opening and closing | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Promotional Blog Article | ✅ | ✅ | ❌ | ✅ | ❌ |
+| Promocional video (3') * | ✅ | ✅ | ❌ | ✅ | ❌  |
+| Promotional talk (30') * | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Mention and link on the leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
+| Mention in a blog article describing the creation of the leaderboard | ❌ | ❌ |❌ | ✅ | ❌ |
+
+</details>
+
+### Disclaimer
+
+- If the requirements are not met, the corresponding logo will be removed 😢
+- In the articles, videos, and promotional talks you can share your *relevant* projects with the community 🤓
+- We appreciate all the extra visibility! 🤩
+
+## Contact
+
+We are at your disposal at info@somosnlp.org and Discord.
+
+If you have more collaboration ideas, please tell us how you think you can help us or how we can thank you for your support. Thank you very much again! ❤️
+
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Fill the form</a></center>
+
+---
+
+#### 💛 Individual Sponsorship
+
+We know that some people have supported us from the beginning and others have just met us and will support us in this new stage. We want to thank you for your effort and trust by adding your photo on the new "Community" page, send us your information!
+>>>>>>> 8cd0443 (feat(locale): update route when switching locale)
