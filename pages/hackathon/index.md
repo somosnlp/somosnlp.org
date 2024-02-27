@@ -11,6 +11,8 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif)
 
+*([English version](https://somosnlp.org/en/hackathon))*
+
 ## 🚀 Nuestros objetivos
 
 La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
