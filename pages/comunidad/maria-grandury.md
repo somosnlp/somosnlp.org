@@ -1,6 +1,6 @@
 ---
 title: María Grandury
-description: Fundadora @SomosNLP | Cofundadora @BERTIN
+description: Fundadora @SomosNLP
 cover: https://pbs.twimg.com/profile_images/1584913293470273537/6u-Q8SJP_400x400.jpg
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
