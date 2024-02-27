@@ -19,7 +19,7 @@ cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_calendar.p
 
 Requisitos:
 - La temática del evento debe estar alineada con la misión de SomosNLP.
-- El evento debe ser impartido en español o alguna de las lenguas cooficiales. Ocasionalmente también se publicarán eventos en inglés sobre PLN multilingüe.
-- El evento debe ser gratuito. En caso de ser un evento de pago, solo se publicarán eventos que ofrezcan un descuento a los miembros de la comunidad.
+- El evento debe ser impartido en español o alguna de las lenguas cooficiales. Ocasionalmente también se publicarán eventos en inglés sobre PLN en lenguas romances o PLN multilingüe.
+- El evento debe ser gratuito. En caso de ser un evento de pago, solo se publicarán eventos que ofrezcan un descuento a los miembros de la comunidad. La única excepción a este punto son conferencias internacionales de PLN.
 
 Manda ya tu evento a info@somosnlp.org 🤓

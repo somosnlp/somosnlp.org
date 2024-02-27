@@ -39,7 +39,7 @@ Tenemos un par de canales que te pueden interesar:
 
 Si todavía estás desarrollando tu proyecto:
 - *pide-ayuda*: Si tienes alguna duda implementando el proyecto, pide ayuda a la comunidad en este canal.
-- *busco-equipo*: Si tienes una idea que te gustaría desarrollar con más gente, puedes buscar equipo compartiendo tu idea en este canal y en nuestros-proyectos.
+- *encuentra-equipo*: Si tienes una idea que te gustaría desarrollar con más gente, puedes buscar equipo compartiendo tu idea en este canal y en nuestros-proyectos.
 
 Si todavía no perteneces a la comunidad, [únete con esta invitación](https://discord.com/invite/my8w7JUxZR).
 

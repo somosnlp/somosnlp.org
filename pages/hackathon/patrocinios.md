@@ -125,7 +125,7 @@ Enlaces útiles:
 </details>
 
 
-### Tabla detallada de beneficios
+### 👀 Tabla detallada de beneficios
 
 <details>
 <summary>Tabla detallada de beneficios</summary>
@@ -152,7 +152,7 @@ Enlaces útiles:
 
 </details>
 
-### Disclaimer
+### ☝️ Disclaimer
 
 - Si no se cumplen los requisitos, se eliminará el logo correspondiente 😢
 - En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad 🤓 
