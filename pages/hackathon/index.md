@@ -138,6 +138,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalA
 logo="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI_dark.png" />
 
+<SponsorInfo sponsor="Universidad de Puerto Rico" url="https://upr.edu"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
+
 </div>
 
 ### Patrocinios de Comunidad
@@ -167,9 +171,9 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png
 logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
 
-<SponsorInfo sponsor="Universidad de Puerto Rico" url="https://upr.edu"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
+<SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="https://www.sepln.org"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
 
 <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
@@ -182,7 +186,7 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" 
 ## 🤗 Información
 
 Para estar al día de todos los eventos y avances:
-- Únete a [Discord](https://discord.com/invite/my8w7JUxZR)
+- Únete a la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR)
 - Síguenos en [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
 - Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
-- Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Guarda los eventos del [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)

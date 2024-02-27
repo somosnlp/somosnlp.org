@@ -20,7 +20,7 @@ Somos una comunidad internacional en la que todo el mundo es bienvenido independ
 
 - Te animamos a crear bases de datos y entrenar modelos del lenguaje abiertos:
     - Si te atascas no te preocupes, pregúntanos en el canal #pide-ayuda
-    - Si buscas un equipo para desarrollar un proyecto, escribe tu propuesta en el canal #busco-equipo
+    - Si buscas un equipo para desarrollar un proyecto, escribe tu propuesta en el canal #encuentra-equipo
 - Si descubres nuevos datasets o modelos abiertos en español, inclúyelos en las listas de [recursos](https://somosnlp.org/recursos)
 - Si mientras estudias creas apuntes o traduces tutoriales del inglés, [compártelos](https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md#-publicar-un-art%C3%ADculo-en-el-blog) con la comunidad
 - Sigue formándote con las [charlas y talleres](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI) sobre temas más avanzados

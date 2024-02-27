@@ -102,12 +102,20 @@ Son bienvenidos corpus de todas las tareas tanto de comprensión (NLU) como de g
 
 ## 🙌 Agradecimientos
 
-Muchísimas gracias a todos los equipos que ya nos habéis contactado para donar corpus, ¡añadiremos aquí los logos próximamente!
+Campaña de recolección de corpus organizada con el apoyo de:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
 logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+
+<SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="https://www.sepln.org"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
+
+<SponsorInfo sponsor="LenguajeNatural.AI" url="https://lenguajenatural.ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
 </div>
