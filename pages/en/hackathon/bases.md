@@ -24,9 +24,8 @@ Participating in our hackathon and applying your knowledge to democratize NLP in
 2. Create an account on [Hugging Face](https://huggingface.co/join) and join the [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc) organization
 3. Register on [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w), choose the "Hackathon + Talleres" ticket
 4. Create your team or join one in the #encuentra-equipo channel on Discord, read the README
-5. For now, that's all, so that all teams start the hackathon with the same opportunities we will publish the hackathon details on March 1st
 
-If you have any questions, we are at your disposal in the #pide-ayuda channel, use the "hackathon" tag.
+If you have any questions, we are at your disposal in the #pide-ayuda channel, write a descriptive title and use the "hackathon" tag.
 
 We wish you much success! 🚀
 

@@ -20,8 +20,8 @@ La democratización del PLN en español es nuestro objetivo principal en SomosNL
 En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
 En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos fijando objetivos de alto impacto:
-1. 🌎 Crear un **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
-2. ✅ Crear una **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
+1. 🌎 Crear el mayor **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
+2. ✅ Crear la primera **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
 
 ¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
 
@@ -144,18 +144,35 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI_dark.p
 logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
 
+<SponsorInfo sponsor="Yamato" url="https://yamato.digital"
+logo="https://somosnlp.github.io/assets/images/patrocinios/YAMATO.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/YAMATO_dark.png" />
+
 </div>
 
 ### Patrocinios de Comunidad
 
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
-<SponsorInfo sponsor="DiverTLes" url="http://somosnlp.org/patrocinios/divertles"
-logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
+
+<SponsorInfo sponsor="AlexFocus" url="https://www.youtube.com/watch?v=UboQG4M3Sx0&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J"
+logo="https://somosnlp.github.io/assets/images/patrocinios/AlexFocus.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AlexFocus.jpeg" />
 
 <SponsorInfo sponsor="Mujeres Tech" url="http://somosnlp.org/patrocinios/mujeres-tech"
 logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
+
+<SponsorInfo sponsor="Proyecto ILENIA" url="https://proyectoilenia.es"
+logo="https://somosnlp.github.io/assets/images/patrocinios/ILENIA.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ILENIA_dark.png" />
+
+<SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="https://www.sepln.org"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
+
+<SponsorInfo sponsor="DiverTLes" url="http://somosnlp.org/patrocinios/divertles"
+logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
 
 <SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
 logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
@@ -172,10 +189,6 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png
 <SponsorInfo sponsor="Big Onion" url="http://somosnlp.org/patrocinios/big-onion"
 logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
-
-<SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="https://www.sepln.org"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
 
 <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
