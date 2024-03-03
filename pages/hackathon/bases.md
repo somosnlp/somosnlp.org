@@ -24,9 +24,8 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
 3. Regístrate en [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 4. Crea tu equipo o únete a uno en el canal #encuentra-equipo de Discord, lee el README
-5. De momento esto es todo, para que todos los equipos comiencen el hackathon con las mismas oportunidades publicaremos los detalles del hackathon el 1 de marzo
 
-Si tienes cualquier duda estamos a tu disposición en el canal #pide-ayuda, utiliza la etiqueta "hackathon".
+Si tienes cualquier duda estamos a tu disposición en el canal #pide-ayuda, escribe un título descriptivo y utiliza la etiqueta "hackathon".
 
 ¡Mucho éxito! 🚀
 
