@@ -72,6 +72,7 @@ Visibility sponsorships are of utmost importance as they allow us to reach more 
 </details>
 
 <details>
+
 <summary>How to give visibility to the hackathon?</summary>
 
 To consider your sponsorship as Community 🤗 we ask you:
@@ -89,12 +90,8 @@ Both types of visibility sponsorships are crucial for reaching a wider audience 
 
 </details>
 
-We are excited to have you join us in this journey. Together, we can make a significant impact on the NLP landscape for Spanish speakers around the world. Thank you for your support!
+#### 💛 Individual Sponsorship
 
-For any questions or further information, please do not hesitate to contact us at info@somosnlp.org.
-
-Let's make this hackathon a success together! 💪🚀
-
----
+We know that some people have supported us from the beginning and others have just met us and will support us in this new stage. We want to thank you for your effort and trust by adding your photo on the new "Community" page, send us your information!
 
 [Back to hackathon main page](https://somosnlp.org/en/hackathon)
