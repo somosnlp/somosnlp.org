@@ -115,6 +115,16 @@ Yes, we accept teams between 1 and 5 people.
 
 </details>
 
+<details>
+<summary>How do you recommend organizing the work?</summary>
+
+- Use your project channel on Discord to communicate and organize
+- Since it's an international hackathon, we recommend asynchronous communication or dividing the work and holding meetings with fewer people
+- Schedule meetings or talk spontaneously using the new voice channels in the "SALAS DE REUNIÓN" (meeting rooms) category on Discord
+- Pin important messages in the project channel, e.g., task allocation, day of the next meeting, ... To pin a message, click on the three dots and select "Pin message"
+- For better clarity, you can also create a shared document with team members to write down the project's objective, allocate tasks, and more (and pin the link in the chat)
+
+</details>
 
 <!--
 ## 📅 Important Dates
