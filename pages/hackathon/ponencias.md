@@ -16,7 +16,7 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 A continuación, presentamos una lista de temas sugeridos para las ponencias que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito.
 
 1. **Creación y curación de corpus:** Estrategias manuales, semi- y automáticas para la construcción y curación de corpus (con preferencia en lenguas íbero-romances).
-2. **Creación de modelos del lenguaje o sistemas conversacionales:** Resumen de los avances del último año y actuales retos.
+2. ~~**Creación de modelos del lenguaje o sistemas conversacionales:** Resumen de los avances del último año y actuales retos.~~
 3. **Multilingüismo y lenguas con recursos limitados:** Desarrollo de modelos para idiomas con pocos recursos y multilingüismo. Relevancia del desarrollo de recursos en idiomas distintos del inglés.
 4. **Multimodalidad:** Integración de diferentes modalidades de datos en modelos.
 5. **Evaluación:** Benchmarks, métricas y retos para la evaluación de modelos de lenguaje. Evaluación humana vs. automática en el ámbito del PLN.
