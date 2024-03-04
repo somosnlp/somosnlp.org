@@ -14,16 +14,31 @@ Each participating team will generate a corpus of instructions, train their LLM,
 </a>
 </div>
 
-<!-- Registrations open until March 15! -->
+<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Registrations open until March 15!</a></center>
 
 ## ✅ Steps to participate
 
 Participating in our hackathon and applying your knowledge to democratize NLP in Spanish is very simple, go for it!
 
 1. Join our [Discord](https://discord.com/invite/my8w7JUxZR) community (and introduce yourself in #intros!)
-2. Create an account on [Hugging Face](https://huggingface.co/join) and join the [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc) organization
-3. Register on [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w), choose the "Hackathon + Talleres" ticket
-4. Create your team or join one in the #encuentra-equipo channel on Discord, read the README
+
+2. Create an account on [Hugging Face](https://huggingface.co/join) and join the [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc) organization.
+
+3. Register on [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w), choose the "Hackathon (English)" ticket.
+
+4. Create your team or join one (teams of 1 to 5 people). Teams must be registered in the #encuentra-equipo channel (more info in the channel's README).
+
+5. Create your corpus in the hf.co/SomosNLP org, we encourage you to create a corpus of instructions originally in Spanish. We recommend using the distilabel library. Soon, the Argilla team will publish an example notebook.
+
+6. Write the Dataset Card for your dataset: inspect the dataset, evaluate, and mitigate biases.
+
+7. Fine-tuning of an LLM for the task you have chosen and push to hub. We will provide you with 24GB GPU VMs, let us know when you have the dataset and everything is ready to start training. Remember that it is very important to test on more humble machines to verify that the code is correct and not find errors after several hours of training.
+
+8. Write the Model Card for your model: evaluate its quality, biases, and carbon footprint. Important: link the dataset used for training.
+
+9. Create a demo to showcase your project to the community. You can use Nvidia T4 - small GPUs. Important: link the dataset(s) and model(s) used.
+
+10. Submit your project by filling out a form that we will publish soon. You can continue making modifications until 23h59 Anywhere on Earth on Sunday, March 24 (we will check the commit times 👀).
 
 If you have any questions, we are at your disposal in the #pide-ayuda channel, write a descriptive title and use the "hackathon" tag.
 
@@ -74,16 +89,32 @@ We will provide an example of how to create a dataset, train a model, and create
 </details>
 
 <details>
+<summary>How long do I have to form a team?</summary>
+
+Ideally all teams will be registered during the first week of the hackathon, until March 8th.
+
+</details>
+
+<details>
 <summary>How can I find a team?</summary>
 
-Finding a team is easy! You can:
+Finding a team is easy! Check the README of the #encuentra-equipo channel on our Discord server!
 
+You have two options:
 - 👀 Look for posts from other participants who are looking for team members and respond to them, OR
-- 📢 Post a message in the #encuentra-equipo channel on our Discord specifying the topic you would like to work on and that it will be an English-speaking team your skills and what you're looking for in a team
+- 📢 Create a new thread specifying the topic you would like to work on
 
 We encourage diversity in teams, including a mix of skills, experiences, and backgrounds. This diversity often leads to more innovative and comprehensive projects.
 
 </details>
+
+<details>
+<summary>Can there be teams of 1 person?</summary>
+
+Yes, we accept teams between 1 and 5 people.
+
+</details>
+
 
 <!--
 ## 📅 Important Dates
