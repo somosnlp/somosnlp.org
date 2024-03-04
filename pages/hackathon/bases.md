@@ -28,11 +28,11 @@ Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de 
 
 1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
 
-2. Entra en …
+2. Entra en el [entorno de anotación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
 
-3. Verifica la traducción de un párrafo del inglés al español
+3. Valida la traducción de un párrafo del inglés al español
 
-4. Repite el paso 3 cuantas veces quieras y ¡mira cómo subes en el ranking de colaboraciones!
+4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el ranking de colaboraciones 
 
 5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 🙌
 
@@ -68,6 +68,8 @@ Si tienes cualquier duda estamos a tu disposición en el canal #pide-ayuda, escr
 
 Al finalizar el hackathon, habremos creado el mayor corpus de instrucciones abierto originalmente en español y lenguas cooficiales.
 
+Agradecemos mucho a Hugging Face la mejora de la org de SomosNLP a enterprise para poder utilizar la PRO API. Pedimos a todos los equipos responsabilidad y que esta API sea estrictamente usada para el desarrollo de proyectos del hackathon.
+
 ### O... dona tu corpus
 
 También puedes colaborar con ambos objetivos donando un corpus que hayas creado con tu grupo de investigación o empresa, [¡dona tu corpus!](https://somosnlp.org/donatucorpus) -->
@@ -80,10 +82,11 @@ También puedes colaborar con ambos objetivos donando un corpus que hayas creado
 Al unirte a este hackathon tendrás la oportunidad de:
 
 - ✅ Comprender cómo funcionan los grandes modelos del lenguaje (LLMs) y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento y evaluación
-- ✅ Participar en la creación de un corpus de calidad y diverso que incluya las distintas variedades del español y lenguas cooficiales (top como experiencia y top para el CV)
+- ✅ Participar en la creación del mayor corpus de calidad y diverso que incluya las distintas variedades del español y lenguas cooficiales (top como experiencia y top para el CV)
+- ✅ Ser parte del equipo que cree algunas de las bases de datos de la primera leaderboard pública de LLMs en español
 - ✅ Resolver todas tus dudas sobre PLN durante sesiones de mentoría "Ask My Anything"
 - ✅ Recibir apoyo para presentar tu trabajo en un paper
-- ✅ Ganar premios para seguir creciendo como profesional y conseguir un certificado
+- ✅ Ganar premios para seguir creciendo como profesional y conseguir un certificado que poder compartir en LinkedIn
 - ✅ Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
 
 </details>
@@ -144,10 +147,21 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 </details>
 
+<details>
+<summary>¿Cómo nos recomendáis organizarnos?</summary>
+
+- Utilizar el canal de vuestro proyecto en Discord para comunicaros y organizaros.
+- Dado que es un hackathon internacional recomendamos una comunicación asíncrona o que os repartáis el trabajo y hagáis reuniones de menos personas
+- Fijar reuniones o hablar espontáneamente utilizando los nuevos canales de voz de la categoría "SALAS DE REUNIÓN" de Discord
+- Fijar en el canal del proyecto los mensajes importantes, e.g.: repartición de tareas, día de la próxima reunión, ... Para fijar un mensaje haz click en los tres puntitos y selecciona "Fijar mensaje"
+- Para mayor claridad también podéis crear un documento compartido con las personas del equipo en el que escribir el objetivo del proyecto, repartir tareas y demás (y fijar el enlace en el chat)
+
+</details>
+
 ## 🙌 Mientras tanto... apoya la organización del evento
 
 - Comparte los posts de las cuentas de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [Twitter](https://twitter.com/somosnlp_)), ¡invita a tus colegas del trabajo, compañeros y compañeras de clase a crear un equipo!
-- ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A).
+<!-- - ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A). -->
 - ¿Estás en la uni? [Comparte esta info con tu profe](https://somosnlp.org/hackathon/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
 - ¿Te gustaría compartir tu conocimiento con la comunidad? Propón una [ponencia](https://forms.gle/YpUvifDNLG6E56Cy9) o una [mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9).
 - ¿Formas parte de un grupo de investigación? Igual os interesa [colaborar donando un corpus](https://somosnlp.org/donatucorpus).
