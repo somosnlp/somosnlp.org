@@ -28,7 +28,7 @@ Participating in our hackathon and applying your knowledge to democratize NLP in
 
 4. Create your team or join one (teams of 1 to 5 people). Teams must be registered in the #encuentra-equipo channel (more info in the channel's README).
 
-5. Create your corpus in the hf.co/SomosNLP org, we encourage you to create a corpus of instructions originally in Spanish. We recommend using the distilabel library. Soon, the Argilla team will publish an example notebook.
+5. Create your instruction corpus in the hf.co/SomosNLP org. We recommend using the `distilabel` library. Check the [example notebook](https://colab.research.google.com/drive/12tH2j3AtvXjqHRfUAWw40vg6o4lUFEC3?usp=sharing) provided by the Argilla team!
 
 6. Write the Dataset Card for your dataset: inspect the dataset, evaluate, and mitigate biases.
 

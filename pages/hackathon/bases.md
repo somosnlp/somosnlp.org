@@ -16,8 +16,6 @@ Cada equipo participante generará un corpus de instrucciones, entrenará su LLM
 
 <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 15 de marzo!</a></center>
 
-*Nota: Si te hemos dicho que aquí hay info que no encuentras, borra las cookies y recarga la página.*
-
 ## 👀 Maneras de participar
 
 Como sabes, la iniciativa #Somos600M tiene dos objetivos:
@@ -40,7 +38,7 @@ Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de 
 
 Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
 
-1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR) (¡y preséntate en #intros!)
+1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR). Auto-asígnate el rol "Hackathon24": en el servidor, vete al comienzo de la barra lateral izquierda, haz click en "Canales y roles", selecciona "Participar en el hackathon 2024".
 
 2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
 
@@ -48,7 +46,7 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 
 4. Crea tu equipo o únete a uno (equipos de de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 
-5. Crea tu corpus en la org de hf.co/SomosNLP, te animamos a crear un corpus de instrucciones originalmente en español. Te recomendados utilizar la librería `distilabel`. Próximamente el equipo de Argilla publicará un notebook de ejemplo.
+5. Crea tu corpus de instrucciones en la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel`, puedes apoyarte en [este notebook](https://colab.research.google.com/drive/12tH2j3AtvXjqHRfUAWw40vg6o4lUFEC3?usp=sharing) creado por el equipo de Argilla.
 
 6. Escribe la Dataset Card de tu dataset: inspecciona el dataset, evalúa y mitiga sesgos.
 
@@ -157,6 +155,8 @@ Sí, aceptamos equipos de 1 a 5 personas.
 - Para mayor claridad también podéis crear un documento compartido con las personas del equipo en el que escribir el objetivo del proyecto, repartir tareas y demás (y fijar el enlace en el chat)
 
 </details>
+
+*Si te hemos dicho que en esta página hay info que no encuentras, borra las cookies y recarga la página.*
 
 ## 🙌 Mientras tanto... apoya la organización del evento
 
