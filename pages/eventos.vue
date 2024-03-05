@@ -16,8 +16,7 @@
         <article class="m-auto prose">
 
             <div class="mx-auto my-8 text-center">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximo
-                    evento</span>
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximo evento</span>
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
                         src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
@@ -37,6 +36,14 @@
             </div>
 
             <hr class="mx-auto mt-8 mb-12 prose" />
+
+            <div class="mx-auto my-8 text-center">
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete al Hackathon #Somos600M</span>
+                <a href="/hackathon" target="_blank">
+                    <img alt="Hackathon #Somos600M" width="650" height="365"
+                        src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
+                </a>
+            </div>
 
             <div class="m-12">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
