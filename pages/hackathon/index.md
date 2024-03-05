@@ -5,29 +5,13 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos abiertos de PLN en español y lenguas cooficiales**.
+Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
 ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif)
 
 *([English version](https://somosnlp.org/en/hackathon))*
-
-## 🚀 Nuestros objetivos
-
-La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
-
-En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
-
-En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos fijando objetivos de alto impacto:
-1. 🌎 Crear el mayor **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
-2. ✅ Crear la primera **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
-
-¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
-
-![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
-
-
 
 <!--
 ## 🚀 Cómo puedes colaborar
@@ -43,7 +27,18 @@ En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos 
 ## ¿Cómo puedes colaborar?
 
 <details  style="margin-bottom: 20px;">
-<summary>💻 Participa en el hackathon</summary>
+<summary>💡 Asiste a las charlas de especialistas</summary>
+
+En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de marzo tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
+
+¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
+
+<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+
+</details>
+
+<details  style="margin-bottom: 20px;">
+<summary>💻 Desarrolla un proyecto</summary>
 
 Al unirte a este hackathon tendrás la oportunidad de colaborar con la creación de LLMs de calidad e inclusivos en tu lengua. Aplica tus conocimientos para superar los retos de cada etapa de desarrollo de tu LLM: creación del corpus, entrenamiento y evaluación.
 
@@ -56,13 +51,19 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
 </details>
 
 <details  style="margin-bottom: 20px;">
-<summary>💡 Asiste a las charlas de especialistas</summary>
+<summary>🔍 Valida las traducciones </summary>
 
-En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de marzo tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
+¿Hablas español e inglés? Independiente de si sabes de IA nos puedes ayudar a crear el primer ranking público de LLMs en español 🔥
 
-¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
+En comunidad vamos a validar las traducciones hechas por la Universidad de Oregón de las bases de datos utilizadas en la famosa Open LLM Leaderboard de Hugging Face. Gracias al apoyo de Argilla y Hugging Face, colaborar es muy sencillo:
 
-<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+1. Crea una cuenta en [Hugging Face](http://hf.co/join) 
+2. Entra en el [espacio de anotación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
+3. Valida la traducción de un párrafo del inglés al español
+4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el ranking de colaboraciones
+5. Tu nombre aparecerá como parte del equipo que creó las bases de datos
+
+<center><a href="https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔍 Comienza a validar</a></center>
 
 </details>
 
@@ -105,17 +106,29 @@ Comparte tu experiencia y conocimiento apoyando a los equipos participantes a cr
 <details  style="margin-bottom: 20px;">
 <summary>🙌 Patrocina este maravilloso evento</summary>
 
-SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y crear impacto en el mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión. ¡Contamos contigo!
+SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y crear impacto en el mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo visibilidad, vales y donaciones. ¡Contamos contigo!
 
 <center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
 
----
+## 🚀 Nuestros objetivos
+
+La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
+
+En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+
+En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos fijando objetivos de alto impacto:
+1. 🌎 Crear el mayor **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
+2. ✅ Crear la primera **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
+
+¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
+
+![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
 
 ## 👏 Agradecimientos 
 
-Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a democratizar el PLN en español!
+Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a hacer el PLN en español más inclusivo!
 
 ### Patrocinios de Oro
 
