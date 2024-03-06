@@ -20,7 +20,7 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
     </a>
 </div>
 
-- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
+- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 
 ## Eventos con el equipo de Argilla
 

@@ -12,7 +12,7 @@ Somos una incubadora de startups que busca potenciar emprendedores hispanohablan
 
 ## Colaboración
 
-- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
+- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 
 ## Eventos con el equipo de AgilMentor
 

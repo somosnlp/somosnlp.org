@@ -27,7 +27,7 @@ community: Ponente
 
 ## Colaboración
 
-- AgilMentor fue empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
+- AgilMentor fue empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 
 ## Biografía
 

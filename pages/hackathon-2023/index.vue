@@ -389,7 +389,7 @@ useHead({
                     Discord "🏆Hackathon23"
                 </li>
             </ul>
-            <a href="blog/anuncio-patrocinios" target="_blank">
+            <a href="blog/anuncio-patrocinios-2023" target="_blank">
                 ¡Más detalles sobre los patrocinios de oro aquí!
             </a>
 
@@ -404,7 +404,7 @@ useHead({
             <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
 
-                <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/blog/anuncio-patrocinios"
+                <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
 
@@ -412,24 +412,24 @@ useHead({
                     logo="https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/QBlocks_dark.png" />
 
-                <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/blog/anuncio-patrocinios"
+                <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
 
                 <SponsorInfo sponsor="Instituto Milenio Fundamentos de los Datos"
-                    url="http://somosnlp.org/blog/anuncio-patrocinios"
+                    url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/IMFD.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/IMFD_dark.png" />
 
-                <SponsorInfo sponsor="Nova" url="http://somosnlp.org/blog/anuncio-patrocinios"
+                <SponsorInfo sponsor="Nova" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/Nova.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Nova_dark.png" />
 
-                <SponsorInfo sponsor="AgilMentor" url="http://somosnlp.org/blog/anuncio-patrocinios"
+                <SponsorInfo sponsor="AgilMentor" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" />
 
-                <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/blog/anuncio-patrocinios"
+                <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
                     logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
             </div>

@@ -139,7 +139,7 @@ Premios para el primer puesto:
 - 📚 Libros patrocinados por Argilla a elegir entre "NLP with Transformers", "Human-in-the-loop Machine Learning" and "Designing Machine Learning Systems"
 - 👀 Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon23"
 
-[¡Más detalles sobre los patrocinios de oro aquí!](blog/anuncio-patrocinios)
+[¡Más detalles sobre los patrocinios de oro aquí!](blog/anuncio-patrocinios-2023)
 
 ---
 
@@ -149,13 +149,13 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 
 ### 🥇 Patrocinadores de oro
 
-- [Argilla](http://somosnlp.org/blog/anuncio-patrocinios)
+- [Argilla](http://somosnlp.org/blog/anuncio-patrocinios-2023)
 - [Q Blocks](https://qblocks.cloud/)
-- [Hugging Face](http://somosnlp.org/blog/anuncio-patrocinios)
-- [Instituto Milenio Fundamentos de los Datos](http://somosnlp.org/blog/anuncio-patrocinios)
-- [Nova](http://somosnlp.org/blog/anuncio-patrocinios)
-- [AgilMentor](http://somosnlp.org/blog/anuncio-patrocinios)
-- [Women Tech Global Conference](http://somosnlp.org/blog/anuncio-patrocinios)
+- [Hugging Face](http://somosnlp.org/blog/anuncio-patrocinios-2023)
+- [Instituto Milenio Fundamentos de los Datos](http://somosnlp.org/blog/anuncio-patrocinios-2023)
+- [Nova](http://somosnlp.org/blog/anuncio-patrocinios-2023)
+- [AgilMentor](http://somosnlp.org/blog/anuncio-patrocinios-2023)
+- [Women Tech Global Conference](http://somosnlp.org/blog/anuncio-patrocinios-2023)
 
 ### 🥈 Patrocinadores de plata
 

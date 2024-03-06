@@ -27,7 +27,7 @@ community: Ponente
 
 ## Colaboración
 
-- El Instituto Milenio Fundamento de los Datos fue [patrocinador de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
+- El Instituto Milenio Fundamento de los Datos fue [patrocinador de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 
 
 ## Biografía
