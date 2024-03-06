@@ -6,6 +6,7 @@ twitter: https://twitter.com/UNLoficial
 linkedin: https://www.linkedin.com/school/universidad-nacional-de-loja/mycompany/
 website: https://unl.edu.ec
 type: 3. Bronce
+years: 2024, 2023, 2022
 ---
 
 Es misión de la Universidad Nacional de Loja: la formación académica y profesional, con sólidas bases científicas y técnicas, pertinencia social y valores; la generación y aplicación de conocimientos científicos, tecnológicos y técnicos, que aporten al desarrollo integral del entorno y al avance de la ciencia; el fortalecimiento del pensamiento, la promoción, desarrollo y difusión de los saberes y culturas; y, la prestación de servicios especializados.

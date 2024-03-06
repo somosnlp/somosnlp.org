@@ -6,6 +6,7 @@ twitter: https://twitter.com/NovaTalent_
 linkedin: https://www.linkedin.com/company/nova/
 website: https://www.novatalent.com/
 type: 1. Oro
+years: 2023
 ---
 
 Nova es la red global de talento que conecta a personas de alto potencial entre sí y

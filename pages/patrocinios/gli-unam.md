@@ -6,6 +6,7 @@ twitter: https://twitter.com/GIL_UNAM
 linkedin:
 website: https://www.facebook.com/ingenieriaLinguistica
 type: 3. Bronce
+years: 2023
 ---
 
 Somos un grupo de investigación de la UNAM especializado en el Procesamiento de Lenguaje Natural. 

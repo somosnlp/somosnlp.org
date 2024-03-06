@@ -6,6 +6,7 @@ twitter: https://www.twitter.com/datagenero
 linkedin: https://www.linkedin.com/company/datagenero
 website: https://www.datagenero.org 
 type: 2. Plata
+years: 2023
 ---
 
 ## Colaboración

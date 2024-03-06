@@ -6,6 +6,7 @@ twitter:
 linkedin: https://www.linkedin.com/company/agilmentor/
 website: https://agilmentor.com
 type: 2. Oro
+years: 2023
 ---
 
 Somos una incubadora de startups que busca potenciar emprendedores hispanohablantes para que logren resultados increíbles.
