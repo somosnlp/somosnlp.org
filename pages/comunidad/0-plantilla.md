@@ -45,4 +45,6 @@ community:
 - BSC: Martin, Salva y Luis
 - Moisés
 - Diego Caballero
+- Marta IIC
+- Equipo Argilla
 -->

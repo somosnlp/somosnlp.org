@@ -1,5 +1,5 @@
 ---
-title: Masterclass de IA para devs de Lidr
+title: Masterclass de IA para Devs de Lidr
 description: Conviértete en un/a AI-powered developer
 cover: https://somosnlp.github.io/assets/images/blog/masterclass_ia_devs_lidr.jpg
 date: 2024-03-04T12:00:00.000+00:00
