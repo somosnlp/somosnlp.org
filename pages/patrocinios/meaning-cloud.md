@@ -6,6 +6,7 @@ twitter:
 linkedin:
 website: 
 type: 2. Plata
+years: 2023
 ---
 
 ## Colaboración

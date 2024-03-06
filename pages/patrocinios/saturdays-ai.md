@@ -6,6 +6,7 @@ twitter: https://twitter.com/AISaturdays_ES
 linkedin: https://www.linkedin.com/school/saturdaysai/
 website: https://saturdays.ai/
 type: 2. Plata
+years: 2024, 2023, 2022
 ---
 
 ## Colaboración

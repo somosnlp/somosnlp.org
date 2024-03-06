@@ -6,6 +6,7 @@ twitter:
 linkedin:
 website: 
 type: 3. Bronce
+years: 2024, 2023
 ---
 
 Big Onion es un equipo de personas experimentadas en innovación con foco en negocio digital capaces de auditar, diseñar, ejecutar y formar equipos para proyectos tecnológicos.

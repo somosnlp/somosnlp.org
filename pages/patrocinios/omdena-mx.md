@@ -6,6 +6,7 @@ twitter:
 linkedin: 
 website: https://omdena.com/
 type: 2. Plata
+years: 2023
 ---
 
 ## Colaboración

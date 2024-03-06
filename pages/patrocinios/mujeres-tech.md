@@ -6,6 +6,7 @@ twitter:
 linkedin:
 website: https://www.mujerestech.com/
 type: 3. Bronce
+years: 2024, 2023
 ---
 
 Mujeres Tech es una asociación sin ánimo de lucro que nace a principios de 2015 con el objetivo de dar visibilidad a las mujeres en el sector digital, fomentar las vocaciones científico-tecnológicas entre las más jóvenes, y servir de plataforma para establecer una red entre las mujeres profesionales del sector en España.

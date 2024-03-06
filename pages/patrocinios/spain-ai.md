@@ -6,6 +6,7 @@ twitter: https://twitter.com/Spain_AI_
 linkedin: https://www.linkedin.com/company/spainai/
 website: https://www.spain-ai.com
 type: 2. Plata
+years: 2024, 2023, 2022
 ---
 
 Spain AI nace en 2017 con el objetivo de democratizar la Inteligencia Artificial en todos los países de habla hispanohablante y dar apoyo a empresas y profesionales para la integración o el uso de la IA. Es una asociación sin ánimo de lucro que busca democratizar la IA en castellano mediante:

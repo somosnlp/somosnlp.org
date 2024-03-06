@@ -6,6 +6,7 @@ twitter: https://twitter.com/mx_nlp
 linkedin: https://www.facebook.com/NLPWebinarsMx
 website: https://nlpwebinarmx.org/ 
 type: 3. Bronce
+years: 2023
 ---
 
 ## Colaboración

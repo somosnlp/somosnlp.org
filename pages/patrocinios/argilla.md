@@ -6,6 +6,7 @@ twitter: https://twitter.com/argilla_io
 linkedin: https://www.linkedin.com/company/argilla-io/
 website: https://www.argilla.io/
 type: 1. Oro
+years: 2024, 2023, 2022
 ---
 
 Argilla es una plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  

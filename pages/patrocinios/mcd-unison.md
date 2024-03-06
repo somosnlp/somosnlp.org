@@ -6,6 +6,7 @@ twitter: https://twitter.com/McdUnison
 linkedin: https://www.linkedin.com/company/64708901/admin/
 website: https://mcd.unison.mx
 type: 3. Bronce
+years: 2023
 ---
 
 Maestría en Ciencia de Datos del Departamento de Matemáticas de la Universidad de Sonora. 

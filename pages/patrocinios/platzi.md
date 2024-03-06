@@ -5,7 +5,8 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/platzi.png
 twitter: 
 linkedin:
 website: 
-type: 1. Oro
+type: 3. Bronce
+years: 2023, 2022
 ---
 
 ## Colaboración
@@ -18,7 +19,7 @@ type: 1. Oro
     </a>
 </div>
 
-- Comunidad patrocinadora de oro del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
+- Comunidad patrocinadora de bronce del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 ## Eventos con el equipo de Platzi
 

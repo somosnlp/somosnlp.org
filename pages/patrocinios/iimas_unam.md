@@ -6,6 +6,7 @@ twitter:
 linkedin:
 website: 
 type: 3. Bronce
+years: 2022
 ---
 
 ## Colaboración

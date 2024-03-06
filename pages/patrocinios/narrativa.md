@@ -6,6 +6,7 @@ twitter: https://twitter.com/NarrativaAI
 linkedin: https://www.linkedin.com/company/narrativaai/
 website: narrativa.com 
 type: 2. Plata
+years: 2023, 2022
 ---
 
 Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan diversos como medios de comunicación, marketing o ciencias de la salud (farmacéuticas, CROs...).

@@ -6,6 +6,7 @@ twitter: https://twitter.com/SoftwareThemis_
 linkedin: https://www.linkedin.com/company/software-themis/
 website: https://www.themis.es
 type: 3. Bronce
+years: 2023
 ---
 
 Software Themis es el primer corrector de lenguaje sexista.
