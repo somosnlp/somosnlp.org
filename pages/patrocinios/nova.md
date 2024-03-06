@@ -24,7 +24,7 @@ en la actualidad en mejorar su tecnología y establecerse en nuevos mercados.
 
 ## Colaboración
 
-- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios) del Hackathon SomosNLP 2023
+- Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 
 <div class="flex justify-center">
     <img alt="" width="250" height="140" 
