@@ -1,5 +1,5 @@
 ---
-title: Anunciamos los patrocinios de oro
+title: Anunciamos los patrocinios de oro del Hackathon 2023
 description: ¡Muchísimas gracias por vuestro apoyo!
 date: 2023-03-16T18:00:00.000+00:00
 lang: es
