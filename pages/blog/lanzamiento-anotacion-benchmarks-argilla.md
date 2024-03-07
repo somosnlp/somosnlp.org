@@ -8,14 +8,28 @@ duration: 1min
 author: María Grandury
 ---
 
-¿Te gustaría participar en la creación del mayor corpus de instrucciones abierto en tu idioma? ¿O de la primera leaderboard abierta?
+¿Te gustaría participar en la creación de la primera leaderboard abierta de LLMs en español y lenguas cooficiales?
 
-¡Con el apoyo de Argilla a nuestro Hackathon #Somos600M es muy fácil!
+Aunque no tengas conocimientos de IA y dispongas de poquito tiempo, puedes colaborar validando las traducciones del inglés al español de las bases de datos de la famosa Open LLM Leaderboard de Hugging Face, en concreto de MMLU, ARC-C y HellaSwag. Estas traducciones fueron originalmente hechas por el Grupo de PLN de la Universidad de Oregon utilizando ChatGPT y con este esfuerzo colaborativo las queremos validar y corregir para asegurarnos de que utilizamos datos de calidad.
 
-🔎 Aunque no tengas conocimientos de IA, puedes colaborar validando las traducciones de las bases de datos del Open LLM Leaderboard de Hugging Face.
+## 🚀 Cómo participar
+
+1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
+
+2. Entra en el [entorno de anotación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
+
+3. Valida la traducción de un párrafo del inglés al español
+
+4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el [ranking de colaboraciones](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
+
+5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 
 
 [¡Participa en este gran esfuerzo colaborativo!](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
 
-📚 El equipo ha creado un notebook que muestra cómo utilizar su novedosa librería distilabel para crear una base de datos y poder participar en el hackathon.
+## 🙌 Agradecimientos
 
-[¡Comienza hoy a desarrollar tu proyecto!](https://somosnlp.org/hackathon/bases)
+Gracias al equipo de Argilla por co-organizar esta iniciativa, en concreto de Álvaro Bartolomé por crear el espacio de anotación, a ... por crear el dashboard y a Daniel Vila por prestarnos a su maravilloso equipo.
+
+Gracias también a Hugging Face, en particular a Omar Sanseviero, por patrocinar las GPUs y el almacenamiento necesarios para habilitar estos espacios.
+
+Como siempre, ¡todo un placer trabajar con vosotros!
