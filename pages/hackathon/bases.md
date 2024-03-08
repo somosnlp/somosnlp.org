@@ -22,7 +22,9 @@ Como sabes, la iniciativa #Somos600M tiene dos objetivos:
 
 ### ✅ Crear la primera leaderboard de LLMs
 
-Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de la Universidad de Oregon de las bases de datos utilizadas en la famosa [Open LLM Leaderboard de Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard). Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, Daniel Vila y Omar Sanseviero, colaborar es muy sencillo:
+Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de la Universidad de Oregon de las bases de datos utilizadas en la famosa [Open LLM Leaderboard de Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
+
+Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, Ignacio Talavera, Daniel Vila y Omar Sanseviero, colaborar es muy sencillo:
 
 1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
 
@@ -30,7 +32,7 @@ Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de 
 
 3. Valida la traducción de un párrafo del inglés al español
 
-4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el ranking de colaboraciones 
+4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el [ranking de colaboraciones](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
 
 5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 🙌
 
@@ -46,7 +48,7 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 
 4. Crea tu equipo o únete a uno (equipos de de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 
-5. Crea tu corpus de instrucciones en la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel`, puedes apoyarte en [este notebook](https://colab.research.google.com/drive/12tH2j3AtvXjqHRfUAWw40vg6o4lUFEC3?usp=sharing) creado por el equipo de Argilla.
+5. Crea tu corpus de instrucciones en la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel`, puedes apoyarte en [este notebook](https://colab.research.google.com/drive/12tH2j3AtvXjqHRfUAWw40vg6o4lUFEC3?usp=sharing) creado por el equipo de Argilla (gracias Daniel Vila y Agustín Piqueres).
 
 6. Escribe la Dataset Card de tu dataset: inspecciona el dataset, evalúa y mitiga sesgos.
 
