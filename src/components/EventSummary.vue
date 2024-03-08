@@ -11,7 +11,7 @@ defineProps<{
     twitter: string
     linkedin: string
     github: string
-    hide_personal_info: boolean
+    show_personal_info: boolean
     lista: string
 }>()
 </script>
@@ -30,8 +30,8 @@ defineProps<{
 
     <div class="grid grid-cols-2">
         <div>
-            <p v-if="!hide_personal_info" class="contents" :name="name">{{ name }}</p>
-            <div v-if="!hide_personal_info" class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
+            <p v-if="show_personal_info" class="contents" :name="name">{{ name }}</p>
+            <div v-if="show_personal_info" class="mt-2 flex flex-wrap gap-2 items-center justify-self-center" text="lg">
                 <IconButtonLink v-if="website" :url="website" target="_blank" class="contents">
                     <carbon:user-avatar-filled-alt />
                 </IconButtonLink>
@@ -55,7 +55,7 @@ defineProps<{
             </div>
         </div>
     </div>
-    <div v-if="!hide_personal_info" class="my-8">{{ bio }}</div>
+    <div v-if="show_personal_info" class="my-8">{{ bio }}</div>
     <div v-if="lista" class="flex justify-center">
         <a :href="lista" target="_blank">Más charlas y talleres</a>
     </div>

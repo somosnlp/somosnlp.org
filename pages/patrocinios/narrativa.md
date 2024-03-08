@@ -34,7 +34,7 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
     linkedin="https://www.linkedin.com/in/manuel-romero-cs/"
     github="https://github.com/mrm8488"
     bio="Manuel tiene una “mente inquieta y un alma emprendedora”. Estudió ingeniería informática y cuenta con casi 10 años de experiencia como desarrollador back-end y arquitecto de software. Además, es un SCRUM Master y Product Owner certificado. Actualmente trabaja en Narrativa como Ingeniero Senior de Inteligencia Artificial especializado en NLP/NLG y es el mayor contribuidor del Model Hub de Hugging Face con casi 300 modelos."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 - Profesor del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)

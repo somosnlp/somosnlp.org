@@ -23,7 +23,7 @@ community: Ponente
     linkedin="https://www.linkedin.com/in/paulovn/"
     github=""
     bio="Paulo Villegas trabaja de experto tecnológico en la Chief Digital Office de Telefónica, en el área de prototipado de soluciones y servicios sobre Inteligencia Artificial y Data Science. También es profesor asociado en la Universidad Autónoma de Madrid, y profesor colaborador en la UNED y en CESTE."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 - Muestreo de datos para entrenamiento de modelos | Hackathon SomosNLP 2022
@@ -33,7 +33,7 @@ community: Ponente
     poster="https://somosnlp.github.io/assets/images/evento_paulo.png"
     video="https://www.youtube.com/embed/UQwWTykNFW0"
     bio="Experto tecnológico senior en Chief Digital Office de Telefónica. Profesor asociado en la Universidad Autónoma de Madrid. Interesado en ciencia de datos, Machine Learning, NLP e impacto de las tecnologías."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 ## Biografía

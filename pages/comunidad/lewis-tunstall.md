@@ -23,7 +23,7 @@ community: Colaboración
     linkedin="https://www.linkedin.com/in/lewis-tunstall"
     github="https://github.com/lewtun"
     bio="Lewis es Ingeniero de Machine Learning en el equipo de open-source de Hugging Face. Tiene varios años de experiencia construyendo aplicaciones de Machine Learning para startups y empresas en los dominios de NLP, análisis de datos topológicos y series temporales. Tiene un doctorado en física teórica y ha ocupado puestos de investigación en Australia, Estados Unidos y Suiza. Su trabajo actual se centra en el desarrollo de herramientas para la comunidad de NLP y en la formación de las personas para que las utilicen de forma eficaz."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 - Profesor del curso [NLP de 0 a 100](https://somosnlp.org/nlp-de-cero-a-cien)

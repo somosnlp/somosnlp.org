@@ -37,7 +37,7 @@ years: 2023, 2022
     bio="Estudió ingeniería de sistemas y realizó una maestría en gerencia TIC.
     Experiencia como administrador de bases de datos, desarrollador PL/SQL, experto en business intelligence, arquitecto de datos, analista de datos y otros cargos relacionados con el tema.
     Data Scientist y Data Architect en el Team Platzi  y actualmente divulgador AI en redes sociales y director de la escuela de datos & AI en Platzi y docente de varios de los cursos de esta ruta."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 <div class="flex justify-center">

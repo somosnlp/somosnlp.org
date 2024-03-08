@@ -22,7 +22,7 @@ community: Ponente
     linkedin="https://www.linkedin.com/in/ivana-feldfeber/"
     github=""
     bio="Ivana Feldfeber es especialista en Ciencia de Datos con perspectiva de género. Es cofundadora y directora ejecutiva del primer Observatorio de Datos de Género de América Latina, 'DataGénero'. Es integrante de la Red Latinoamericana de Investigación en Inteligencia Artificial Feminista. Fue becaria en el Centro de Inteligencia Artificial y Política Digital (CAIDP) para el análisis de políticas públicas de IA en América Latina. Ivana es diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Universidad de Córdoba, Argentina."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 En esta charla presentaremos el trabajo en conjunto que estamos realizando desde DataGénero - Observatorio de Datos con Perspectiva de Género y el Juzgado N°10 Contravenciona, Penal y de Faltas de la Ciudad de Buenos Aires, para construir una herramienta (software) que genere datos estructurados a partir de datos no estructurados.
