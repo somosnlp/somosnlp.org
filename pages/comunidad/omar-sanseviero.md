@@ -24,7 +24,7 @@ community: Activo
     linkedin="https://www.linkedin.com/in/omarsanseviero"
     github="https://github.com/osanseviero"
     bio="Omar es Ingeniero de Machine Learning con 7 años de experiencia. Trabaja en Hugging Face en el equipo Open Source democratizando el uso de ML. Anteriormente, Omar trabajó como Ingeniero de Software en Google en los equipos de Assistant y TensorFlow Graphics."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 - Crear una demo en Spaces con Flask | Hackathon SomosNLP 2022

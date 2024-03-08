@@ -22,7 +22,7 @@ community: Ponente
     linkedin="https://www.linkedin.com/in/jocelyn-dunstan-bb92858b/"
     github=""
     bio="Jocelyn Dunstan es académica de la Universidad Católica de Chile en vacante compartida entre el Departamento de Computación y el Instituto de Matemática Computacional. Investigadora del Instituto Milenio Fundamento de los Datos del Centro de Modelamiento Matemático. PhD en Matemáticas Aplicada Universidad de Cambridge en el Reino Unido. Magíster y Licenciada en Física de la Universidad de Chile."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 ## Colaboración

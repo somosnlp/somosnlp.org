@@ -33,7 +33,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     linkedin="https://www.linkedin.com/in/omarsanseviero"
     github="https://github.com/osanseviero"
     bio="Omar es Ingeniero de Machine Learning con 7 años de experiencia. Trabaja en Hugging Face en el equipo Open Source democratizando el uso de ML. Anteriormente, Omar trabajó como Ingeniero de Software en Google en los equipos de Assistant y TensorFlow Graphics."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 - Ask Me Anything con Lewis Tunstall | Hackathon SomosNLP 2022
@@ -48,7 +48,7 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     linkedin="https://www.linkedin.com/in/lewis-tunstall"
     github="https://github.com/lewtun"
     bio="Lewis es Ingeniero de Machine Learning en el equipo de open-source de Hugging Face. Tiene varios años de experiencia construyendo aplicaciones de Machine Learning para startups y empresas en los dominios de NLP, análisis de datos topológicos y series temporales. Tiene un doctorado en física teórica y ha ocupado puestos de investigación en Australia, Estados Unidos y Suiza. Su trabajo actual se centra en el desarrollo de herramientas para la comunidad de NLP y en la formación de las personas para que las utilicen de forma eficaz."
-    hide_personal_info=True
+    hide_personal_info
 />
 
 - Crear una demo en Spaces con Gradio, Omar Espejel | Hackathon SomosNLP 2022
