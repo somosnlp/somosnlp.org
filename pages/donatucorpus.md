@@ -11,10 +11,15 @@ La iniciativa #Somos600M tiene dos objetivos ambiciosos:
 
 Tanto si tienes un maravilloso corpus como si tienes un montón de documentos, ¡seguro que puedes colaborar!
 
+<details>
+<summary>¿Cómo puedo colaborar?</summary>
+
 - Si no sabes lo que es un "corpus" pero tienes grandes cantidades de documentos que te gustaría publicar para que los sistemas de IA se expresen mejor en tu idioma y funcionen mejor para tus tareas del día a día, [¡contáctanos!](mailto:info@somosnlp.org)
 - Si tienes un conjunto de documentos que te gustaría utilizar para extraer información o automatizar tus tareas diarias, [¡apúntate al hackathon!](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 - Si tienes un corpus de entrenamiento que te gustaría donar para que la siguiente generación de LLMs en tu idioma funcione mejor para tus casos de uso, ¡sigue leyendo!
 - Si tienes un corpus de evaluación creado por especialistas y quieres participar en la creación de la primera leaderboard pública de LLMs en español, ¡sigue leyendo!
+
+</details>
 
 Para cualquier duda mándanos un correo a info@somosnlp.org o contáctanos por Discord, ¡te estamos esperando!
 
@@ -52,8 +57,6 @@ Tu contribución es clave para la creación de una leaderboard pública y unific
 </details>
 
 Tu donación no solo contribuye al avance científico, sino que también fortalece tu posición como líder en la innovación del Procesamiento del Lenguaje Natural en tu lengua 💪
-
-<center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>
 
 ## 📸 Visibilidad para patrocinios de corpus
 
@@ -119,3 +122,8 @@ logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpe
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
 </div>
+
+<!--
+
+https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d
+-->

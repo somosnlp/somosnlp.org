@@ -1,5 +1,5 @@
 ---
-title: Bases del Hackathon #Somos600M
+title: "Bases del Hackathon #Somos600M"
 description: Todo lo que necesitas saber para presentar un buen proyecto al hackathon
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
