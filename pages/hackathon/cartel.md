@@ -1,6 +1,6 @@
 ---
 title: "Hackathon #Somos600M: Diseña el Cartel"
-description: ¡Diseña el cartel del Hackathon #Somos600M!.
+description: "¡Diseña el cartel del Hackathon #Somos600M!"
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---

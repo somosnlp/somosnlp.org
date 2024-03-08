@@ -17,7 +17,7 @@
 
             <div class="mx-auto my-8 text-center">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximo evento</span>
-                <a href="/hackathon" target="_blank">
+                <a href="/hackathon/ia_y_lms_retos_y_oportunidades" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
                         src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
                 </a>
