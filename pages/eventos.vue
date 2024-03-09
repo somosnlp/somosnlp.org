@@ -16,10 +16,17 @@
         <article class="m-auto prose">
 
             <div class="mx-auto my-8 text-center">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximo evento</span>
-                <a href="/hackathon/ia_y_lms_retos_y_oportunidades" target="_blank">
-                    <img alt="Hackathon #Somos600M" width="650" height="365"
-                        src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximos eventos</span>
+                <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
+                    <div class="flex justify-center grid grid-cols-3 gap-5">
+                        <img alt="Hackathon #Somos600M" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_maria_grandury.png" />
+                
+                        <img alt="Hackathon #Somos600M" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.png" />
+                        <img alt="Hackathon #Somos600M" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.png" />
+                    </div>
                 </a>
             </div>
 
