@@ -48,7 +48,7 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 
 4. Crea tu equipo o únete a uno (equipos de de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 
-5. Crea tu corpus de instrucciones en la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel`, puedes apoyarte en [este notebook](https://colab.research.google.com/drive/12tH2j3AtvXjqHRfUAWw40vg6o4lUFEC3?usp=sharing) creado por el equipo de Argilla (gracias Daniel Vila y Agustín Piqueres).
+5. Crea tu corpus de instrucciones en la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel`, puedes apoyarte en [este notebook](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/creacion_de_datasets_sinteticos_con_distilabel.ipynb) creado por el equipo de Argilla (gracias Daniel Vila y Agustín Piqueres).
 
 6. Escribe la Dataset Card de tu dataset: inspecciona el dataset, evalúa y mitiga sesgos.
 

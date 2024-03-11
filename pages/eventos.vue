@@ -20,12 +20,11 @@
                 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
                     <div class="flex justify-center grid grid-cols-3 gap-5">
                         <img alt="Hackathon #Somos600M" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240311_maria_grandury.png" />
-                
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_maria_grandury.jpg" />
                         <img alt="Hackathon #Somos600M" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.png" />
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
                         <img alt="Hackathon #Somos600M" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.png" />
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg" />
                     </div>
                 </a>
             </div>
@@ -51,6 +50,19 @@
                         src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
                 </a>
             </div>
+
+            <h3 id="hackathon-2024">🔥 Charlas y talleres del Hackathon 2024</h3>
+
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="/hackathon/ia_y_lms_retos_y_oportunidades" target="_blank">
+                        <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
+                    </a>
+                </div>
+            </div>
+
+
 
             <div class="m-12">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
