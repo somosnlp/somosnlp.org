@@ -1,11 +1,11 @@
 ---
 title: Libros recomendados
-description:  Libros recomendados
+description: Libros recomendados
 lang: es
-cover: https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_Traveling_re_weve.svg](https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg
+cover: https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg
 ---
 
-*Lista tomada de un tweet de Omar Sanseviero (ver [profile]([https://somosnlp.org/blog/divulgacion-nlp-es](https://twitter.com/osanseviero))), transcrita por Gabriela Zuñiga.*
+*Lista tomada de un tweet de Omar Sanseviero @osanseviero, transcrita por Gabriela Zuñiga.*
 
 
 ## 💡 📚 11 Libros recomendados
