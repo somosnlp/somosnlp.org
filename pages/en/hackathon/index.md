@@ -132,6 +132,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
 logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
 
+<SponsorInfo sponsor="Calamo&Cran" url="https://www.calamoycran.com/"
+logo="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark.png" />
+
 <SponsorInfo sponsor="LenguajeNatural.AI" url="https://lenguajenatural.ai"
 logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
