@@ -2,7 +2,7 @@
 title: Libros recomendados
 description: Libros recomendados
 lang: es
-cover: ![Untitled Project(1)](https://github.com/gabrielaz/somosnlp.org/assets/46541321/91e4df84-9c48-4da5-bd76-c85972cba9f2)
+cover: https://github.com/gabrielaz/somosnlp.org/assets/46541321/91e4df84-9c48-4da5-bd76-c85972cba9f2
 
 ---
 
