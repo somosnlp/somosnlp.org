@@ -16,6 +16,8 @@ bio:
     description=""
     poster="https://somosnlp.github.io/assets/images/eventos/"
     video="https://www.youtube.com/embed/"
+    slides=""
+    notebook=""
     name=""
     website=""
     twitter=""
