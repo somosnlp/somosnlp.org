@@ -27,3 +27,11 @@ bio:
 ## ¿Qué vas a aprender al asistir a esta charla?
 
 ## Charlas relacionadas
+
+
+
+
+---
+
+
+me ha encantado la reflexión sobre el poder del lenguaje
