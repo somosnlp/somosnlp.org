@@ -10,18 +10,20 @@ website:
 twitter: https://twitter.com/elenagbg
 linkedin: https://www.linkedin.com/in/elenagbg
 github: 
-bio: Elena González-Blanco es AI for EMEA Digital Natives @Microsoft.
+bio: Elena González-Blanco es Head of AI for EMEA Digital Natives @Microsoft.
 ---
 
 <EventSummary
     description="En esta primera charla de especialistas, descubriremos de la mano de Elena los actuales retos y oportunidades de la Inteligencia Artificial y los Modelos del Lenguaje."
     poster="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png"
     video="https://www.youtube.com/embed/JzpvHRrqtSU" 
+    slides=""
+    notebook=""
     name="Elena González-Blanco"
     website=""
     twitter="https://twitter.com/elenagbg"
     linkedin="https://www.linkedin.com/in/elenagbg"
     github=""
-    bio="Elena González-Blanco es AI for EMEA Digital Natives @Microsoft."
+    bio="Elena González-Blanco es Head of AI for EMEA Digital Natives @Microsoft."
     hide_personal_info
 />
