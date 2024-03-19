@@ -1,8 +1,8 @@
 ---
 title: Argilla y distilabel, herramientas para crear modelos como Notus
 date: 2024-03-09T14:04:19.000+00:00
-lang: es
-duration: 30 min
+time:
+duration: 45 mins
 cover: https://somosnlp.github.io/assets/images/eventos/240309_gabriel_martin.png
 author: Gabriel Martín
 website: 
