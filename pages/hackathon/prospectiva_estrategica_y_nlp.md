@@ -13,7 +13,7 @@ bio: Cristina Vila es experta en conectar negocio, tecnología y personas. Ingen
 ---
 
 <EventSummary
-    description="Contaremos metodologías de diseño de futuros que podáis aplicar para traer al presente casos de uso de futuro de las tecnologías relacionadas con NLPs"
+    description="Contaremos metodologías de diseño de futuros que podáis aplicar para traer al presente casos de uso de futuro de las tecnologías relacionadas con el NLP."
     poster="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg"
     video="https://www.youtube.com/embed/3StMUo_bqic"
     tema=12

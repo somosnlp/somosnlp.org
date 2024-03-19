@@ -1,7 +1,7 @@
 ---
 title: María Grandury
 description: Fundadora @SomosNLP
-cover: https://pbs.twimg.com/profile_images/1584913293470273537/6u-Q8SJP_400x400.jpg
+cover: https://somosnlp.github.io/assets/images/comunidad/maria_grandury.jpg
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
@@ -11,10 +11,18 @@ community: Asociación
 
 ## Ponencias
 
+- Diversidad lingüística e IA, cómo desarrollar LLMs inclusivos
+
+<EventSummary
+    description="Hablaremos de la importancia de la diversidad lingüística en IA y cómo cada persona puede apoyar la iniciativa #Somos600M en el desarrollo de LLMs inclusivos, que representen la diversidad de los 600 millones de personas hispanohablantes."
+    poster="https://somosnlp.github.io/assets/images/eventos/240313_maria_grandury.jpg"
+    video="https://www.youtube.com/embed/QCNPVy3QWFs"
+/>
+
 - Evaluación y mitigación de sesgos en LMs | Hackathon SomosNLP 2023
 
 <EventSummary
-    description="Hoy descubriremos diversas técnicas y herramientas open-source integradas en el ecosistema de Hugging Face que podéis utilizar para evaluar y mitigar sesgos tanto en datasets como en modelos de PLN. También hay un mini paréntesis sobre la evaluación de la huella de carbono del entrenamiento de modelos."
+    description="Descubriremos diversas técnicas y herramientas open-source integradas en el ecosistema de Hugging Face que podéis utilizar para evaluar y mitigar sesgos tanto en datasets como en modelos de PLN. También hay un mini paréntesis sobre la evaluación de la huella de carbono del entrenamiento de modelos."
     poster="https://somosnlp.github.io/assets/images/eventos/230328_evaluacion_de_sesgos.jpg"
     video="https://www.youtube.com/embed/Ng2Yb7qrfY4"
 />
@@ -27,7 +35,9 @@ community: Asociación
     </a>
 </div>
 
-- Organizadora y host de todos los [eventos](https://somosnlp.org/eventos) 🤗
+- Organizadora y host de los [eventos](https://somosnlp.org/eventos)
+
+- ¡A vuestra disposición para cualquier sugerencia o colaboración! 🤗
 
 ## Biografía
 

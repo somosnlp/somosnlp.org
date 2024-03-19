@@ -18,8 +18,8 @@ bio: "Investigador en el campo de la Inteligencia Artificial (IA) y la ecolingü
     video="https://www.youtube.com/embed/MJLdrXz6bSE"
     tema=7
     nivel=2
-    slides=""
-    notebook=""
+    slides="https://www.slideshare.net/slideshows/etica-ambiental-en-inteligencia-artifical/266793402"
+    notebook="ttps://somosnlp.org/blog/H4rmony"
     name="Jorge Vallego"
     website="https://huggingface.co/datasets/neovalle/H4rmony"
     twitter=""
@@ -34,15 +34,15 @@ bio: "Investigador en el campo de la Inteligencia Artificial (IA) y la ecolingü
 - Conceptos de ecolingüística y su aplicación en el desarrollo de IA Generativa.
 - Cómo el proyecto H4rmony encara la alineación de modelos de lenguaje con valores ecológicos.
 
-## Charlas relacionadas
+## ¿Te ha interesado? ¡Colabora!
 Invitaremos a participar en el proyecto H4rmony, a quienes así lo deseen, ya sea contribuyendo en el enriqueciemiento de los datasets, evaluando y entrenando modelos o simplemente difundiendo esta iniciativa.
 
-BLOG
+Lee cómo en este artículo que Jorge ha preparado sobre [H4rmony](https://somosnlp.org/blog/H4rmony).
 
-
+## Charlas relacionadas
 
 
 ---
 
 
-me ha encantado la reflexión sobre el poder del lenguaje
+Me ha encantado la reflexión sobre el poder del lenguaje
