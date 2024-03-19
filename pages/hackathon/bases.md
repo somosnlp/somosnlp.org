@@ -14,7 +14,7 @@ Cada equipo participante generará un corpus de instrucciones, entrenará su LLM
 </a>
 </div>
 
-<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 15 de marzo!</a></center>
+<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 22 de marzo!</a></center>
 
 ## 👀 Maneras de participar
 
@@ -68,7 +68,7 @@ Recuerda que el objetivo del hackathon es representar la diversidad de las perso
 
 ### 📚 Corpus 
 
-Atención: los datos son lo más importante en el desarrollo de un modelo y también le daremos mayor importancia a la hora de evaluar los proyectos.
+Los datos son lo más importante en el desarrollo de un modelo y también le daremos mayor importancia a la hora de evaluar los proyectos 👀
 
 - En español o lenguas cooficiales.
 - Corpus de instrucciones, i.e.: pregunta + (opcional: entrada/contexto) + respuesta.
@@ -224,7 +224,7 @@ No, depende de tu disponibilidad, puedes desarrollar un buen proyecto en una sem
 <details>
 <summary>¿Hasta cuándo puedo crear un equipo?</summary>
 
-Idealmente durante la primera semana del hackathon, hasta el 8 de marzo.
+Damos la bienvenida a nuevos equipos hasta el 22 de marzo.
 
 </details>
 
@@ -255,7 +255,7 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 *Si te hemos dicho que en esta página hay info que no encuentras, borra las cookies y recarga la página.*
 
-## 🙌 Mientras tanto... apoya la organización del evento
+## 🙌 Otras maneras de apoyar la iniciativa #Somos600M
 
 - Comparte los posts de las cuentas de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [Twitter](https://twitter.com/somosnlp_)), ¡invita a tus colegas del trabajo, compañeros y compañeras de clase a crear un equipo!
 <!-- - ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A). -->
