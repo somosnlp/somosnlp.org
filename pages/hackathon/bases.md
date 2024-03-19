@@ -28,7 +28,7 @@ Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, I
 
 1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de SomosNLP con [esta invitación](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
 2. Entra en el [entorno de validación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
-3. Valida la traducción de un párrafo del inglés al español
+3. Valida la traducción de un párrafo del inglés al español (la traducción ya está hecha, solo tienes que verificar que está bien y corregirla en caso necesario)
 4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el [ranking de colaboraciones](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
 5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 🙌
 
@@ -42,10 +42,11 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 4. Crea tu equipo o únete a uno (equipos de de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 5. Crea tu corpus de instrucciones y súbelo a la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel` (ver recursos abajo).
 6. Escribe la Dataset Card de tu dataset: describe el proceso de creación y curación (link al notebook), inspecciona el dataset, evalúa y mitiga sesgos.
-7. Fine-tuning de un LLM para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Pondremos a vuestra disposición GPU VMs, avísanos cuando tengas el dataset y esté todo listo para empezar el entrenamiento. Recuerda que es muy importante hacer pruebas en máquinas más humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
+7. Fine-tuning de un LLM para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Pondremos a vuestra disposición GPU VMs 24GB, avísanos cuando tengas el dataset y esté todo listo para empezar el entrenamiento. Recuerda que es muy importante hacer pruebas en máquinas más humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
 8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (link al notebook), evalúa su calidad, sesgos y huella de carbono. Importante: enlaza el dataset utilizado para el entrenamiento.
 9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small (gracias Hugging Face). Importante: enlaza los dataset(s) y modelo(s) utilizados.
-10. Entrega tu proyecto rellenando un formulario que publicaremos próximamente. Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del martes 26 de marzo (revisaremos la hora de los commits 👀).
+10. Entrega tu proyecto rellenando un formulario que publicaremos próximamente. Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+Extra. Puedes presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 
 Si tienes cualquier duda sobre las bases estamos a tu disposición en el canal #pide-ayuda, escribe un título descriptivo y utiliza la etiqueta "hackathon".
 
@@ -67,6 +68,8 @@ Recuerda que el objetivo del hackathon es representar la diversidad de las perso
 
 ### 📚 Corpus 
 
+Atención: los datos son lo más importante en el desarrollo de un modelo y también le daremos mayor importancia a la hora de evaluar los proyectos.
+
 - En español o lenguas cooficiales.
 - Corpus de instrucciones, i.e.: pregunta + (opcional: entrada/contexto) + respuesta.
 - Si quieres ir un paso más allá también puedes adaptar el corpus para DPO. En este caso, sube el corpus de instrucciones con el sufijo `it` y el DPO con el sufijo `dpo`.
@@ -82,24 +85,23 @@ Recuerda que el objetivo del hackathon es representar la diversidad de las perso
 
 Por ser corpus de instrucciones cada corpus contará con las siguientes columnas:
 - `pregunta`
-- `entrada` (opcional: entrada o contexto)
 - `respuesta`
 
 Además, dado el enfoque en las variedades de la lengua del hackathon, también incluiremos las siguientes columnas:
 
 - `idioma` (variedad geográfica): código ISO del idioma ("catalán" = `ca`, "quechua" = `qu`), en caso de ser español hay que especificar la variedad geográfica ("español de México" = `es_mx`, "español de Ecuador" = `es_ec`).
-- `epoca` (variedad histórica): si es un corpus en español elegir entre `actual`, `moderno`, `clásico` (siglo de oro) o `medieval`, si es en otro idioma rellenar si tenéis conocimiento.
-- `nivel` (variedad sociocultural): una de `culto`, `medio`, `vulgar`
-- `registro` (variedad funcional): coloquial / formal, jerga (de profesión determinada) o argots (de un grupo social, e.g., argot juvenil)
+- `registro` (variedad funcional): `coloquial`, `medio` o `culto`
+- `periodo` (variedad histórica): si es un corpus en español elegir entre `actual`, `moderno` (ss. XVIII-XIX), `clásico` (ss. XVI-XVII) o `medieval`, si es en otro idioma rellenar si tenéis conocimiento.
 
 Para completar la información de los ejemplos incluiremos también:
-- `dominio`: `legal`. `salud` (clínico, biomédico, farma), `tecnico` (académico, técnico), `literatura` (poesía, música, teatro),  `noticias`, `cocina`, ..., `general` (última opción). Si puedes, especifica el subdominio, e.g. `literatura_poesia`.
+- `dominio`: `legal`, `salud` (clínico, biomédico, farmacia), `literatura` (poesía, música, teatro), `sociales` (historia, geografía, etc), `exactas` (física, mates, etc), `prensa`, `cocina`, `filosofia` (ética, lógica, etc), `seguros`, ..., `miscelaneo` (última opción). Si puedes, especifica el subdominio, e.g. `literatura_poesia`, `sociales_historia`.
 - `tarea`: `pregunta`, `clasificacion`, `traduccion`, `resumen`, `similitud_semantica`. Si puedes, especifica también la subtarea, e.g. `pregunta_abierta`, `pregunta_opcion_multiple`.
-- `país`: si procede, país al que hace referencia la pregunta (e.g. ley de un país, receta típica, pregunta de historia). ¡Ojo, no confundir país e idioma!
+- `país_origen`: país de origen de los datos.
+- `país_referencia`: país al que hace referencia la pregunta, si procede.
 
-Si tienes dudas #pide-ayuda, hay lingüistas en la comunidad!
+Si tienes dudas, ¡#pide-ayuda! Si crees que nos hemos dejado alguna categoría avísanos para que la añadamos :)
 
-Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mismos endpoints que para crear los datasets sintéticos. Acuérdate de revisar después las anotaciones automáticas.
+Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mismos endpoints que para crear los datasets sintéticos. Acuérdate de revisar las anotaciones automáticas.
 
 </details>
 
@@ -118,9 +120,8 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 ### ⚙️ Modelo
 
 - En español o lenguas cooficiales.
-- Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero). En esta edición te animamos a que ajuste un gran modelo del lenguaje (LLM).
-<!-- - Desde el lunes 3 al domingo 9 tendréis a vuestra disposición GPU VMs 24GB patrocinadas por Q Blocks para entrenar vuestro modelo final. -->
-- Os animamos a utilizar [autotrain](https://huggingface.co/docs/autotrain/llm_finetuning) para entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF!
+- Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero), te animamos a que ajustes un LLM de hasta 7B.
+- Os animamos a entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF! Podéis utilizar [autotrain](https://huggingface.co/docs/autotrain/llm_finetuning) y [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter), con GPUs hasta *T4 medium*.
 - Sube el modelo directamente a hf.co/somosnlp e itera ahí. Escribe en la primera versión de la Model Card la motivación del proyecto y los miembros del equipo.
 - Este año la evaluación corre a nuestro cargo, ¡vuestros modelos inaugurarán la primera leaderboard abierta de LLMs en español!
 - Cumplimenta bien la Model Card, a la hora de evaluar los proyectos daremos un punto extra si está completa y se incluyen temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
@@ -129,10 +130,11 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 <summary>Recursos</summary>
 
 - [Taller práctico: Fine-tuning de grandes modelos de lenguaje](https://somosnlp.org/hackathon-2023/fine-tuning-llms) impartido por Manu Romero, creador de +500 modelos del Hub de Hugging Face.
-- [Taller práctico: El impacto de la calidad de los datos en un FT](https://www.youtube.com/watch?v=hPq5NG8kA8w&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), impartido también por Manu Romero.
-- [AMA (Ask Me Anything) sobre entrenamiento de LLMs](https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) con Alejandro Vaca el lunes 18.
-- [Docs: AutoTrain](https://huggingface.co/docs/autotrain/llm_finetuning), os animamos a probar esta herramienta y aprovechar los créditos patrocinados por Hugging Face!
-<!-- - <a href="https://somosnlp.org/hackathon-2023/what-is-q-blocks" target="_blank">Taller: How to get started with Q Blocks</a> impartido por Gaurav Vij, Head of Product & Co-founder de Q Blocks. -->
+- [Taller práctico: El impacto de la calidad de los datos en un FT de LLMs](https://www.youtube.com/watch?v=hPq5NG8kA8w&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), impartido también por Manu Romero.
+- [Taller + AMA sobre entrenamiento de LLMs](https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) con Alejandro Vaca, fundador de LenguajeNaturalAI.
+- [Docs: AutoTrain (inglés)](https://huggingface.co/docs/autotrain/llm_finetuning), os animamos a probar esta plataforma no-code de Hugging Face. Vamos a traducir esta sección de la documentación, avisadnos si necesitáis ayuda para comprenderla.
+- [Tutorial: AutoTrain + spacerunner (inglés)](https://huggingface.co/blog/stefan-it/autotrain-flair-mobie), con esta combinación podéis correr scripts en AutoTrain. Vamos a traducir el tutorial, avisadnos si necesitáis ayuda para comprenderlo.
+- [Docs: Jupyterlab en Spaces](https://huggingface.co/new-space?template=SpacesExamples/jupyterlab), donde podéis correr vuestros notebooks como siempre.
 - [Detección y mitigación de sesgos en modelos de lenguaje](https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos), charla impartida por María Grandury, fundadora de SomosNLP.
 - Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como [ML CO2 Impact](https://mlco2.github.io/impact) o [Code Carbon](https://codecarbon.io), integrada en 🤗 Transformers. Te recomendamos este [vídeo](https://www.youtube.com/watch?v=ftWlj4FBHTg) de motivación, este [artículo](https://huggingface.co/blog/carbon-emissions-on-the-hub) del blog de HF y la sección de la [documentación](https://huggingface.co/docs/hub/model-cards-co2) de 🤗 Transformers que trata este tema.
 - [Ética ambiental en IA: construyendo narrativas sostenibles en español](https://www.youtube.com/watch?v=MJLdrXz6bSE&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), charla impartida por Jorge Vallego, Project Lead @H4rmony. Os puede servir para darle un enfoque eco-consciente a vuestro dataset.
@@ -154,6 +156,12 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - Vídeo tutoriales: [Aquí](https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta) tienes tutoriales para crear demos utilizando Gradio, Streamlit y Flask.
 
 </details>
+
+### 📝 Paper
+
+- Si quieres presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+- Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG)
+- Organizaremos una sesión AMA con el equipo de LatinX in AI el lunes 25 para que resuelva vuestras dudas
 
 ### ✨ Visibilidad
 
