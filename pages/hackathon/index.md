@@ -38,7 +38,7 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 </details>
 
 <details  style="margin-bottom: 20px;">
-<summary>💻 Desarrolla un proyecto</summary>
+<summary>💻 Crea una base de datos y entrena tu propio LLM</summary>
 
 Al unirte a este hackathon tendrás la oportunidad de colaborar con la creación de LLMs de calidad e inclusivos en tu lengua. Aplica tus conocimientos para superar los retos de cada etapa de desarrollo de tu LLM: creación del corpus, entrenamiento y evaluación.
 
@@ -51,14 +51,14 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
     <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <div class="text-center">
-    <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Info para participantes</a>
+    <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Bases del hackathon</a>
   </div>
 </div>
 
 </details>
 
 <details  style="margin-bottom: 20px;">
-<summary>🔍 Valida las traducciones </summary>
+<summary>🔍 Valida traducciones del inglés al español </summary>
 
 ¿Hablas español e inglés? Independiente de si sabes de IA nos puedes ayudar a crear el primer ranking público de LLMs en español 🔥
 
