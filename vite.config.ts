@@ -91,6 +91,10 @@ export default defineConfig({
     VitePWA({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'robots.txt', 'safari-pinned-tab.svg'],
+      workbox: { // fix bug as stated in https://vite-pwa-org.netlify.app/guide/#configuring-vite-plugin-pwa
+        clientsClaim: true,
+        skipWaiting: true
+      },
       manifest: {
         name: 'SomosNLP',
         short_name: 'SomosNLP',
