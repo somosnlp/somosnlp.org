@@ -18,13 +18,16 @@
             <div class="mx-auto my-8 text-center">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Próximos eventos</span>
                 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
-                    <div class="flex justify-center grid grid-cols-3 gap-5">
-                        <img alt="Hackathon #Somos600M" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240311_maria_grandury.jpg" />
-                        <img alt="Hackathon #Somos600M" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
-                        <img alt="Hackathon #Somos600M" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg" />
+                    <div class="flex justify-center grid grid-cols-2 gap-5">
+                        <img alt="Charla de Amanda Curry" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240319_amanda_curry.jpg" />
+                        <img alt="Charla de Cristina Vila" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg" />
+                        <img alt="Charla de Anxo Pérez" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240319_anxo_perez.jpg" />
+                   
+                        <img alt="Charla de Marta Guerrero" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg" />
                     </div>
                 </a>
             </div>
@@ -56,9 +59,65 @@
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
                     <a href="/hackathon/ia_y_lms_retos_y_oportunidades" target="_blank">
-                        <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
+                        <img alt="Charla de Elena González-Blanco" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
                     </a>
+
+                    <a href="/hackathon/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
+                        <img alt="Charla de Gabriel Martín" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240309_gabriel_martin.png" />
+                    </a> 
+
+                    <a href="/hackathon/importancia_de_la_calidad_de_los_datos_al_entrenar" target="_blank">
+                        <img alt="Charla de Manu Romero" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg" />
+                    </a> 
+
+                    <a href="/hackathon/diversidad_linguistica_en_ia" target="_blank">
+                        <img alt="Charla de María Grandury" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240313_maria_grandury.jpg" />
+                    </a> 
+
+                    <a href="/hackathon/deteccion_de_sesgos_en_medios_de_comunicacion" target="_blank">
+                        <img alt="Charla de Fran Rodrigo" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240313_francisco_javier_rodrigo.jpg" />
+                    </a>
+
+                    <a href="/hackathon/combatiendo_el_discurso_de_odio_mediante_contranarrativas" target="_blank">
+                        <img alt="Charla de Estrella Vallecillo" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240313_estrella_vallecillo.jpg" />
+                    </a>
+
+                    <a href="/hackathon/etica_ambiental_en_ia" target="_blank">
+                        <img alt="Charla de Jorge Vallego" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240313_jorge_vallego.jpg" />
+                    </a>
+
+                    <a href="/hackathon/entrenamiento_de_llms" target="_blank">
+                        <img alt="Charla de Alejandro Vaca" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240318_alejandro_vaca.jpg" />
+                    </a>
+
+                    <a href="/hackathon/empatia_y_emociones_en_ia" target="_blank">
+                        <img alt="Charla de Amanda Curry" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240319_amanda_curry.jpg" />
+                    </a>
+
+                    <a href="/hackathon/prospectiva_estrategica_y_nlp" target="_blank">
+                        <img alt="Charla de Cristina Vila" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg" />
+                    </a>
+
+                    <a href="/hackathon/estimacion_de_la_severidad_de_la_depresion_en_internet" target="_blank">
+                        <img alt="Charla de Anxo Pérez" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240319_anxo_perez.jpg" />
+                    </a>
+
+                    <a href="/hackathon/como_anotar_corpus_linguisticos_para_entrenar_llms" target="_blank">
+                        <img alt="Charla de Marta Guerrero" width="650" height="365"
+                            src="https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg" />
+                    </a>
+                    
                 </div>
             </div>
 
