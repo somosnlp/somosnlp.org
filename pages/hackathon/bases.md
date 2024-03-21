@@ -39,28 +39,19 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR). Auto-asígnate el rol "Hackathon24": en el servidor, vete al comienzo de la barra lateral izquierda, haz click en "Canales y roles", selecciona "Participar en el hackathon 2024".
 2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
 3. Regístrate en [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
-4. Crea tu equipo o únete a uno (equipos de de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
+4. Crea tu equipo o únete a uno (equipos de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 5. Crea tu corpus de instrucciones y súbelo a la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel` (ver recursos abajo).
-6. Escribe la Dataset Card de tu dataset: describe el proceso de creación y curación (link al notebook), inspecciona el dataset, evalúa y mitiga sesgos.
-7. Fine-tuning de un LLM para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Pondremos a vuestra disposición GPU VMs 24GB, avísanos cuando tengas el dataset y esté todo listo para empezar el entrenamiento. Recuerda que es muy importante hacer pruebas en máquinas más humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
-8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (link al notebook), evalúa su calidad, sesgos y huella de carbono. Importante: enlaza el dataset utilizado para el entrenamiento.
+6. Escribe la Dataset Card de tu dataset: describe el proceso de creación y curación (incluye el script/notebook), inspecciona el dataset, evalúa y mitiga sesgos.
+7. Fine-tuning de un LLM para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Pondremos a vuestra disposición GPU VMs para el entrenamiento. 
+8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono. Importante: enlaza el dataset utilizado para el entrenamiento.
 9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small (gracias Hugging Face). Importante: enlaza los dataset(s) y modelo(s) utilizados.
 10. Entrega tu proyecto rellenando un formulario que publicaremos próximamente. Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
-Extra. Puedes presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+- Extra. Puedes presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad.
 
 Si tienes cualquier duda sobre las bases estamos a tu disposición en el canal #pide-ayuda, escribe un título descriptivo y utiliza la etiqueta "hackathon".
 
 ¡Mucho éxito! 🚀
-
-<!--
-
-Al finalizar el hackathon, habremos creado el mayor corpus de instrucciones abierto originalmente en español y lenguas cooficiales.
-
-Agradecemos mucho a Hugging Face la mejora de la org de SomosNLP a enterprise para poder utilizar la PRO API. Pedimos a todos los equipos responsabilidad y que esta API sea estrictamente usada para el desarrollo de proyectos del hackathon.
-
-### O... dona tu corpus
-
-También puedes colaborar con ambos objetivos donando un corpus que hayas creado con tu grupo de investigación o empresa, [¡dona tu corpus!](https://somosnlp.org/donatucorpus) -->
 
 ## 📝 Guía y recursos para desarrollar un buen proyecto
 
@@ -71,14 +62,28 @@ Recuerda que el objetivo del hackathon es representar la diversidad de las perso
 Los datos son lo más importante en el desarrollo de un modelo y también le daremos mayor importancia a la hora de evaluar los proyectos 👀
 
 - En español o lenguas cooficiales.
-- Corpus de instrucciones, i.e.: pregunta + (opcional: entrada/contexto) + respuesta.
-- Si quieres ir un paso más allá también puedes adaptar el corpus para DPO. En este caso, sube el corpus de instrucciones con el sufijo `it` y el DPO con el sufijo `dpo`.
+- Corpus de instrucciones, i.e.: pregunta + respuesta.
+- Sube el corpus a hf.co/somosnlp.
+- Completa bien la Dataset Card y enlaza todos los scripts/notebooks utilizados.
+- Estructura el corpus como explicamos a continuación.
+
+<details>
+<summary>Recomendaciones</summary>
+
+Notación:
+
+- Si vas a crear primero un corpus para una tarea clásica y después lo vas a convertir en instrucciones, llámalos igual añadiendo el sufijo `it` al corpus de instrucciones.
+- Si quieres ir un paso más allá y también vas a adaptar el corpus para DPO, sube el corpus de instrucciones con el sufijo `it` y el DPO con el sufijo `dpo`.
+
+Recomendaciones:
+
 - Para crear el corpus te recomendamos utilizar `distilabel`.
-- Puedes utilizar los endpoints PRO de Hugging Face como se explica el notebook de ejemplo (recuerda que tienes que pertenecer a hf.co/somosnlp).
+- Puedes utilizar los endpoints PRO de Hugging Face como se explica en el notebook de ejemplo (recuerda que tienes que pertenecer a hf.co/somosnlp).
 - Si te animas a etiquetar un corpus te recomendamos utilizar `Argilla`.
 - Sube el corpus directamente a hf.co/somosnlp e itera ahí.
-- Escribe en la primera versión de la Dataset Card la motivación del proyecto y los miembros del equipo: "Corpus creado en el marco del [hackathon #Somos600M](https://somosnlp.org/hackathon) organizado por SomosNLP por el siguiente equipo: ... El objetivo del proyecto es ..."
 - Cumplimenta bien la Dataset Card, tendremos en cuenta a la hora de evaluar los proyectos si está completa e incluye temas como una evaluación de los sesgos (e.g., se ha prestado atención a que las clases estén balanceadas).
+
+</details>
 
 <details>
 <summary>Estructura del corpus</summary>
@@ -113,18 +118,28 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - [Taller práctico: distilabel y Argilla, herramientas para crear modelos como Notus](https://www.youtube.com/watch?v=riM3pgV4m_I&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) impartido por Gabriel Martín, MLE @Argilla, (presentó otro notebook diferente!)
 - [Cómo anotar un corpus lingüísticos para entrenar LLMs](https://www.youtube.com/watch?v=d6vrflcIY-g&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), impartida el miércoles 20 por Marta Guerrero @IIC, creadora de 3 de los corpus que formarán la leaderboard.
 - [Taller práctico: Etiquetado de datos con Argilla](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) impartido por Daniel Vila Suero, co-fundador y CEO @Argilla.
-- [AMA de etiquetado de datos](https://somosnlp.org/hackathon-2023/ama-con-natalia-elvira), pregunta todas tus dudas a Natalia Elvira, Project Manager @Argilla.
+- [AMA de etiquetado de datos](https://somosnlp.org/hackathon-2023/ama-con-natalia-elvira) con Natalia Elvira, Project Manager @Argilla.
 
 </details>
 
 ### ⚙️ Modelo
 
 - En español o lenguas cooficiales.
-- Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero), te animamos a que ajustes un LLM de hasta 7B.
+- Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero), con las máquinas disponibles puedes ajustar un LLM de hasta 7B.
+- Sube el modelo a hf.co/somosnlp.
+- Completa bien la [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool).
+- Enlaza todos los scripts/notebooks utilizados.
+
+<details>
+<summary>Recomendaciones</summary>
+
 - Os animamos a entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF! Podéis utilizar [autotrain](https://huggingface.co/docs/autotrain/llm_finetuning) y [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter), con GPUs hasta *T4 medium*.
-- Sube el modelo directamente a hf.co/somosnlp e itera ahí. Escribe en la primera versión de la Model Card la motivación del proyecto y los miembros del equipo.
+- Recuerda que es muy importante siempre hacer pruebas en máquinas humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
+- Sube el modelo directamente a hf.co/somosnlp e itera ahí.
 - Este año la evaluación corre a nuestro cargo, ¡vuestros modelos inaugurarán la primera leaderboard abierta de LLMs en español!
-- Cumplimenta bien la Model Card, a la hora de evaluar los proyectos daremos un punto extra si está completa y se incluyen temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
+- Cumplimenta bien la Model Card, a la hora de evaluar los proyectos valoraremos positivamente que esté completa y se incluyan temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
+
+</details>
 
 <details>
 <summary>Recursos</summary>
@@ -135,6 +150,7 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - [Docs: AutoTrain (inglés)](https://huggingface.co/docs/autotrain/llm_finetuning), os animamos a probar esta plataforma no-code de Hugging Face. Vamos a traducir esta sección de la documentación, avisadnos si necesitáis ayuda para comprenderla.
 - [Tutorial: AutoTrain + spacerunner (inglés)](https://huggingface.co/blog/stefan-it/autotrain-flair-mobie), con esta combinación podéis correr scripts en AutoTrain. Vamos a traducir el tutorial, avisadnos si necesitáis ayuda para comprenderlo.
 - [Docs: Jupyterlab en Spaces](https://huggingface.co/new-space?template=SpacesExamples/jupyterlab), donde podéis correr vuestros notebooks como siempre.
+- [Space: Model Card Creator](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), Space que os guía en la creación de vuestra model card.
 - [Detección y mitigación de sesgos en modelos de lenguaje](https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos), charla impartida por María Grandury, fundadora de SomosNLP.
 - Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como [ML CO2 Impact](https://mlco2.github.io/impact) o [Code Carbon](https://codecarbon.io), integrada en 🤗 Transformers. Te recomendamos este [vídeo](https://www.youtube.com/watch?v=ftWlj4FBHTg) de motivación, este [artículo](https://huggingface.co/blog/carbon-emissions-on-the-hub) del blog de HF y la sección de la [documentación](https://huggingface.co/docs/hub/model-cards-co2) de 🤗 Transformers que trata este tema.
 - [Ética ambiental en IA: construyendo narrativas sostenibles en español](https://www.youtube.com/watch?v=MJLdrXz6bSE&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), charla impartida por Jorge Vallego, Project Lead @H4rmony. Os puede servir para darle un enfoque eco-consciente a vuestro dataset.
@@ -160,8 +176,12 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 ### 📝 Paper
 
 - Si quieres presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
-- Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG)
-- Organizaremos una sesión AMA con el equipo de LatinX in AI el lunes 25 para que resuelva vuestras dudas
+- Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG).
+- Organizaremos una sesión AMA con el equipo de LatinX in AI el lunes 25 para que resuelva vuestras dudas.
+
+### 📸 Presentación
+
+- El día 2 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad.
 
 ### ✨ Visibilidad
 
