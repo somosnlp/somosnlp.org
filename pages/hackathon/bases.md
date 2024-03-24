@@ -114,8 +114,9 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 <summary>Recursos</summary>
 
 - [Notebook: creación de datasets sintéticos con distilabel](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/creacion_de_datasets_sinteticos_con_distilabel.ipynb), creado por Daniel Vila y Agustín Piqueres @Argilla.
+- [Taller práctico: distilabel y Argilla, herramientas para crear modelos como Notus](https://www.youtube.com/watch?v=riM3pgV4m_I&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) impartido por Gabriel Martín, MLE @Argilla (notebook disponible).
+- [Notebook: Creación de datasets para SFT y DPO con distilabel y Argilla](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/distilabel_y_argilla_creacion_datasets_para_sft_y_dpo.ipynb), notebook del taller de Gabriel.
 - [Notebook: creación de un dataset sintético a partir del PDF del EU AI Act](https://distilabel.argilla.io/latest/tutorials/pipeline-notus-instructions-preferences-legal/), creado por el equipo de Argilla y con traducción WIP por Edison J. Bejarano.
-- [Taller práctico: distilabel y Argilla, herramientas para crear modelos como Notus](https://www.youtube.com/watch?v=riM3pgV4m_I&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) impartido por Gabriel Martín, MLE @Argilla, (presentó otro notebook diferente!)
 - [Cómo anotar un corpus lingüísticos para entrenar LLMs](https://www.youtube.com/watch?v=d6vrflcIY-g&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), impartida el miércoles 20 por Marta Guerrero @IIC, creadora de 3 de los corpus que formarán la leaderboard.
 - [Taller práctico: Etiquetado de datos con Argilla](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) impartido por Daniel Vila Suero, co-fundador y CEO @Argilla.
 - [AMA de etiquetado de datos](https://somosnlp.org/hackathon-2023/ama-con-natalia-elvira) con Natalia Elvira, Project Manager @Argilla.
@@ -150,6 +151,9 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - [Docs: AutoTrain (inglés)](https://huggingface.co/docs/autotrain/llm_finetuning), os animamos a probar esta plataforma no-code de Hugging Face. Vamos a traducir esta sección de la documentación, avisadnos si necesitáis ayuda para comprenderla.
 - [Tutorial: AutoTrain + spacerunner (inglés)](https://huggingface.co/blog/stefan-it/autotrain-flair-mobie), con esta combinación podéis correr scripts en AutoTrain. Vamos a traducir el tutorial, avisadnos si necesitáis ayuda para comprenderlo.
 - [Docs: Jupyterlab en Spaces](https://huggingface.co/new-space?template=SpacesExamples/jupyterlab), donde podéis correr vuestros notebooks como siempre.
+- Notebooks de `unsloth` para entrenar más rápido (en inglés, si necesitáis que los tenga me decís):
+[Gemma FT en dataset de instrucciones estilo Alpaca](https://colab.research.google.com/drive/10NbwlsRChbma1v55m8LAPYG15uQv6HLo) y
+[Hacer RLAIF via DPO sobre Zephir](https://colab.research.google.com/drive/15vttTpzzVXv_tJwEk-hIcQ0S9FcEWvwP).
 - [Space: Model Card Creator](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), Space que os guía en la creación de vuestra model card.
 - [Detección y mitigación de sesgos en modelos de lenguaje](https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos), charla impartida por María Grandury, fundadora de SomosNLP.
 - Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como [ML CO2 Impact](https://mlco2.github.io/impact) o [Code Carbon](https://codecarbon.io), integrada en 🤗 Transformers. Te recomendamos este [vídeo](https://www.youtube.com/watch?v=ftWlj4FBHTg) de motivación, este [artículo](https://huggingface.co/blog/carbon-emissions-on-the-hub) del blog de HF y la sección de la [documentación](https://huggingface.co/docs/hub/model-cards-co2) de 🤗 Transformers que trata este tema.
