@@ -17,7 +17,7 @@ bio: Gabriel es un Ingeniero de ML en Argilla, donde actualmente se centra en el
     poster="https://somosnlp.github.io/assets/images/eventos/240309_gabriel_martin.png"
     video="https://drive.google.com/open?id=1XxzrsSUdsce-x1LKn2CIvuEdsLaZWry5"
     slides=""
-    notebook=""
+    notebook="https://github.com/somosnlp/recursos/blob/main/hackathon_2024/distilabel_y_argilla_creacion_datasets_para_sft_y_dpo.ipynb"
     name="Gabriel Martín"
     website=""
     twitter="https://twitter.com/gabrielmbmb_"
