@@ -2,6 +2,7 @@
 title: Instituto de Ingeniería del Conocimiento
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/iic.bmp
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp
 twitter: https://twitter.com/IIConocimiento
 linkedin: https://www.linkedin.com/company/instituto-de-ingenieria-del-conocimiento-iic
 website: https://www.iic.uam.es 

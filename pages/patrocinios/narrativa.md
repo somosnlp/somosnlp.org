@@ -2,6 +2,7 @@
 title: Narrativa
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/Narrativa_dark.png
 twitter: https://twitter.com/NarrativaAI
 linkedin: https://www.linkedin.com/company/narrativaai/
 website: narrativa.com 

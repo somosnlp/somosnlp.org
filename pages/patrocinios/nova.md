@@ -2,6 +2,7 @@
 title: Nova
 description: Red global de talento
 cover: https://somosnlp.github.io/assets/images/patrocinios/Nova.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/Nova_dark.png
 twitter: https://twitter.com/NovaTalent_
 linkedin: https://www.linkedin.com/company/nova/
 website: https://www.novatalent.com/

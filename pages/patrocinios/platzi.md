@@ -2,6 +2,7 @@
 title: Platzi
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/platzi.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/platzi_dark.png
 twitter: 
 linkedin:
 website: 
