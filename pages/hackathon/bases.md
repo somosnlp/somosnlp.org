@@ -194,10 +194,13 @@ Recomendaciones:
 
 ### 📝 Paper
 
-- Si quieres presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
-- Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG).
-- Y también el taller del lunes donde Diana Galván, Chair del Workshop, compartió muchos consejos: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
+Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de las conferencias internacionales más importantes de PLN.
+
+- Te recomendamos el taller del lunes donde Diana Galván, Chair del Workshop, compartió muchos consejos: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 - Diapositivas del taller disponibles en [github.com/somosnlp/recursos](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/taller_escritura_abstracts_lxai_naacl.pdf)
+- También puedes ver el taller de la anterior edición para más consejos: ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG).
+- Hay más info por escrito en [este artículo](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+
 
 ### 📸 Presentación
 
@@ -226,34 +229,37 @@ Recomendaciones:
 <details>
 <summary>🏆 Beneficios y premios</summary>
 
-Todas las personas participantes:
+Todas las personas participantes 👏
 - Acceso a los endpoints PRO en Hugging Face para la creación de corpus sintéticos.
 - Acceso a GPUs de hasta 25GB de RAM en Hugging Face para el entrenamiento de modelos y la demo.
 - Acceso a "persistent storage" en Hugging Face para la creación de espacios de anotación de Argilla.
-- Apoyo para presentar tu proyecto al workshop LatinX in NLP @NAACL 2024, una de las conferencias internacionales más importantes de PLN.
+- Apoyo para presentar tu proyecto al workshop LatinX in NLP @NAACL 2024, una de las conferencias internacionales más importantes de PLN. Explicamos cómo en [este taller](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J).
 
-Todas las personas que presenten un proyecto:
+Todas las personas que presenten un proyecto 🚀
 - Certificado de participación o de equipo ganador del "Hackathon SomosNLP 2024: #Somos600M" (verificado en nuestra web).
-- Descuento de en el curso de NLP de LenguajeNaturalAI ""
+- Descuento del 60% en el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
 - Descuento de 20% para la [WomenTech Global Conference 2024](https://www.womentech.net/women-tech-conference).
-- Posibilidad de conseguir una entrada completamente gratis para asistir a la WomenTech Global Conference 2024 (comenta tu interés en el formulario de entrega de proyectos).
-- Posibilidad de conseguir una nominación para unirse a [Nova](https://www.novatalent.com/top-talent) (comenta tu interés en el formulario de entrega de proyectos).
+- Posibilidad de conseguir una entrada completamente gratis para asistir a la WomenTech Global Conference 2024 (dinos que te interesa en el formulario de entrega de proyectos).
+- Posibilidad de conseguir una nominación para unirse a [Nova](https://www.novatalent.com/top-talent) (dinos que te interesa en el formulario de entrega de proyectos).
 - Posibilidad de continuar desarrollando tu proyecto con nuestro apoyo, ¡contáctanos!
 
-Equipo 3er puesto (premios por persona):
-- 20k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
-- Beca completa para el curso de NLP de LenguajeNaturalAI "" 
-- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon24"
+Equipo 3er puesto (premios por persona) 🥉
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord.
+- 20k créditos de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+- Beca completa para el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
 
-Equipo 2o puesto (premios por persona):
-- 30k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
-- Beca completa para el curso de NLP de LenguajeNaturalAI ""
-- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon24"
+Equipo 2o puesto (premios por persona) 🥈
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord.
+- 30k créditos de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+- Beca completa para el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
+- Beca completa para el curso de Cálamo & Cran ["Trucos avanzados de Word"](https://www.calamoycran.com/cursos/herramientas-para-freelancers/trucos-avanzados-de-word/).
 
-Equipo 1er puesto (premios por persona):
-- 50k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
-- Beca completa para el curso de NLP de LenguajeNaturalAI ""
-- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon24"
+Equipo 1er puesto (premios por persona) 🥇
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord.
+- 50k créditos de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+- Beca completa para el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
+- Beca completa para el curso de Cálamo & Cran ["Curso de ortografía y gramática"](https://www.calamoycran.com/cursos/correccion/curso-de-ortografia-y-gramatica/). 
+- Beca completa para el [Máster de SaturdaysAI](https://saturdays.ai/master-ia-online/).
 
 </details>
 
