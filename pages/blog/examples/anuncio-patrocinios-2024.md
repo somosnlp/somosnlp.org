@@ -13,7 +13,7 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
-Presentamos las empresas patrocinadores de oro del Hackathon SomosNLP 2023:
+Presentamos las empresas patrocinadores de oro del Hackathon SomosNLP 2024:
 Argilla,
 Hugging Face,
 LenguajeNaturalAI y

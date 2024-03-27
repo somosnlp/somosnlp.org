@@ -27,7 +27,7 @@ Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de 
 Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, Ignacio Talavera, Daniel Vila y Omar Sanseviero, colaborar es muy sencillo:
 
 1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de SomosNLP con [esta invitación](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
-2. Entra en el [entorno de validación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
+2. Entra en el [entorno de validación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla) y elige un dataset (ahora mismo estamos priorizando RAC-C y HellaSwag)
 3. Valida la traducción de un párrafo del inglés al español (la traducción ya está hecha, solo tienes que verificar que está bien y corregirla en caso necesario)
 4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el [ranking de colaboraciones](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
 5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 🙌
@@ -46,7 +46,7 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono.
 9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small.
 10. Entrega tu proyecto rellenando un formulario que publicaremos próximamente. Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
-- Extra. Puedes presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+- Extra. Puedes presentar tu proyecto al [Workshop de LatinX in AI @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad.
 
 Nota: Un proyecto completo consiste en corpus de instrucciones + modelo + demo. Igualmente dado el enfoque del hackathon en los datos aceptamos también proyectos que solo hayan creado corpus (más info sobre las evaluaciones a continuación).
@@ -70,7 +70,6 @@ Los datos son lo más importante en el desarrollo de un modelo y también le dar
 - Sube el corpus a hf.co/somosnlp.
 - Crea una Dataset Card.
 - Sube al repo todos los scripts/notebooks utilizados y explica en la Dataset Card qué es qué.
-- En la Dataset Card enlaza el dataset utilizado para el entrenamiento.
 - Estructura el corpus como explicamos a continuación.
 
 <details>
@@ -88,7 +87,8 @@ Recomendaciones:
 - Si te animas a etiquetar un corpus te recomendamos utilizar `Argilla`.
 - Sube el corpus directamente a hf.co/somosnlp e itera ahí.
 - Cumplimenta bien la Dataset Card: detalla el proceso de creación y curación, describe el dataset, evalúa y mitiga sesgos. Tendremos en cuenta a la hora de evaluar los proyectos si la documentación está completa e incluye temas como una evaluación de los sesgos (e.g., se ha prestado atención a que las clases estén balanceadas).
-- También recomendamos incluir la motivación del proyecto e impacto.
+- También recomendamos incluir la motivación e impacto del proyecto.
+- Si además del corpus de instrucciones, has creado un corpus anotado para otra tarea o uno con formato DPO, enlázalos también en la Dataset Card.
 
 </details>
 
@@ -209,16 +209,22 @@ Recomendaciones:
 - Puedes compartir tu proyecto en el canal #comparte-tu-proyecto.
 - Si quieres compartir tu proyecto en redes utiliza el hashtag #Somos600M y menciona a SomosNLP, ¡será un placer darle más visibilidad!
 
-## Evaluación y premios
+## 👏 Evaluación y premios
 
-### 🗓️ Fechas importantes
+<details>
+<summary>🗓️ Fechas importantes</summary>
 
-- 29 de marzo 23h59 *Anywhere On Earth*: Fecha límite para entregar los proyectos al Hackathon #Somos600M (formulario) y al workshop de LatinX in NLP @NAACL (web).
+- 29 de marzo 23h59 *Anywhere On Earth*: Fecha límite para entregar los proyectos al Hackathon #Somos600M y al workshop de LatinX in NLP @NAACL.
 - 3 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
 - 10 de abril: Anuncio de los equipos ganadores y envío de los comentario del jurado.
 - Próximamente: Presentación en directo de los proyectos ganadores, 30 mins por equipo.
 
-### 🏆 Beneficios y premios
+<!-- formulario y web -->
+
+</details>
+
+<details>
+<summary>🏆 Beneficios y premios</summary>
 
 Todas las personas participantes:
 - Acceso a los endpoints PRO en Hugging Face para la creación de corpus sintéticos.
@@ -227,28 +233,35 @@ Todas las personas participantes:
 - Apoyo para presentar tu proyecto al workshop LatinX in NLP @NAACL 2024, una de las conferencias internacionales más importantes de PLN.
 
 Todas las personas que presenten un proyecto:
-- Créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
-- Descuento
-- Descuento de ... para la WomenTech Global Conference 2024.
-- Posibilidad de conseguir una nominación para unirse a Nova (comenta tu interés en el formulario de entrega de proyectos).
+- Certificado de participación o de equipo ganador del "Hackathon SomosNLP 2024: #Somos600M" (verificado en nuestra web).
+- Descuento de en el curso de NLP de LenguajeNaturalAI ""
+- Descuento de 20% para la [WomenTech Global Conference 2024](https://www.womentech.net/women-tech-conference).
 - Posibilidad de conseguir una entrada completamente gratis para asistir a la WomenTech Global Conference 2024 (comenta tu interés en el formulario de entrega de proyectos).
+- Posibilidad de conseguir una nominación para unirse a [Nova](https://www.novatalent.com/top-talent) (comenta tu interés en el formulario de entrega de proyectos).
 - Posibilidad de continuar desarrollando tu proyecto con nuestro apoyo, ¡contáctanos!
 
-Equipo 3er puesto:
-- 20k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs (premio por persona).
-- Beca completa para el curso 
+Equipo 3er puesto (premios por persona):
+- 20k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
+- Beca completa para el curso de NLP de LenguajeNaturalAI "" 
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon24"
 
-Equipo 2o puesto:
-- 30k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs (premio por persona).
-- Beca completa para el curso 
+Equipo 2o puesto (premios por persona):
+- 30k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
+- Beca completa para el curso de NLP de LenguajeNaturalAI ""
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon24"
 
-Equipo 1er puesto:
-- 50k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs (premio por persona).
-- Beca completa para el curso 
+Equipo 1er puesto (premios por persona):
+- 50k créditos de la MonsterAPI de Q Blocks para entrenamiento de LLMs.
+- Beca completa para el curso de NLP de LenguajeNaturalAI ""
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord "🏆Hackathon24"
 
-<!-- Hey Gaurav! Instead of giving 10k credits to 100 participants, what do you think about dividing the 1000k among the winners? (e.g. 50k for the persons in the 1st team, 30k 2nd, ..., 10k for some mentions) -->
+</details>
 
-### ✅ Evaluación de los proyectos
+
+<details>
+<summary> ✅ Evaluación de los proyectos</summary>
+
+Un proyecto completo está formado por corpus de instrucciones + modelo + demo. Igualmente, dado el enfoque del hackathon en los datos, aceptamos también proyectos que se hayan centrado en la creación de los corpus (máx puntuación: 7 ptos).
 
 Corpus (4 ptos):
 - Enfoque en las variedades lingüísticas
@@ -270,6 +283,11 @@ Demo (1 pto):
 Proyecto y presentación (2 ptos):
 - Motivación, originalidad e impacto social
 - Claridad y calidad de la exposición
+
+Pto extra:
+- Cada miembro del jurado puede asignar un punto extra a un proyecto que le haya llamado especialmente la atención.
+
+</details> 
 
 ## ❓ Preguntas frecuentes
 
@@ -357,7 +375,7 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 *Si te hemos dicho que en esta página hay info que no encuentras, borra las cookies y recarga la página.*
 
-## 🙌 Otras maneras de apoyar la iniciativa #Somos600M
+## 🙌 Otras maneras de apoyar el Proyecto #Somos600M
 
 <details>
 <summary>¿Cómo puedo colaborar?</summary>
