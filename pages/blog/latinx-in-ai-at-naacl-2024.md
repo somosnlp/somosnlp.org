@@ -20,10 +20,12 @@ El equipo de LatinX in AI invita a toda la comunidad a presentar sus proyectos a
 
 ### 👏 LatinX in NLP Workshop @ NAACL 2024
 
-- Sitio web: https://www.latinxinai.org/naacl-2024
+- Fecha límite de envío: 29 de marzo de 2024, 23h59 AOE (Anywhere On Earth)
+- Taller donde Diana Galván, Chair del Workshop, compartió muchos consejos: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
+- Diapositivas del taller disponibles en [github.com/somosnlp/recursos](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/taller_escritura_abstracts_lxai_naacl.pdf)
+- Lugar y fecha del workshop: Ciudad de México, México, 16 de junio de 2024
+- Sitio web del workshop: https://www.latinxinai.org/naacl-2024
 - Enlace de envío: https://cmt3.research.microsoft.com/LXNLPNAACL2024
-- Fecha límite de envío: 29 de marzo de 2024
-- Lugar y fecha: Ciudad de México, México, 16 de junio de 2024
 
 ### 🚀 Objetivos
 
@@ -71,8 +73,8 @@ Los trabajos pueden ser enviados en inglés, español o portugués. Ayudaremos a
 ### 🙌 Colaboración
 
 - LatinX in AI ofrece becas para asistir a la conferencia si tu paper es aceptado y también ofrecen ayuda para traducir tu paper al inglés.
-- Para aumentar tus posibilidades, te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG)
-- Organizaremos una sesión AMA (Ask Me Anything) con el equipo de LatinX in AI el lunes 25 para que resuelva vuestras dudas
+- Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG)
+- Organizamos una sesión AMA (Ask Me Anything) donde Diana Galván, Chair del Workshop, compartió consejos y resolvió muchas dudas, super recomendable visualizarlo: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 - Mientras tanto si tienes alguna pregunta contáctanos por Discord
 
 ¡Mucho éxito!

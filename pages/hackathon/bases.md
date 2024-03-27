@@ -64,7 +64,8 @@ Los datos son lo más importante en el desarrollo de un modelo y también le dar
 - En español o lenguas cooficiales.
 - Corpus de instrucciones, i.e.: pregunta + respuesta.
 - Sube el corpus a hf.co/somosnlp.
-- Completa bien la Dataset Card y enlaza todos los scripts/notebooks utilizados.
+- Completa bien la Dataset Card.
+- Sube al repo todos los scripts/notebooks utilizados y explica en la Dataset Card qué es qué.
 - Estructura el corpus como explicamos a continuación.
 
 <details>
@@ -129,7 +130,7 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero), con las máquinas disponibles puedes ajustar un LLM de hasta 7B.
 - Sube el modelo a hf.co/somosnlp.
 - Completa bien la [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool).
-- Enlaza todos los scripts/notebooks utilizados.
+- Incluye en el repo todos los scripts/notebooks utilizados y explica en la Model Card qué es qué.
 
 <details>
 <summary>Recomendaciones</summary>
@@ -181,7 +182,8 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 
 - Si quieres presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 - Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG).
-- Organizaremos una sesión AMA con el equipo de LatinX in AI el lunes 25 para que resuelva vuestras dudas.
+- Y también el taller del lunes donde Diana Galván, Chair del Workshop, compartió muchos consejos: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
+- Diapositivas del taller disponibles en [github.com/somosnlp/recursos](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/taller_escritura_abstracts_lxai_naacl.pdf)
 
 ### 📸 Presentación
 
@@ -289,6 +291,12 @@ Sí, aceptamos equipos de 1 a 5 personas.
 - ¿Quieres apoyar la iniciativa dando visibilidad, patrocinando vales o con una donación económica? ¡[Patrocina el hackathon](https://forms.gle/sEkxstwbJSRYpgDa8)!
 
 <!-- 
+
+## 🗓️ Fechas importantes
+
+- 29 de marzo 23h59 AOE (Anywhere On Earth): Fecha límite para entregar los proyectos al Hackathon #Somos600M y al workshop de LatinX in NLP @NAACL.
+- 3 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
+
 ## 🏆 Evaluación y Premios
 
 Para que todos los equipos comiencen el hackathon con las mismas oportunidades, las [bases](https://somosnlp.org/hackathon/bases) del hackathon junto con información detallada sobre la evaluación de los proyectos se publicarán en febrero.
@@ -298,4 +306,5 @@ Estamos hablando con todo el mundo para conseguir premios increíbles, ¡os mant
 ## 🏆 Beneficios y Premios
 
  - 
- -->
+
+-->
