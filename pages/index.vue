@@ -119,7 +119,7 @@ const showPastEvents = ref(true);
           t('landing-page.events.recorded-events')
         }}</span>
       </h1>
-      <div class="grid grid-cols-2 gap-8 my-12">
+      <div class="grid grid-cols-3 gap-8 my-12">
         <a href="https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">
           <img alt="Evento 01" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/eventos/221208_modelo_juridico_mexicano.jpg" />
@@ -140,6 +140,42 @@ const showPastEvents = ref(true);
         </a>
         <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 06" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 07" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 08" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 09" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 10" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 11" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 12" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 13" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 14" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
+          <img alt="Evento 15" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
         </a>
       </div>
