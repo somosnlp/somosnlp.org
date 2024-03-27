@@ -45,9 +45,11 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 7. Fine-tune un LLM (hasta 7B) para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Recomendamos técnicas tipo QLoRA. Pondremos a vuestra disposición GPU VMs para el entrenamiento. 
 8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono.
 9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small.
-10. Entrega tu proyecto rellenando un formulario que publicaremos próximamente. Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+10. Entrega tu proyecto rellenando [este formulario](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
 - Extra. Puedes presentar tu proyecto al [Workshop de LatinX in AI @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad.
+
+Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
 
 Nota: Un proyecto completo consiste en corpus de instrucciones + modelo + demo. Igualmente dado el enfoque del hackathon en los datos aceptamos también proyectos que solo hayan creado corpus (más info sobre las evaluaciones a continuación).
 
@@ -204,7 +206,10 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 
 ### 📸 Presentación
 
-- El día 3 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad.
+- Cumplimenta el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones en tu proyecto hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+- El día 3 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad. Coméntanos la disponibilidad de tu equipo en el formulario de entrega de proyectos.
+- Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
+
 
 ### ✨ Visibilidad
 
@@ -217,12 +222,10 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 <details>
 <summary>🗓️ Fechas importantes</summary>
 
-- 29 de marzo 23h59 *Anywhere On Earth*: Fecha límite para entregar los proyectos al Hackathon #Somos600M y al workshop de LatinX in NLP @NAACL.
+- 29 de marzo 23h59 *Anywhere On Earth*: Fecha límite para [entregar proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6) al Hackathon #Somos600M y al workshop de [LatinX in NLP @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 - 3 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
 - 10 de abril: Anuncio de los equipos ganadores y envío de los comentario del jurado.
 - Próximamente: Presentación en directo de los proyectos ganadores, 30 mins por equipo.
-
-<!-- formulario y web -->
 
 </details>
 
