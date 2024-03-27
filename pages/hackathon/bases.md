@@ -16,13 +16,24 @@ Cada equipo participante generará un corpus de instrucciones, entrenará su LLM
 
 <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 22 de marzo!</a></center>
 
+## 📝 Formularios importantes
+
+Sube tus proyectos a la org hf.co/somosnlp y rellena el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Recuerda leer en la sección a continuación todas las recomendaciones para conseguir una mejor valoración por parte del jurado!
+
+Ayúdanos a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
+
+---
+
 ## 👀 Maneras de participar
 
 Como sabes, la iniciativa #Somos600M tiene dos objetivos:
 
 ### ✅ Crear la primera leaderboard de LLMs
 
-Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de la Universidad de Oregon de las bases de datos utilizadas en la famosa [Open LLM Leaderboard de Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
+Ayúdanos a validar en comunidad las traducciones hechas por el grupo de PLN de la Universidad de Oregon de las bases de datos utilizadas en la famosa *Open LLM Leaderboard* de Hugging Face. ¡Ganarás premios si validas más de 50 traducciones!
+
+<details>
+<summary>Pasos para participar</summary>
 
 Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, Ignacio Talavera, Daniel Vila y Omar Sanseviero, colaborar es muy sencillo:
 
@@ -32,9 +43,14 @@ Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, I
 4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el [ranking de colaboraciones](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
 5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 🙌
 
+</details>
+
 ### 🌎 Crear el mayor corpus de instrucciones
 
 Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
+
+<details>
+<summary>Pasos para participar</summary>
 
 1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR). Auto-asígnate el rol "Hackathon24": en el servidor, vete al comienzo de la barra lateral izquierda, haz click en "Canales y roles", selecciona "Participar en el hackathon 2024".
 2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
@@ -57,7 +73,11 @@ A continuación también puedes encontrar una guía para desarrollar un buen pro
 
 Si tienes cualquier duda sobre las bases estamos a tu disposición en el canal #pide-ayuda, escribe un título descriptivo y utiliza la etiqueta "hackathon".
 
+</details>
+
 ¡Mucho éxito! 🚀
+
+---
 
 ## 📝 Guía y recursos para desarrollar un buen proyecto
 
@@ -177,8 +197,6 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 
 Crea una demo para que todo el mundo pueda interactuar con tu nuevo modelo.
 
-Recomendaciones: 
-
 - Si es tu primera demo, te recomendamos utilizar Gradio ya que es más sencillo.
 - Crea la demo directamente en hf.co/somosnlp e itera ahí.
 - Puedes utilizar GPUs `Nvidia T4 - small` patrocinadas por Hugging Face.
@@ -204,7 +222,7 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 - Hay más info por escrito en [este artículo](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 
 
-### 📸 Presentación
+### 📸 Entrega y presentación
 
 - Cumplimenta el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones en tu proyecto hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
 - El día 3 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad. Coméntanos la disponibilidad de tu equipo en el formulario de entrega de proyectos.
@@ -216,6 +234,8 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 - Te recomendamos que subas tus datasets, modelos y demos desde el principio a la org hf.co/somosnlp para que aparezcan en la nueva [❤️ leaderboard](https://huggingface.co/spaces/somosnlp/likes_leaderboard) y todo el mundo pueda verlo y darle likes. ¡Habrá una mención de honor para el proyecto con más ❤️!
 - Puedes compartir tu proyecto en el canal #comparte-tu-proyecto.
 - Si quieres compartir tu proyecto en redes utiliza el hashtag #Somos600M y menciona a SomosNLP, ¡será un placer darle más visibilidad!
+
+---
 
 ## 👏 Evaluación y premios
 
@@ -297,6 +317,8 @@ Pto extra:
 - Cada miembro del jurado puede asignar un punto extra a un proyecto que le haya llamado especialmente la atención.
 
 </details> 
+
+---
 
 ## ❓ Preguntas frecuentes
 
@@ -383,6 +405,8 @@ Sí, aceptamos equipos de 1 a 5 personas.
 </details>
 
 *Si te hemos dicho que en esta página hay info que no encuentras, borra las cookies y recarga la página.*
+
+---
 
 ## 🙌 Otras maneras de apoyar el Proyecto #Somos600M
 
