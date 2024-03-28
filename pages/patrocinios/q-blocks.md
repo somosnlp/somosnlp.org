@@ -2,6 +2,7 @@
 title: Q Blocks
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/QBlocks_dark.png
 twitter: https://twitter.com/blocks_q
 linkedin: https://www.linkedin.com/company/q-blocks/
 website: https://qblocks.cloud/

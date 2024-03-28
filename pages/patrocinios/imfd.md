@@ -2,6 +2,7 @@
 title: Instituto Milenio Fundamentos de los Datos
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/IMFD.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/IMFD_dark.png
 twitter: https://www.twitter.com/IMFDChile
 linkedin: https://www.linkedin.com/company/fundamentosdelosdatos/
 website: https://www.imfd.cl

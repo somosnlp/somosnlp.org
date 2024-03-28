@@ -2,6 +2,7 @@
 title: AgilMentor
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/AgilMentor_dark.png
 twitter: 
 linkedin: https://www.linkedin.com/company/agilmentor/
 website: https://agilmentor.com

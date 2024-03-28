@@ -2,6 +2,7 @@
 title: Universidad Nacional de Loja
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/UNL.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png
 twitter: https://twitter.com/UNLoficial
 linkedin: https://www.linkedin.com/school/universidad-nacional-de-loja/mycompany/
 website: https://unl.edu.ec

@@ -2,6 +2,7 @@
 title: IBiDat
 description: 
 cover: https://somosnlp.github.io/assets/images/patrocinios/IBiDat.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/IBiDat_dark.png
 twitter: 
 linkedin:
 website: 
