@@ -21,6 +21,8 @@ Tanto si tienes un maravilloso corpus como si tienes un montón de documentos, �
 
 </details>
 
+Solo necesitamos que nos compartas la información del corpus, ¡nos encargamos de todo el resto!
+
 Para cualquier duda mándanos un correo a info@somosnlp.org o contáctanos por Discord, ¡te estamos esperando!
 
 <center><a href="https://forms.gle/74ZM6wnW6Zp8oXMV8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 ¡Dona tu corpus!</a></center>

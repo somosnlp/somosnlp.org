@@ -16,25 +16,41 @@ Cada equipo participante generará un corpus de instrucciones, entrenará su LLM
 
 <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 22 de marzo!</a></center>
 
+## 📝 Formularios importantes
+
+Sube tus proyectos a la org hf.co/somosnlp y rellena el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Recuerda leer en la sección a continuación todas las recomendaciones para conseguir una mejor valoración por parte del jurado!
+
+Ayúdanos a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
+
+---
+
 ## 👀 Maneras de participar
 
 Como sabes, la iniciativa #Somos600M tiene dos objetivos:
 
 ### ✅ Crear la primera leaderboard de LLMs
 
-Ayúdanos a validar en comunidad las traducciones hechas por el Grupo de PLN de la Universidad de Oregon de las bases de datos utilizadas en la famosa [Open LLM Leaderboard de Hugging Face](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard).
+Ayúdanos a validar en comunidad las traducciones hechas por el grupo de PLN de la Universidad de Oregon de las bases de datos utilizadas en la famosa *Open LLM Leaderboard* de Hugging Face. ¡Ganarás premios si validas más de 50 traducciones!
+
+<details>
+<summary>Pasos para participar</summary>
 
 Gracias al apoyo de Argilla y Hugging Face, en concreto de Álvaro Bartolomé, Ignacio Talavera, Daniel Vila y Omar Sanseviero, colaborar es muy sencillo:
 
 1. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de SomosNLP con [esta invitación](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc)
-2. Entra en el [entorno de validación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
+2. Entra en el [entorno de validación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla) y elige un dataset (ahora mismo estamos priorizando RAC-C y HellaSwag)
 3. Valida la traducción de un párrafo del inglés al español (la traducción ya está hecha, solo tienes que verificar que está bien y corregirla en caso necesario)
 4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el [ranking de colaboraciones](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
 5. Tu nombre aparecerá como parte del equipo que creó las bases de datos de la futura leaderboard de LLMs en español 🙌
 
+</details>
+
 ### 🌎 Crear el mayor corpus de instrucciones
 
 Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PLN en español es muy sencillo, ¡anímate!
+
+<details>
+<summary>Pasos para participar</summary>
 
 1. Únete a nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR). Auto-asígnate el rol "Hackathon24": en el servidor, vete al comienzo de la barra lateral izquierda, haz click en "Canales y roles", selecciona "Participar en el hackathon 2024".
 2. Crea una cuenta en [Hugging Face](https://huggingface.co/join) y únete a la organización de [SomosNLP](https://huggingface.co/organizations/somosnlp/share/qgytUhPKvxVxsbZWTzVUAUSUnZmVXNPmjc).
@@ -42,16 +58,26 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 4. Crea tu equipo o únete a uno (equipos de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 5. Crea tu corpus de instrucciones y súbelo a la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel` (ver recursos abajo).
 6. Escribe la Dataset Card de tu dataset: describe el proceso de creación y curación (incluye el script/notebook), inspecciona el dataset, evalúa y mitiga sesgos.
-7. Fine-tuning de un LLM para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Pondremos a vuestra disposición GPU VMs para el entrenamiento. 
-8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono. Importante: enlaza el dataset utilizado para el entrenamiento.
-9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small (gracias Hugging Face). Importante: enlaza los dataset(s) y modelo(s) utilizados.
-10. Entrega tu proyecto rellenando un formulario que publicaremos próximamente. Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
-- Extra. Puedes presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+7. Fine-tune un LLM (hasta 7B) para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Recomendamos técnicas tipo QLoRA. Pondremos a vuestra disposición GPU VMs para el entrenamiento. 
+8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono.
+9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small.
+10. Entrega tu proyecto rellenando [este formulario](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+- Extra. Puedes presentar tu proyecto al [Workshop de LatinX in AI @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad.
+
+Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
+
+Nota: Un proyecto completo consiste en corpus de instrucciones + modelo + demo. Igualmente dado el enfoque del hackathon en los datos aceptamos también proyectos que solo hayan creado corpus (más info sobre las evaluaciones a continuación).
+
+A continuación también puedes encontrar una guía para desarrollar un buen proyecto, con requisitos, recomendaciones y recursos.
 
 Si tienes cualquier duda sobre las bases estamos a tu disposición en el canal #pide-ayuda, escribe un título descriptivo y utiliza la etiqueta "hackathon".
 
+</details>
+
 ¡Mucho éxito! 🚀
+
+---
 
 ## 📝 Guía y recursos para desarrollar un buen proyecto
 
@@ -64,7 +90,7 @@ Los datos son lo más importante en el desarrollo de un modelo y también le dar
 - En español o lenguas cooficiales.
 - Corpus de instrucciones, i.e.: pregunta + respuesta.
 - Sube el corpus a hf.co/somosnlp.
-- Completa bien la Dataset Card.
+- Crea una Dataset Card.
 - Sube al repo todos los scripts/notebooks utilizados y explica en la Dataset Card qué es qué.
 - Estructura el corpus como explicamos a continuación.
 
@@ -82,7 +108,9 @@ Recomendaciones:
 - Puedes utilizar los endpoints PRO de Hugging Face como se explica en el notebook de ejemplo (recuerda que tienes que pertenecer a hf.co/somosnlp).
 - Si te animas a etiquetar un corpus te recomendamos utilizar `Argilla`.
 - Sube el corpus directamente a hf.co/somosnlp e itera ahí.
-- Cumplimenta bien la Dataset Card, tendremos en cuenta a la hora de evaluar los proyectos si está completa e incluye temas como una evaluación de los sesgos (e.g., se ha prestado atención a que las clases estén balanceadas).
+- Cumplimenta bien la Dataset Card: detalla el proceso de creación y curación, describe el dataset, evalúa y mitiga sesgos. Tendremos en cuenta a la hora de evaluar los proyectos si la documentación está completa e incluye temas como una evaluación de los sesgos (e.g., se ha prestado atención a que las clases estén balanceadas).
+- También recomendamos incluir la motivación e impacto del proyecto.
+- Si además del corpus de instrucciones, has creado un corpus anotado para otra tarea o uno con formato DPO, enlázalos también en la Dataset Card.
 
 </details>
 
@@ -129,8 +157,9 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - En español o lenguas cooficiales.
 - Haz fine-tuning de un modelo ya existente (no pre-entrenes uno desde cero), con las máquinas disponibles puedes ajustar un LLM de hasta 7B.
 - Sube el modelo a hf.co/somosnlp.
-- Completa bien la [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool).
+- Crea la [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool).
 - Incluye en el repo todos los scripts/notebooks utilizados y explica en la Model Card qué es qué.
+- En la Model Card enlaza el corpus utilizado.
 
 <details>
 <summary>Recomendaciones</summary>
@@ -138,8 +167,10 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - Os animamos a entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF! Podéis utilizar [autotrain](https://huggingface.co/docs/autotrain/llm_finetuning) y [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter), con GPUs hasta *T4 medium*.
 - Recuerda que es muy importante siempre hacer pruebas en máquinas humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
 - Sube el modelo directamente a hf.co/somosnlp e itera ahí.
+- Cumplimenta bien la Model Card: detalla el proceso de entrenamiento, evalúa su calidad, sesgos y huella de carbono.
+- También recomendamos incluir la motivación del proyecto e impacto.
 - Este año la evaluación corre a nuestro cargo, ¡vuestros modelos inaugurarán la primera leaderboard abierta de LLMs en español!
-- Cumplimenta bien la Model Card, a la hora de evaluar los proyectos valoraremos positivamente que esté completa y se incluyan temas como la evaluación de los sesgos del modelo y del impacto desde el punto de vista climático.
+
 
 </details>
 
@@ -164,10 +195,13 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 
 ### 🖼️ Demo
 
-- Por último, crea una demo para que todo el mundo pueda interactuar con tu nuevo modelo. Si es tu primera demo, te recomendamos utilizar Gradio ya que es más sencillo.
+Crea una demo para que todo el mundo pueda interactuar con tu nuevo modelo.
+
+- Si es tu primera demo, te recomendamos utilizar Gradio ya que es más sencillo.
 - Crea la demo directamente en hf.co/somosnlp e itera ahí.
 - Puedes utilizar GPUs `Nvidia T4 - small` patrocinadas por Hugging Face.
-- Qué incluir en la demo: motivación del proyecto, impacto, ideas futuras, número de ODS si procede, enlace al dataset y modelo utilizados, miembros del equipo :)
+- Qué incluir en la demo: motivación del proyecto, impacto, ideas futuras, número de ODS si procede, enlace al dataset y modelo utilizados, miembros del equipo, todo lo que consideres necesario para promocionar tu proyecto :)
+- Crea una demo clara e intuitiva.
 
 <details>
 <summary>Recursos</summary>
@@ -180,20 +214,111 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 
 ### 📝 Paper
 
-- Si quieres presentar tu proyecto al Workshop de LatinX in AI @NAACL, descubre cómo [aquí](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
-- Te recomendamos ver el taller ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG).
-- Y también el taller del lunes donde Diana Galván, Chair del Workshop, compartió muchos consejos: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
+Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de las conferencias internacionales más importantes de PLN.
+
+- Te recomendamos el taller del lunes donde Diana Galván, Chair del Workshop, compartió muchos consejos: ["Taller de escritura de abstracts, LatinX in NLP @NAACL 2024"](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 - Diapositivas del taller disponibles en [github.com/somosnlp/recursos](https://github.com/somosnlp/recursos/blob/main/hackathon_2024/taller_escritura_abstracts_lxai_naacl.pdf)
+- También puedes ver el taller de la anterior edición para más consejos: ["Preparación de un proyecto de investigación de ML"](https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG).
+- Hay más info por escrito en [este artículo](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
 
-### 📸 Presentación
 
-- El día 2 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad.
+### 📸 Entrega y presentación
+
+- Cumplimenta el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones en tu proyecto hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+- El día 3 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad. Coméntanos la disponibilidad de tu equipo en el formulario de entrega de proyectos.
+- Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
+
 
 ### ✨ Visibilidad
 
 - Te recomendamos que subas tus datasets, modelos y demos desde el principio a la org hf.co/somosnlp para que aparezcan en la nueva [❤️ leaderboard](https://huggingface.co/spaces/somosnlp/likes_leaderboard) y todo el mundo pueda verlo y darle likes. ¡Habrá una mención de honor para el proyecto con más ❤️!
 - Puedes compartir tu proyecto en el canal #comparte-tu-proyecto.
 - Si quieres compartir tu proyecto en redes utiliza el hashtag #Somos600M y menciona a SomosNLP, ¡será un placer darle más visibilidad!
+
+---
+
+## 👏 Evaluación y premios
+
+<details>
+<summary>🗓️ Fechas importantes</summary>
+
+- 29 de marzo 23h59 *Anywhere On Earth*: Fecha límite para [entregar proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6) al Hackathon #Somos600M y al workshop de [LatinX in NLP @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+- 3 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
+- 10 de abril: Anuncio de los equipos ganadores y envío de los comentario del jurado.
+- Próximamente: Presentación en directo de los proyectos ganadores, 30 mins por equipo.
+
+</details>
+
+<details>
+<summary>🏆 Beneficios y premios</summary>
+
+Todas las personas participantes 👏
+- Acceso a los endpoints PRO en Hugging Face para la creación de corpus sintéticos.
+- Acceso a GPUs de hasta 25GB de RAM en Hugging Face para el entrenamiento de modelos y la demo.
+- Acceso a "persistent storage" en Hugging Face para la creación de espacios de anotación de Argilla.
+- Apoyo para presentar tu proyecto al workshop LatinX in NLP @NAACL 2024, una de las conferencias internacionales más importantes de PLN. Explicamos cómo en [este taller](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J).
+
+Todas las personas que presenten un proyecto 🚀
+- Certificado de participación o de equipo ganador del "Hackathon SomosNLP 2024: #Somos600M" (verificado en nuestra web).
+- Descuento del 60% en el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
+- Descuento de 20% para la [WomenTech Global Conference 2024](https://www.womentech.net/women-tech-conference).
+- Posibilidad de conseguir una entrada completamente gratis para asistir a la WomenTech Global Conference 2024 (dinos que te interesa en el formulario de entrega de proyectos).
+- Posibilidad de conseguir una nominación para unirse a [Nova](https://www.novatalent.com/top-talent) (dinos que te interesa en el formulario de entrega de proyectos).
+- Posibilidad de continuar desarrollando tu proyecto con nuestro apoyo, ¡contáctanos!
+
+Equipo 3er puesto (premios por persona) 🥉
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord.
+- 20k créditos de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+- Beca completa para el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
+
+Equipo 2o puesto (premios por persona) 🥈
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord.
+- 30k créditos de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+- Beca completa para el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
+- Beca completa para el curso de Cálamo & Cran ["Trucos avanzados de Word"](https://www.calamoycran.com/cursos/herramientas-para-freelancers/trucos-avanzados-de-word/).
+
+Equipo 1er puesto (premios por persona) 🥇
+- Certificado, reconocimiento en la página web y redes sociales y rol honorífico en el servidor de Discord.
+- 50k créditos de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+- Beca completa para el curso de LenguajeNaturalAI ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms).
+- Beca completa para el curso de Cálamo & Cran ["Curso de ortografía y gramática"](https://www.calamoycran.com/cursos/correccion/curso-de-ortografia-y-gramatica/). 
+- Beca completa para el [Máster de SaturdaysAI](https://saturdays.ai/master-ia-online/).
+
+</details>
+
+
+<details>
+<summary> ✅ Evaluación de los proyectos</summary>
+
+Un proyecto completo está formado por corpus de instrucciones + modelo + demo. Igualmente, dado el enfoque del hackathon en los datos, aceptamos también proyectos que se hayan centrado en la creación de los corpus (máx puntuación: 7 ptos).
+
+Corpus (4 ptos):
+- Enfoque en las variedades lingüísticas
+- Correcta estructura del corpus
+- Técnica de creación del corpus
+- Claridad y reproducibilidad de los scripts
+- Completitud de la Dataset Card
+- Calidad del corpus
+
+Modelo (3 ptos):
+- Método de entrenamiento utilizado
+- Claridad y reproducibilidad de los scripts
+- Completitud de la Model Card
+- Evaluación del modelo
+
+Demo (1 pto):
+- Claridad y UX de la demo
+
+Proyecto y presentación (2 ptos):
+- Motivación, originalidad e impacto social
+- Claridad y calidad de la exposición
+
+Pto extra:
+- Cada miembro del jurado puede asignar un punto extra a un proyecto que le haya llamado especialmente la atención.
+
+</details> 
+
+---
 
 ## ❓ Preguntas frecuentes
 
@@ -281,7 +406,12 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 *Si te hemos dicho que en esta página hay info que no encuentras, borra las cookies y recarga la página.*
 
-## 🙌 Otras maneras de apoyar la iniciativa #Somos600M
+---
+
+## 🙌 Otras maneras de apoyar el Proyecto #Somos600M
+
+<details>
+<summary>¿Cómo puedo colaborar?</summary>
 
 - Comparte los posts de las cuentas de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [Twitter](https://twitter.com/somosnlp_)), ¡invita a tus colegas del trabajo, compañeros y compañeras de clase a crear un equipo!
 <!-- - ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A). -->
@@ -290,21 +420,4 @@ Sí, aceptamos equipos de 1 a 5 personas.
 - ¿Formas parte de un grupo de investigación? Igual os interesa [colaborar donando un corpus](https://somosnlp.org/donatucorpus).
 - ¿Quieres apoyar la iniciativa dando visibilidad, patrocinando vales o con una donación económica? ¡[Patrocina el hackathon](https://forms.gle/sEkxstwbJSRYpgDa8)!
 
-<!-- 
-
-## 🗓️ Fechas importantes
-
-- 29 de marzo 23h59 AOE (Anywhere On Earth): Fecha límite para entregar los proyectos al Hackathon #Somos600M y al workshop de LatinX in NLP @NAACL.
-- 3 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
-
-## 🏆 Evaluación y Premios
-
-Para que todos los equipos comiencen el hackathon con las mismas oportunidades, las [bases](https://somosnlp.org/hackathon/bases) del hackathon junto con información detallada sobre la evaluación de los proyectos se publicarán en febrero.
-
-Estamos hablando con todo el mundo para conseguir premios increíbles, ¡os mantendremos al corriente!
-
-## 🏆 Beneficios y Premios
-
- - 
-
--->
+</details>

@@ -11,7 +11,7 @@ community: Asociación
 
 ## Ponencias
 
-- Diversidad lingüística e IA, cómo desarrollar LLMs inclusivos
+- Proyecto #Somos600M: Cómo impulsar la diversidad lingüística e IA
 
 <EventSummary
     description="Hablaremos de la importancia de la diversidad lingüística en IA y cómo cada persona puede apoyar la iniciativa #Somos600M en el desarrollo de LLMs inclusivos, que representen la diversidad de los 600 millones de personas hispanohablantes."
