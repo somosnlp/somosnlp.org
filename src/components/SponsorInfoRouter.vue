@@ -22,7 +22,7 @@ const imgSrc = computed(() => isDark.value ? frontmatter.value.cover_dark || fro
             hover="bg-gray-50 dark:bg-gray-800">
             <div>
                 <img class="bg-white rounded-md object-cover max-h-200px" 
-                    dark="bg-gray-900" width="180" height="180"
+                    dark="bg-dark-900" width="180" height="180"
                     :src="imgSrc"
                     :alt="frontmatter.title" 
                 />
