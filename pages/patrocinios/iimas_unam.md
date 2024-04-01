@@ -2,6 +2,7 @@
 title: Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas de la Universidad Nacional Autónoma de México
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/UNAM.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/UNAM_dark.png
 twitter: 
 linkedin:
 website: 

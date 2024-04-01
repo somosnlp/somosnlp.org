@@ -2,6 +2,7 @@
 title: Spain AI
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png
 twitter: https://twitter.com/Spain_AI_ 
 linkedin: https://www.linkedin.com/company/spainai/
 website: https://www.spain-ai.com

@@ -2,6 +2,7 @@
 title: Capítulo Estudiantil AAAIMX
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/AAAIMX_dark.png
 twitter: https://www.facebook.com/aaaimx/
 linkedin: https://www.linkedin.com/company/aaaimx
 website: https://www.aaaimx.org/

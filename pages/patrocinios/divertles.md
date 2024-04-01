@@ -2,6 +2,7 @@
 title: DiverTLes
 description: Diversidad de Tecnologías del Lenguaje en España
 cover: https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png
 twitter: https://twitter.com/divertlespln
 linkedin:
 website: https://divertles.ujaen.es/

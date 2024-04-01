@@ -2,6 +2,7 @@
 title: Software Themis
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis.png
+cover_dark: https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis_dark.png
 twitter: https://twitter.com/SoftwareThemis_
 linkedin: https://www.linkedin.com/company/software-themis/
 website: https://www.themis.es
