@@ -22,7 +22,7 @@ author: María Grandury
 
 ## Notebook
 
-<a href="https://colab.research.google.com/drive/1Nk9bQ2BTymXwANYw5V2O0iTYR01ptccv" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://github.com/somosnlp/nlp-de-cero-a-cien/blob/main/2_modelos_secuenciales/LSTM_NLP_clasificador_novelas_espa%C3%B1ol.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Recursos adicionales
 - [Understanding The Recurrent Neural Network | Post by Amit Shekhar](https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2)
