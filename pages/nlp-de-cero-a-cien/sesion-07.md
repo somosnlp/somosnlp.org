@@ -23,6 +23,12 @@ Esperamos que hayas aprendido muchíiisimo, comparte tu logro en redes y menció
 
 ---
 
+## Notebooks
+
+<a href="https://github.com/somosnlp/nlp-de-cero-a-cien/tree/main/7_demos_de_nlp_con_spaces" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+---
+
 ## ¿Y ahora qué?
 
 Te damos la bienvenida al open-source, anímate a compartir con la comunidad en Discord tus bases de datos, modelos y demos. Si las quieres compartir en redes y nos mencionas, ¡le daremos visibilidad a tus proyectos!
