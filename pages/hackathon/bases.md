@@ -14,7 +14,7 @@ Cada equipo participante generará un corpus de instrucciones, entrenará su LLM
 </a>
 </div>
 
-<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 22 de marzo!</a></center>
+<!-- <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 ¡Inscripciones abiertas hasta el 22 de marzo!</a></center> -->
 
 ## 📝 Formularios importantes
 
@@ -57,13 +57,13 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 3. Regístrate en [Eventbrite](https://hackathonsomosnlp2024.eventbrite.com/?aff=w).
 4. Crea tu equipo o únete a uno (equipos de 1 a 5 personas). Hay que inscribir los equipos en el canal **#encuentra-equipo** (más info en el README del canal).
 5. Crea tu corpus de instrucciones y súbelo a la org de hf.co/SomosNLP. Te recomendados utilizar la librería `distilabel` (ver recursos abajo).
-6. Escribe la Dataset Card de tu dataset: describe el proceso de creación y curación (incluye el script/notebook), inspecciona el dataset, evalúa y mitiga sesgos.
+6. Escribe la [Dataset Card](https://huggingface.co/docs/datasets/dataset_card) de tu dataset: describe el proceso de creación y curación (incluye el script/notebook), inspecciona el dataset, evalúa y mitiga sesgos.
 7. Fine-tune un LLM (hasta 7B) para la tarea que hayas elegido y súbelo a la org de hf.co/SomosNLP. Recomendamos técnicas tipo QLoRA. Pondremos a vuestra disposición GPU VMs para el entrenamiento. 
-8. Escribe la Model Card de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono.
+8. Escribe la [Model Card](https://huggingface.co/docs/hub/model-cards) de tu modelo: describe el proceso de entrenamiento (incluye el script/notebook), evalúa su calidad, sesgos y huella de carbono.
 9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small.
-10. Entrega tu proyecto rellenando [este formulario](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+10. Entrega tu proyecto rellenando [este formulario](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones hasta las 23h59 [*Anywhere on Earth*](https://time.is/Anywhere_on_Earth) del miércoles 10 de abril (revisaremos la hora de los commits 👀).
 - Extra. Puedes presentar tu proyecto al [Workshop de LatinX in AI @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
-11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad.
+11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad. Las presentaciones son opcionales pero se tendrán en cuenta para valorar los proyectos. Se realizarán el jueves 11 de abril, comparte tu disponibilidad en el formulario de entrega de proyectos.
 
 Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
 
@@ -90,7 +90,7 @@ Los datos son lo más importante en el desarrollo de un modelo y también le dar
 - En español o lenguas cooficiales.
 - Corpus de instrucciones, i.e.: pregunta + respuesta.
 - Sube el corpus a hf.co/somosnlp.
-- Crea una Dataset Card.
+- Crea una Dataset Card
 - Sube al repo todos los scripts/notebooks utilizados y explica en la Dataset Card qué es qué.
 - Estructura el corpus como explicamos a continuación.
 
@@ -111,6 +111,7 @@ Recomendaciones:
 - Cumplimenta bien la Dataset Card: detalla el proceso de creación y curación, describe el dataset, evalúa y mitiga sesgos. Tendremos en cuenta a la hora de evaluar los proyectos si la documentación está completa e incluye temas como una evaluación de los sesgos (e.g., se ha prestado atención a que las clases estén balanceadas).
 - También recomendamos incluir la motivación e impacto del proyecto.
 - Si además del corpus de instrucciones, has creado un corpus anotado para otra tarea o uno con formato DPO, enlázalos también en la Dataset Card.
+- La Dataset Card puede estar en español aunque recomendamos que sea en inglés para que la comunidad internacional pueda utilizar vuestro dataset. Teniendo en cuenta que somos una comunidad hispanohablante la opción más inclusiva sería escribirla en un idioma y traducirla (automáticamente?) al otro. En el repo entonces habría un `README.md` (Dataset Card en inglés) que enlazaría a un `README_ES.md` (Dataset Card en español). 
 
 </details>
 
@@ -149,6 +150,7 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - [Cómo anotar un corpus lingüísticos para entrenar LLMs](https://www.youtube.com/watch?v=d6vrflcIY-g&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), impartida el miércoles 20 por Marta Guerrero @IIC, creadora de 3 de los corpus que formarán la leaderboard.
 - [Taller práctico: Etiquetado de datos con Argilla](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) impartido por Daniel Vila Suero, co-fundador y CEO @Argilla.
 - [AMA de etiquetado de datos](https://somosnlp.org/hackathon-2023/ama-con-natalia-elvira) con Natalia Elvira, Project Manager @Argilla.
+- [Docs: cómo escribir una buena Dataset Card](https://huggingface.co/docs/datasets/dataset_card): es la documentación oficial de Hugging Face, incluye una plantilla y un par de buenos ejemplos.
 
 </details>
 
@@ -164,7 +166,7 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 <details>
 <summary>Recomendaciones</summary>
 
-- Os animamos a entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF! Podéis utilizar [autotrain](https://huggingface.co/docs/autotrain/llm_finetuning) y [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter), con GPUs hasta *T4 medium*.
+- Os animamos a entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF! Podéis utilizar [autotrain (no-code)](https://huggingface.co/docs/autotrain/llm_finetuning) y [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter), con GPUs hasta *T4 medium*.
 - Recuerda que es muy importante siempre hacer pruebas en máquinas humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
 - Sube el modelo directamente a hf.co/somosnlp e itera ahí.
 - Cumplimenta bien la Model Card: detalla el proceso de entrenamiento, evalúa su calidad, sesgos y huella de carbono.
@@ -186,6 +188,7 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 - Notebooks de `unsloth` para entrenar más rápido (en inglés, si necesitáis que los tenga me decís):
 [Gemma FT en dataset de instrucciones estilo Alpaca](https://colab.research.google.com/drive/10NbwlsRChbma1v55m8LAPYG15uQv6HLo) y
 [Hacer RLAIF via DPO sobre Zephir](https://colab.research.google.com/drive/15vttTpzzVXv_tJwEk-hIcQ0S9FcEWvwP).
+- [Docs: cómo escribir una Model Card](https://huggingface.co/docs/hub/model-cards): guía oficial de Hugging Face, incluye un enlace al Space para crearla automáticamente y una explicación de cada sección.
 - [Space: Model Card Creator](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), Space que os guía en la creación de vuestra model card.
 - [Detección y mitigación de sesgos en modelos de lenguaje](https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos), charla impartida por María Grandury, fundadora de SomosNLP.
 - Para evaluar la huella de carbono del entrenamiento de tu modelo puedes utilizar herramientas como [ML CO2 Impact](https://mlco2.github.io/impact) o [Code Carbon](https://codecarbon.io), integrada en 🤗 Transformers. Te recomendamos este [vídeo](https://www.youtube.com/watch?v=ftWlj4FBHTg) de motivación, este [artículo](https://huggingface.co/blog/carbon-emissions-on-the-hub) del blog de HF y la sección de la [documentación](https://huggingface.co/docs/hub/model-cards-co2) de 🤗 Transformers que trata este tema.
@@ -224,7 +227,7 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 
 ### 📸 Entrega y presentación
 
-- Cumplimenta el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones en tu proyecto hasta las 23h59 *Anywhere on Earth* del viernes 29 de marzo (revisaremos la hora de los commits 👀).
+- Cumplimenta el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones en tu proyecto hasta las 23h59 [*Anywhere on Earth*](https://time.is/Anywhere_on_Earth) del 10 de abril (revisaremos la hora de los commits 👀).
 - El día 3 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad. Coméntanos la disponibilidad de tu equipo en el formulario de entrega de proyectos.
 - Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
 
@@ -242,9 +245,9 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 <details>
 <summary>🗓️ Fechas importantes</summary>
 
-- 29 de marzo 23h59 *Anywhere On Earth*: Fecha límite para [entregar proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6) al Hackathon #Somos600M y al workshop de [LatinX in NLP @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
-- 3 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
-- 10 de abril: Anuncio de los equipos ganadores y envío de los comentario del jurado.
+- 10 de abril 23h59 [*Anywhere On Earth*](https://time.is/Anywhere_on_Earth): Fecha límite para [entregar proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6) al Hackathon #Somos600M y al workshop de [LatinX in NLP @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
+- 11 de abril: Presentación en directo de los proyectos, 5 mins por equipo.
+- 18 de abril: Anuncio de los equipos ganadores y envío de los comentario del jurado.
 - Próximamente: Presentación en directo de los proyectos ganadores, 30 mins por equipo.
 
 </details>
@@ -375,7 +378,7 @@ No, depende de tu disponibilidad, puedes desarrollar un buen proyecto en una sem
 <details>
 <summary>¿Hasta cuándo puedo crear un equipo?</summary>
 
-Damos la bienvenida a nuevos equipos hasta el 22 de marzo.
+EDITADO: Damos la bienvenida a nuevos equipos hasta el 7 de abril.
 
 </details>
 

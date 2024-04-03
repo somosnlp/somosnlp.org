@@ -33,4 +33,8 @@ bio: Amanda es una investigadora postdoctoral en MilaNLP en la Universidad Bocco
 - ¿Cómo pueden responder los modelos de lenguaje a las emociones de los usuarios?
 - ¿Cuáles pueden ser las consecuencias para el usuario y para la sociedad?
 
+## Enlaces útiles
+
+- Hilo en Twitter presentando el paper (en inglés): https://twitter.com/florplaza22/status/1773001169389904357
+
 ## Charlas relacionadas
