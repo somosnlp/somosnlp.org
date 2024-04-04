@@ -23,8 +23,8 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <div class="flex flex-col mb-6 gap-1">
         <p class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-          t('landing-page.introducing')
-        }}</p>
+    t('landing-page.introducing')
+  }}</p>
         <h1 class="font-medium tracking-tighter text-3xl">{{ t('landing-page.heading') }}</h1>
       </div>
       <img class="mx-auto my-8" alt="SomosNLP logo" width="320" length="320"
@@ -46,8 +46,8 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <h1 class="flex flex-col mb-6 gap-1">
         <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-          t('landing-page.events.upcoming-events')
-        }}</span>
+    t('landing-page.events.upcoming-events')
+  }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Próximos eventos"
         src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
@@ -104,7 +104,7 @@ const showPastEvents = ref(true);
         <br />
         <a href="https://cvc.cervantes.es/lengua/anuario/anuario_23/informes_ic/p01.htm" target="_blank">
           <p class="italic text-sm">
-            * "El español en cifras", El español en el mundo, Anuario del Instituto Cervantes 2023
+            * "El español en cifras", El español en el mundo, Anuario del Instituto Cervantes 2024
           </p>
         </a>
       </div>
@@ -116,8 +116,8 @@ const showPastEvents = ref(true);
     <div class="mx-auto my-8 text-center lg:max-w-1/2">
       <h1 class="flex flex-col mb-6 gap-1">
         <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
-          t('landing-page.events.recorded-events')
-        }}</span>
+    t('landing-page.events.recorded-events')
+  }}</span>
       </h1>
       <div class="grid grid-cols-2 gap-8 my-12">
         <a href="https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">
@@ -136,7 +136,8 @@ const showPastEvents = ref(true);
             src="https://somosnlp.github.io/assets/images/evento_cristina.png" />
         </a>
         <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
-          <img alt="Evento 05" width="650" height="365" src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
+          <img alt="Evento 05" width="650" height="365"
+            src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
         </a>
         <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 06" width="650" height="365"
