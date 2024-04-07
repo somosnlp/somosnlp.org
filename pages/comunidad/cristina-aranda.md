@@ -5,7 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/cristina_aranda.jpg
 twitter: https://twitter.com/cris_aranda_
 linkedin: https://www.linkedin.com/in/cristinaaranda
 website: 
-community: Ponente
+community: Patrocinio
 ---
 
 ## Ponencias
@@ -27,6 +27,7 @@ La inteligencia artificial (IA) forma parte de forma silenciosa de nuestro día 
 
 ## Colaboración
 
+- Gestión del patrocinio de Mujeres Tech y Big Onion | Hackathon SomosNLP 2024
 - Gestión del patrocinio de Mujeres Tech y Big Onion | Hackathon SomosNLP 2023
 
 ## Biografía

@@ -160,6 +160,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark
 logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
+<SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+
 <SponsorInfo sponsor="Impulse Data & AI Conference" url="https://latam-ai.com/"
 logo="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI_dark.png" />
@@ -197,10 +201,6 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
 <SponsorInfo sponsor="DiverTLes" url="http://somosnlp.org/patrocinios/divertles"
 logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
-
-<SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
 
 <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"
 logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"

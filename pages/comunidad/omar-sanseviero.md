@@ -12,6 +12,7 @@ community: Activo
 ## Ponencias
 
 - Ask Me Anything con Omar Sanseviero | Hackathon SomosNLP 2023
+
 - Análisis de error en modelos de PLN | Hackathon SomosNLP 2022
 
 <EventSummary
@@ -45,6 +46,7 @@ community: Activo
 
 ## Colaboración
 
+- Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2024
 - Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2023
 - Colaboración en la definición de las bases y evaluación de los proyectos del Hackathon SomosNLP 2023
 - Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2022
