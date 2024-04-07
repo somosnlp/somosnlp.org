@@ -5,7 +5,7 @@ cover: https://somosnlp.github.io/assets/images/comunidad/carlos_alarcon.png
 twitter: https://twitter.com/alarcon7a
 linkedin: https://www.linkedin.com/in/carlos-alarcon-124a7a69 
 website: 
-community: Activo
+community: Colaboración
 ---
 
 ## Ponencias

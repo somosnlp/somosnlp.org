@@ -35,7 +35,9 @@ community: Activo
 
 ## Colaboración
 
-- Co-organización del esfuerzo colaborativo de [limpieza y validación de la traducción de Alpaca al español](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
+- Co-organización del esfuerzo colaborativo de [validación de la traducción al español de los datasets de la Open LLM Leaderboard](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)
+- Co-organización del esfuerzo colaborativo de [validación de la traducción al español del dataset "Data Is Better Together"](https://huggingface.co/spaces/somosnlp/DiBTSpanishDashboard)
+- Co-organización del esfuerzo colaborativo de [limpieza y validación de la traducción al español de Alpaca](https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es)
 
 <div class="flex justify-center">
     <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
@@ -43,7 +45,9 @@ community: Activo
     </a>
 </div>
 
+- Argilla es empresa [patrocinadora de oro]() del Hackathon SomosNLP 2024
 - Argilla es empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
+- Argilla (antes "Rubrix") es empresa patrocinadora de comunidad del Hackathon SomosNLP 2022
 
 ## Biografía
 

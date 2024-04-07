@@ -5,7 +5,7 @@ cover: "https://somosnlp.github.io/assets/images/comunidad/natalia_elvira.jpeg"
 twitter: https://twitter.com/natalakiou
 linkedin: https://www.linkedin.com/in/neastoreca/
 website: 
-community: Activo
+community: Colaboración
 ---
 
 ## Ponencias

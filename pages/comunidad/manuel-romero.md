@@ -1,6 +1,6 @@
 ---
 title: Manuel Romero
-description: Lead ML Engineer @CliBrAIn | Equipo @SomosNLP
+description: CSO @MAISA | Equipo @SomosNLP
 cover: https://somosnlp.github.io/assets/images/comunidad/manuel_romero.jpg
 website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
@@ -10,6 +10,23 @@ community: AA
 ---
 
 ## Ponencias
+
+- Entrenamiento de LLMs: Impacto de la calidad de los datos | Hackathon SomosNLP 2024
+
+<EventSummary
+    description="En este taller comentamos cómo es posible ajustar (hacer fine-tuning) a LLMs con una configuración de hardware humilde gracias a las últimas técnicas de PEFT como QLoRA y librerías de optimización."
+    poster="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg"
+    video="https://www.youtube.com/embed/hPq5NG8kA8w"
+    slides="https://drive.google.com/open?id=1KSTcLzOJvGp3b5cxMk5b14QbiV_rUGdZ"
+    notebook=""
+    name="Manu Romero"
+    website=""
+    twitter="https://twitter.com/mrm8488"
+    linkedin="https://www.linkedin.com/in/manuel-romero-cs"
+    github=""
+    bio="MLE/CSO @maisaAI_. Head Contrib/ Ambassador🤗 @huggingface. Research 🌸@bigsciencew/@BigCodeProject"
+    hide_personal_info
+/>
 
 - Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon SomosNLP 2023
 
@@ -54,6 +71,6 @@ community: AA
 
 ## Biografía
 
-Manuel Romero es ingeniero informático. Ha trabajado varios años como desarrollador backend y como Senior ML Engineer en Narrativa. Actualmente trabaja como ML Engineer en Clibrain. Es el principal contribuidor del Hub de ML más importante con casi 500 modelos de IA. Ha participado y participa en iniciativas como BigScience y BigCode donde entrenan modelos de lenguaje para hacerlos públicos. Manuel trabaja actualmente en Narrativa, startup especializada en la generación automática de contenido por medio de Inteligencia Artificial que desarrolla soluciones de generación de contenidos para medios de comunicación y diferentes empresas.
+Manuel Romero es ingeniero informático. Ha trabajado varios años como desarrollador backend y como Senior ML Engineer en Narrativa. A continuación trabajó como ML Engineer en Clibrain. Actualmente es CSO en MAISA. Es el principal contribuidor del Hub de ML más importante con casi 500 modelos de IA. Ha participado y participa en iniciativas como BigScience y BigCode donde entrenan modelos de lenguaje para hacerlos públicos. Manuel trabaja actualmente en Narrativa, startup especializada en la generación automática de contenido por medio de Inteligencia Artificial que desarrolla soluciones de generación de contenidos para medios de comunicación y diferentes empresas.
 
-*Última actualización: 29 de mayo de 2023*
+*Última actualización: 1 de marzo de 2024*
