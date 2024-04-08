@@ -4,7 +4,7 @@ description: Utilizando H4rmony, un dataset de preferencia ecológica
 date: 2024-03-17T16:00:00.000+00:00
 lang: es
 duration: 5min
-cover: https://github.com/Neovalle/H4rmony/blob/main/data/H4RMONY%20logo.png
+cover: "https://somosnlp.github.io/assets/images/blog/h4rmony.png"
 author: Jorge Vallego
 bio: Consultor en Ingenieria de Datos y AI - Investigador Independiente
 HuggingFace: https://huggingface.co/datasets/neovalle/H4rmony

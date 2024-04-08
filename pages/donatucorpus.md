@@ -129,5 +129,5 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalA
 Colección de corpus donados:
 
 <a href="https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d" target="_blank">
-<img src="https://somosnlp.github.io/assets/images/blog/coleccion_corpus_donados.jpeg" alt="Colección de corpus donados">
+<img src="https://somosnlp.github.io/assets/images/blog/coleccion_corpus_donados.png" alt="Colección de corpus donados">
 </a>
