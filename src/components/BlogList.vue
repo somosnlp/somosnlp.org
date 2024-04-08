@@ -8,6 +8,7 @@ const routes = router.getRoutes()
         i => i.path.startsWith('/blog/')
             && (i.meta as any).frontmatter.date
             && (!isProduction || !i.path.startsWith('/blog/examples'))
+            && !i.path.startsWith('/blog/en')
     )
     .sort((a, b) => +new Date((b.meta as any).frontmatter.date) - +new Date((a.meta as any).frontmatter.date))
 </script>

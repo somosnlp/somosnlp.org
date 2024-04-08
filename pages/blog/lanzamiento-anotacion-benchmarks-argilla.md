@@ -1,7 +1,7 @@
 ---
 title: Validación de benchmarks con Argilla
 description: Lanzamos la campaña de anotación de benchmarks
-cover: https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg
+cover: https://somosnlp.github.io/assets/images/blog/coleccion_espacios_de_anotacion.png
 date: 2024-03-04T12:00:00.000+00:00
 lang: es
 duration: 1min
