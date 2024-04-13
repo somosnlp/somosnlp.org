@@ -63,7 +63,7 @@ Participar en nuestro hackathon y aplicar tus conocimientos a democratizar el PL
 9. Crea una demo para mostrar tu proyecto a la comunidad y súbela a la org de hf.co/SomosNLP. Puedes utilizar GPUs Nvidia T4 - small.
 10. Entrega tu proyecto rellenando [este formulario](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones hasta las 23h59 [*Anywhere on Earth*](https://time.is/Anywhere_on_Earth) del miércoles 10 de abril (revisaremos la hora de los commits 👀).
 - Extra. Puedes presentar tu proyecto al [Workshop de LatinX in AI @NAACL](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024).
-11. Presenta tu proyecto en 5 minutos ante el jurado y la comunidad. Las presentaciones son opcionales pero se tendrán en cuenta para valorar los proyectos. Se realizarán el jueves 11 de abril, comparte tu disponibilidad en el formulario de entrega de proyectos.
+11. Graba un vídeo de 5 minutos para presentar tu proyecto ante el jurado y la comunidad. 
 
 Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
 
@@ -112,6 +112,11 @@ Recomendaciones:
 - También recomendamos incluir la motivación e impacto del proyecto.
 - Si además del corpus de instrucciones, has creado un corpus anotado para otra tarea o uno con formato DPO, enlázalos también en la Dataset Card.
 - La Dataset Card puede estar en español aunque recomendamos que sea en inglés para que la comunidad internacional pueda utilizar vuestro dataset. Teniendo en cuenta que somos una comunidad hispanohablante la opción más inclusiva sería escribirla en un idioma y traducirla (automáticamente?) al otro. En el repo entonces habría un `README.md` (Dataset Card en inglés) que enlazaría a un `README_ES.md` (Dataset Card en español). 
+
+<!--
+- Incluir licencia! A poder ser apache-2.0
+- Combinar las versiones de un mismo dataset o modelo en un mismo repo, podéis incluir una lista de versiones que enlacen a los diferentes commits → ver captura de ejemplo de https://huggingface.co/bertin-project/bertin-roberta-base-spanish
+-->
 
 </details>
 
@@ -167,12 +172,18 @@ Si tienes que añadir columnas puedes hacerlo automáticamente utilizando los mi
 <summary>Recomendaciones</summary>
 
 - Os animamos a entrenar vuestros modelos directamente desde el hub de Hugging Face, ¡tenemos créditos patrocinados por HF! Podéis utilizar [autotrain (no-code)](https://huggingface.co/docs/autotrain/llm_finetuning) y [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter), con GPUs hasta *T4 medium*.
+- Configura el tiempo de "auto-sleep" a 5 minutos para evitar sustos por gastos innecesarios!
 - Recuerda que es muy importante siempre hacer pruebas en máquinas humildes para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
 - Sube el modelo directamente a hf.co/somosnlp e itera ahí.
 - Cumplimenta bien la Model Card: detalla el proceso de entrenamiento, evalúa su calidad, sesgos y huella de carbono.
 - También recomendamos incluir la motivación del proyecto e impacto.
 - Este año la evaluación corre a nuestro cargo, ¡vuestros modelos inaugurarán la primera leaderboard abierta de LLMs en español!
 
+<!--
+Incluir licencia! A poder ser apache-2.0
+Incluir las librerías utilizadas y mencionad las pruebas que hayáis hecho
+Incluir la información de impacto ambiental, son 5 mins y conseguiréis mayor puntuación → ver captura de ejemplo de https://huggingface.co/clibrain/lince-zero
+-->
 
 </details>
 
@@ -228,15 +239,34 @@ Te ayudamos a presentar tu proyecto al Workshop de LatinX in AI @NAACL, una de l
 ### 📸 Entrega y presentación
 
 - Cumplimenta el [formulario de entrega de proyectos](https://forms.gle/DqUiNoqqKVsFkYgw6). Puedes seguir haciendo modificaciones en tu proyecto hasta las 23h59 [*Anywhere on Earth*](https://time.is/Anywhere_on_Earth) del 10 de abril (revisaremos la hora de los commits 👀).
-- El día 3 de abril tendréis 5 minutos por equipo para presentar vuestro proyecto al jurado y a la comunidad. Coméntanos la disponibilidad de tu equipo en el formulario de entrega de proyectos.
+<!-- No más commits (ni en las docs) hasta que se anuncien los resultados por favor! No queremos descalificar a nadie 🙏
+Elimina los spaces de entrenamiento y sube los scripts/notebooks al repo de tu modelo.
+-->
+- Graba una presentación de tu proyecto, súbela a Drive y compártela con mariagrandury [at] gmail [dot] com
+<!--
+Grabar la pantalla durante una reunión de Google Meet en la que estéis (a poder ser) todos los miembros del equipo -> Google Meet no deja grabar la pantalla (es una featur premium) que lo hagan con Teams
+Todas las personas presentes tienen que hablar
+La duración del vídeo tiene que ser como máximo 5 minutos (seremos muy estrictos respecto a la duración)
+El contenido de la presentación es libre, os podéis centrar en lo que creáis que tiene más valor de vuestro proyecto
+El vídeo no puede ser editado, compartid directamente el archivo que guarda Google con mi correo
+Directo el jueves 11h a las 9h CDMX · 12h ARG · 17h CEST
+Avisadme las personas que podáis asistir en directo! 🤗
+-->
 - Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias!
-
 
 ### ✨ Visibilidad
 
 - Te recomendamos que subas tus datasets, modelos y demos desde el principio a la org hf.co/somosnlp para que aparezcan en la nueva [❤️ leaderboard](https://huggingface.co/spaces/somosnlp/likes_leaderboard) y todo el mundo pueda verlo y darle likes. ¡Habrá una mención de honor para el proyecto con más ❤️!
 - Puedes compartir tu proyecto en el canal #comparte-tu-proyecto.
 - Si quieres compartir tu proyecto en redes utiliza el hashtag #Somos600M y menciona a SomosNLP, ¡será un placer darle más visibilidad!
+
+
+<!--
+He subido las presentaciones a la playlist del hackathon: https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J
+Si alguien prefiere que su vídeo solo esté en la grabación del evento en directo pero no individualmente que me lo diga y lo elimino sin problema
+Os animamos a compartir vuestro trabajo y/o enlace a la presentación en YouTube en redes o en hf.co/posts. Mencionad a SomosNLP para que me llegue la notificación y os pueda ayudar con la visibilidad de vuestro proyecto, el hashtag que utilizamos es (obviamente) #Somos600M.  También lo podéis compartir en ⁠comparte-tu-proyecto
+Haremos una captura de la Likes Leaderboard (https://huggingface.co/spaces/somosnlp/likes_leaderboard) el miércoles 17 a las 23:59 AoE. El proyecto con más ❤️ ganará una mención de honor!
+-->
 
 ---
 
