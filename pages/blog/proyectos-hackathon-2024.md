@@ -89,7 +89,7 @@ Nuestra misión es la creación de una IA en español que agrupe recetas de paí
 - [Presentación](https://www.youtube.com/watch?v=WK-1F1TX5d4&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=19)
 
 ¡Enhorabuena equipo!
-- Alberto 
+- roverico 
 - Óscar
 - Gabriel
 - Sara
@@ -112,7 +112,7 @@ Nuestra misión es la creación de una IA en español que complemente recetas de
 - [Presentación](https://www.youtube.com/watch?v=WK-1F1TX5d4&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=19)
 
 ¡Enhorabuena equipo!
-- Alberto
+- roverico
 - Andrea
 
 ---

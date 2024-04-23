@@ -5,6 +5,14 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg
 ---
 
+El Hackathon #Somos600M ya ha finalizado, puedes revisar los [proyectos](/pages/blog/proyectos-hackathon-2024.md) de los equipos participantes y las grabaciones de los [talleres y charlas](https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) de especialistas.
+
+Si quieres colaborar con un proyecto abierto de PLN en español no te preocupes, seguimos teniendo muchas propuestas interesantes, echa un ojo al Proyecto #Somos600M y pregúntanos en Discord 🤗
+
+<center><a href="/pages/blog/proyectos-hackathon-2024.md" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">✨ ¡Presentamos los proyectos del Hackathon #Somos600M! ✨</a></center>
+
+---
+
 Cada equipo participante generará un corpus de instrucciones, entrenará su LLM y creará una demo para compartir su gran trabajo con la comunidad. Este año el enfoque son proyectos que representen la riqueza del español y la diversidad de las personas hispanohablantes. Como siempre, os animamos a que los proyectos tengan impacto social y estén relacionados con alguno de los Objetivos de Desarrollo Sostenibles de la ONU. ¡Gracias por participar! ✨
 
 <div class="flex justify-center">
