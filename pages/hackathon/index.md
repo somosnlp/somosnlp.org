@@ -33,7 +33,9 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 <!-- ¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546) -->
 
-<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+<!-- <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center> -->
+
+<center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center>
 
 </details>
 
@@ -46,14 +48,16 @@ Al unirte a este hackathon tendrás la oportunidad de colaborar con la creación
 
 Desde SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
 
-<div class="grid grid-cols-2">
+<!-- <div class="grid grid-cols-2">
   <div class="text-center">
     <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <div class="text-center">
     <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Bases del hackathon</a>
   </div>
-</div>
+</div> -->
+
+<center><a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
 
 </details>
 

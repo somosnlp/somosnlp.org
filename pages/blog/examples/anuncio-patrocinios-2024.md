@@ -16,29 +16,14 @@ github: https://github.com/mariagrandury
 Presentamos las empresas patrocinadores de oro del Hackathon SomosNLP 2024:
 Argilla,
 Hugging Face,
-LenguajeNaturalAI y
+Cálamo & Cran,
+SaturdaysAI,
+LenguajeNaturalAI,
+MonsterAPI y
 WomenTech Network.
 
 ¡Muchísimas gracias por vuestro apoyo!
 
-
-## Argilla
-
-Argilla es una plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  
-
-### ¿Cómo nos va a apoyar?
-
-📚 Patrocinio de libros para el equipo ganador
-
-💸 Vale de 200€ en computación en el Hub de Hugging Face para el equipo ganador de la mención de honor al mejor dataset etiquetado
-
-🚀 Co-organización del reto colaborativo de validación de las traducciones de MMLU, HellaSwag y R para la creación de la futura leaderboard de LLMs en español
-
-<div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" alt="Argilla" width="250" height="250"/>
-</div>
-
----
 
 ## Hugging Face
 
@@ -46,11 +31,13 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
 
 ### ¿Cómo nos va a apoyar?
 
-⚙️ Durante el hackathon todos los Spaces de los equipos participantes tendrán acceso a una **Nvidia T4** para poder crear demos increíbles y poder mostrar sus datasets y modelos desarrollados.
+Durante el hackathon, todos los equipos participantes tendrán acceso a:
+- ⚙️ **Endpoints PRO** para la creación de corpus sintéticos.
+- ⚙️ **Almacenamiento** ("persistent storage") para la creación de espacios de anotación de Argilla.
+- ⚙️ **GPUs** de hasta 25GB de RAM para el entrenamiento de modelos.
+- ⚙️ **Nvidia T4** para poder crear demos increíbles y poder mostrar sus datasets y modelos desarrollados.
 
-
-
-Además, Hugging Face patrocina el **CPU upgrades** y **almacenamiento estático** necesarios para habilitar el esfuerzo colaborativo de validación de traducciones.
+Además, Hugging Face patrocina **CPU upgrades** y **almacenamiento estático** necesarios para habilitar el esfuerzo colaborativo de validación de traducciones.
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" alt="Hugging Face" width="250" height="250"/>
@@ -58,29 +45,72 @@ Además, Hugging Face patrocina el **CPU upgrades** y **almacenamiento estático
 
 ---
 
-## Instituto de Ingeniería del Conocimiento
+## Argilla
 
-<SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
-logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+Argilla es una plataforma open-source de gestión y etiquetado de datos para proyectos NLP.  
+
+### ¿Cómo nos va a apoyar?
+
+🚀 Co-organización del reto colaborativo de validación de las traducciones de MMLU, HellaSwag y R para la creación de la futura leaderboard de LLMs generativos en español.
+
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" alt="Argilla" width="250" height="250"/>
+</div>
+
+---
 
 ## LenguajeNaturalAI
 
 ### ¿Cómo nos va a apoyar?
 
+Con descuentos y becas para su nuevo curso ["La revolución del NLP: LLMs y más allá"](https://academia.lenguajenatural.ai/course/nlp-llms):
+- Todas las personas que entreguen un proyecto conseguirán un descuento del 60%
+- Todas las personas con proyecto premiado conseguirán una **beca completa**
+
 <div class="flex justify-center">
-<SponsorInfo sponsor="LenguajeNatural.AI" url="https://lenguajenatural.ai"
+<SponsorInfo sponsor="LenguajeNatural.AI" url=""
 logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
 </div>
 
 ---
 
+## MonsterApi
+
+### ¿Cómo nos va a apoyar?
+
+Patrocinan **1 Millón de créditos** de la MonsterAPI de [Q Blocks](https://www.qblocks.cloud/) para entrenamiento de LLMs.
+
+---
+
+## SaturdaysAI
+
+### ¿Cómo nos va a apoyar?
+
+Las personas del equipo que gane el primer premio conseguirán una **beca completa** para el [Máster de SaturdaysAI](https://saturdays.ai/master-ia-online/).
+
+---
+
+## Cálamo & Cran
+
+### ¿Cómo nos va a apoyar?
+
+📚 Las personas del equipo que consiga la plata conseguirán una **beca completa** para el curso de Cálamo & Cran ["Trucos avanzados de Word"](https://www.calamoycran.com/cursos/herramientas-para-freelancers/trucos-avanzados-de-word/).
+
+📚 Las personas del equipo que consiga el oro conseguirán una **beca completa** para el curso de Cálamo & Cran ["Curso de ortografía y gramática"](https://www.calamoycran.com/cursos/correccion/curso-de-ortografia-y-gramatica/). 
+
+---
+
+## LatinX in AI
+
+### ¿Cómo nos va a apoyar?
+
+📝 Apoyo para presentar tu proyecto al workshop **LatinX in NLP @NAACL 2024**, una de las conferencias internacionales más importantes de PLN. Explicamos cómo en [este taller](https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J).
+
+
 ## WomenTech Network
 
-💜 WomenTech Network es una de las principales comunidades del mundo para mujeres en tecnología, con más de 7.000 Embajadoras Globales representando 172 países. Hasta la fecha, 70.000 líderes tecnológicos han colaborado para cultivar una red global diversa que llega a 3,5 millones de personas. WomenTech Network se esfuerza por empoderar a las mujeres en tecnología a través del desarrollo de liderazgo, crecimiento profesional y programas de mentoría.
-
-💡 WomenTech Network se enorgullece de presentar la cuarta edición de la WomenTech Global Conference 2023 del 9 al 12 de mayo. Esta conferencia virtual unirá a 100.000 mujeres tech de todo el mundo con la misión de crear un impacto significativo y un cambio positivo en el futuro del trabajo y la colaboración abierta. El evento contará con más de 7.000 embajadoras de la red WomenTech, más de 700 ponentes de empresas de renombre como Amazon, Discovery, Disney, Facebook, Google, IBM y Microsoft, así como con mujeres innovadoras del sector que tratarán de inspirar a las asistentes y animarlas a aprovechar su potencial. 
+💜 WomenTech Network es una de las principales comunidades del mundo para mujeres en tecnología, con más de 7.000 Embajadoras Globales representando 172 países. Presentan la quinta edición de la WomenTech Global Conference 2024 del 23 al 25 de abril. Esta conferencia virtual unirá a 100.000 mujeres tech de todo el mundo con la misión de crear un impacto significativo y un cambio positivo en el futuro del trabajo y la colaboración abierta. 
 
 ### ¿Cómo nos va a apoyar?
 
@@ -92,4 +122,16 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalA
 
 ---
 
-🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://somosnlp.org/hackathon-2023)! 
+<!--
+
+## Instituto de Ingeniería del Conocimiento
+
+<SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
+logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+
+-->
+
+
+🚀 ¡[Regístrate ya para participar en nuestro hackathon y ganar estos increíbles premios](https://somosnlp.org/hackathon)! 
+

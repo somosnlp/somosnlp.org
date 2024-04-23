@@ -58,7 +58,7 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
     <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div> -->
   <div class="text-center">
-    <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Bases del hackathon</a>
+    <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Más info del hackathon</a>
   </div>
 
 
@@ -126,7 +126,7 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 <!-- ¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546) -->
 
-<center><a href="https://www.youtube.com/@somosnlp" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Grabaciones ya disponibles</a></center>
+<center><a href="https://www.youtube.com/@somosnlp" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 Grabaciones ya disponibles</a></center>
 
 </details>
 
