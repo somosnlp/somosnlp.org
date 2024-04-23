@@ -36,6 +36,8 @@ Queremos dar la enhorabuena a todos los equipos por un hackathon increíble con 
 
 ## NoticIA: Resumen de Noticias Clickbait
 
+Un dataset para el resumen de artículos clickbait en Español. 
+
 La práctica del Clickbait erosiona la confianza del público en las fuentes de noticias digitales y perjudica los ingresos publicitarios de los productores de contenido legítimo, que pueden experimentar una disminución en su tráfico web como resultado. Para abordar este desafío, hemos creado un corpus con 850 artículos de noticias clickbait en español. Cada artículo está acompañado de un resumen generativo de alta calidad y concisión, redactado por expertos humanos.
 
 **ODS:** 8. Trabajo decente y crecimiento económico
@@ -72,9 +74,11 @@ Un gran modelo de lenguaje de contexto médico de código abierto para preguntas
 
 ---
 
-## RecetasDeLaAbuel@
+## RecetasDeLaAbuel@: Corpus de recetas de países hispanoamericanos
 
-Proyecto que busca recopilar y preservar recetas de cocina tradicionales de diferentes regiones de habla hispana, utilizando modelos de lenguaje avanzados para analizar y generar nuevas recetas.
+El corpus 'RecetasDeLaAbuel@' es un homenaje a todas nuestr@s abuel@s que nos han enseñado a cocinar. Se trata de la mayor y más completa colección de recetas en español de países hispanoamericanos.
+
+Nuestra misión es la creación de una IA en español que agrupe recetas de países hispanoamericanos y permita mejorar nuestra relación con la preparación y el cocinado de los alimentos. El objetivo final es la construcción de un asistente de cocina inteligente específico del idioma español.
 
 **ODS:** 3. Salud y bienestar
 
@@ -85,12 +89,19 @@ Proyecto que busca recopilar y preservar recetas de cocina tradicionales de dife
 - [Presentación](https://www.youtube.com/watch?v=WK-1F1TX5d4&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=19)
 
 ¡Enhorabuena equipo!
+- Alberto 
+- Óscar
+- Gabriel
+- Sara
+- Fredy
 
 ---
 
-## ComeBien
+## ComeBien: Asistente de nutrición inteligente
 
-Plataforma dedicada a promover hábitos alimenticios saludables mediante la generación de recomendaciones personalizadas y recetas nutritivas, utilizando inteligencia artificial para analizar preferencias y restricciones dietéticas.
+ComeBien es un asistente de nutrición inteligente específico del idioma español que permite ayudarnos a comer de una manera saludable.
+
+Nuestra misión es la creación de una IA en español que complemente recetas de países hispanoamericanos con su valor nutricional y permita mejorar nuestra relación con la comida. El objetivo final es la construcción de un asistente de nutrición inteligente específico del idioma español.
 
 **ODS:** 3. Salud y bienestar
 
@@ -101,12 +112,18 @@ Plataforma dedicada a promover hábitos alimenticios saludables mediante la gene
 - [Presentación](https://www.youtube.com/watch?v=WK-1F1TX5d4&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=19)
 
 ¡Enhorabuena equipo!
+- Alberto
+- Andrea
 
 ---
 
-## QA Legal Refugiados
+## AsistenciaRefugiados: Asistencia legal para refugiados
 
-Herramienta de procesamiento de lenguaje natural (NLP) diseñada para responder preguntas frecuentes relacionadas con el derecho de asilo y refugio, facilitando el acceso a información legal precisa para comunidades de refugiados y profesionales del derecho.
+Asistente legal para personas en situación de refugio o asilo político.
+
+España es el tercer país con mayor número de solicitudes de asilo, recibiendo cada año aproximadamente más de 100.000 solicitudes, y el tercero con menor número de aprobaciones dentro de la UE.
+
+El objetivo principal de este proyecto es facilitar las tareas de las ONG de este ámbito y de otras instituciones y ayudarles a obtener respuestas a preguntas (QA) relacionadas con la legislación sobre refugiados en español. Con su refinada comprensión de los matices y complejidades de este campo legal.
 
 **ODS:** 10. Reducción de las desigualdades 16. Paz, justicia e instituciones sólidas
 
@@ -117,9 +134,9 @@ Herramienta de procesamiento de lenguaje natural (NLP) diseñada para responder 
 - [Presentación](https://www.youtube.com/watch?v=1OqHDE5LKMI&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=28)
 
 ¡Enhorabuena equipo!
-- Alvaro Hidalgo Romera
 - Eduardo Muñoz Sala
-- Teresa Martin
+- Álvaro Hidalgo
+- Teresa Martín
 
 ---
 
@@ -139,9 +156,9 @@ Investigación que utiliza modelos de lenguaje de última generación para mejor
 
 ---
 
-## LingCompQA
+## LingComp_QA: Un corpus educativo de lingüística computacional en español
 
-Plataforma de preguntas y respuestas (QA) diseñada para ofrecer información precisa y detallada sobre temas relacionados con la lingüística computacional, utilizando modelos de lenguaje avanzados y técnicas de procesamiento de texto.
+LingComp_QA es un primer acercamiento que hemos hecho a la recolección de información sobre lingüística computacional, ya que consideramos que no hay suficientes recursos educativos en torno a este tema. Tenemos intención de ampliarlo y crear un modelo para alumnos de Lingüística y otros interesados en ponerse al día en PLN. 
 
 **ODS:** 4. Educación de calidad, 9. Industria, innovación e infraestructura, 17. Alianzas para lograr los objetivos
 
@@ -151,12 +168,19 @@ Plataforma de preguntas y respuestas (QA) diseñada para ofrecer información pr
 - [Demo](https://huggingface.co/spaces/somosnlp/Lingcomp_QA_Demo)
 
 ¡Enhorabuena equipo!
+- Jorge Zamora Rey
+- Mario Crespo Miguel
+- Isabel Moyano Moreno
+
+<!-- Equipo del Laboratorio de Lingüística computacional y digital del Instituto de Lingüística Aplicada de la Universidad de Cádiz -->
 
 ---
 
-## Identificación de textos sobre sustentabilidad y cambio climático
+## BERTIN-ClimID: BERTIN-Base Climate-related text Identification
 
-Motivados por la idea de crear un repositorio en español sobre información o recursos en temas como cambio climático, sustentabilidad, calentamiento global, energía, etc.; la idea es dar visibilidad a soluciones, ejemplos de buenas prácticas ambientales o noticias que nos ayuden a combatir los efectos del cambio climático.
+Identificación de textos sobre sustentabilidad y cambio climático
+
+Motivados por la idea de crear una repositorio en español sobre información o recursos en temas como cambio climático, sustentabilidad, calentamiento global, energía, etc.  La idea es dar visibilidad a soluciones, ejemplos de buenas prácticas ambientales o noticias que nos ayuden a combatir los efectos del cambio climático.
 
 **ODS:** 13. Acción por el clima
 
@@ -249,9 +273,11 @@ Este proyecto tiene como objetivo desarrollar una herramienta que pueda interact
 
 ---
 
-## Traductor Inclusivo
+## Traductor-Inclusivo: Reescritura de textos en español utilizando lenguaje inclusivo
 
-El proyecto "Traductor inclusivo" tiene como objetivo ofrecer una herramienta que permita reescribir textos utilizando lenguaje inclusivo. Esta herramienta busca evitar sesgos y discriminación en el lenguaje, ofreciendo opciones para evitar términos que puedan marginar a ciertos grupos sociales.
+Herramienta que permite reescribir textos en español utilizando lenguaje inclusivo.
+
+El lenguaje o palabras que utilizamos muchas veces pueden imponer sesgos, ideologías o marginar a determinados grupos. "Traductor inclusivo" es una herramienta que permite reescribir textos utilizando lenguaje inclusivo ofreciendo una opción para evitar dichos sesgos.
 
 **ODS:** 5. Igualdad de género
 
@@ -262,9 +288,9 @@ El proyecto "Traductor inclusivo" tiene como objetivo ofrecer una herramienta qu
 - [Presentación](https://www.youtube.com/watch?v=7rrNGJIXEHU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=20)
 
 ¡Enhorabuena equipo!
-- Andrés Martínez
+- Andrés Martínez Fernández-Salguero
+- Gaia Quintana Fleitas
 - Miguel López
-- Gaia
 
 ---
 
@@ -296,4 +322,23 @@ En este proyecto se han generado dos corpus de instrucciones para la identificac
 - [Corpus 2: Identifiación provincias](https://huggingface.co/datasets/somosnlp/coser_identificacion_provincias)
 
 ¡Enhorabuena equipo!
-- Clara Adsuar Ávila
+- Clara Adsuar
+- Álvaro Bueno
+- Benito
+- Alberto Hernández
+- Manuel Otero
+
+<!--
+
+## SAM Doctor
+
+Proyecto:
+- [Corpus](https://huggingface.co/somosnlp/Sam_Diagnostic)
+- [Modelo](https://huggingface.co/spaces/somosnlp/Sam_Diagnostic)
+
+## WikiHow
+
+Proyecto:
+- [Corpus](https://huggingface.co/datasets/somosnlp/wikihow_es_80train_20test)
+
+-->
