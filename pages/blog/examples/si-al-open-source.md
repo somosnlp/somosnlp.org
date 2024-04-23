@@ -1,7 +1,7 @@
 ---
 title: ¡Sí al Open Source!
 description: Por qué deberías colaborar con nuestros proyectos de código abierto (u otros, pero abiertos)
-date: 2024-04-08T120:00:00.000+00:00
+date: 2024-04-08T12:00:00.000+00:00
 lang: es
 duration: 5min
 cover: ""
