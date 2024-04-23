@@ -4,12 +4,31 @@ description: ¡Te presentamos los proyectos de la edición 2024 de nuestro hacka
 date: 2024-04-23T16:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_remote_design_team_0hp4.svg"
+cover: "https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
 author: María Grandury
 bio: Fundadora de SomosNLP
 ---
 
-¡Presentamos los proyectos del Hackathon #Somos600M! 👏👏👏
+¿Tienes curiosidad por ver los proyectos que se han desarrollado durante el Hackathon #Somos600M? ¡Aquí están!
+
+👏 Un total de 18 proyectos de PLN en español enfocados en modelos de lenguaje que siguen instrucciones, ¡enhorabuena a todos los equipos!
+
+🎦 Además, los vídeos de las presentaciones están disponibles en [esta playlist de YouTube](https://youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&si=labN1RndCXO-W2PE) junto a los talleres y charlas de especialistas celebrados durante el hackathon.
+
+🤗 Todos los recursos están disponibles en el Hub de Hugging Face: hf.co/somosnlp
+
+Esperamos que os gusten y que surjan muchas aplicaciones utilizando estos nuevos recursos abiertos 💛
+
+<div class="flex justify-center">
+<a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank">
+    <img src="https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
+        width="650" height="365" alt="Proyectos del Hackathon 2024" />
+</a>
+</div>
+
+---
+
+¡Presentamos los proyectos del Hackathon #Somos600M! 🤩
 
 Queremos dar la enhorabuena a todos los equipos por un hackathon increíble con proyectos de gran impacto. Enumeramos a continuación los proyectos por orden de envío. ¡Próximamente anunciaremos los ganadores!
 
@@ -85,7 +104,7 @@ Plataforma dedicada a promover hábitos alimenticios saludables mediante la gene
 
 ---
 
-## QA Legal refugiados
+## QA Legal Refugiados
 
 Herramienta de procesamiento de lenguaje natural (NLP) diseñada para responder preguntas frecuentes relacionadas con el derecho de asilo y refugio, facilitando el acceso a información legal precisa para comunidades de refugiados y profesionales del derecho.
 
@@ -120,7 +139,7 @@ Investigación que utiliza modelos de lenguaje de última generación para mejor
 
 ---
 
-## Lingcomp_QA
+## LingCompQA
 
 Plataforma de preguntas y respuestas (QA) diseñada para ofrecer información precisa y detallada sobre temas relacionados con la lingüística computacional, utilizando modelos de lenguaje avanzados y técnicas de procesamiento de texto.
 
@@ -172,7 +191,7 @@ Este modelo es el primer paso hacia un modelo de lenguaje que pueda usarse para 
 
 ---
 
-## Chaterapia
+## ChaterapIA
 
 Dar acceso a ayuda psicológica a personas en necesidad. No importan tus recursos, la hora o el sitio, si necesitas ayuda siempre tendría que ser posible tener acceso a ella.
 
@@ -210,7 +229,7 @@ Think Paraguayo es un proyecto destinado a promover y difundir la cultura guaran
 
 ---
 
-## Implementar LLM y SQL para interactuar con una base de datos en español en un enfoque multimodal
+## SQLES: Interactúa con una base de datos en español
 
 Este proyecto tiene como objetivo desarrollar una herramienta que pueda interactuar en español con una base de datos utilizando un enfoque multimodal, que combina modelos de lenguaje y consultas SQL. La meta es facilitar la extracción de información de bases de datos de manera intuitiva y eficiente en el idioma español.
 
@@ -230,7 +249,7 @@ Este proyecto tiene como objetivo desarrollar una herramienta que pueda interact
 
 ---
 
-## Traductor inclusivo
+## Traductor Inclusivo
 
 El proyecto "Traductor inclusivo" tiene como objetivo ofrecer una herramienta que permita reescribir textos utilizando lenguaje inclusivo. Esta herramienta busca evitar sesgos y discriminación en el lenguaje, ofreciendo opciones para evitar términos que puedan marginar a ciertos grupos sociales.
 
