@@ -11,9 +11,9 @@ bio: Fundadora de SomosNLP
 
 ¿Tienes curiosidad por ver los proyectos que se han desarrollado durante el Hackathon #Somos600M? ¡Aquí están!
 
-👏 Un total de 18 proyectos de PLN en español enfocados en modelos de lenguaje que siguen instrucciones, ¡enhorabuena a todos los equipos!
+👏 Un total de 19 proyectos de PLN en español enfocados en modelos de lenguaje que siguen instrucciones, ¡enhorabuena a todos los equipos!
 
-🎦 Además, los vídeos de las presentaciones están disponibles en [esta playlist de YouTube](https://youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&si=labN1RndCXO-W2PE) junto a los talleres y charlas de especialistas celebrados durante el hackathon.
+🎦 Los vídeos de las presentaciones están disponibles en [esta playlist de YouTube](https://youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&si=labN1RndCXO-W2PE) junto a los talleres y charlas de especialistas celebrados durante el hackathon.
 
 🤗 Todos los recursos están disponibles en el Hub de Hugging Face: hf.co/somosnlp
 
@@ -33,10 +33,10 @@ Y... 🥁🥁🥁
 Los tres proyectos ganadores son:
 - 🥇 NoticIA: Resumen de Noticias Clickbait
 - 🥈 AsistenciaRefugiados: Asistencia legal para refugiados
-- 🥉 TraductorInclusivo: Reescritura de textos en español utilizando lenguaje inclusivo
+- 🥉 TraductorInclusivo: Reescritura de textos utilizando lenguaje inclusivo
 
 Y el proyecto más querido por la comunidad es:
-- 💛 AviaciónInteligente: Facilitación de la navegación del Reglamento Aeronáutico Colombiano
+- 💛 AviaciónInteligente: Navegación del Reglamento Aeronáutico Colombiano
 
 Mención especial a los proyectos:
 - 👏 ThinkParaguayo: Conoce la cultura guaraní
@@ -136,6 +136,9 @@ El proyecto "Aviación Inteligente: LLMs para Navegar el RAC" está revolucionan
 
 ¡Enhorabuena equipo!
 - Edison Jair Bejarano Sepulveda
+- Alec Mauricio Rosales Cabezas
+- Santiago Pineda Montoya
+- Nicolai Potes
 
 ---
 
