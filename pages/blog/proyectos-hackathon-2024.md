@@ -28,9 +28,29 @@ Esperamos que os gusten y que surjan muchas aplicaciones utilizando estos nuevos
 
 ---
 
-¡Presentamos los proyectos del Hackathon #Somos600M! 🤩
+Y... 🥁🥁🥁
 
-Queremos dar la enhorabuena a todos los equipos por un hackathon increíble con proyectos de gran impacto.
+Los tres proyectos ganadores son:
+- 🥇 NoticIA: Resumen de Noticias Clickbait
+- 🥈 AsistenciaRefugiados: Asistencia legal para refugiados
+- 🥉 TraductorInclusivo: Reescritura de textos en español utilizando lenguaje inclusivo
+
+Y el proyecto más querido por la comunidad es:
+- 💛 AviaciónInteligente: Facilitación de la navegación del Reglamento Aeronáutico Colombiano
+
+Mención especial a los proyectos:
+- 👏 ThinkParaguayo: Conoce la cultura guaraní
+- 👏 LenguajeClaro: Simplificación de lenguaje administrativo
+- 👏 BERTIN-ClimID: BERTIN-Base Climate-related text Identification
+
+Y a los corpus:
+- 📚 SMC: Spanish Medical Corpus
+- 📚 RecetasDeLaAbuel@: Corpus de recetas de países hispanoamericanos
+- 📚 LingComp_QA: Un corpus educativo de lingüística computacional en español
+- 📚 KUNTUR: Constitución política de Perú de 1993
+- 📚 Identificación de provincias y resúmenes del Corpus Oral y Sonoro del Español Rural
+
+¡Enhorabuena a tooodos los equipos!
 
 ---
 
@@ -54,8 +74,134 @@ La práctica del Clickbait erosiona la confianza del público en las fuentes de 
 
 ---
 
-## SpanishMedicaLLM & SMC: Spanish Medical Corpus
+## 🥈 AsistenciaRefugiados: Asistencia legal para refugiados
 
+Asistente legal para personas en situación de refugio o asilo político.
+
+España es el tercer país con mayor número de solicitudes de asilo, recibiendo cada año aproximadamente más de 100.000 solicitudes, y el tercero con menor número de aprobaciones dentro de la UE.
+
+El objetivo principal de este proyecto es facilitar las tareas de las ONG de este ámbito y de otras instituciones y ayudarles a obtener respuestas a preguntas (QA) relacionadas con la legislación sobre refugiados en español. Con su refinada comprensión de los matices y complejidades de este campo legal.
+
+**ODS:** 10. Reducción de las desigualdades 16. Paz, justicia e instituciones sólidas
+
+**Proyecto:**
+- [Corpus: AsistenciaRefugiados](https://huggingface.co/datasets/somosnlp/instruct-legal-refugiados-es)
+- [Modelo: AsistenciaRefugiados 7B](https://huggingface.co/somosnlp/gemma-7b-it-legal-refugee-v0.1.1)
+- [Demo](https://huggingface.co/spaces/somosnlp/QA-legal-refugiados)
+- [Presentación](https://www.youtube.com/watch?v=1OqHDE5LKMI&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=28)
+
+¡Enhorabuena equipo!
+- Eduardo Muñoz Sala
+- Álvaro Hidalgo
+- Teresa Martín
+
+---
+
+## 🥉 Traductor-Inclusivo: Reescritura de textos en español utilizando lenguaje inclusivo
+
+Herramienta que permite reescribir textos en español utilizando lenguaje inclusivo.
+
+El lenguaje o palabras que utilizamos muchas veces pueden imponer sesgos, ideologías o marginar a determinados grupos. "Traductor-Inclusivo" es una herramienta que permite reescribir textos utilizando lenguaje inclusivo ofreciendo una opción para evitar dichos sesgos.
+
+**ODS:** 5. Igualdad de género
+
+**Proyecto:**
+- [Corpus: Traductor-Inclusivo](https://huggingface.co/datasets/somosnlp/es-inclusive-language)
+- [Modelo: Traductor-Inclusivo](https://huggingface.co/somosnlp/es-inclusivo-translator)
+- [Demo](https://huggingface.co/spaces/somosnlp/es-inclusive-language-demo)
+- [Presentación](https://www.youtube.com/watch?v=7rrNGJIXEHU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=20)
+
+¡Enhorabuena equipo!
+- Andrés Martínez Fernández-Salguero
+- Gaia Quintana Fleitas
+- Miguel López Pérez
+- Imanuel Rozenberg
+- Josué Sauca
+
+---
+
+## 💛 AviaciónInteligente: Uso de LLMs para Facilitar la Navegación del Reglamento Aeronáutico Colombiano
+
+Investigación que utiliza modelos de lenguaje de última generación para mejorar la comprensión y navegación del Reglamento Aeronáutico Colombiano (RAC), con el objetivo de facilitar el acceso a la información y mejorar la seguridad en la aviación civil.
+
+El proyecto "Aviación Inteligente: LLMs para Navegar el RAC" está revolucionando el acceso al Reglamento Aeronáutico Colombiano a través de tecnologías avanzadas de Modelos de Lenguaje. Con la colaboración de la Fundación Universitaria Los Libertadores y un equipo de expertos anotadores, hemos creado y etiquetado 24,000 entradas curadas en nuestro dataset. Además, hemos realizado un afinamiento (finetuning) del modelo GEMMA 2B IT ColombiaRAC, optimizado específicamente para navegar eficazmente a través de las regulaciones aeronáuticas. Este enfoque no solo facilita las consultas normativas sino que también democratiza el conocimiento en la industria, haciendo la información aeronáutica accesible a un público más amplio y reduciendo las barreras de entrada en el campo. Este proyecto es un paso hacia un futuro donde el acceso y comprensión de las regulaciones aeronáuticas son más simples y abiertos para todos.
+
+**ODS:** 4. Educación de calidad, 9. Industria, innovación e infraestructura
+
+**Proyecto:**
+- [Corpus: Base de Datos del Reglamento Aeronáutico Colombiano](https://huggingface.co/datasets/somosnlp/ColombiaRAC_FullyCurated)
+- [Modelo: AviacionInteligente](https://huggingface.co/somosnlp/AviacionInteligente_gemma-2b-it-bnb-4bit)
+- [Demo](https://huggingface.co/spaces/somosnlp/AviacionInteligente_Demo)
+- [Presentación](https://www.youtube.com/watch?v=IGKU1qUur2c&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=25)
+
+¡Enhorabuena equipo!
+- Edison Jair Bejarano Sepulveda
+
+---
+
+## ThinkParaguayo: Conoce la cultura guaraní
+
+Tenemos la misión de expandir la cultura guaraní mediante la IA.
+
+La cultura guaraní tiene una riqueza increíble, que merece ser preservada y contada a las nuevas generaciones. Think Paraguayo es un proyecto destinado a promover y difundir la cultura guaraní utilizando la inteligencia artificial como herramienta principal. El objetivo es crear conciencia sobre la riqueza cultural del Paraguay y preservar la lengua y las tradiciones guaraníes. 
+
+**ODS:** 4. Educación de calidad
+
+**Proyecto:**
+- [Corpus: Cultura Guaraní](https://huggingface.co/datasets/somosnlp/dataset-cultura-guarani_corpus-it)
+- [Modelo: ThinkParaguayo](https://huggingface.co/somosnlp/gua-a)
+- [Demo](https://huggingface.co/spaces/somosnlp/think-paraguayo)
+- [Presentación](https://www.youtube.com/watch?v=1AV_37FJSzk&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=25)
+
+¡Enhorabuena equipo!
+- Enrique Paiva
+- Daniel Cabrera
+- Leticia Bogado
+- Alberto Benítez
+- Emmanuel
+
+---
+
+## LenguajeClaro: Simplificación de lenguaje administrativo
+
+Este modelo es el primer paso hacia un modelo de lenguaje que pueda usarse para reescribir textos de carácter administrativo con el objetivo de hacerlos más asequibles para todo el mundo.
+
+**ODS:** 9. Industria, innovación e infraestructura, 10. Reducción de las desigualdades
+
+**Proyecto:**
+- [Corpus: LenguajeClaroQA](https://huggingface.co/datasets/somosnlp/lenguaje-claro-dataset)
+- [Modelo: LenguajeClaro](https://huggingface.co/somosnlp/Phi-2-LenguajeClaro)
+- [Demo](https://huggingface.co/spaces/somosnlp/lenguaje-claro-demo)
+- [Presentación](https://www.youtube.com/watch?v=zv7vQVHP6gE&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=22)
+
+¡Enhorabuena equipo!
+- Sergio Chicón Repiso
+- Rubén Rodríguez de la Fuente
+- Marta Fernández Gómez
+
+---
+
+## BERTIN-ClimID: BERTIN-Base Climate-related text Identification
+
+Identificación de textos sobre sustentabilidad y cambio climático
+
+Motivados por la idea de crear una repositorio en español sobre información o recursos en temas como cambio climático, sustentabilidad, calentamiento global, energía, etc.  La idea es dar visibilidad a soluciones, ejemplos de buenas prácticas ambientales o noticias que nos ayuden a combatir los efectos del cambio climático.
+
+**ODS:** 13. Acción por el clima
+
+**Proyecto:**
+- [Corpus: ClimateDetection](https://huggingface.co/datasets/somosnlp/spa_climate_detection)
+- [Modelo: BERTIN-ClimID](https://huggingface.co/somosnlp/bertin_base_climate_detection_spa_v2)
+- [Demo](https://huggingface.co/spaces/somosnlp/Identificacion_de_textos_sobre_sustentabilidad_cambio_climatico)
+- [Presentación](https://www.youtube.com/watch?v=sfXLUP9Ei-o&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=23)
+
+¡Enhorabuena equipo!
+- Gabriela Zuñiga
+- Gerardo Huerta
+
+---
+
+## SpanishMedicaLLM & SMC: Spanish Medical Corpus
 
 Creación de un LLM  para dar soluciones y servicios de información de salud en LATAM.
 
@@ -64,17 +210,23 @@ El objetivo de este proyecto es crear un gran modelo de lenguaje (LLM; siglas en
 **ODS:** 3. Salud y bienestar
 
 **Proyecto:**
-- [Corpus: SMC Spanish Medical Corpus](https://huggingface.co/datasets/somosnlp/spanish_medica_llm)
+- [Corpus: SMC (SpanishMedicalCorpus)](https://huggingface.co/datasets/somosnlp/spanish_medica_llm)
 - [Modelo: SpanishMedicaLLM](https://huggingface.co/somosnlp/spanish_medica_llm)
 - [Demo](https://huggingface.co/spaces/somosnlp/SpanishMedicaLLM)
 - [Presentación](https://www.youtube.com/watch?v=tVe_MC7Da6k&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=18)
 
 ¡Enhorabuena equipo!
-- Dr. Dionis López Ramos (Cuba)
+- Dr. Dionis López Ramos
+- Alvaro García Barragan
+- Dariel Cabrebra
+- Dylan Montoya
+- Daniel Bermúdez
+
+<!-- - Dr. Dionis López Ramos (Cuba)
 - Alvaro García Barragan (España)
 - Dariel Cabrebra (Cuba)
 - Dylan Montoya (Colombia)
-- Daniel Bermúdez (México)
+- Daniel Bermúdez (México) -->
 
 ---
 
@@ -121,54 +273,11 @@ Nuestra misión es la creación de una IA en español que complemente recetas de
 
 ---
 
-## AsistenciaRefugiados: Asistencia legal para refugiados
-
-Asistente legal para personas en situación de refugio o asilo político.
-
-España es el tercer país con mayor número de solicitudes de asilo, recibiendo cada año aproximadamente más de 100.000 solicitudes, y el tercero con menor número de aprobaciones dentro de la UE.
-
-El objetivo principal de este proyecto es facilitar las tareas de las ONG de este ámbito y de otras instituciones y ayudarles a obtener respuestas a preguntas (QA) relacionadas con la legislación sobre refugiados en español. Con su refinada comprensión de los matices y complejidades de este campo legal.
-
-**ODS:** 10. Reducción de las desigualdades 16. Paz, justicia e instituciones sólidas
-
-**Proyecto:**
-- [Corpus: AsistenciaRefugiados](https://huggingface.co/datasets/somosnlp/instruct-legal-refugiados-es)
-- [Modelo: AsistenciaRefugiados 7B](https://huggingface.co/somosnlp/gemma-7b-it-legal-refugee-v0.1.1)
-- [Demo](https://huggingface.co/spaces/somosnlp/QA-legal-refugiados)
-- [Presentación](https://www.youtube.com/watch?v=1OqHDE5LKMI&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=28)
-
-¡Enhorabuena equipo!
-- Eduardo Muñoz Sala
-- Álvaro Hidalgo
-- Teresa Martín
-
----
-
-## AviaciónInteligente: Uso de LLMs para Facilitar la Navegación del Reglamento Aeronáutico Colombiano
-
-Investigación que utiliza modelos de lenguaje de última generación para mejorar la comprensión y navegación del Reglamento Aeronáutico Colombiano (RAC), con el objetivo de facilitar el acceso a la información y mejorar la seguridad en la aviación civil.
-
-El proyecto "Aviación Inteligente: LLMs para Navegar el RAC" está revolucionando el acceso al Reglamento Aeronáutico Colombiano a través de tecnologías avanzadas de Modelos de Lenguaje. Con la colaboración de la Fundación Universitaria Los Libertadores y un equipo de expertos anotadores, hemos creado y etiquetado 24,000 entradas curadas en nuestro dataset. Además, hemos realizado un afinamiento (finetuning) del modelo GEMMA 2B IT ColombiaRAC, optimizado específicamente para navegar eficazmente a través de las regulaciones aeronáuticas. Este enfoque no solo facilita las consultas normativas sino que también democratiza el conocimiento en la industria, haciendo la información aeronáutica accesible a un público más amplio y reduciendo las barreras de entrada en el campo. Este proyecto es un paso hacia un futuro donde el acceso y comprensión de las regulaciones aeronáuticas son más simples y abiertos para todos.
-
-
-**ODS:** 4. Educación de calidad, 9. Industria, innovación e infraestructura
-
-**Proyecto:**
-- [Corpus: Base de Datos del Reglamento Aeronáutico Colombiano](https://huggingface.co/datasets/somosnlp/ColombiaRAC_FullyCurated)
-- [Modelo: AviacionInteligente](https://huggingface.co/somosnlp/AviacionInteligente_gemma-2b-it-bnb-4bit)
-- [Demo](https://huggingface.co/spaces/somosnlp/AviacionInteligente_Demo)
-- [Presentación](https://www.youtube.com/watch?v=IGKU1qUur2c&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=25)
-
-¡Enhorabuena equipo!
-- Edison Jair Bejarano Sepulveda
-
----
-
 ## LingComp_QA: Un corpus educativo de lingüística computacional en español
 
 LingComp_QA es un primer acercamiento que hemos hecho a la recolección de información sobre lingüística computacional, ya que consideramos que no hay suficientes recursos educativos en torno a este tema. Tenemos intención de ampliarlo y crear un modelo para alumnos de Lingüística y otros interesados en ponerse al día en PLN. 
 
-**ODS:** 4. Educación de calidad, 9. Industria, innovación e infraestructura, 17. Alianzas para lograr los objetivos
+**ODS:** 4. Educación de calidad, 9. Industria, innovación e infraestructura
 
 **Proyecto:**
 - [Corpus: LingComp_QA](https://huggingface.co/datasets/somosnlp/Lingcomp_QA)
@@ -184,137 +293,11 @@ LingComp_QA es un primer acercamiento que hemos hecho a la recolección de infor
 
 ---
 
-## BERTIN-ClimID: BERTIN-Base Climate-related text Identification
-
-Identificación de textos sobre sustentabilidad y cambio climático
-
-Motivados por la idea de crear una repositorio en español sobre información o recursos en temas como cambio climático, sustentabilidad, calentamiento global, energía, etc.  La idea es dar visibilidad a soluciones, ejemplos de buenas prácticas ambientales o noticias que nos ayuden a combatir los efectos del cambio climático.
-
-**ODS:** 13. Acción por el clima
-
-**Proyecto:**
-- [Corpus: ClimateDetection](https://huggingface.co/datasets/somosnlp/spa_climate_detection)
-- [Modelo: BERTIN-ClimID](https://huggingface.co/somosnlp/bertin_base_climate_detection_spa_v2)
-- [Demo](https://huggingface.co/spaces/somosnlp/Identificacion_de_textos_sobre_sustentabilidad_cambio_climatico)
-- [Presentación](https://www.youtube.com/watch?v=sfXLUP9Ei-o&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=23)
-
-¡Enhorabuena equipo!
-- Gabriela Zuñiga
-- Gerardo Huerta
-
----
-
-## LenguajeClaro
-
-Este modelo es el primer paso hacia un modelo de lenguaje que pueda usarse para reescribir textos de carácter administrativo con el objetivo de hacerlos más asequibles para todo el mundo.
-
-**ODS:** 3. Salud y bienestar, 9. Industria, innovación e infraestructura, 10. Reducción de las desigualdades
-
-**Proyecto:**
-- [Corpus: LenguajeClaro](https://huggingface.co/datasets/somosnlp/lenguaje-claro-dataset)
-- [Modelo: LenguajeClaro Phi-2](https://huggingface.co/somosnlp/Phi-2-LenguajeClaro)
-- [Demo](https://huggingface.co/spaces/somosnlp/lenguaje-claro-demo)
-- [Presentación](https://www.youtube.com/watch?v=zv7vQVHP6gE&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=22)
-
-¡Enhorabuena equipo!
-- Sergio Chicón Repiso
-- Rubén Rodríguez de la Fuente
-- Marta Fernández Gómez
-
----
-
-## ChaterapIA
-
-Dar acceso a ayuda psicológica a personas en necesidad. No importan tus recursos, la hora o el sitio, si necesitas ayuda siempre tendría que ser posible tener acceso a ella.
-
-**ODS:** 3. Salud y bienestar, 10. Reducción de las desigualdades
-
-**Proyecto:**
-- [Corpus: ConversacionesTerapeuticas](https://huggingface.co/datasets/somosnlp/Conversaciones_terapeuticas_espanol)
-- [Modelo: ChaterapIA](https://huggingface.co/somosnlp/chaterapia_model)
-- [Demo](https://huggingface.co/spaces/somosnlp/chaterapia_demo)
-
-¡Enhorabuena equipo!
-- Julio
-- Joana
-
----
-
-## ThinkParaguayo: Conoce la cultura guaraní
-
-Tenemos la misión de expandir la cultura guaraní mediante la IA.
-
-La cultura guaraní tiene una riqueza increíble, que merece ser preservada y contada a las nuevas generaciones. Think Paraguayo es un proyecto destinado a promover y difundir la cultura guaraní utilizando la inteligencia artificial como herramienta principal. El objetivo es crear conciencia sobre la riqueza cultural del Paraguay y preservar la lengua y las tradiciones guaraníes. 
-
-**ODS:** 4. Educación de calidad
-
-**Proyecto:**
-- [Corpus: Cultura Guaraní](https://huggingface.co/datasets/somosnlp/dataset-cultura-guarani_corpus-it)
-- [Modelo: ThinkParaguayo](https://huggingface.co/somosnlp/gua-a)
-- [Demo](https://huggingface.co/spaces/somosnlp/think-paraguayo)
-- [Presentación](https://www.youtube.com/watch?v=1AV_37FJSzk&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=25)
-
-¡Enhorabuena equipo!
-- Enrique Paiva
-- Daniel Cabrera
-- Leticia Bogado
-- Alberto Benítez
-- Emmanuel
-
----
-
-## SQLES: Interactúa con una base de datos en español
-
-Cómo conversar de manera sencilla con una base de datos.
-
-Este proyecto tiene como objetivo desarrollar una herramienta que pueda interactuar en español con una base de datos utilizando un enfoque multimodal, que combina modelos de lenguaje y consultas SQL. La meta es facilitar la extracción de información de bases de datos de manera intuitiva y eficiente en el idioma español.
-
-**ODS:** 8. Trabajo decente y crecimiento económico, 9. Industria, innovación e infraestructura
-
-**Proyecto:**
-- [Corpus: SQLES](https://huggingface.co/datasets/somosnlp/LLM_SQL_BaseDatosEspanol)
-- [Modelo: SQLES Mistral](https://huggingface.co/somosnlp/LLM_SQL_BaseDatosEspanol_Mistral)
-- [Modelo: SQLES Code Llama](https://huggingface.co/somosnlp/LLM_SQL_BaseDatosEspanol_CodeLlama)
-- [Demo](https://github.com/Asis41/LLM_SQL_BaseDatosEspanol/blob/main/CodeLlamaFinTunSQL.ipynb)
-- [Presentación](https://www.youtube.com/watch?v=uLAHA7zKwQs&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=26)
-
-¡Enhorabuena equipo!
-- Asis Heriberto Rangel Ortiz
-- Emmanuel Alexis Zarazua Rubio
-- Néstor Emmanuel Briones Ramirez nestorbriones199@gmail.com
-- Ventura Rivera Robles
-- Fernando Morales Flores
-
----
-
-## Traductor-Inclusivo: Reescritura de textos en español utilizando lenguaje inclusivo
-
-Herramienta que permite reescribir textos en español utilizando lenguaje inclusivo.
-
-El lenguaje o palabras que utilizamos muchas veces pueden imponer sesgos, ideologías o marginar a determinados grupos. "Traductor-Inclusivo" es una herramienta que permite reescribir textos utilizando lenguaje inclusivo ofreciendo una opción para evitar dichos sesgos.
-
-**ODS:** 5. Igualdad de género
-
-**Proyecto:**
-- [Corpus: Traductor-Inclusivo](https://huggingface.co/datasets/somosnlp/es-inclusive-language)
-- [Modelo: Traductor-Inclusivo](https://huggingface.co/somosnlp/es-inclusivo-translator)
-- [Demo](https://huggingface.co/spaces/somosnlp/es-inclusive-language-demo)
-- [Presentación](https://www.youtube.com/watch?v=7rrNGJIXEHU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=20)
-
-¡Enhorabuena equipo!
-- Andrés Martínez Fernández-Salguero
-- Gaia Quintana Fleitas
-- Miguel López Pérez
-- Imanuel Rozenberg
-- Josué Sauca
-
----
-
 ## KUNTUR: LLM de asistencia legal en textos jurídicos de Perú
 
 El proyecto KUNTUR busca abordar la brecha de acceso a la información legal en Perú, especialmente para comunidades rurales y personas sin experiencia en derecho. Su objetivo es desarrollar un modelo de lenguaje especializado que haga que la ley sea más comprensible y accesible para todos, capacitando a individuos con conocimientos legales para tomar decisiones informadas y proteger sus derechos.
 
-**ODS:** 4. Educación de calidad, 16. Paz, justicia e instituciones sólidas
+**ODS:** 16. Paz, justicia e instituciones sólidas
 
 **Proyecto:**
 - [Corpus: Constitución de Perú 1993 QA](https://huggingface.co/datasets/somosnlp/constitucion-politica-del-peru-1993-qa)
@@ -344,6 +327,50 @@ En este proyecto se han generado dos corpus de instrucciones para la identificac
 - Alberto Hernández
 - Manuel Otero
 
+---
+
+## SQLES: Interactúa con una base de datos en español
+
+Cómo conversar de manera sencilla con una base de datos.
+
+Este proyecto tiene como objetivo desarrollar una herramienta que pueda interactuar en español con una base de datos utilizando un enfoque multimodal, que combina modelos de lenguaje y consultas SQL. La meta es facilitar la extracción de información de bases de datos de manera intuitiva y eficiente en el idioma español.
+
+**ODS:** 8. Trabajo decente y crecimiento económico, 9. Industria, innovación e infraestructura
+
+**Proyecto:**
+- [Corpus: SQLES](https://huggingface.co/datasets/somosnlp/LLM_SQL_BaseDatosEspanol)
+- [Modelo: SQLES Mistral](https://huggingface.co/somosnlp/LLM_SQL_BaseDatosEspanol_Mistral)
+- [Modelo: SQLES Code Llama](https://huggingface.co/somosnlp/LLM_SQL_BaseDatosEspanol_CodeLlama)
+- [Demo](https://github.com/Asis41/LLM_SQL_BaseDatosEspanol/blob/main/CodeLlamaFinTunSQL.ipynb)
+- [Presentación](https://www.youtube.com/watch?v=uLAHA7zKwQs&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=26)
+
+¡Enhorabuena equipo!
+- Asis Heriberto Rangel Ortiz
+- Emmanuel Alexis Zarazua Rubio
+- Néstor Emmanuel Briones Ramirez
+- Ventura Rivera Robles
+- Fernando Morales Flores
+
+---
+
+## ChaterapIA
+
+Dar acceso a ayuda psicológica a personas en necesidad. No importan tus recursos, la hora o el sitio, si necesitas ayuda siempre tendría que ser posible tener acceso a ella.
+
+**ODS:** 3. Salud y bienestar, 10. Reducción de las desigualdades
+
+**Proyecto:**
+- [Corpus: ConversacionesTerapeuticas](https://huggingface.co/datasets/somosnlp/Conversaciones_terapeuticas_espanol)
+- [Modelo: ChaterapIA](https://huggingface.co/somosnlp/chaterapia_model)
+- [Demo](https://huggingface.co/spaces/somosnlp/chaterapia_demo)
+
+¡Enhorabuena equipo!
+- Julio 
+- Nicho
+- Joana
+- Dyana
+- Pablo
+
 <!--
 
 ## SAM Doctor
@@ -358,3 +385,7 @@ Proyecto:
 - [Corpus](https://huggingface.co/datasets/somosnlp/wikihow_es_80train_20test)
 
 -->
+
+---
+
+¡Enhorabuena de nuevo a todo el mundo, muchísimas gracias por participar en esta maravillosa tercera edición del Hackathon SomosNLP! 👏🤩
