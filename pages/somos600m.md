@@ -184,6 +184,7 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 ### Patrocinios de Oro
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
 <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/patrocinios/argilla"
 logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
@@ -203,6 +204,14 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark
 <SponsorInfo sponsor="LenguajeNatural.AI" url="https://lenguajenatural.ai"
 logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+
+<SponsorInfo sponsor="MonsterAPI" url="http://somosnlp.org/patrocinios/monsterapi"
+logo="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg" />
+
+<SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
 
 <!-- <SponsorInfo sponsor="Impulse Data & AI Conference" url="https://latam-ai.com/"
 logo="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png"
@@ -242,10 +251,6 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
 logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
 
-<SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
-
 <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"
 logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
@@ -261,6 +266,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
 <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" />
+
+<SponsorInfo sponsor="LatinX in AI" url="http://somosnlp.org/patrocinios/latinx-in-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
 
 </div>
 
