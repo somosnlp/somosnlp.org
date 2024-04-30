@@ -44,7 +44,6 @@ Mención especial a los proyectos:
 - 👏 BERTIN-ClimID: BERTIN-Base Climate-related text Identification
 
 Y a los corpus:
-- 📚 AviaciónInteligente: Navegación del Reglamento Aeronáutico Colombiano
 - 📚 SMC: Spanish Medical Corpus
 - 📚 RecetasDeLaAbuel@: Corpus de recetas de países hispanoamericanos
 - 📚 LingComp_QA: Un corpus educativo de lingüística computacional en español

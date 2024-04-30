@@ -1,5 +1,5 @@
 ---
-title: Cálamo & Cran
+title: CÁLAMO&CRAN
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran.png
 cover_dark: https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark.png
