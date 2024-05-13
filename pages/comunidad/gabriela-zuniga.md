@@ -34,7 +34,7 @@ Gabriela es Mamá de 2 lindos niños, se graduó en Ingeniería Informática y d
 - Ponente
 
 
-<!--
+
 ## TODO
 
 - Jurado hackathon 22 y 23
