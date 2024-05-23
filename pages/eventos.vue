@@ -15,18 +15,18 @@
 
         <article class="m-auto prose">
 
-            <div class="mx-auto my-8 text-center">
+            <!-- <div class="mx-auto my-8 text-center">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
                     dark="text-accent-400">Próximos eventos</span>
                 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
-                    <!-- <div class="flex justify-center grid grid-cols-2 gap-5"> -->
+                    <div class="flex justify-center grid grid-cols-2 gap-5">
                     <div class="flex justify-center">
                         <img alt="Charla de Amanda Curry" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240326_amanda_curry.jpg" />
 
                     </div>
                 </a>
-            </div>
+            </div> -->
 
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
                 <a href="https://somosnlp.org/calendario" target="_blank" class="button-accent">
@@ -62,7 +62,7 @@
 
                     <a href="/hackathon/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
                         <img alt="Charla de Gabriel Martín" width="650" height="365"
-                            src="https://somosnlp.github.io/assets/images/eventos/240309_gabriel_martin.png" />
+                            src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
                     </a>
 
                     <a href="/hackathon/importancia_de_la_calidad_de_los_datos_al_entrenar" target="_blank">
