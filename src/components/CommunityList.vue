@@ -26,7 +26,7 @@ const routes = router.getRoutes()
         <ProfileItemRouter v-for="route in founder_routes" :route="route" />
         <div class="flex flex-col justify-center m-auto text-center prose ">
             <p class="text-lg">
-                La fuerza de la comunidad reside en las +1500 personas apasionadas por el PLN que la forman. Aquí te
+                La fuerza de la comunidad reside en las +1900 personas apasionadas por el PLN que la forman. Aquí te
                 presentamos a las que colaboran o han colaborado más activamente con
                 <a class="contents" href="http://somosnlp.org/nuestra-mision" target="_blank">nuestra misión</a>,
                 <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">¡únete!</a>
