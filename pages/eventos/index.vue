@@ -29,7 +29,7 @@
             </div> -->
 
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
-                <a href="https://somosnlp.org/calendario" target="_blank" class="button-accent">
+                <a href="https://somosnlp.org/eventos/calendario" target="_blank" class="button-accent">
                     <carbon:calendar />
                     Ver el calendario de eventos
                 </a>
