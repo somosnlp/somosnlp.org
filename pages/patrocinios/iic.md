@@ -12,6 +12,8 @@ years: 2024, 2023
 
 ## Colaboración
 
+- [Donación de corpus de evaluación](https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d) para la leaderboard abierta de LLMs generativos
+
 - Instituto patrocinador expert del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo del IIC
@@ -51,3 +53,5 @@ years: 2024, 2023
     <img alt="IIC" width="250" height="140" 
     src="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp" />
 </div>
+
+*Última actualización: 14 de mayo de 2024*

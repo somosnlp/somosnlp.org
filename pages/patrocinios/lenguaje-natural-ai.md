@@ -13,6 +13,7 @@ Nuestra misión es generar un impacto social positivo mediante el uso de Intelig
 
 ## Colaboración
 
+- [Donación de corpus de evaluación](https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d) para la leaderboard abierta de LLMs generativos
 - Patrocinio de oro [Hackathon SomosNLP 2024: #Somos600M](https://somosnlp.org/hackathon)
 
 <div class="flex justify-center">
@@ -21,3 +22,5 @@ Nuestra misión es generar un impacto social positivo mediante el uso de Intelig
 </div>
 
 <!-- TODO -->
+
+*Última actualización: 14 de mayo de 2024*
