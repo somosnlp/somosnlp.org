@@ -1,6 +1,6 @@
 ---
 title: Proyecto ILENIA
-description:
+description: Impulsando el PLN en las lenguas cooficiales de España
 cover: https://somosnlp.github.io/assets/images/patrocinios/ILENIA.png
 cover_dark: https://somosnlp.github.io/assets/images/patrocinios/ILENIA_dark.png
 twitter: 
