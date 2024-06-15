@@ -18,10 +18,9 @@ landing-page:
   events:
     all-events: See all the events
     event-description: >-
-      Vuelve el #HackathonSomosNLP,
-      en la próxima edición de marzo de 2024, nos centraremos en generar
-      bases de datos diversas y de calidad para el entrenamiento de LLMs que se
-      expresen con propiedad en español.
+      Vuelve el #HackathonSomosNLP, en la próxima edición de marzo de 2024, nos
+      centraremos en generar bases de datos diversas y de calidad para el
+      entrenamiento de LLMs que se expresen con propiedad en español.
     join-event: Join the event!
     more-events: Recorded events
     recorded-events: Recorded events
@@ -34,7 +33,10 @@ landing-page:
     sharing resources to accelerate the advancement of NLP in our language.   
   introducing: Introducing
   join-us: Join us on Discord
+  know-more: Know more
   learn-with-us: Learn with us!
+  projects:
+    current-projects: Current projects
   read-the-announcement: Contribute to our mission
   why:
     coming-soon: Coming soon
