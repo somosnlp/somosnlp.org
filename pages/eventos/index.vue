@@ -42,6 +42,7 @@
 
             <hr class="mx-auto mt-8 mb-12 prose" />
 
+            <!--
             <div class="mx-auto my-8 text-center">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
                     al Hackathon #Somos600M</span>
@@ -50,6 +51,7 @@
                         src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg" />
                 </a>
             </div>
+            -->
 
             <h3 id="hackathon-2024">🔥 Charlas y talleres del Hackathon 2024</h3>
 
