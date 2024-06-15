@@ -5,7 +5,11 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 ---
 
-Somos 600 millones de personas hispanohablantes. Lanzamos el Proyecto #Somos600M porque necesitamos que la riqueza de nuestras lenguas esté representada en los sistemas de IA.
+
+
+<!-- En LATAM hay X grupos de lenguas originarias y en España 4 lenguas co-oficiales. -->  
+Somos 600 millones de personas hispanohablantes.
+Lanzamos el Proyecto #Somos600M porque necesitamos que la riqueza de nuestras lenguas esté representada en los sistemas de IA.
 
 A pesar de ser el 7.5% de la población mundial, no contamos ni con un corpus de instrucciones abierto que nos permita entrenar LLMs nativos, ni con métodos estandarizados para evaluarlos. El Proyecto #Somos600M tiene por objetivo crear estos dos recursos, imprescindibles para el desarrollo de la IA en nuestras lenguas.
 
@@ -33,11 +37,11 @@ A pesar de ser el 7.5% de la población mundial, no contamos ni con un corpus de
 ## 🚀 Nuestros objetivos
 
 Somos una comunidad internacional de personas hispanohablantes apasionadas por el PLN.
-Nuestra misión es acercar la IA a 600 millones de personas hispanohablantes alrededor del mundo. Y nuestra visión, conseguir una justa representación del español y lenguas cooficiales en el mundo digital.
+Nuestra misión es conseguir una justa representación del español y lenguas cooficiales en el mundo digital mediante la creación de recursos abiertos.
 
-En este proyecto nos hemos fijado dos objetivos de gran impacto:
-1. 🌎 Crear el mayor **corpus de instrucciones de calidad y diverso**, que represente las variedades del español de los 600M de personas hispanohablantes y nos permita entrenar modelos nativos e inclusivos.
-2. ✅ Crear la primera **leaderboard pública de LLMs generativos** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
+En la comunidad hispanohablante no contamos con LLMs propios adaptados para seguir instrucciones. Esta adaptación mejora la versatilidad de los modelos, importante para el alineamiento de la IA y aplicaciones de tipo conversacional y RAG. Por tanto, en este proyecto nos hemos fijado dos objetivos iniciales de gran impacto:
+1. 🌎 Crear el mayor **corpus de instrucciones de calidad y diverso**, que incluya diversas tareas de PLN, represente las diferentes variedades del español y lenguas cooficiales y nos permita entrenar modelos nativos e inclusivos.
+2. ✅ Crear la primera **leaderboard abierta de LLMs generativos** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales, ofreciendo resultados públicos e imparciales. 
 
 <!-- ![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg) -->
 
@@ -46,13 +50,21 @@ En este proyecto nos hemos fijado dos objetivos de gran impacto:
 
 ## 👀 El Proyecto en los medios
 
-- El País:
-- Paper en arxiv:
+### El País
+
+Disclaimer: No vamos a crear un "ChatGPT hispano", 
+
+- Artículo: 
+
+### Paper #Somos600M
+
+- Paper:
+- Poster:
  -->
 
 ---
 
-## 🚀 Iniciativas
+## 💡 Iniciativas
 
 ### Generación de instrucciones
 
@@ -141,7 +153,6 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 <center><a href="https://www.youtube.com/@somosnlp" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 Grabaciones ya disponibles</a></center>
 
 </details>
-
 <details  style="margin-bottom: 20px;">
 <summary>🔊 Propón una ponencia</summary>
 
@@ -150,7 +161,6 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 <center><a href="https://somosnlp.org/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
 
 </details>
-
 <details  style="margin-bottom: 20px;">
 <summary>🧑‍🏫 Ofrece una mentoría</summary>
 
@@ -190,6 +200,49 @@ SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y vi
 </details>
 
 ---
+
+## 🚀 Avance
+
+<details  style="margin-bottom: 20px;">
+<summary> Situación inicial </summary>
+
+Corpus de instrucciones originalmente creados en nuestras lenguas:
+- [MentorCA](https://huggingface.co/datasets/projecte-aina/MentorCA), creado por AINA e ILENIA (Catalán, 10k)
+- [MentorES](https://huggingface.co/datasets/projecte-aina/MentorES), creado por AINA e ILENIA (Español, 10k)
+- [AYA Dataset ES](https://huggingface.co/datasets/CohereForAI/aya_dataset), creado por CohereForAI (Español, 4k)
+
+Leaderboards para modelos discriminativos con tareas originalmente creadas en nuestras lenguas:
+- [ODESIA](leaderboard.odesia.uned.es), creado por UNED NLP (Español)
+- [CLUB](https://club.aina.bsc.es/), creado por AINA e ILENIA (Catalán)
+
+Si estás trabajando en un proyecto similar o conoces más recursos avísanos :)
+
+</details>
+
+### Situación actual
+
+Los equipos del Hackathon SomosNLP 2024 #Somos600M crearon 18 corpus de instrucciones:
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; align-items: center;">
+    <img src="https://somosnlp.github.io/assets/images/eventos/240301_mapa_ciudades_zoom.png" alt="Mapa Hackathon" style="width: 100%; height: auto;">
+    <img src="https://somosnlp.github.io/assets/images/blog/instruction_datasets_v1.png" alt="Corpus instrucciones" style="width: 100%; height: auto;">
+</div>
+
+Gracias a las donaciones de 5 grupos de investigación, el 1 de julio lanzaremos la primera versión de la leaderboard:
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; align-items: center;">
+    <img src="https://somosnlp.github.io/assets/images/blog/evaluation_datasets_v1.png" alt="Corpus evaluación" style="width: 100%; height: auto;">
+</div>
+
+
+### Próximos pasos
+
+- Publicar la v1 de la leaderboard el 1 de julio
+- Añadir más tareas e idiomas a la leaderboard
+- Escalar la campaña de recolección de corpus
+- Organizar hackathones enfocados en temas e idiomas precisos
+
+---
 ## 👏 Agradecimientos 
 
 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a hacer el PLN más inclusivo!
@@ -221,8 +274,8 @@ logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpe
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
 <SponsorInfo sponsor="GING UPM" url="http://somosnlp.org/patrocinios/ging-upm"
-logo="https://somosnlp.github.io/assets/images/patrocinios/GING_UPM.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/GING_UPM.png" />
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
 
 <SponsorInfo sponsor="HiTZ" url="http://somosnlp.org/patrocinios/hitz"
 logo="https://somosnlp.github.io/assets/images/patrocinios/HiTZ.png"
@@ -318,7 +371,9 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
 
 ## 🤗 ¡Conecta!
 
-Aquí tienes diferentes maneras de conectar con la comunidad:
+Buscamos colaboraciones con grupos de investigación de LATAM, el Caribe y España, ¡contáctanos!
+
+Si te apetece unirte a la comunidad, asistir a nuestros eventos y participar en nuestras iniciativas aquí tienes diferentes maneras de conectar:
 - Únete a la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR) (¡ya somos más de 1900!)
 - Síguenos en [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
 - Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
