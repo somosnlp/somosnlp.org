@@ -57,6 +57,101 @@ const showPastEvents = ref(true);
       </a>
     </div>
   </Container>
+  <Container class="bg-gray-50 dark:bg-dark-700">
+    <div class="mx-auto my-8 lg:max-w-1/2">
+      <h1 class="flex flex-col text-center mb-6 gap-1">
+        <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
+    t('landing-page.projects.current-projects')
+  }}</span>
+      </h1>
+      <img class="mx-auto my-8" alt="Próximos eventos"
+        src="https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg" />
+      <p>Hemos lanzado el Proyecto #Somos600M con el objetivo de representar en los modelos de lenguaje la riqueza de
+        nuestras lenguas. Tenemos varias iniciativas:</p>
+
+      <div class="my-8 grid gap-y-8 gap-x-6 grid-cols-[auto,1fr] items-center">
+        <!-- i-fluent-rocket-24-regular -->
+        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+          border="2 accent-200 dark:accent-600">
+          <carbon:star text="lg" />
+        </div>
+        <div>
+          Implementar una leaderboard abierta para evaluar LLMs generativos en español y lenguas cooficiales.
+          <!-- <a href="" target="_blank"> -->
+          <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+            border="2 accent-300">V1 live el 1 de julio</span>
+          <!-- </a> -->
+        </div>
+
+        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+          border="2 accent-200 dark:accent-600">
+          <carbon:checkbox-checked text="lg" />
+        </div>
+        <div>
+          Validar las traducciones de bases de datos de evaluación: MMLU, RAC-C y HellaSwag.
+          <!-- <a href="https://huggingface.co/collections/somosnlp/creacion-de-corpus-en-comunidad-65f6715788a1b82645ba0ce2 " target="_blank"> -->
+          <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+            border="2 accent-300">Esfuerzo colaborativo</span>
+          <!-- </a> -->
+        </div>
+
+        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+          border="2 accent-200 dark:accent-600">
+          <carbon:checkbox-checked text="lg" />
+        </div>
+        <div>
+          Validar la traducción del conjunto de prompts de la iniciativa Data Is Better Together (DIBT).
+          <!-- <a href="https://huggingface.co/collections/somosnlp/creacion-de-corpus-en-comunidad-65f6715788a1b82645ba0ce2 " target="_blank"> -->
+          <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+            border="2 accent-300">Esfuerzo colaborativo</span>
+          <!-- </a> -->
+        </div>
+
+        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+          border="2 accent-200 dark:accent-600">
+          <carbon:book text="lg" />
+        </div>
+        <div>
+          Campaña de recolección de corpus: buscamos especialmente corpus que representen diversas variedades del
+          español y lenguas cooficiales,
+          <a href="https://somosnlp.org/donatucorpus" target="_blank">
+            <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+              border="2 accent-300">Comparte tu corpus</span>
+          </a>
+        </div>
+
+        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+          border="2 accent-200 dark:accent-600">
+          <carbon:book text="lg" />
+        </div>
+        <div>
+          Creación un gran corpus de instrucciones, los equipos del Hackathon SomosNLP 2024 crearon la primera versión.
+          <a href="https://huggingface.co/somosnlp" target="_blank">
+            <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+              border="2 accent-300">Proyectos Hackathon 2024</span>
+          </a>
+        </div>
+
+        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+          border="2 accent-200 dark:accent-600">
+          <carbon:list text="lg" />
+        </div>
+        <div>
+          Recolección de proyectos, eventos y grupos de investigación que están impulsando el PLN en español.
+          <a href="https://huggingface.co/spaces/somosnlp/spanish-nlp-initiatives" target="_blank">
+            <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+              border="2 accent-300">Descubre las iniciativas</span>
+          </a>
+        </div>
+
+      </div>
+
+      <p>Buscamos colaboraciones con grupos de investigación de LATAM, el Caribe y España, ¡contáctanos!</p>
+      <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/somos600m">
+        {{ t('landing-page.know-more') }}
+      </a>
+    </div>
+  </Container>
   <Container class="bg-gray-white dark:bg-dark-900">
     <div grid="~ lg:cols-2" class="my-16 place-items-center">
       <div class="px-4">
