@@ -1,6 +1,6 @@
 ---
 title: Validación de benchmarks con Argilla
-description: Lanzamos la campaña de anotación de benchmarks
+description: Lanzamos la campaña de validación de benchmarks
 cover: https://somosnlp.github.io/assets/images/blog/coleccion_espacios_de_anotacion.png
 date: 2024-03-04T12:00:00.000+00:00
 lang: es
@@ -28,7 +28,7 @@ Aunque no tengas conocimientos de IA y dispongas de poquito tiempo, puedes colab
 
 ## 🙌 Agradecimientos
 
-Gracias al equipo de Argilla por co-organizar esta iniciativa, en concreto de Álvaro Bartolomé por crear el espacio de anotación, a ... por crear el dashboard y a Daniel Vila por prestarnos a su maravilloso equipo.
+Gracias al equipo de Argilla por co-organizar esta iniciativa, en concreto de Álvaro Bartolomé por crear el espacio de anotación, a Ignacio Talavera por crear el dashboard y a Daniel Vila por prestarnos a su maravilloso equipo.
 
 Gracias también a Hugging Face, en particular a Omar Sanseviero, por patrocinar las GPUs y el almacenamiento necesarios para habilitar estos espacios.
 
