@@ -18,10 +18,9 @@ landing-page:
   events:
     all-events: Ver todos los eventos
     event-description: >-
-      Vuelve el #HackathonSomosNLP,
-      en la próxima edición de marzo de 2024, nos centraremos en generar
-      bases de datos diversas y de calidad para el entrenamiento de LLMs que se
-      expresen con propiedad en español.
+      Vuelve el #HackathonSomosNLP, en la próxima edición de marzo de 2024, nos
+      centraremos en generar bases de datos diversas y de calidad para el
+      entrenamiento de LLMs que se expresen con propiedad en español.
     join-event: ¡Quiero saber más!
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
@@ -29,10 +28,16 @@ landing-page:
     watch-recordings: Ver todas las grabaciones
   heading: SomosNLP
   heading-2: >-
-    Somos una comunidad internacional de personas hispanohablantes apasionadas por el PLN. Nuestra misión es acercar la IA a 600 millones de personas hispanohablantes alrededor del mundo. Y nuestra visión, conseguir una justa representación del español y lenguas cooficiales en el mundo digital.
+    Somos una comunidad internacional de personas hispanohablantes apasionadas
+    por el PLN. Nuestra misión es acercar la IA a 600 millones de personas
+    hispanohablantes alrededor del mundo. Y nuestra visión, conseguir una justa
+    representación del español y lenguas cooficiales en el mundo digital.
   introducing: Presentamos
   join-us: Únete a Discord
+  know-more: Saber más
   learn-with-us: Aprende en comunidad
+  projects:
+    current-projects: Proyectos actuales
   read-the-announcement: Contribuye a nuestra misión
   why:
     collabs: >-
@@ -41,7 +46,7 @@ landing-page:
     coming-soon: Próximamente
     community: >-
       Hemos creado la mayor red internacional de hispanohablantes que estudian,
-      trabajan e investigan en PLN. ¡Ya somos más de 1800!
+      trabajan e investigan en PLN. ¡Ya somos 2000!
     education: >-
       Organizamos gran variedad de actividades educativas: contamos con +50
       talleres prácticos y charlas de especialistas con 20k visualizaciones y
