@@ -20,7 +20,7 @@ useHead({
     ]
 })
 </script>
-    
+
 <template>
     <Container class="my-12">
         <header class="m-auto text-center prose">
@@ -54,7 +54,7 @@ useHead({
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
             <p class="m-auto text-center prose text-2xl">
-                👏 Total Ofertas Publicadas: 43 👏
+                👏 Total Ofertas Publicadas: 51 👏
             </p>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
@@ -64,7 +64,8 @@ useHead({
                 <p class="m-auto text-center prose">¡Síguenos! Anunciamos las ofertas en</p>
                 <p class="m-auto text-center prose">
                     <a href="https://twitter.com/SomosNLP_" target="_blank">Twitter</a>,
-                    <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a> y el canal #empleo de
+                    <a href="https://www.linkedin.com/company/somosnlp" target="_blank">LinkedIn</a> y el canal #empleo
+                    de
                     <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a> ✅
                 </p>
             </div>
