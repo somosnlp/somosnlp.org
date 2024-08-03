@@ -15,7 +15,7 @@ onMounted(async () => {
   try {
     const response = await fetch(props.csvFileUrl);
     const text = await response.text();
-    const rows = text.split('\n');
+    const rows = text.trim().split('\n'); // trim() to remove leading/trailing whitespace
     const header = rows[0].split(',');
 
     const data = [];
@@ -37,7 +37,8 @@ onMounted(async () => {
 const filteredItems = computed(() => {
   return csvData.value.filter(item =>
     item.nombre.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
-    item.tareas.some(tarea => tarea.toLowerCase().includes(searchQuery.value.toLowerCase()))
+    item.tareas.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
+    item.dominio.toLowerCase().includes(searchQuery.value.toLowerCase())
   );
 });
 </script>
