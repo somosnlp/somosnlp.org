@@ -8,6 +8,28 @@ tablePage: in
 <TableModels
   :resourceItems="[
     {
+        name: 'Aya 23 8B',
+        tags: ['Aya', 'propósito general'],
+        description: '',
+        website: 'https://cohere.com/research/aya',
+        github: '',
+        paper: 'https://arxiv.org/abs/2405.15032',
+        hf_dataset_name: '',
+        hf_contributor_handle: 'CohereForAI',
+        hf_model_name: 'aya-23-8B'
+    },
+    {
+        name: 'Aya 23 35B',
+        tags: ['Aya', 'propósito general'],
+        description: '',
+        website: 'https://cohere.com/research/aya',
+        github: '',
+        paper: 'https://arxiv.org/abs/2405.15032',
+        hf_dataset_name: '',
+        hf_contributor_handle: 'CohereForAI',
+        hf_model_name: 'aya-23-35B'
+    },
+    {
         name: 'BETO',
         tags: ['BERT', 'base (case, uncased)', 'propósito general'],
         description: '',
