@@ -1,7 +1,7 @@
 ---
 title: Gabriela Zuñiga Rojas
 description: Professor @UNSAAC and Researcher / QA
-cover: https://somosnlp.github.io/assets/images/comunidad/
+cover: https://somosnlp.github.io/assets/images/comunidad/gabriela_zuniga.jpg
 twitter: https://x.com/gabyz22
 linkedin: https://www.linkedin.com/in/gzunigar/
 website: 
@@ -9,8 +9,8 @@ community: SomosNLP
 ---
 
 ## Colaboración
-Colaboración en la organización del Hackathon Somos NLP 2024
-Añadir la seccion de libros recomendados a recursos NLP
+- Colaboración en la organización del Hackathon Somos NLP 2024
+- Añadir los [libros recomendados](https://somosnlp.org/recursos/libros-recomendados) a la sección de recursos de PLN
 
 
 
