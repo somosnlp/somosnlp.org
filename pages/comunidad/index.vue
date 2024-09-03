@@ -12,7 +12,7 @@ useHead({
     ]
 })
 </script>
-    
+
 <template>
     <Container class="mx-36 my-12">
         <header class="m-auto text-center prose">
@@ -26,8 +26,8 @@ useHead({
 
         <div class="flex justify-center">
             <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
-                <img src="https://somosnlp.github.io/assets/images/blog/ya_somos_1500.gif" alt="Ya Somos 1000" width="500"
-                    height="289.71" />
+                <img src="https://somosnlp.github.io/assets/images/blog/ya_somos_1500.gif" alt="Ya Somos 1500"
+                    width="500" height="289.71" />
             </a>
         </div>
 
@@ -47,10 +47,14 @@ useHead({
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
-            <p class="m-auto text-center prose text-lg">
-                ¡Gracias a todas las personas que habéis compartido vuestra experiencia con la comunidad mediante mentorías
-                y ponencias!
-            </p>
+            <div class="m-auto justify-center m-auto text-center prose ">
+                <h2>Ponentes</h2>
+                <p class="text-lg">
+                    ¡Gracias a todas las personas que habéis compartido vuestra experiencia con la comunidad mediante
+                    mentorías
+                    y ponencias!
+                </p>
+            </div>
             <br />
             <SpeakerList />
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
@@ -66,9 +70,13 @@ useHead({
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
-            <p class="m-auto text-center prose text-lg">
-                ¡Gracias también a todas las entidades que nos habéis apoyado en nuestro camino!
-            </p>
+            <div class="m-auto text-center prose">
+                <h2>Colaboraciones</h2>
+                <p class="text-lg">
+                    ¡Gracias también a todas las universidades, centros de investigación y empresas que nos habéis
+                    apoyado en nuestro camino!
+                </p>
+            </div>
             <br />
             <SponsorList />
         </div>
