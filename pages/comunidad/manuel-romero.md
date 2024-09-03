@@ -1,6 +1,6 @@
 ---
 title: Manuel Romero
-description: CSO @MAISA | Equipo @SomosNLP
+description: CSO @MAISA
 cover: https://somosnlp.github.io/assets/images/comunidad/manuel_romero.jpg
 website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
