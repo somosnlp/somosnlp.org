@@ -4,7 +4,7 @@
     <Logo class=" lg:justify-self-start" />
 
     <div class="flex flex-wrap gap-2 items-center justify-center" text="lg">
-      <SocialMediaButtons />
+      <SocialMediaButtonsAll />
     </div>
 
     <div class="flex gap-4 items-center <md:(flex-wrap justify-center) lg:justify-self-end">
