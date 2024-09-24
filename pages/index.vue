@@ -13,7 +13,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="hackathon" target="_blank" hover="text-accent-700">
+      <a href="la-leaderboard" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
@@ -77,22 +77,22 @@ const showPastEvents = ref(true);
         </div>
         <div>
           Implementar una leaderboard abierta para evaluar LLMs generativos en español y lenguas cooficiales.
-          <!-- <a href="" target="_blank"> -->
-          <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
-            border="2 accent-300">V1 live el 1 de julio</span>
-          <!-- </a> -->
+          <a href="la-leaderboard" target="_blank">
+            <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
+              border="2 accent-300">V1 live el 23 de septiembre</span>
+          </a>
         </div>
 
-        <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
+        <!-- <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
           border="2 accent-200 dark:accent-600">
           <carbon:checkbox-checked text="lg" />
         </div>
         <div>
           Validar las traducciones de bases de datos de evaluación: MMLU, RAC-C y HellaSwag.
-          <!-- <a href="https://huggingface.co/collections/somosnlp/creacion-de-corpus-en-comunidad-65f6715788a1b82645ba0ce2 " target="_blank"> -->
+          <a href="https://huggingface.co/collections/somosnlp/creacion-de-corpus-en-comunidad-65f6715788a1b82645ba0ce2 " target="_blank">
           <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
             border="2 accent-300">Esfuerzo colaborativo</span>
-          <!-- </a> -->
+          </a>
         </div>
 
         <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
@@ -101,11 +101,11 @@ const showPastEvents = ref(true);
         </div>
         <div>
           Validar la traducción del conjunto de prompts de la iniciativa Data Is Better Together (DIBT).
-          <!-- <a href="https://huggingface.co/collections/somosnlp/creacion-de-corpus-en-comunidad-65f6715788a1b82645ba0ce2 " target="_blank"> -->
+          <a href="https://huggingface.co/collections/somosnlp/creacion-de-corpus-en-comunidad-65f6715788a1b82645ba0ce2 " target="_blank">
           <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
             border="2 accent-300">Esfuerzo colaborativo</span>
-          <!-- </a> -->
-        </div>
+          </a>
+        </div> -->
 
         <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
           border="2 accent-200 dark:accent-600">
