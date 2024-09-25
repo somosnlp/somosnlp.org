@@ -29,7 +29,7 @@ Los datos de evaluación son abiertos y los resultados reproducibles, con el fin
 
 Así, preguntas como "¿Qué modelo de lenguaje genera texto de mayor calidad en español? ¿Y en catalán?" ya tienen su respuesta, gracias a la ["Leaderboard de Variedades del Español y Lenguas Oficiales"](https://huggingface.co/spaces/la-leaderboard/la-leaderboard).
 
-<a href="https://hf.co/la-leaderboard/la-leaderboard" target="_blank" class="button-accent center">Ir a La Leaderboard</a>
+<a href="https://hf.co/spaces/la-leaderboard/la-leaderboard" target="_blank" class="button-accent center">Ir a La Leaderboard</a>
 
 ---
 

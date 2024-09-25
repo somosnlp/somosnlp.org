@@ -25,9 +25,11 @@ All of this is led by SomosNLP through the [#Somos600M](https://somosnlp.org/hac
 
 Among the key points of **‘La Leaderboard’**, we must mention that all the evaluation databases have been originally created or manually translated into the corresponding languages, an important point because the action of translating benchmarks includes errors and biases of the model, which makes it even more important to evaluate with “native” data.
 
-The evaluation data is open and the results reproducible, in order to ensure maximum transparency. In addition, anyone can request the evaluation of their models, which is carried out automatically. These last two characteristics, in addition to the diversity of tasks and languages, differentiate **‘La Leaderboard’** from the existing leaderboards for models in Spanish: ODESIA, whose tasks are private to prioritize the legitimacy of the results, and LMSYS Chatbot Arena, whose evaluations are manual.
+The evaluation data is open and the results reproducible, in order to ensure maximum transparency. In addition, anyone can request the evaluation of their models, which is carried out automatically. These last two characteristics, in addition to the diversity of tasks and languages, differentiate **‘La Leaderboard’** from the existing leaderboards for models in Spanish: [ODESIA](https://leaderboard.odesia.uned.es/), whose tasks are private to prioritize the legitimacy of the results, and [LMSYS Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), whose evaluations are manual.
 
 Thus, questions such as ‘Which language model generates higher quality text in Spanish? And in Catalan?’ now have their answer, thanks to the [**‘Leaderboard of Spanish Varieties and Official Languages’**.](https://huggingface.co/spaces/la-leaderboard/la-leaderboard)
+
+<a href="https://hf.co/spaces/la-leaderboard/la-leaderboard" target="_blank" class="button-accent center">To "La Leaderboard"</a>
 
 ---
 
