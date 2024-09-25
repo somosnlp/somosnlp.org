@@ -13,7 +13,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="la-leaderboard" target="_blank" hover="text-accent-700">
+      <a href="blog/la-leaderboard" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
@@ -77,7 +77,7 @@ const showPastEvents = ref(true);
         </div>
         <div>
           Implementar una leaderboard abierta para evaluar LLMs generativos en español y lenguas cooficiales.
-          <a href="la-leaderboard" target="_blank">
+          <a href="blog/la-leaderboard" target="_blank">
             <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
               border="2 accent-300">V1 live el 23 de septiembre</span>
           </a>
