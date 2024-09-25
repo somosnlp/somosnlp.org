@@ -4,14 +4,16 @@ description: La primera tabla de clasificación para modelos de lenguaje generat
 date: 2024-09-23T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/blog/la-leaderboard.png"
+cover: "https://somosnlp.github.io/assets/images/blog/la-leaderboard.png"
+author: Maria Sayavera
+bio: Project Management, Innovation and Dissemination @BSC-CNS
 ---
 
 **Nace "La Leaderboard", la primera tabla de clasificación para modelos de lenguaje generativos abiertos en español y las lenguas oficiales.**
 
 *La "Leaderboard de Variedades del Español y Lenguas Oficiales" está impulsada por la comunidad SomosNLP en colaboración con grupos de investigación de tecnologías del lenguaje.*
 
-Los grandes modelos de lenguaje, LLMs por sus siglas en inglés Large Language Models, se han convertido en un actor principal en el ámbito de la inteligencia artificial (IA), facilitando la adopción de herramientas de IA en numerosas organizaciones. Los LLMs representan un gran avance en el ámbito del procesamiento del lenguaje natural (PLN) y la IA, y están diseñados para comprender y generar texto imitando las respuestas que daría un humano. La gran cantidad de datos utilizados en el entrenamiento hace posible la realización de otras funcionalidades y contenidos.
+Los grandes modelos de lenguaje, LLMs por sus siglas en inglés *Large Language Models*, se han convertido en un actor principal en el ámbito de la inteligencia artificial (IA), facilitando la adopción de herramientas de IA en numerosas organizaciones. Los LLMs representan un gran avance en el ámbito del procesamiento del lenguaje natural (PLN) y la IA, y están diseñados para comprender y generar texto imitando las respuestas que daría un humano. La gran cantidad de datos utilizados en el entrenamiento hace posible la realización de otras funcionalidades y contenidos.
 
 Ante el auge de estos grandes modelos, [SomosNLP](https://somosnlp.org/), una comunidad internacional de hispanohablantes que trabajan e investigan en el campo del PLN, detectó la necesidad de crear una tabla de clasificación para comparar modelos de lenguaje generativos en sus lenguas y medir cuantitativamente el avance en este campo. Así nace la **"Leaderboard de Variedades del Español y Lenguas Oficiales"**, la primera *leaderboard* para modelos generativos en español y lenguas oficiales de España y LATAM.
 
@@ -42,3 +44,9 @@ Así, preguntas como "¿Qué modelo de lenguaje genera texto de mayor calidad en
 ***Sobre LenguajeNaturalAI***
 
 *LenguajeNaturalAI es una empresa emergente cuya misión es tener un impacto social positivo con el uso de la IA generativa y el PLN, como muestra también la publicación en abierto de sus modelos [LeNIA-Chat](https://lenguajenatural.ai/nuevo-llm-espanol-lenia-chat-1-5b/).*
+
+---
+
+> ¡Gracias a todas las personas que habéis colaborado para crear La Leaderboard!
+> Estoy segura de que esta tabla de clasificación será un valioso recurso para toda la comunidad hispanohablante y animo a más grupos de investigación a colaborar para que podamos evaluar en los modelos nuestra diversidad lingüística y cultural.
+> María Grandury

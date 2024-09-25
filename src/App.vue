@@ -1,5 +1,8 @@
 <script setup lang="ts">
+import { useRoute } from 'vue-router'
 import { useHead } from '@vueuse/head'
+
+const route = useRoute()
 
 // https://github.com/vueuse/head
 // you can use this to manipulate the document head in any components,
@@ -24,10 +27,10 @@ useHead({
 
 <template>
   <Container class="overflow-x-auto" border="b gray-200 dark:gray-700">
-    <NavBar />
+    <NavBar v-if="route.path !== '/la-leaderboard'" />
   </Container>
   <router-view />
-  <Container border="t gray-200 dark:gray-700">
+  <Container>
     <Footer />
   </Container>
 </template>
