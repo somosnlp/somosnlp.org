@@ -25,11 +25,13 @@ Todo ello liderado por SomosNLP a través del proyecto #Somos600M, lanzado por e
 
 Entre los puntos clave de "La Leaderboard", debemos mencionar que todas las bases de datos de evaluación han sido originalmente creadas o manualmente traducidas a las correspondientes lenguas, un punto importante porque la acción de traducir *benchmarks* incluye errores y sesgos del modelo, lo que indica la importancia de hace aún más relevante evaluar con datos “nativos”.
 
+Para comenzar, hemos evaluado 4 modelos multilingües y todos los preentrenados en español y lenguas oficiales. Agradecemos mucho el patrocinio de GPUs para inferencia por parte de [Hugging Face](https://huggingface.co), el Barcelona Supercomputing Center y la Universidad Politécnica de Madrid.
+
 Los datos de evaluación son abiertos y los resultados reproducibles, con el fin de asegurar una máxima transparencia. Asimismo, cualquier persona puede solicitar la evaluación de sus modelos, que se realiza de manera automática. Estas dos últimas características, además de la diversidad de tareas y lenguas, diferencian a "La Leaderboard" de las tablas de clasificación existentes para modelos en español: [ODESIA](https://leaderboard.odesia.uned.es/), cuyas tareas son privadas para priorizar la legitimidad de los resultados, y [LMSYS Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard), cuyas evaluaciones son manuales.
 
 Así, preguntas como "¿Qué modelo de lenguaje genera texto de mayor calidad en español? ¿Y en catalán?" ya tienen su respuesta, gracias a la ["Leaderboard de Variedades del Español y Lenguas Oficiales"](https://huggingface.co/spaces/la-leaderboard/la-leaderboard).
 
-<a href="https://hf.co/spaces/la-leaderboard/la-leaderboard" target="_blank" class="button-accent center">Ir a La Leaderboard</a>
+<a href="https://hf.co/spaces/la-leaderboard/la-leaderboard" target="_blank" class="button-accent center">Ver La Leaderboard en Hugging Face</a>
 
 ---
 
@@ -44,6 +46,10 @@ Así, preguntas como "¿Qué modelo de lenguaje genera texto de mayor calidad en
 ***Sobre LenguajeNaturalAI***
 
 *LenguajeNaturalAI es una empresa emergente cuya misión es tener un impacto social positivo con el uso de la IA generativa y el PLN, como muestra también la publicación en abierto de sus modelos [LeNIA-Chat](https://lenguajenatural.ai/nuevo-llm-espanol-lenia-chat-1-5b/).*
+
+***Sobre Hugging Face***
+
+***Hugging Face** es la plataforma de colaboración para la comunidad de ML. Con una maravillosa comunidad, algunas de las más utilizadas bibliotecas y herramientas de código abierto, y un equipo talentoso explorando el SOTA de la tecnología, Hugging Face está en el corazón de la revolución de la IA.*
 
 ---
 
