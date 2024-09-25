@@ -1,6 +1,6 @@
 ---
 title: María Grandury
-description: Investigadora Independiente
+description: Fundadora, Investigadora @SomosNLP
 cover: https://somosnlp.github.io/assets/images/comunidad/maria_grandury.png
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
