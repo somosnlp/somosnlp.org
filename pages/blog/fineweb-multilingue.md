@@ -4,7 +4,7 @@ description: Únete a la iniciativa de crear un gran corpus multilingüe de alta
 date: 2024-12-10T16:00:00.000+00:00
 lang: es
 duration: 2min
-cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
+cover: "https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png"
 author: María Grandury
 bio: Investigadora de NLP y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -13,15 +13,17 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
+![FineWeb Multilingüe](https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png)
+
 ## Cómo apoyar la iniciativa
 
-- **🔥 Participa en la anotación**: Puntúa de 1 a 5 la calidad a nivel educativo de cada párrafo y contribuye a la creación de un gran corpus multilingüe de alta calidad.
+- **🔥 Participa en la anotación**: Puntúa de 1 a 5 la calidad educativa de cada texto y contribuye a la creación de un gran corpus multilingüe de alta calidad.
     - 1. Crea una cuenta en Hugging Face (si aún no tienes): Regístrate para obtener una cuenta gratuita en https://huggingface.co/join.
     - 2. Visita el [espacio de anotación](https://data-is-better-together-fineweb-c.hf.space/) (inicia sesión con tu cuenta de Hugging Face).
     - 3. Explora los conjuntos de datos disponibles y selecciona el idioma que te gustaría anotar.
-    - 4. Lee cuidadosamente la guía de anotación antes de empezar, dado que así se asegura la consistencia en todas las contribuciones.
+    - 4. Lee cuidadosamente la guía de anotación antes de empezar, dado que así se asegura la consistencia en todas las contribuciones. La puedes encontrar en la esquina inferior izquierda de la interfaz de anotación.
     - 5. Comienza a anotar:
-        - Envía tus respuestas a las preguntas de evaluación de calidad.
+        - Califica la calidad educativa de cada texto.
         - Utiliza los filtros y acciones masivas de Argilla para trabajar de manera eficiente.
         - Busca patrones para acelerar tu flujo de trabajo.
 
@@ -51,10 +53,10 @@ Cada lengua tiene un *Language Lead* que es responsable de la recopilación de d
 
 🌈 A continuación, te presentamos los *Language Leads* de las lenguas de España y LATAM:
 - Español: María Grandury, [Hugging Face](https://hf.co/mariagrandury), [LinkedIn](https://www.linkedin.com/in/mariagrandury), [Twitter](https://twitter.com/mariagrandury)
-- Euskera: Oscar Sainz
-- Catalán: Montserrat Marimon
-- Gallego: Eliseo Bao
 - Asturiano: Pablo Cuervo
+- Catalán: Montserrat Marimon
+- Euskera: Oscar Sainz
+- Gallego: Eliseo Bao
 - Guaraní: Luis Chiruzzo
 - Náhuatl: Robert Pugh
 
