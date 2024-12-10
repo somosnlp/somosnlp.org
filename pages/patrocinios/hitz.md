@@ -3,8 +3,8 @@ title: "HiTZ: Centro Vasco de Tecnología de la Lengua"
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/HiTZ.png
 cover_dark:
-twitter: 
-linkedin:
+twitter: https://x.com/Hitz_zentroa
+linkedin: https://www.linkedin.com/company/hitz-zentroa
 website: https://www.hitz.eus
 type: 1. Oro Corpus
 years: 2024

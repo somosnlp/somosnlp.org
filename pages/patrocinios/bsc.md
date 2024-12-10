@@ -3,8 +3,8 @@ title: Barcelona Supercomputing Center (BSC)
 description:
 cover: https://somosnlp.github.io/assets/images/patrocinios/BSC.png
 cover_dark: https://somosnlp.github.io/assets/images/patrocinios/BSC_dark.png
-twitter: 
-linkedin:
+twitter: https://x.com/BSC_CNS 
+linkedin: https://www.linkedin.com/company/barcelona-supercomputing-center
 website: https://www.bsc.es
 type: 1. Oro Corpus
 years: 2024
