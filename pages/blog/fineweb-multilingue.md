@@ -51,12 +51,22 @@ Además, también puedes contactar con nosotros en el [Discord de SomosNLP](http
 
 Cada lengua tiene un *Language Lead* que es responsable de la recopilación de datos de su lengua y la coordinación con el equipo de Hugging Face.
 
-🌈 A continuación, te presentamos los *Language Leads* de las lenguas de España y LATAM:
-- Español: María Grandury, [Hugging Face](https://hf.co/mariagrandury), [LinkedIn](https://www.linkedin.com/in/mariagrandury), [Twitter](https://twitter.com/mariagrandury)
-- Asturiano: Pablo Cuervo
-- Catalán: Montserrat Marimon
-- Euskera: Oscar Sainz
-- Gallego: Eliseo Bao
+🌈 A continuación, te presentamos los *Language Leads* de las lenguas de España y LATAM y sus correspondientes afiliaciones:
+- Español:
+    - María Grandury: [Hugging Face](https://hf.co/mariagrandury), [LinkedIn](https://www.linkedin.com/in/mariagrandury), [X](https://twitter.com/mariagrandury)
+    - SomosNLP: [LinkedIn](https://www.linkedin.com/company/somosnlp), [X](https://twitter.com/somosnlp_)
+- Asturiano:
+    - Pablo Cuervo
+    - SomosNLP: [LinkedIn](https://www.linkedin.com/company/somosnlp), [X](https://twitter.com/somosnlp_)
+- Catalán:
+    - Montserrat Marimon: [LinkedIn](https://www.linkedin.com/in/montserrat-marimon-60497995/)
+    - Barcelona Supercomputing Center, [LinkedIn](https://www.linkedin.com/company/barcelona-supercomputing-center), [X](https://x.com/BSC_CNS)
+- Euskera:
+    - Oscar Sainz: [X](https://x.com/osainz59)
+    - HiTZ: [LinkedIn](https://www.linkedin.com/company/hitz-zentroa), [X](https://x.com/Hitz_zentroa)
+- Gallego:
+    - Eliseo Bao: [LinkedIn](https://www.linkedin.com/in/eliseobao/)
+    - Universidade da Coruña: [LinkedIn](https://www.linkedin.com/school/universidade-da-coru%C3%B1a/)
 - Guaraní: Luis Chiruzzo
 - Náhuatl: Robert Pugh
 
