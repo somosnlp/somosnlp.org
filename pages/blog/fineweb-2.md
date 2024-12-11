@@ -1,5 +1,5 @@
 ---
-title: FineWeb Multilingüe
+title: FineWeb2
 description: Únete a la iniciativa de crear un gran corpus multilingüe de alta calidad
 date: 2024-12-10T16:00:00.000+00:00
 lang: es
@@ -27,6 +27,9 @@ github: https://github.com/mariagrandury
         - Utiliza los filtros y acciones masivas de Argilla para trabajar de manera eficiente.
         - Busca patrones para acelerar tu flujo de trabajo.
 
+<!-- I made a dashboard where you can check how your annotation trends compare to the rest of your team. Don't take the results too seriously, but go check in case you're curious!
+https://huggingface.co/spaces/nataliaElv/fineweb2_compare_my_annotations -->
+
 - **🚀 Conviértete en *Language Lead***: Como *lead* desempeñarás un papel crucial en el mantenimiento de la comunidad y los esfuerzos de anotación para el(los) idioma(s) que lideres. 
     - 1. Revisa si tu lengua está representada [aquí](https://huggingface.co/spaces/nataliaElv/language-leads-dashboard)
     - 2. Si no lo está, ofrece tu ayuda rellenando este [formulario](https://forms.gle/DHJdtvoSNxAAtA2dA).
@@ -42,10 +45,11 @@ github: https://github.com/mariagrandury
 Estamos a tu disposición a través del chat de la iniciativa:
     - 1. Únete al chat de la iniciativa, donde compartiremos actualizaciones y resolveremos dudas. Puedes unirte utilizando tu cuenta de Hugging Face aquí: [Rocket Chat](https://huggingface.co/spaces/HuggingFaceFW/discussion).
     - 2. Únete al canal de las lenguas que hablas y saluda 👋
+    - 3. Menciona a tu Language Lead para preguntar cualquier duda.
 
 Tanto el equipo de Hugging Face como los *Language Leads* estamos a tu disposición para cualquier duda o sugerencia.
 
-Además, también puedes contactar con nosotros en el [Discord de SomosNLP](https://discord.gg/somosnlp).
+Además, también puedes contactar con nosotros en el [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR).
 
 ## Language Leads
 
@@ -80,3 +84,4 @@ De momento me encargo yo pero lo ideal sería contar con una persona que hable e
 ## ¡Únete a este esfuerzo colaborativo!
 
 Únete a este esfuerzo colaborativo para contribuir a la creación de un corpus multilingüe de alta calidad que incluya tu lengua e impulse el desarrollo de modelos de lenguaje inclusivos 💛
+
