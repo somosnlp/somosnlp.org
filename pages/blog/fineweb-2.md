@@ -40,6 +40,8 @@ https://huggingface.co/spaces/nataliaElv/fineweb2_compare_my_annotations -->
     - 2. Siéntete libre de traducir y personalizar el contenido como veas necesario.
     - 3. ¡Compártelo en redes sociales! Puedes mencionar al Language Lead de tu lengua y/o a la comunidad de SomosNLP (en lo que a mí respecta, compartiré todas las publicaciones que me lleguen de cualquiera de las lenguas de LATAM y España).
 
+<!-- ¡Mira cómo avanza tu idioma! https://huggingface.co/spaces/data-is-better-together/fineweb-c-dashboard -->
+
 ## Información y ayuda
 
 Estamos a tu disposición a través del chat de la iniciativa:
