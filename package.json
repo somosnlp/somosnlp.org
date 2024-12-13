@@ -11,14 +11,14 @@
     "@vueuse/head": "^0.6.0",
     "nprogress": "^0.2.0",
     "prism-theme-vars": "^0.2.2",
-    "vue": "^3.1.4",
+    "vue": "^3.3.4",
     "vue-i18n": "^9.1.6",
     "vue-router": "^4.0.10"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.7.0",
-    "@iconify/json": "^1.1.374",
-    "@intlify/vite-plugin-vue-i18n": "^2.3.2",
+    "@iconify/json": "^1.1.461",
+    "@intlify/vite-plugin-vue-i18n": "^2.5.0",
     "@types/fs-extra": "^9.0.12",
     "@types/nprogress": "^0.2.0",
     "@typescript-eslint/eslint-plugin": "^4.28.3",
@@ -39,7 +39,7 @@
     "vite-plugin-icons": "^0.6.5",
     "vite-plugin-md": "^0.6.7",
     "vite-plugin-pages": "^0.15.0",
-    "vite-plugin-windicss": "^1.2.4",
+    "vite-plugin-windicss": "^1.9.0",
     "vite-ssg": "^0.11.4",
     "vue-tsc": "^0.2.0"
   }
