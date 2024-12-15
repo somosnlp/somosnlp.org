@@ -1,6 +1,6 @@
 [build.environment]
-  NPM_FLAGS = "--prefix=/dev/null"
-  NODE_VERSION = "16"
+  NPM_FLAGS = "--legacy-peer-deps"
+  NODE_VERSION = "20"
 
 [build]
   publish = "dist"
