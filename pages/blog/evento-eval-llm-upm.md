@@ -15,10 +15,14 @@ github: https://github.com/mariagrandury
 
 ![evaluacion-llm-upm](https://github.com/somosnlp/assets/raw/main/images/blog/evaluacion-llm-upm.png)
 
-📣 ¿Te interesa la evaluación de LLM y estás en Madrid? ¡Ven mañana día 17 a nuestro taller!
+📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, Entaina, IEEE Sección España y SomosNLP 🤗 
+
+La evaluación de los LLMs es fundamental para entender sus capacidades, si son adecuados para una tarea dada y también para mejorar su rendimiento. La evaluación de LLMs es un tema muy complejo que debe medir su rendimiento en un gran número de tareas, además existen diferentes métodos de evaluación, tablas de clasificación de modelos y librerías para automatizar el proceso.
+
+En esta charla, Gonzalo Martínez (UC3M), María Grandury (SomosNLP / UPM) y Miguel González (UPM) discutirán la problemática de la evaluación de LLMs presentando los diferentes métodos de evaluación, guía de buenas prácticas, las tablas de clasificación como la La Leaderboard para LLMs en español y lenguas cooficiales de España y las librerías de evaluación como Lighteval de HuggingFace o lm-evaluation-harness de EleutherAI mostrando ejemplos de tareas concretas y como se implementan con estas librerías. 
 
 
-Hablaremos de:
+En concreto trataremos:
 
 - 👋 Evaluación manual
 - ⚙️ Evaluación automática
