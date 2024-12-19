@@ -5,11 +5,11 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg
 ---
 
-El Hackathon #Somos600M ya ha finalizado, puedes revisar los [proyectos](/pages/blog/proyectos-hackathon-2024.md) de los equipos participantes y las grabaciones de los [talleres y charlas](https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) de especialistas.
+El Hackathon #Somos600M ya ha finalizado, puedes revisar los [proyectos](/blog/proyectos-hackathon-2024.md) de los equipos participantes y las grabaciones de los [talleres y charlas](https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) de especialistas.
 
 Si quieres colaborar con un proyecto abierto de PLN en español no te preocupes, seguimos teniendo muchas propuestas interesantes, echa un ojo al Proyecto #Somos600M y pregúntanos en Discord 🤗
 
-<center><a href="/pages/blog/proyectos-hackathon-2024.md" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">✨ ¡Presentamos los proyectos del Hackathon #Somos600M! ✨</a></center>
+<center><a href="/blog/proyectos-hackathon-2024.md" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">✨ ¡Presentamos los proyectos del Hackathon #Somos600M! ✨</a></center>
 
 ---
 
