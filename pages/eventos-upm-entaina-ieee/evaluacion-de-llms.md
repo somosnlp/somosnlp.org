@@ -1,16 +1,15 @@
 ---
-title: Evento Evaluación de LLM
-description: Te invitamos a asistir al evento de evaluación de LLM en la Universidad Politécnica de Madrid
-date: 2024-12-16T10:00:00.000+00:00
-lang: es
-duration: 2min
-cover: "https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png"
+title: Evaluación de Grandes Modelos de Lenguaje (LLMs)
+date: 2024-12-17T18:30:00.000+00:00
+time: 18:30 CET
+duration: 1 hora
+cover: https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png 
 author: María Grandury, Gonzalo Martínez, Miguel González
-bio: Investigadora de NLP en UPM y fundadora de SomosNLP
-website: https://mariagrandury.com
-twitter: https://twitter.com/mariagrandury
-linkedin: https://www.linkedin.com/in/mariagrandury
-github: https://github.com/mariagrandury
+twitter: 
+linkedin:
+website: 
+github: 
+bio: Investigadores de NLP en la Universidad Politécnica de Madrid (UPM).
 ---
 
 ![evaluacion-llm-upm](https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png)

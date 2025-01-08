@@ -53,6 +53,22 @@
             </div>
             -->
 
+            <h3 id="eventos-upm-entaina-ieee">✨ Eventos Presenciales en Madrid</h3>
+
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="/eventos-upm-entaina-ieee/evaluacion-de-llms" target="_blank">
+                        <img alt="Evaluación de LLMs" width="650" height="365"
+                            src="https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png" />
+                    </a>
+
+                    <a href="/eventos-upm-entaina-ieee/sueñan-los-directivos-con-proyectos-de-ia" target="_blank">
+                        <img alt="Sueñan los directivos con proyectos de IA" width="650" height="365"
+                            src="https://github.com/somosnlp/assets/raw/main/images/eventos/20250115_entaina_directivos_ia.png" />
+                    </a>
+                </div>
+            </div>
+
             <h3 id="hackathon-2024">🔥 Charlas y talleres del Hackathon 2024</h3>
 
             <div class="mx-auto my-8 text-center">
