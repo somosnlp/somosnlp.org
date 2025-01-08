@@ -1,5 +1,5 @@
 ---
-title: Sueñan los directivos con proyectos de IA
+title: ¿Sueñan los directivos con proyectos de IA?
 date: 2025-01-08T18:30:00.000+00:00
 time: 18:30 CET
 duration: 1 hora

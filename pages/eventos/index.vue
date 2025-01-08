@@ -62,7 +62,7 @@
                             src="https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png" />
                     </a>
 
-                    <a href="/eventos/madrid/sueñan-los-directivos-con-proyectos-de-ia" target="_blank">
+                    <a href="/eventos/madrid/suenan-los-directivos-con-proyectos-de-ia" target="_blank">
                         <img alt="Sueñan los directivos con proyectos de IA" width="650" height="365"
                             src="https://github.com/somosnlp/assets/raw/main/images/eventos/20250115_entaina_directivos_ia.png" />
                     </a>

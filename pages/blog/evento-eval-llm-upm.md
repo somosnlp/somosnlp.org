@@ -13,9 +13,15 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
 ---
 
+Lanzamos una serie de eventos presenciales en Madrid en colaboración con el grupo GING de la Universidad Politécnica de Madrid, ENTAINA e IEEE Sección España. Presta atención a nuestra página de [eventos](/eventos) y nuestras redes sociales ✨
+
+¿Te gustaría organizar un evento presencial en tu ciudad? ¡Avísanos!
+
+---
+
 ![evaluacion-llm-upm](https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png)
 
-📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, Entaina, IEEE Sección España y SomosNLP 🤗 
+📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, ENTAINA, IEEE Sección España y SomosNLP 🤗 
 
 La evaluación de los LLMs es fundamental para entender sus capacidades, si son adecuados para una tarea dada y también para mejorar su rendimiento. La evaluación de LLMs es un tema muy complejo que debe medir su rendimiento en un gran número de tareas, además existen diferentes métodos de evaluación, tablas de clasificación de modelos y librerías para automatizar el proceso.
 
