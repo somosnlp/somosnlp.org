@@ -4,7 +4,7 @@ description: Ayuda a que los LLMs se evalúen también en tu idioma y cultura
 date: 2025-01-09T16:00:00.000+00:00
 lang: es
 duration: 1min
-cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
+cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg"
 author: María Grandury
 bio: Investigadora de NLP y fundadora de SomosNLP
 website: https://mariagrandury.com

@@ -44,7 +44,11 @@ Muchas sois las personas que ya me habéis preguntado por el #HackathonSomosNLP 
     <img src="https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png" alt="FineWeb Multilingüe" width="40%">
 </div>
 
-- [INCLUDE v2](https://somosnlp.org/blog/include-v2), liderada por EPFL: Comparte exámenes tipo test de tu país, buscamos especialmente exámenes en lenguas con bajos recursos o de temáticas relacionadas con la cultura de un país (e.g., exámenes de literatura o historia, permiso de conducir, etc.) pero todos los exámenes son bienvenidos.
+- [INCLUDE v2](https://somosnlp.org/blog/include), liderada por EPFL: Comparte exámenes tipo test de tu país, buscamos especialmente exámenes en lenguas con bajos recursos o de temáticas relacionadas con la cultura de un país (e.g., exámenes de literatura o historia, permiso de conducir, etc.) pero todos los exámenes son bienvenidos.
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg" alt="FineWeb Multilingüe" width="40%">
+</div>
 
 - [Campaña de recolección #Somos600M](https://docs.google.com/forms/d/13k0FZvkco2KmxKFoflWoftpN6jWfcIYIpCb5PZx_950/edit), liderada por SomosNLP: Comparte datasets (principalmente de evaluación pero también de entrenamiento) en español o lenguas de LATAM o España. Nos gustaría que ["La Leaderboard"](https://huggingface.co/spaces/la-leaderboard/la-leaderboard) sea lo más inclusiva posible.
 
