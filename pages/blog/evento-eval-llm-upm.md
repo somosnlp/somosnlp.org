@@ -19,7 +19,9 @@ Lanzamos una serie de eventos presenciales en Madrid en colaboración con el gru
 
 ---
 
-![evaluacion-llm-upm](https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png)
+<div class="flex justify-center">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="70%">
+</div>
 
 📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, ENTAINA, IEEE Sección España y SomosNLP 🤗 
 

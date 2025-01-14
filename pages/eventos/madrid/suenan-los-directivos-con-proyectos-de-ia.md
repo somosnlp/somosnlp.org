@@ -21,7 +21,7 @@ El miércoles 15 de enero a las 18:30 tendremos la segunda charla de IA generati
 - ✨ Gratuito y entrada libre, [regístrate](https://docs.google.com/forms/d/e/1FAIpQLSca5XZ9J-RqyYe4o0gu5Ig-IBzRi4xElQm4QmHEh-H3HIK6FA/viewform) para ayudarnos a dimensionar la logística
 - 🧃 Bebidas post-charla cortesía de ENTAINA
 
-<div style="display: flex; justify-content: center;">
+<div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/eventos/20250115_entaina_directivos_ia.png" alt="ETSIT" width="70%">
 </div>
 

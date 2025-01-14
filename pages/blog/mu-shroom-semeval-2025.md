@@ -12,6 +12,9 @@ author: Raúl Vazquez y Timothee Mickus
 
 [Mu-SHROOM](https://www.google.com/url?q=https://helsinki-nlp.github.io/shroom/&sa=D&source=editors&ust=1729608218611366&usg=AOvVaw0Gks1OYyuxE1Rrx68LtkiP) es una tarea compartida (Shared Task) de SemEval 2025. Nuestro objetivo es impulsar la investigación en detección de alucinaciones para contenido generado con LLMs (Large Language Model, por sus siglas en inglés). Hemos anotado contenido alucinado en 10 idiomas diferentes generado por modelos de lenguaje de última generación. Puedes participar en tantos idiomas como desees, identificando con precisión las secciones de contenido alucinado en nuestros datos de prueba. La tarea consiste en identificar con precisión las secciones o fragmentos del texto que son alucinados. ¡Mantente informado suscribiéndote a nuestro [Google group](https://www.google.com/url?q=https://groups.google.com/g/semeval-2025-task-3-mu-shroom&sa=D&source=editors&ust=1729608218611637&usg=AOvVaw0VCdj4UT-ReLMPtpl1m0nP) y/o al [Slack](https://www.google.com/url?q=https://join.slack.com/t/shroom-shared-task/shared_invite/zt-2mmn4i8h2-HvRBdK5f4550YHydj5lpnA&sa=D&source=editors&ust=1729608218611763&usg=AOvVaw07CJnADrAzXhkjKCgQN-Ju)!
 
+<div class="flex justify-center">
+    <img src="https://somosnlp.github.io/assets/images/blog/mu-shroom-semeval-2025.png" alt="Mu-SHROOM" width="50%">
+</div>
 
 ## Invitación completa
 
