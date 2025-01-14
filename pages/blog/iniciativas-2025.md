@@ -32,7 +32,9 @@ Muchas sois las personas que ya me habéis preguntado por el #HackathonSomosNLP 
 
 - 🌐 Online, 23 de enero: [Impacto energético del uso de LLMs: Retos y oportunidades](https://algoritmosverdes.gob.es/es/eventos/impacto-energetico-del-uso-de-llms-retos-y-oportunidades), organizado por el Programa Nacional de Algoritmos Verdes.
 
-*¿Estás organizando un evento gratuito de PLN en español? ¡Avísanos y lo compartimos!*
+- 🌐 Online, febrero y marzo: Eventos del Hackathon SomosNLP 2025.
+
+*¿Estás organizando un evento gratuito de PLN en español? ¡Lo compartimos! ¿Te gustaría ser ponente en alguno de nuestros eventos online? ¡Avísanos!*
 
 ## 📚 Campañas de recolección y anotación de datos
 
@@ -44,7 +46,11 @@ Muchas sois las personas que ya me habéis preguntado por el #HackathonSomosNLP 
 
 - [INCLUDE v2](https://somosnlp.org/blog/include-v2), liderada por EPFL: Comparte exámenes tipo test de tu país, buscamos especialmente exámenes en lenguas con bajos recursos o de temáticas relacionadas con la cultura de un país (e.g., exámenes de literatura o historia, permiso de conducir, etc.) pero todos los exámenes son bienvenidos.
 
-*Soy Language Lead de FineWeb2 y del core team de INCLUDE v2, no dudéis en contactarme si tenéis cualquier duda o queréis involucramos más activamente.*
+- [Campaña de recolección #Somos600M](https://docs.google.com/forms/d/13k0FZvkco2KmxKFoflWoftpN6jWfcIYIpCb5PZx_950/edit), liderada por SomosNLP: Comparte datasets (principalmente de evaluación pero también de entrenamiento) en español o lenguas de LATAM o España. Nos gustaría que ["La Leaderboard"](https://huggingface.co/spaces/la-leaderboard/la-leaderboard) sea lo más inclusiva posible.
+
+- [Campaña de recolección LATAM-GPT](), liderada por LATAM-GPT: Comparte enlaces a páginas web en español de tu país para ayudarnos a entrenar un modelo inclusivo.
+
+*Soy Language Lead de FineWeb2, del core team de INCLUDE v2, lead de #Somos600M y colaboradora de LATAM-GPT, no dudes en contactarme si tienes cualquier duda o quieres involucrarte más activamente.*
 
 ## ¡Te escuchamos!
 
