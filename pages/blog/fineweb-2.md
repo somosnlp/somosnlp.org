@@ -15,7 +15,7 @@ github: https://github.com/mariagrandury
 
 TL;DR: Anota de 1 a 5 la calidad educativa de textos en tu idioma aquí: [FineWeb2](https://data-is-better-together-fineweb-c.hf.space/)
 
-<div style="display: flex; justify-content: center;">
+<div class="flex justify-center">
     <img src="https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png" alt="FineWeb Multilingüe" width="70%">
 </div>
 
