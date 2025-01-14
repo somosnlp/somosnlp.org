@@ -26,7 +26,7 @@ Muchas sois las personas que ya me habéis preguntado por el #HackathonSomosNLP 
 
 - 🇪🇸 Madrid, 15 de enero: [¿Sueñan los directivos con proyectos de IA?](https://somosnlp.org/eventos/madrid/suenan-los-directivos-con-proyectos-de-ia), organizado en colaboración con ENTAINA, la Universidad Politécnica de Madrid e IEEE Sección España.
 
-<a href="https://somosnlp.org/eventos/madrid/suenan-los-directivos-con-proyectos-de-ia" target="_blank" style="display: flex; justify-content: center;">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSca5XZ9J-RqyYe4o0gu5Ig-IBzRi4xElQm4QmHEh-H3HIK6FA/viewform" target="_blank" style="display: flex; justify-content: center;">
     <img src="https://somosnlp.github.io/assets/images/eventos/20250115_entaina_directivos_ia.png" alt="ETSIT" width="40%">
 </a>
 
