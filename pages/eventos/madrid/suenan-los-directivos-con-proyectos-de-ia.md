@@ -22,7 +22,7 @@ El miércoles 15 de enero a las 18:30 tendremos la segunda charla de IA generati
 - 🧃 Bebidas post-charla cortesía de ENTAINA
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/eventos/20250115_entaina_directivos_ia.png" alt="ETSIT" width="70%">
+    <img src="https://somosnlp.github.io/assets/images/eventos/20250115_entaina_directivos_ia.png" alt="ETSIT" width="300"/>
 </div>
 
 Añade el evento a tu calendario:

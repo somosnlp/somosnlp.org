@@ -15,7 +15,7 @@ El equipo de LatinX in AI invita a toda la comunidad a presentar sus proyectos a
 
 <div class="flex justify-center">
     <img src="https://somosnlp.github.io/assets/images/blog/latinx_in_ai_naacl_2024.jpg"
-        width="50%" alt="LatinX in NLP NAACL 2024" />
+    alt="LatinX in NLP NAACL 2024" width="300"/>
 </div>
 
 ## 👏 LatinX in NLP Workshop @ NAACL 2024

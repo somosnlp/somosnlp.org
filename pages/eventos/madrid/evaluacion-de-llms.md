@@ -15,7 +15,7 @@ bio: Investigadores de NLP en la Universidad Politécnica de Madrid (UPM).
 📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, Entaina, IEEE Sección España y SomosNLP 🤗 
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="70%">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="300"/>
 </div>
 
 La evaluación de los LLMs es fundamental para entender sus capacidades, si son adecuados para una tarea dada y también para mejorar su rendimiento. La evaluación de LLMs es un tema muy complejo que debe medir su rendimiento en un gran número de tareas, además existen diferentes métodos de evaluación, tablas de clasificación de modelos y librerías para automatizar el proceso.

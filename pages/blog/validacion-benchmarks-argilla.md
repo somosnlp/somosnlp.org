@@ -13,7 +13,7 @@ author: María Grandury
 Aunque no tengas conocimientos de IA y dispongas de poquito tiempo, puedes colaborar validando las traducciones del inglés al español de las bases de datos de la famosa Open LLM Leaderboard de Hugging Face, en concreto de MMLU, ARC-C y HellaSwag. Estas traducciones fueron originalmente hechas por el Grupo de PLN de la Universidad de Oregon utilizando ChatGPT y con este esfuerzo colaborativo las queremos validar y corregir para asegurarnos de que utilizamos datos de calidad.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/coleccion_espacios_de_anotacion.png" alt="Validación de benchmarks con Argilla" width="70%">
+    <img src="https://somosnlp.github.io/assets/images/blog/coleccion_espacios_de_anotacion.png" alt="Validación de benchmarks con Argilla" width="560" height="315"/>
 </div>
 
 ## 🚀 Cómo participar
