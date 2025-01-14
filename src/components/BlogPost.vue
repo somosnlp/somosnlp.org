@@ -113,6 +113,9 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
                 <IconButtonLink v-if="frontmatter.github" :url="frontmatter.github" class="contents">
                     <carbon:logo-github />
                 </IconButtonLink>
+                <IconButtonLink v-if="frontmatter.huggingface" :url="frontmatter.huggingface" class="contents">
+                    🤗
+                </IconButtonLink>
             </div>
             <div v-if="$route.path.startsWith('/blog')" class="text-md text-center">
                 <hr class="mt-8 mb-12" />
