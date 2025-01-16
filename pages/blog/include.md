@@ -10,14 +10,10 @@ bio: Investigadora de NLP y fundadora de SomosNLP
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
+huggingface: https://huggingface.co/mariagrandury
 ---
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/blog/include.png" alt="INCLUDE Benchmark" width="70%">
-</div>
-
-Buscamos exámenes tipo test en cualquier idioma para añadirlos al benchmark multicultural INCLUDE.
-¡Rellena ya el [formulario](https://forms.gle/wRnoxvTq7MKg5dpw9)!
+Buscamos exámenes tipo test en cualquier idioma para añadirlos al benchmark multicultural INCLUDE. ¡Rellena ya el [formulario](https://forms.gle/7qfV6wJE4mZxfGFb7)!
 
 Se suele decir que los grandes modelos de lenguaje (LLM) están desarrollando capacidades multilingües cada vez más avanzadas, pero ¿en qué idiomas exactamente? En muchas ocasiones, el español está presente, pero, ¿qué variedades del idioma se están considerando? Si realmente aspiramos a que los LLM sean verdaderamente multilingües y multiculturales, necesitamos garantizar que toda la comunidad esté representada en las bases de datos. El cambio comienza creando conjuntos de evaluación diversos, que nos permitan medir el estado actual y avanzar hacia LLM que sean realmente inclusivos.
 
@@ -27,7 +23,7 @@ Se suele decir que los grandes modelos de lenguaje (LLM) están desarrollando ca
 
 - **¿Hay algún requisito para los exámenes?** Solo uno, que incluyan respuestas.
 - **¿Hay alguna preferencia?** Buscamos especialmente exámenes de tipo test, es decir, con preguntas de opción múltiple. La campaña de recolección está enfocada principalmente en contenido relacionado con la cultura de un país o región (e.g. historia, literatura). Igualmente, vale CUALQUIER tipo de examen.
-- **¿Cómo puedo ayudar?** Mándanos un enlace a un examen con este [formulario](https://forms.gle/wRnoxvTq7MKg5dpw9), nos encargamos de procesarlo.
+- **¿Cómo puedo ayudar?** Mándanos un enlace a un examen con este [formulario](https://forms.gle/7qfV6wJE4mZxfGFb7), nos encargamos de procesarlo.
 - **¿Puedo participar más activamente en esta campaña?** Si te interesa por ejemplo encargarte de recopilar exámenes en tu país, apoyar con su procesamiento o con el análisis de los resultados, indícalo en la última pregunta del formulario y te contactaremos.
 - **¿Cómo se recompensa la colaboración activa?** Las personas que procesen más de 300 preguntas podrán ser co-autoras en los papers relacionados con el benchmark. 
 
@@ -46,7 +42,7 @@ Se suele decir que los grandes modelos de lenguaje (LLM) están desarrollando ca
 
 - [Paper original de INCLUDE](https://arxiv.org/abs/2411.19799)
 - [Dataset en Hugging Face](https://huggingface.co/datasets/CohereForAI/include-base-44)
-- [Formulario para añadir exámenes](https://forms.gle/wRnoxvTq7MKg5dpw9)
+- [Formulario para añadir exámenes](https://forms.gle/7qfV6wJE4mZxfGFb7)
 - [Comunidad de Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
 
 ## 👋 Contacto
