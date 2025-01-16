@@ -1,12 +1,64 @@
 <script setup lang="ts">
-import { computed } from 'vue';
+import { computed, onMounted, ref, watch } from 'vue';
 import { useHead } from '@vueuse/head'
 import { useRoute } from 'vue-router';
 
 import { useI18n } from 'vue-i18n';
 const { d } = useI18n();
 
+interface SuggestedPost {
+    path: string;
+    title: string;
+    cover?: string;
+    description?: string;
+}
+
 const { frontmatter } = defineProps<{ frontmatter: any }>()
+
+// Import all blog posts metadata
+const modules = import.meta.glob('/pages/blog/*.md')
+const blogPosts: Record<string, any> = {}
+
+// Load all blog posts on mount
+onMounted(async () => {
+    await Promise.all(
+        Object.entries(modules).map(async ([path, loader]) => {
+            const mod = await loader() as any
+            blogPosts[path] = mod
+        })
+    )
+})
+
+// Add computed property for suggested posts paths
+const hasSuggestedPosts = computed(() => 
+    frontmatter.suggestedPosts && 
+    Array.isArray(frontmatter.suggestedPosts) && 
+    frontmatter.suggestedPosts.length > 0
+)
+
+// Initialize suggestedPostsData ref
+const suggestedPostsData = ref<SuggestedPost[]>([])
+
+// Watch for blog posts loading and update suggested posts
+watch(blogPosts, () => {
+    if (!hasSuggestedPosts.value) return
+
+    try {
+        const posts = frontmatter.suggestedPosts.map((path: string) => {
+            const fullPath = `/pages${path}.md`
+            const post = blogPosts[fullPath]
+            return {
+                path,
+                title: post?.frontmatter?.title || path.split('/').pop()?.replace(/-/g, ' ') || 'Related Post',
+                cover: post?.frontmatter?.cover,
+                description: post?.frontmatter?.description
+            } as SuggestedPost
+        })
+        suggestedPostsData.value = posts
+    } catch (error) {
+        console.error('Error fetching suggested posts:', error)
+    }
+}, { immediate: true })
 
 useHead({
     title: 'SomosNLP - Democratizando el NLP en español',
@@ -116,6 +168,23 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
                 <IconButtonLink v-if="frontmatter.huggingface" :url="frontmatter.huggingface" class="contents">
                     🤗
                 </IconButtonLink>
+            </div>
+            <div v-if="hasSuggestedPosts && suggestedPostsData.length > 0" class="mt-12">
+                <hr class="mb-8" />
+                <h3 class="text-xl font-bold mb-6">Artículos relacionados</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div v-for="post in suggestedPostsData" :key="post.path" 
+                         class="border rounded-lg overflow-hidden hover:shadow-lg transition-shadow">
+                        <RouterLink :to="post.path" class="block">
+                            <img v-if="post.cover" :src="post.cover" :alt="post.title" 
+                                 class="w-full h-48 object-cover" />
+                            <div class="p-4">
+                                <h4 class="text-lg font-semibold">{{ post.title }}</h4>
+                                <p v-if="post.description" class="mt-2 text-sm text-gray-600">{{ post.description }}</p>
+                            </div>
+                        </RouterLink>
+                    </div>
+                </div>
             </div>
             <div v-if="$route.path.startsWith('/blog')" class="text-md text-center">
                 <hr class="mt-8 mb-12" />
