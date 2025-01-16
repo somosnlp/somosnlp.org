@@ -1,5 +1,5 @@
 ---
-title: FineWeb2
+title: "FineWeb2: Anotación de textos educativos"
 description: Únete a la iniciativa de crear un gran corpus multilingüe de alta calidad
 date: 2024-12-10T16:00:00.000+00:00
 lang: es

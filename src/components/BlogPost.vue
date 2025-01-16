@@ -8,6 +8,13 @@ const { d } = useI18n();
 
 const { frontmatter } = defineProps<{ frontmatter: any }>()
 
+// Add computed property for suggested posts
+const hasSuggestedPosts = computed(() => 
+    frontmatter.suggestedPosts && 
+    Array.isArray(frontmatter.suggestedPosts) && 
+    frontmatter.suggestedPosts.length > 0
+)
+
 useHead({
     title: 'SomosNLP - Democratizando el NLP en español',
     meta: [
@@ -116,6 +123,22 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
                 <IconButtonLink v-if="frontmatter.huggingface" :url="frontmatter.huggingface" class="contents">
                     🤗
                 </IconButtonLink>
+            </div>
+            <div v-if="hasSuggestedPosts" class="mt-12">
+                <hr class="mb-8" />
+                <h3 class="text-xl font-bold mb-6">Artículos relacionados</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div v-for="post in frontmatter.suggestedPosts" :key="post.path" 
+                         class="border rounded-lg overflow-hidden hover:shadow-lg transition-shadow">
+                        <RouterLink :to="post.path" target="_blank" class="block">
+                            <img v-if="post.cover" :src="post.cover" :alt="post.title" 
+                                 class="w-full h-48 object-cover" />
+                            <div class="p-4">
+                                <h4 class="text-lg font-semibold">{{ post.title }}</h4>
+                            </div>
+                        </RouterLink>
+                    </div>
+                </div>
             </div>
             <div v-if="$route.path.startsWith('/blog')" class="text-md text-center">
                 <hr class="mt-8 mb-12" />

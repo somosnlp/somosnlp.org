@@ -11,6 +11,13 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+suggestedPosts:
+  - path: /blog/include
+    title: Contribuye al benchmark INCLUDE
+    cover: https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg
+  - path: /blog/fineweb-2
+    title: "FineWeb2: Anotación de textos educativos"
+    cover: https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png
 ---
 
 ## 🔥 Hackathon SomosNLP 2025
