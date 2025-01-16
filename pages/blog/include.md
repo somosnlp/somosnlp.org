@@ -12,34 +12,44 @@ twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 ---
 
-Buscamos exámenes tipo test en cualquier idioma para añadirlos al benchmark INCLUDE.
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/blog/include.png" alt="INCLUDE Benchmark" width="70%">
+</div>
+
+Buscamos exámenes tipo test en cualquier idioma para añadirlos al benchmark multicultural INCLUDE.
 ¡Rellena ya el [formulario](https://forms.gle/wRnoxvTq7MKg5dpw9)!
 
-[INCLUDE](https://arxiv.org/abs/2411.19799) es un benchmark de evaluación de LLMs multilingüe y con un enfoque en la cultura. En la primera versión, publicada en diciembre de 2024, se incluyeron 42 idiomas, entre los cuales se encuentra el español (de Perú y España). Para extender este benchmark y que sea más representativo, desde SomosNLP estamos buscando exámenes en español de todos los países hispanohablantes y en todos los idiomas hablados en LATAM, el Caribe y España.
+Se suele decir que los grandes modelos de lenguaje (LLM) están desarrollando capacidades multilingües cada vez más avanzadas, pero ¿en qué idiomas exactamente? En muchas ocasiones, el español está presente, pero, ¿qué variedades del idioma se están considerando? Si realmente aspiramos a que los LLM sean verdaderamente multilingües y multiculturales, necesitamos garantizar que toda la comunidad esté representada en las bases de datos. El cambio comienza creando conjuntos de evaluación diversos, que nos permitan medir el estado actual y avanzar hacia LLM que sean realmente inclusivos.
 
-## 💡 Preguntas clave
+[INCLUDE](https://arxiv.org/abs/2411.19799) es un benchmark de evaluación de LLMs multilingüe y con un enfoque en la cultura. En la primera versión, publicada en diciembre de 2024, se incluyeron 42 idiomas, entre los cuales se encuentra el español (de Perú y España). Para extender este benchmark y que sea más representativo, desde SomosNLP nos hemos unido a la iniciativa y estamos buscando exámenes en todos los idiomas hablados en LATAM, el Caribe y España.
 
-- ¿Cuáles son los requisitos de los exámenes? Que sean preferiblemente de tipo test, es decir, con preguntas de selección múltiple.
-- ¿Cómo puedes ayudar? Mándanos un enlace a un examen con este [formulario](https://forms.gle/wRnoxvTq7MKg5dpw9), nos encargamos de procesarlo.
-- ¿Quieres participar más activamente en esta campaña? Si te interesa por ejemplo encargarte de recopilar exámenes en tu país o apoyar con el procesamiento y análisis de los resultados, indícalo en el formulario y te contactaremos.
-- ¿Cómo se recompensa la colaboración? Todas las personas que procesen más de 300 preguntas serán co-autoras del paper. 
+## 💡 Preguntas frecuentes
 
-## ✅ Ejemplos de exámenes tipo test
+- **¿Hay algún requisito para los exámenes?** Solo uno, que incluyan respuestas.
+- **¿Hay alguna preferencia?** Buscamos especialmente exámenes de tipo test, es decir, con preguntas de opción múltiple. La campaña de recolección está enfocada principalmente en contenido relacionado con la cultura de un país o región (e.g. historia, literatura). Igualmente, vale CUALQUIER tipo de examen.
+- **¿Cómo puedo ayudar?** Mándanos un enlace a un examen con este [formulario](https://forms.gle/wRnoxvTq7MKg5dpw9), nos encargamos de procesarlo.
+- **¿Puedo participar más activamente en esta campaña?** Si te interesa por ejemplo encargarte de recopilar exámenes en tu país, apoyar con su procesamiento o con el análisis de los resultados, indícalo en la última pregunta del formulario y te contactaremos.
+- **¿Cómo se recompensa la colaboración activa?** Las personas que procesen más de 300 preguntas podrán ser co-autoras en los papers relacionados con el benchmark. 
 
-- Licencias de conducir
+## ✅ Ejemplos de exámenes
+
 - Exámenes de acceso a la universidad
+- Exámenes del colegio o de instituto
 - Exámenes habilitantes de profesiones (medicina, psicología, derecho, etc.)
 - Exámenes de idiomas
+- Licencias de conducir
 - Preguntas de concursos estilo "¿Quién quiere ser millonario?"
+- Preguntas de juegos tipo Trivial Pursuit
+- Tests de autoevaluación en libros de texto
 
 ## 📚 Enlaces útiles
 
-- Paper original de INCLUDE: https://arxiv.org/abs/2411.19799
-- Dataset en Hugging Face: https://huggingface.co/datasets/CohereForAI/include-base-44
-- Formulario para añadir exámenes: https://forms.gle/wRnoxvTq7MKg5dpw9
-- Comunidad de Discord: https://discord.com/invite/my8w7JUxZR
+- [Paper original de INCLUDE](https://arxiv.org/abs/2411.19799)
+- [Dataset en Hugging Face](https://huggingface.co/datasets/CohereForAI/include-base-44)
+- [Formulario para añadir exámenes](https://forms.gle/wRnoxvTq7MKg5dpw9)
+- [Comunidad de Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
 
 ## 👋 Contacto
 
-- Hemos creado un nuevo canal en nuestra comunidad de [Discord](https://discord.com/invite/my8w7JUxZR) llamado #include-benchmark para responder todas vuestras preguntas relacionadas con el benchmark y vuestra colaboración.
-- También puedes utilizar los canales de cada país o idioma para interactuar con otras personas de la comunidad.
+- Si seleccionas en el formulario que te interesa participar activamente te contactaremos por email.
+- Para la comunidad hispanohablante, hemos creado un nuevo canal en nuestro [Discord](https://discord.com/invite/my8w7JUxZR) llamado #include-benchmark para responder vuestras preguntas relacionadas con el benchmark y cómo colaborar.
