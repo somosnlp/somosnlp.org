@@ -4,20 +4,23 @@ description: Help us create diverse benchmarks to ensure fair representation in 
 date: 2025-01-09T16:00:00.000+00:00
 lang: en
 duration: 1min
-cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
-author: María Grandury
-bio: NLP Researcher and Founder of SomosNLP
-website: https://mariagrandury.com
-twitter: https://twitter.com/mariagrandury
-linkedin: https://www.linkedin.com/in/mariagrandury
-huggingface: https://huggingface.co/mariagrandury
+cover: "https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png"
+author: Angelika Romanou
+bio: PhD Candidate at EPFL (École polytechnique fédérale de Lausanne)
+website: https://agromanou.github.io/
+twitter: https://x.com/agromanou
+linkedin: https://www.linkedin.com/in/angelika-romanou-67067057/
 ---
 
-We are looking for multiple-choice tests in any language to add to the multicultural INCLUDE benchmark. Fill out the [form](https://forms.gle/9VbDMSHvhqSQbtL56) now!
+TL;DR: We are looking for multiple-choice tests in any language to add to the multicultural INCLUDE benchmark. Fill out the [form](https://forms.gle/9VbDMSHvhqSQbtL56) now!
+
+<div class="flex justify-center">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png" alt="INCLUDE" width="400">
+</div>
 
 It is often said that large language models (LLMs) are developing increasingly advanced multilingual capabilities, but in which languages exactly? In the case of languages spoken in several countries, which varieties of the language are being considered? If we aim for LLMs to be multilingual and multicultural, we need to ensure that the entire global community is represented in the datasets. Change starts by creating diverse evaluation benchmarks that allow us to measure the current state and make progress toward truly inclusive LLMs.
 
-[INCLUDE](https://arxiv.org/abs/2411.19799) is a multilingual LLM evaluation benchmark with a cultural focus. The first version, published in December 2024, included 42 languages, including Spanish (from Peru and Spain). To extend this benchmark and make it more representative, SomosNLP is seeking tests in Spanish from all Spanish-speaking countries and in all languages spoken in Latin America, the Caribbean, and Spain.
+[INCLUDE](https://arxiv.org/abs/2411.19799) is a multilingual LLM evaluation benchmark with a cultural focus. The first version, published in December 2024, included 42 languages. To extend this benchmark and make it more representative, we are seeking tests in every language.
 
 ## 💡 Frequently Asked Questions
 
@@ -43,6 +46,10 @@ It is often said that large language models (LLMs) are developing increasingly a
 - [Original INCLUDE paper](https://arxiv.org/abs/2411.19799)  
 - [Dataset on Hugging Face](https://huggingface.co/datasets/CohereForAI/include-base-44)  
 - [Form to submit exams](https://forms.gle/9VbDMSHvhqSQbtL56)  
+
+## 🚀 Meet the team
+
+Angelika Romanou, Antoine Bosselut, Negar Foroutan and Anna Sotnikova from EPFL (École Polytechnique Fédérale de Lausanne), María Grandury from SomosNLP, Jabez Magomere from the University of Oxford, and Shamsuddeen H. Muhammad from Imperial College London.
 
 ## 👋 Contact
 
