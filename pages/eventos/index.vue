@@ -1,13 +1,16 @@
 <script setup lang="ts">
+import { useI18n } from 'vue-i18n'
+
+const { t } = useI18n()
 </script>
 
 <template>
     <Container class="my-12">
 
         <header class="m-auto text-center prose">
-            <h1>Eventos</h1>
+            <h1>{{ t('events.title') }}</h1>
             <p class="text-lg">
-                Charlas y talleres impartidos por especialistas del campo del PLN.
+                {{ t('events.subtitle') }}
             </p>
         </header>
 
@@ -31,12 +34,12 @@
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
                 <a href="https://somosnlp.org/eventos/calendario" target="_blank" class="button-accent">
                     <carbon:calendar />
-                    Ver el calendario de eventos
+                    {{ t('events.calendar.view') }}
                 </a>
                 <a href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
                     target="_blank" class="button-gray">
                     <carbon:logo-google />
-                    Unirme al calendario
+                    {{ t('events.calendar.join') }}
                 </a>
             </div>
 
@@ -53,7 +56,7 @@
             </div>
             -->
 
-            <h3 id="eventos-madrid">✨ Eventos Presenciales en Madrid</h3>
+            <h3 id="eventos-madrid">{{ t('events.sections.madrid') }}</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -69,7 +72,7 @@
                 </div>
             </div>
 
-            <h3 id="hackathon-2024">🔥 Charlas y talleres del Hackathon 2024</h3>
+            <h3 id="hackathon-2024">{{ t('events.sections.hackathon-2024') }}</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -140,24 +143,24 @@
 
             <div class="m-12">
                 <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
-                    dark="text-accent-400">Grabaciones de eventos</span>
+                    dark="text-accent-400">{{ t('events.sections.recordings') }}</span>
                 <ul>
                     <li>
-                        <a href="#hackathon-2023">Charlas y talleres del Hackathon 2023</a>
+                        <a href="#hackathon-2023">{{ t('events.sections.hackathon-2023') }}</a>
                     </li>
                     <li>
-                        <a href="#hackathon-2022">Charlas y talleres del Hackathon 2022</a>
+                        <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
                     </li>
                     <li>
-                        <a href="#somos-mujeres-nlp">Somos Mujeres NLP</a>
+                        <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
                     </li>
                     <li>
-                        <a href="#proyectos-de-la-comunidad">Proyectos de la comunidad</a>
+                        <a href="#proyectos-de-la-comunidad">{{ t('events.sections.community') }}</a>
                     </li>
                 </ul>
             </div>
 
-            <h3 id="hackathon-2023">🚀 Charlas y talleres del Hackathon 2023</h3>
+            <h3 id="hackathon-2023">{{ t('events.sections.hackathon-2023') }}</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -246,12 +249,9 @@
 
             <hr class="mx-auto mt-8 mb-12 prose" />
 
-            <h3 id="hackathon-2022">🚀 Charlas y talleres del Hackathon 2022</h3>
+            <h3 id="hackathon-2022">{{ t('events.sections.hackathon-2022') }}</h3>
             <p>
-                El ecosistema de 🤗, etiquetado y muestreo de
-                datos, entrenamiento de modelos y debugging, traducción,
-                clustering, escritura de abstracts...
-                ¡Todos estos temas explicados por especialistas!
+                {{ t('events.sections.hackathon-2022-description') }}
             </p>
 
             <div class="mx-auto my-8 text-center">
@@ -326,11 +326,9 @@
 
             <hr class="mx-auto mt-8 mb-12 prose" />
 
-            <h3 id="somos-mujeres-nlp">💜 Somos Mujeres NLP</h3>
+            <h3 id="somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</h3>
             <p>
-                Iniciativas para dar visibilidad a mujeres que trabajan e investigan en el campo del PLN y a proyectos
-                que
-                aplican el PLN para luchar contra el sexismo.
+                {{ t('events.sections.somos-mujeres-nlp-description') }}
             </p>
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
@@ -349,13 +347,15 @@
 
             <hr class="mx-auto mt-8 mb-12 prose" />
 
-            <h3 id="proyectos-de-la-comunidad">🙌 Proyectos de la comunidad</h3>
+            <h3 id="proyectos-de-la-comunidad">{{ t('events.sections.community') }}</h3>
             <p>
-                Talleres en los que miembros de la comunidad presentan sus
-                proyectos, e.g.: proyectos ganadores de hackathones.
+                {{ t('events.sections.community-description') }}
             </p>
-            <p>¿Te gustaría presentar tu proyecto? ¡Este es tu espacio! <a
-                    href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank">Mándanos la información</a>💡
+            <p>
+                {{ t('events.sections.community-description-2') }}
+                <a
+                    href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f"
+                    target="_blank">{{ t('events.sections.community-description-3') }}</a>💡
             </p>
 
             <div class="mx-auto my-8 text-center">
@@ -391,7 +391,7 @@
             <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank"
                 class="button-accent max-w-100 mx-auto">
                 <carbon:logo-youtube text="xl" />
-                <span text="center">Ver todos los eventos</span>
+                <span text="center">{{ t('events.all-events') }}</span>
             </a>
         </article>
     </Container>
