@@ -6,7 +6,7 @@ lang: en
 duration: 1min
 cover: "https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png"
 author: Angelika Romanou
-bio: PhD Candidate at EPFL (École polytechnique fédérale de Lausanne)
+bio: PhD Candidate at EPFL (École Polytechnique Fédérale de Lausanne)
 website: https://agromanou.github.io/
 twitter: https://x.com/agromanou
 linkedin: https://www.linkedin.com/in/angelika-romanou-67067057/
@@ -20,13 +20,13 @@ TL;DR: We are looking for multiple-choice tests in any language to add to the mu
 
 It is often said that large language models (LLMs) are developing increasingly advanced multilingual capabilities, but in which languages exactly? In the case of languages spoken in several countries, which varieties of the language are being considered? If we aim for LLMs to be multilingual and multicultural, we need to ensure that the entire global community is represented in the datasets. Change starts by creating diverse evaluation benchmarks that allow us to measure the current state and make progress toward truly inclusive LLMs.
 
-[INCLUDE](https://arxiv.org/abs/2411.19799) is a multilingual LLM evaluation benchmark with a cultural focus. The first version, published in December 2024, included 42 languages. To extend this benchmark and make it more representative, we are seeking tests in every language.
+[INCLUDE](https://arxiv.org/abs/2411.19799) is a multilingual LLM evaluation benchmark with a cultural focus. The first version, published in December 2024, included 42 languages. We are looking for tests in all languages to extend this benchmark and make it more representative!
 
 ## 💡 Frequently Asked Questions
 
 - **What are the requirements for the exams?** Only one, the answers must be available.
 - **Are there any preferences?** We are especially interested in multiple-choice tests. Moreover, the collection campaign is mainly focused on content related to a country's or region's culture (e.g., history, literature). Anyway, we welcome ANY type of test.
-- **How can I help?** Send us a link to a test via this [form](https://forms.gle/9VbDMSHvhqSQbtL56), we will take care of processing it.  
+- **How can I help?** Send us links to tests via this [form](https://forms.gle/9VbDMSHvhqSQbtL56), we will take care of processing them.  
 - **Can I participate more actively in this campaign?** If you are interested, for example, in collecting tests in your country, assisting with processing the exams, or analyzing the results, indicate so in the last question of the form and we will contact you.  
 - **How is active collaboration rewarded?** People who process more than 300 questions will be eligible to become co-authors of papers related to the benchmark.
 
@@ -53,4 +53,4 @@ Angelika Romanou, Antoine Bosselut, Negar Foroutan and Anna Sotnikova from EPFL 
 
 ## 👋 Contact
 
-- If you indicate in the form that you are interested in participating actively, we will contact you via email.
+- If you indicate in the form that you are interested in participating actively, we will contact you via email!
