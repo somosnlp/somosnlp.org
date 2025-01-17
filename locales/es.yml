@@ -113,4 +113,7 @@ navbar:
   team: Comunidad
 not-found: No se ha encontrado
 share: Compartir
+resources:
+  title: Recursos Open-Source
+  subtitle: Recursos abiertos y gratuitos para toda la comunidad hispanohablante
 wip: Este enlace pronto te redirigirá a donde querías, estamos en ello

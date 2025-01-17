@@ -1,5 +1,8 @@
 <script setup lang="ts" >
 import { useHead } from '@vueuse/head'
+import { useI18n } from 'vue-i18n'
+
+const { t } = useI18n()
 
 useHead({
     title: 'SomosNLP - Recursos open-source de NLP en español',
@@ -17,6 +20,16 @@ useHead({
 
 <template>
     <Container class="my-12">
+        <header class="m-auto text-center prose">
+            <h1>{{ t('resources.title') }}</h1>
+            <p>{{ t('resources.subtitle') }}</p>
+        </header>
+
+        <hr class="mx-auto mt-8 mb-12 prose" />
+        <div class="my-8 flex justify-center">
+            <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg" alt="Recursos"
+                width="200" height="230" />
+        </div>  
         <ResourcesList />
     </Container>
 </template>
