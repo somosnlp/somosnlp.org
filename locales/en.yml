@@ -106,3 +106,29 @@ resources:
   subtitle: Open-source resources for the Spanish-speaking community
 share: Share
 wip: We are working on it
+community:
+  title: Community
+  subtitle: >-
+    We are an international community where everyone interested in NLP is welcome, join us! 🚀
+  join_discord: Join Discord
+  contribute: I want to contribute
+  speakers:
+    title: Speakers
+    subtitle: >-
+      Thank you to everyone who has shared their experience with the community through mentoring and talks!
+    all_events: All events
+    become_speaker: Become a speaker
+  collaborations:
+    title: Collaborations
+    subtitle: >-
+     Thank you also to all the universities, research centers and companies that have supported us along the way!
+  contact:
+    questions: Would you like to join the team? Give a talk? Launch a project? Sponsor an event?...
+    mission: Would you like to support us in our mission?
+    contact_us: Contact us on
+    or_email: or send an email to
+    closing: We can't wait to meet you! 🚀
+  meta:
+    title: SomosNLP Community
+    description: >-
+      Join our international community of people passionate about NLP
