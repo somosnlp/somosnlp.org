@@ -1,3 +1,30 @@
+events:
+  title: Events
+  subtitle: Talks and workshops by NLP specialists.
+  calendar:
+    view: View events calendar
+    join: Join the calendar
+  sections:
+    madrid: "✨ In-person Events in Madrid"
+    hackathon-2024: "🔥 Hackathon 2024 Talks and Workshops"
+    recordings: "Event Recordings"
+    hackathon-2023: "🚀 Hackathon 2023 Talks and Workshops"
+    hackathon-2022: "🚀 Hackathon 2022 Talks and Workshops"
+    hackathon-2022-description: >-
+      The 🤗 ecosystem, data labeling and sampling, model training and debugging,
+      translation, clustering, abstract writing... All these topics explained by specialists!
+    somos-mujeres-nlp: "💜 We are Women in NLP"
+    somos-mujeres-nlp-description: >-
+      Initiatives to give visibility to women working and researching in NLP and to projects
+      that apply NLP to fight against sexism.
+    community: "🙌 Community Projects"
+    community-description: >-
+      Workshops where community members present their projects, e.g.: hackathon winning projects.
+    community-description-2: >-
+      Would you like to present your project? This is your space!
+    community-description-3: >-
+      Send us the information
+  all-events: See all events
 jobs:
   not_found: No matches found.
   search: Search

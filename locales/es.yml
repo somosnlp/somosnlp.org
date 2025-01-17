@@ -1,3 +1,29 @@
+events:
+  title: Eventos
+  subtitle: Charlas y talleres impartidos por especialistas del campo del PLN.
+  calendar:
+    view: Ver el calendario de eventos
+    join: Unirme al calendario
+  sections:
+    madrid: "✨ Eventos Presenciales en Madrid"
+    hackathon-2024: "🔥 Charlas y talleres del Hackathon 2024"
+    recordings: "Grabaciones de eventos"
+    hackathon-2023: "🚀 Charlas y talleres del Hackathon 2023"
+    hackathon-2022: "🚀 Charlas y talleres del Hackathon 2022"
+    hackathon-2022-description: >-
+      El ecosistema de 🤗, etiquetado y muestreo de datos, entrenamiento de
+      modelos y debugging, traducción, clustering, escritura de abstracts... ¡Todos estos temas explicados por especialistas!
+    somos-mujeres-nlp: "💜 Somos Mujeres NLP"
+    somos-mujeres-nlp-description: >-
+      Iniciativas para dar visibilidad a mujeres que trabajan e investigan en el campo del PLN y a proyectos que aplican el PLN para luchar contra el sexismo.
+    community: "🙌 Proyectos de la comunidad"
+    community-description: >-
+      Talleres en los que miembros de la comunidad presentan sus proyectos, e.g.: proyectos ganadores de hackathones.
+    community-description-2: >-
+      ¿Te gustaría presentar tu proyecto? ¡Este es tu espacio!
+    community-description-3: >-
+      Mándanos la información
+  all-events: Ver todos los eventos
 jobs:
   not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   search: Buscar
