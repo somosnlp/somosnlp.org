@@ -20,16 +20,6 @@ const routes_notebooks = filterRoutes(['/recursos/tutoriales']);
 </script>
         
 <template>
-    <header class="m-auto text-center prose">
-        <h1>Recursos Open-Source</h1>
-        <p>Recursos abiertos y gratuitos para toda la comunidad hispanohablante</p>
-    </header>
-
-    <hr class="mx-auto mt-8 mb-12 prose" />
-    <div class="my-8 flex justify-center">
-        <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg" alt="Recursos"
-            width="200" height="230" />
-    </div>
     <div class="auto-rows-fr grid gap-2 lg:grid-cols-2">
         <BlogItem v-for="route in routes_open_source" :key="route.path" :route="route" />
     </div>

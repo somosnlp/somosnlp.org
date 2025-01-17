@@ -101,5 +101,8 @@ navbar:
   resources: Resources
   team: Community
 not-found: Not found
+resources:
+  title: Open-Source Resources
+  subtitle: Open-source resources for the Spanish-speaking community
 share: Share
 wip: We are working on it
