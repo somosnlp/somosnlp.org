@@ -1,5 +1,9 @@
 <script setup lang="ts">
 import { useHead } from '@vueuse/head'
+import { useI18n } from 'vue-i18n'
+
+const { t } = useI18n()
+
 useHead({
     meta: [
         { name: 'twitter:card', content: 'summary' },
@@ -16,10 +20,9 @@ useHead({
 <template>
     <Container class="mx-36 my-12">
         <header class="m-auto text-center prose">
-            <h1>Comunidad</h1>
+            <h1>{{ t('community.title') }}</h1>
             <p class="text-lg">
-                Somos una comunidad internacional en la que todas las personas interesadas en el PLN son bienvenidas,
-                ¡únete! 🚀
+                {{ t('community.subtitle') }}
             </p>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
@@ -37,22 +40,20 @@ useHead({
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
                 <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">
                     <carbon:user-multiple />
-                    Únete a Discord
+                    {{ t('community.join_discord') }}
                 </a>
                 <router-link to="/nuestra-mision" target="_blank" class="button-gray">
                     <carbon:bullhorn />
-                    Quiero contribuir
+                    {{ t('community.contribute') }}
                 </router-link>
             </div>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
             <div class="m-auto justify-center m-auto text-center prose ">
-                <h2>Ponentes</h2>
+                <h2>{{ t('community.speakers.title') }}</h2>
                 <p class="text-lg">
-                    ¡Gracias a todas las personas que habéis compartido vuestra experiencia con la comunidad mediante
-                    mentorías
-                    y ponencias!
+                    {{ t('community.speakers.subtitle') }}
                 </p>
             </div>
             <br />
@@ -60,21 +61,20 @@ useHead({
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
                 <router-link to="/eventos" target="_blank" class="button-accent">
                     <carbon:logoYoutube />
-                    Todos los eventos
+                    {{ t('community.speakers.all_events') }}
                 </router-link>
                 <a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" class="button-gray">
                     <carbon:bullhorn />
-                    Quiero ser ponente
+                    {{ t('community.speakers.become_speaker') }}
                 </a>
             </div>
         </div>
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
             <div class="m-auto text-center prose">
-                <h2>Colaboraciones</h2>
+                <h2>{{ t('community.collaborations.title') }}</h2>
                 <p class="text-lg">
-                    ¡Gracias también a todas las universidades, centros de investigación y empresas que nos habéis
-                    apoyado en nuestro camino!
+                    {{ t('community.collaborations.subtitle') }}
                 </p>
             </div>
             <br />
@@ -83,18 +83,14 @@ useHead({
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div>
             <p class="m-auto text-center prose text-lg">
-                ¿Te gustaría formar parte del equipo?
-                ¿Dar una charla?
-                ¿Lanzar un proyecto?
-                ¿Patrocinar un evento?...
-                ¿Te gustaría apoyarnos en <a class="contents" href="http://somosnlp.org/nuestra-mision"
-                    target="_blank">nuestra misión</a>?
+                {{ t('community.contact.questions') }}
+                <a class="contents" href="http://somosnlp.org/nuestra-mision" target="_blank">{{ t('community.contact.mission') }}</a>
                 <br /><br />
-                Contáctanos por
+                {{ t('community.contact.contact_us') }}
                 <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>
-                o manda un email a info@somosnlp.org
+                {{ t('community.contact.or_email') }} info@somosnlp.org
                 <br /><br />
-                ¡Estamos impacientes por conocerte! 🚀
+                {{ t('community.contact.closing') }}
             </p>
         </div>
     </Container>

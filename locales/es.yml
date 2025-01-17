@@ -117,3 +117,28 @@ resources:
   title: Recursos Open-Source
   subtitle: Recursos abiertos y gratuitos para toda la comunidad hispanohablante
 wip: Este enlace pronto te redirigirá a donde querías, estamos en ello
+community:
+  title: Comunidad
+  subtitle: >-
+    Somos una comunidad internacional en la que todas las personas interesadas en el PLN son bienvenidas, ¡únete! 🚀
+  join_discord: Únete a Discord
+  contribute: Quiero contribuir
+  speakers:
+    title: Ponentes
+    subtitle: >-
+      ¡Gracias a todas las personas que habéis compartido vuestra experiencia con la comunidad mediante mentorías y ponencias!
+    all_events: Todos los eventos
+    become_speaker: Quiero ser ponente
+  collaborations:
+    title: Colaboraciones
+    subtitle: >-
+      ¡Gracias también a todas las universidades, centros de investigación y empresas que nos habéis apoyado en nuestro camino!
+  contact:
+    questions: ¿Te gustaría formar parte del equipo? ¿Dar una charla? ¿Lanzar un proyecto? ¿Patrocinar un evento?...
+    mission: ¿Te gustaría apoyarnos en nuestra misión?
+    contact_us: Contáctanos por
+    or_email: o manda un email a
+    closing: ¡Estamos impacientes por conocerte! 🚀
+  meta:
+    title: Comunidad SomosNLP
+    description: Únete a nuestra comunidad internacional de personas apasionadas por el PLN
