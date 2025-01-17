@@ -1,16 +1,29 @@
 <script setup lang="ts">
 import { useRouter } from 'vue-router'
+import { useLanguage } from '~/composables/useLanguage'
+import { computed } from 'vue'
 
-const isProduction = import.meta.env.PROD;
+const isProduction = import.meta.env.PROD
 const router = useRouter()
-const routes = router.getRoutes()
-    .filter(
-        i => i.path.startsWith('/blog/')
-            && (i.meta as any).frontmatter.date
-            && (!isProduction || !i.path.startsWith('/blog/examples'))
-            && !i.path.startsWith('/blog/en')
-    )
-    .sort((a, b) => +new Date((b.meta as any).frontmatter.date) - +new Date((a.meta as any).frontmatter.date))
+const { language } = useLanguage()
+
+const routes = computed(() => {
+    return router.getRoutes()
+        .filter(i => {
+            // Basic blog post filters
+            const isBlogPost = i.path.startsWith('/blog/')
+            const hasDate = (i.meta as any).frontmatter?.date
+            const notExample = !isProduction || !i.path.startsWith('/blog/examples')
+            
+            // Filter out English translations in Spanish mode
+            // and Spanish versions in English mode
+            const isEnglishPost = i.path.endsWith('.en')
+            const matchesLanguage = language.value === 'en' ? isEnglishPost : !isEnglishPost
+            
+            return isBlogPost && hasDate && notExample && matchesLanguage
+        })
+        .sort((a, b) => +new Date((b.meta as any).frontmatter.date) - +new Date((a.meta as any).frontmatter.date))
+})
 </script>
 
 <template>

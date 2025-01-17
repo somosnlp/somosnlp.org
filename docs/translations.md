@@ -29,7 +29,13 @@ Used exclusively for blog posts under the `/blog` directory.
 - Spanish: `/blog/post-name`
 - English: `/en/blog/post-name`
 
-### Fallback Behavior
+### Blog List Behavior
+- Spanish mode: Shows only `.md` files
+- English mode: Shows `.en.md` files when available, falls back to `.md` files
+- Prevents duplicate posts in the list
+- Updates reactively when language changes
+
+### Content Fallback Behavior
 - If an English translation exists (`.en.md`), it will be shown when English is selected
 - If no English translation exists, it falls back to Spanish content while maintaining the English UI
 
@@ -55,6 +61,13 @@ Located in `pages/[...all].vue`:
 - Manages blog post translations
 - Falls back to Spanish content when needed
 - Shows 404 when content is not found
+
+### BlogList.vue Component
+Located in `src/components/BlogList.vue`:
+- Filters posts based on current language
+- Shows appropriate translations
+- Maintains proper post ordering by date
+- Handles production/development differences
 
 ## Adding New Translations
 
