@@ -27,6 +27,16 @@ events:
 jobs:
   not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   search: Buscar
+  title: Bolsa de Empleo de PLN
+  subtitle: Encuentra ofertas de empleo e investigación relacionadas con el Procesamiento del Lenguaje Natural
+  disclaimer: Las entidades son responsables de publicar información correcta y actualizarla.
+  total: Total Ofertas Publicadas
+  looking_for_job: BUSCO EMPLEO
+  follow_us: ¡Síguenos! Anunciamos las ofertas en
+  and_discord: y el canal \#empleo de
+  looking_for_talent: BUSCO TALENTO
+  post_job_1: Para que aparezca aquí tu oferta de empleo
+  post_job_2: rellena este formulario
 landing-page:
   banner: ¡Nueva Leaderboard de Variedades del Español y Lenguas Oficiales! 🔥
   contribute:
@@ -102,4 +112,5 @@ navbar:
   resources: Recursos
   team: Comunidad
 not-found: No se ha encontrado
+share: Compartir
 wip: Este enlace pronto te redirigirá a donde querías, estamos en ello

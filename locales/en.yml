@@ -26,8 +26,18 @@ events:
       Send us the information
   all-events: See all events
 jobs:
-  not_found: No matches found.
+  not_found: No job offers match your search yet.
   search: Search
+  title: NLP Job Board
+  subtitle: Find job and research opportunities related to Natural Language Processing
+  disclaimer: Organizations are responsible for publishing and updating correct information.
+  total: Total Published Offers
+  looking_for_job: LOOKING FOR A JOB
+  follow_us: Follow us! We announce job offers on
+  and_discord: and the \#jobs channel on
+  looking_for_talent: LOOKING FOR TALENT
+  post_job_1: To post your job offer here
+  post_job_2: fill out this form
 landing-page:
   banner: Check the new Leaderboard for Spanish Varieties and Official Languages! 🔥
   contribute:
@@ -91,4 +101,5 @@ navbar:
   resources: Resources
   team: Community
 not-found: Not found
+share: Share
 wip: We are working on it
