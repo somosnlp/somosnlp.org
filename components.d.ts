@@ -50,6 +50,7 @@ declare module 'vue' {
     README: typeof import('./src/components/README.md')['default']
     ResourceItem: typeof import('./src/components/ResourceItem.vue')['default']
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
+    'SimpleIcons:googlescholar': typeof import('virtual:vite-icons/simple-icons/googlescholar')['default']
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
     SocialMediaButtonsAll: typeof import('./src/components/SocialMediaButtonsAll.vue')['default']
     SpeakerList: typeof import('./src/components/SpeakerList.vue')['default']
