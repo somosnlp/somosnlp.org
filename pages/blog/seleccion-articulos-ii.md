@@ -1,7 +1,7 @@
 ---
 title: Selección de artículos II (Dic 2024)
 description: Selección de artículos relevantes para la comunidad hispanohablante.
-date: 2024-12-T12:00:00.000+00:00
+date: 2024-12-3T12:00:00.000+00:00
 lang: es
 duration: 4min
 cover: https://somosnlp.github.io/assets/images/blog/serie_articulos.jpg
