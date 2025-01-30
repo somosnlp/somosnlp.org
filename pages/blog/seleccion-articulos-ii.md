@@ -4,7 +4,7 @@ description: Selección de artículos relevantes para la comunidad hispanohablan
 date: 2024-12-3T12:00:00.000+00:00
 lang: es
 duration: 4min
-cover: https://somosnlp.github.io/assets/images/blog/serie_articulos.jpg
+cover: https://somosnlp.github.io/assets/images/blog/seleccion_articulos.png
 author: Gonzalo Martínez, PhD
 bio: Investigador de PLN @UC3M
 scholar: https://scholar.google.com/citations?user=FF6Yw5QAAAAJ
@@ -16,6 +16,10 @@ Sabemos que es casi imposible mantenerse al día con todas las novedades en el m
 
 En esta edición nos hemos centrado en los artículos sobre español de la conferencia EMNLP, ¡una de las más importantes de NLP en todo el mundo!
 
+
+<div class="flex justify-center">
+    <img src="https://github.com/somosnlp/assets/raw/main/images/blog/seleccion_articulos_laura_rdgz.png" alt="Selección de artículos" width="400">
+</div>
 
 ## 🔍 Simplificación Léxica en Español y Catalán: Dos nuevos Corpus
 
