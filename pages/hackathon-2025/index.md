@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2025"
 description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y a estandarizar cómo evaluar nuestros LLMs.
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
 ---
 
 Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
