@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2025: Patrocinios"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
 ---
 
 ¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las tres ediciones anteriores **contamos cada vez con más de 500 registros de 30 países distintos y superamos las 5.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear datos que nos permitan crear modelos de lenguaje inclusivos y de calidad, adaptados a las diversas culturas de LATAM y la Península Ibérica.

@@ -4,7 +4,7 @@ description: Descubre los proyectos finales y las charlas impartidas
 date: 2024-05-03T18:00:00.000+00:00
 lang: es
 duration: 6min
-cover: "https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
+cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
 author: María Grandury
 bio: Fundadora de SomosNLP
 website: https://mariagrandury.com
