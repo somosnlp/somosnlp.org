@@ -119,7 +119,7 @@ Lo que pedimos a las universidades colaboradoras:
 - Presentar al menos 1 equipo de estudiantes al hackathon
 
 Enlaces útiles:
-- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
+- [🎓 Info para universidades](https://somosnlp.org/hackathon-2024/universidades)
 
 <center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 </details>

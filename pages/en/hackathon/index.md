@@ -30,8 +30,8 @@ Join now the largest open-source Natural Language Processing hackathon in Spanis
 
 - [💻 Participate in the hackathon and/or attend specialist talks](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 - [🤗 Join the team organizing it](https://forms.gle/radg18NMLRZMPu38A)
-- [🙌 Sponsor this wonderful event](https://somosnlp.org/hackathon/sponsorships)
-- [🔊 Propose a talk](https://somosnlp.org/hackathon/talks)
+- [🙌 Sponsor this wonderful event](https://somosnlp.org/hackathon-2024/sponsorships)
+- [🔊 Propose a talk](https://somosnlp.org/hackathon-2024/talks)
 - [🧑‍🏫 Offer mentoring](https://forms.gle/7UmsVDnFmNo1pCrf9)
 - [📚 Donate a database](https://somosnlp.org/donateyourcorpus)
  -->
@@ -77,7 +77,7 @@ Do you have expertise in NLP or a related field? Share your knowledge with the c
 
 Please fill out the form with your proposal, and we will get back to you with more details.
 
-<center><a href="https://somosnlp.org/en/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propose now</a></center>
+<center><a href="https://somosnlp.org/en/hackathon-2024/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propose now</a></center>
 </details>
 
 <details  style="margin-bottom: 20px;">
@@ -108,7 +108,7 @@ Your support as a sponsor will help us make the hackathon a success and contribu
 
 For more information on sponsorship opportunities, please visit our website or contact us directly.
 
-<center><a href="https://somosnlp.org/en/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Sponsor now</a></center>
+<center><a href="https://somosnlp.org/en/hackathon-2024/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Sponsor now</a></center>
 </details>
 
 ---
