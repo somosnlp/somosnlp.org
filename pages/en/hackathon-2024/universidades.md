@@ -53,4 +53,4 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" 
 
 ---
 
-[Back to hackathon main page](https://somosnlp.org/en/hackathon)
+[Back to hackathon main page](https://somosnlp.org/en/hackathon-2024)

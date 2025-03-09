@@ -228,4 +228,4 @@ Good luck to all participants! 🌟
 
 ---
 
-[Back to hackathon main page](https://somosnlp.org/en/hackathon)
+[Back to hackathon main page](https://somosnlp.org/en/hackathon-2024)

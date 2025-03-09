@@ -11,7 +11,7 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif)
 
-*([English version](https://somosnlp.org/en/hackathon))*
+*([English version](https://somosnlp.org/en/hackathon-2024))*
 
 <!--
 ## 🚀 Cómo puedes colaborar
