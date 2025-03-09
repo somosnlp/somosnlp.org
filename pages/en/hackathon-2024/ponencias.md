@@ -11,4 +11,4 @@ A priori all the talks will be given in Spanish. Anyway, we will be happy to hea
 
 ---
 
-[Back to hackathon main page](https://somosnlp.org/en/hackathon)
+[Back to hackathon main page](https://somosnlp.org/en/hackathon-2024)

@@ -94,4 +94,4 @@ Both types of visibility sponsorships are crucial for reaching a wider audience 
 
 We know that some people have supported us from the beginning and others have just met us and will support us in this new stage. We want to thank you for your effort and trust by adding your photo on the new "Community" page, send us your information!
 
-[Back to hackathon main page](https://somosnlp.org/en/hackathon)
+[Back to hackathon main page](https://somosnlp.org/en/hackathon-2024)
