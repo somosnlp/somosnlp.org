@@ -11,6 +11,8 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+suggestedPosts:
+  - /blog/include
 ---
 
 ## 🔥 Hackathon SomosNLP 2025
