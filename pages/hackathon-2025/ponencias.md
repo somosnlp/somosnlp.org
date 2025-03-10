@@ -7,9 +7,9 @@ cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon SomosNLP.
 
-<center><a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
+<center><a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
 
-<center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
+<center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
 
 ## Temas sugeridos
 
@@ -34,4 +34,4 @@ Aviso: Se debe contar con un Patrocinio de Oro para impartir una charla promocio
 
 ¡Esperamos con interés tu participación!
 
-<center><a href="https://forms.gle/YpUvifDNLG6E56Cy9" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
+<center><a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
