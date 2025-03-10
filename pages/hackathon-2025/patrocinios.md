@@ -11,7 +11,7 @@ Los tipos de patrocinios están explicados a continuación. En cuanto recibamos 
 
 Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 ## Tipos de patrocinio
 
@@ -22,9 +22,9 @@ Aceptamos donaciones económicas y en especie (e.g., créditos para GPUs, formac
 <details>
 <summary>Categorías de donación y beneficios</summary>
 
-- **🥇 Oro**, donación total valorada en 1000€: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
-- **🥈 Plata**, donación total valorada en 600€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
-- **🥉 Bronce**, donación total valorada en 200€: logo mediano en tercer puesto y visibilidad en RRSS.
+- **🥇 Oro**, donación total valorada en 2000€: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
+- **🥈 Plata**, donación total valorada en 1000€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
+- **🥉 Bronce**, donación total valorada en 500€: logo mediano en tercer puesto y visibilidad en RRSS.
 
 </details>
 
@@ -42,7 +42,7 @@ Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un cur
 
 Para determinar la categoría de patrocinio se calculará el valor total combinando donaciones y vales.
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 </details>
 
@@ -69,7 +69,7 @@ Para consideraros patrocinio de Comunidad 🤗 os pedimos:
 - Publicar posts / blog anunciando los resultados del hackathon
 - RT / comentar las publicaciones en las que os mencionemos
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 </details>
 
@@ -109,7 +109,7 @@ Lo que pedimos a las universidades colaboradoras:
 Enlaces útiles:
 - [🎓 Info para universidades](https://somosnlp.org/hackathon-2025/universidades)
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 </details>
 
 
@@ -152,7 +152,7 @@ Estamos a tu disposición en info@somosnlp.org y Discord.
 
 Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 ---
 

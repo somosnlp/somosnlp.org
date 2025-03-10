@@ -14,7 +14,7 @@ Este hackathon es una experiencia ideal para que tus estudiantes mejoren sus con
 - **¿Puedo utilizar el hackathon como actividad en el aula?** Sí, siempre y cuando se respeten las fechas y condiciones fijadas para el resto de participantes.
 - **¿Hay un número máximo de equipos por universidad o profe?** No, ¡cuantos más, mejor! El número máximo de personas por equipo es 5.
 - **¿Podéis dar una charla de presentación de la comunidad y el evento para mi universidad o clase?** Sí, claro, contáctanos cuanto antes para fijar la fecha.
-- **Como profe, ¿puedo impartir una ponencia o mentoría durante el hackathon?** ¡Claro que sí! Será un placer contar con vuestro alumnado Y profesorado. Rellena el formulario correspondiente para proponer una [ponencia](https://forms.gle/YpUvifDNLG6E56Cy9) o una [mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9).
+- **Como profe, ¿puedo impartir una ponencia o mentoría durante el hackathon?** ¡Claro que sí! Será un placer contar con vuestro alumnado Y profesorado. Rellena el formulario correspondiente para proponer una [ponencia](https://forms.gle/n6DsNF5RwerA4oPf6) o una [mentoría](https://forms.gle/izE8j4nW2JsWcQT26).
 - **Parte de mi alumnado no habla español, ¿es un problema?** No, todo el mundo es bienvenido, en esta edición [las instrucciones están traducidas al inglés](https://somosnlp.org/en/hackathon-2025/bases).
 - *¡NOVEDAD!* **¿Podemos celebrar el hackathon de manera presencial en la universidad?** Sí, las universidades que quieran pueden poner a disposición de su alumnado (y participantes de la misma ciudad) una sala en la que se puedan juntar y desarrollar de manera presencial sus proyectos. Avísanos para que os podamos ayudar.
 

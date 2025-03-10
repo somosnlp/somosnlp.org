@@ -9,7 +9,9 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif)
+<!-- ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif) -->
+
+![Cartel #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
 
 *([English version](https://somosnlp.org/en/hackathon-2025)*
 
@@ -38,7 +40,7 @@ En esta cuarta edición continuamos fijando objetivos de alto impacto:
 
 ¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
 
-![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
+![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
 
 ## ¿Cómo puedes colaborar?
 
@@ -47,11 +49,11 @@ En esta cuarta edición continuamos fijando objetivos de alto impacto:
 
 En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de abril tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
 
-¿Y hasta que llegue abril? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546)
+¿Y hasta que llegue abril? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 
 <!-- TODO: También te invitamos a seguir las charlas de la conferencia KHIPU.AI -->
 
-<center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+<center><a href="https://forms.gle/EJDc2H69Sko9gXL79" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 
 <!-- <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center> -->
 
@@ -66,10 +68,10 @@ Al unirte a este hackathon tendrás la oportunidad de colaborar con la creación
 
 Desde SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
 
-Publicaremos las bases del hackathon el día 13 de febrero durante la conferencia KHIPU.AI 🎉 
+Publicaremos las bases del hackathon el día 13 de marzo durante la conferencia KHIPU.AI 🎉 
 
   <div class="text-center">
-    <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
+    <a href="https://forms.gle/EJDc2H69Sko9gXL79" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
 
 <!-- <div class="grid grid-cols-2">
@@ -121,7 +123,7 @@ Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa
 
 Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre Cultural NLP.
 
-<center><a href="https://forms.gle/radg18NMLRZMPu38A" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
+<center><a href="https://forms.gle/EJDc2H69Sko9gXL79" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
 
 </details>
 
@@ -139,7 +141,7 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 Comparte tu experiencia y conocimiento apoyando a los equipos participantes a crear bases de datos de calidad y entrenar un buen LLM. Puedes impartir una mentoría puntual o continua. ¡Piensa en tus puntos fuertes y ofrece una mentoría!
 
-<center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
+<center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
 
 </details>
 
