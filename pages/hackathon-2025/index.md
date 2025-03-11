@@ -5,7 +5,11 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
+Somos 600M de personas hispanohablantes, vamos a darle a nuestras diversas culturas una representación justa en el ámbito del PLN. Únete ya al Hackathon SomosNLP, el mayor hackathon open-source Procesamiento del Lenguaje Natural en español 🚀
+
+En las ediciones pasadas contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+
+En esta cuarta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje a cada uno de los países de LATAM y la Península Ibérica**.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
@@ -13,7 +17,7 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ![Cartel #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
 
-*([English version](https://somosnlp.org/en/hackathon-2025)*
+*([English version](https://somosnlp.org/en/hackathon-2025))*
 
 <!--
 ## 🚀 Cómo puedes colaborar
@@ -26,21 +30,6 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 - [📚 Dona una base de datos](https://somosnlp.org/donatucorpus)
  -->
 
-## 🚀 Nuestros objetivos
-
-La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
-
-En las ediciones pasadas contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
-
-<!--
-En esta cuarta edición continuamos fijando objetivos de alto impacto:
-1. 🌎 Crear el mayor **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
-2. ✅ Crear la primera **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
--->
-
-¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
-
-![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
 
 ## ¿Cómo puedes colaborar?
 
