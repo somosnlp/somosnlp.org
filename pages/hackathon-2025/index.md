@@ -42,7 +42,7 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 <!-- TODO: También te invitamos a seguir las charlas de la conferencia KHIPU.AI -->
 
-<center><a href="https://forms.gle/EJDc2H69Sko9gXL79" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+<center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 
 <!-- <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center> -->
 
@@ -60,7 +60,7 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
 Publicaremos las bases del hackathon el día 13 de marzo durante la conferencia KHIPU.AI 🎉 
 
   <div class="text-center">
-    <a href="https://forms.gle/EJDc2H69Sko9gXL79" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
+    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
 
 <!-- <div class="grid grid-cols-2">
@@ -112,7 +112,7 @@ Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa
 
 Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre Cultural NLP.
 
-<center><a href="https://forms.gle/EJDc2H69Sko9gXL79" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
+<center><a href="https://forms.gle/N5qtmZRuwobKTkjn7" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
 
 </details>
 
