@@ -119,7 +119,7 @@ Enlaces útiles:
 <summary>Tabla detallada de beneficios</summary>
 
 | | Oro | Plata | Bronce | Visibilidad |
-|-| --------|-----|-------|--------|-----------|
+|-| --------|-------|--------|-----------|
 | Logo en la página web del hackathon y la de registro | ✅ L | ✅ M | ✅ M | ✅ S |
 | Logo en la página "Comunidad" (orden) | ✅ 1º | ✅ 2º | ✅ 3º | ✅ 4º |
 | Agradecimiento en RRSS y anuncio colaboración | ✅ | ✅ | ✅ | ✅ |
