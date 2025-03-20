@@ -9,7 +9,7 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 
 
-<center><a href="/hackathon-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2025</a></center>
+<center><a href="/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2025</a></center>
 
 ## Ediciones anteriores
 
