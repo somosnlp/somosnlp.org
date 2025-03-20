@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2025"
 description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Somos 600M de personas hispanohablantes. El español es el principal idioma en 21 países, cada uno con gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source Procesamiento del Lenguaje Natural en español 🚀
@@ -21,9 +21,7 @@ Aquí tienes los enlaces útiles, sigue leyendo para más información.
 - 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/izE8j4nW2JsWcQT26)
 - 🙌 [Patrocina este maravilloso evento](https://somosnlp.org/hackathon/patrocinios)
 
-<!-- ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif) -->
-
-![Cartel #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
+![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/250401_hackathon.gif)
 
 *([English version](https://somosnlp.org/en/hackathon))*
 

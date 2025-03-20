@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP"
 description: Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.

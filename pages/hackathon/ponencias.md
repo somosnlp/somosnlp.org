@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2025: Call for Talks"
 description: ¡Comparte tu conocimiento con la comunidad!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon SomosNLP.
@@ -11,6 +11,8 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
   <a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a>
   <a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a>
 </div>
+
+![Call for talks](https://somosnlp.github.io/assets/images/eventos/250401_hackathon_callfortalks.jpg)
 
 ## Ponencias: temas sugeridos
 
