@@ -13,13 +13,14 @@ En esta cuarta edición nos vamos a centrar en la creación de recursos que nos 
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-Aquí tienes los enlaces útiles, sigue leyendo para más información.
+Aquí tienes los enlaces a todos los formularios, sigue leyendo para más información.
 
 - 💻 [Participa en el hackathon y/o asiste a las charlas](https://forms.gle/bDaBC7XV3iu2trj59)
-- 🤗 [Únete al equipo que lo organiza](https://forms.gle/N5qtmZRuwobKTkjn7)
-- 🔊 [Propón una ponencia](https://somosnlp.org/hackathon/ponencias)
+- 🔊 [Propón una ponencia](https://forms.gle/n6DsNF5RwerA4oPf6)
 - 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/izE8j4nW2JsWcQT26)
-- 🙌 [Patrocina este maravilloso evento](https://somosnlp.org/hackathon/patrocinios)
+- 🙌 [Patrocina este maravilloso evento](https://forms.gle/DmKCzhvSf7dCeLzJA)
+- 📣 [Ayúdanos a difundir el evento](https://forms.gle/FUQPYBsqtmwKM3Vo6)
+- 🤗 [Únete al equipo que lo organiza](https://forms.gle/N5qtmZRuwobKTkjn7)
 
 ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/250401_hackathon.gif)
 
@@ -104,15 +105,6 @@ Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa
 -->
 
 <details  style="margin-bottom: 20px;">
-<summary>🤗 Únete al equipo</summary>
-
-Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre *Cultural NLP*.
-
-<center><a href="https://forms.gle/N5qtmZRuwobKTkjn7" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
 <summary>🔊 Propón una ponencia</summary>
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances. ¡Lee los temas sugeridos y mándanos tu propuesta!
@@ -133,12 +125,20 @@ Comparte tu experiencia y conocimiento apoyando a los equipos participantes a cr
 <details  style="margin-bottom: 20px;">
 <summary>🙌 Patrocina este maravilloso evento</summary>
 
-SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y acercar los modelos de lenguaje al mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo visibilidad, vales y donaciones. ¡Contamos contigo!
+SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y acercar los modelos de lenguaje al mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo **visibilidad, vales y donaciones**. ¡Contamos contigo!
 
 <center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
 
+<details  style="margin-bottom: 20px;">
+<summary>🤗 Únete al equipo</summary>
+
+Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre *Cultural NLP*.
+
+<center><a href="https://forms.gle/N5qtmZRuwobKTkjn7" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
+
+</details>
 
 ## 👏 Agradecimientos 
 

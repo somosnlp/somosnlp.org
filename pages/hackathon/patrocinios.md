@@ -11,7 +11,10 @@ Los tipos de patrocinios están explicados a continuación. En cuanto recibamos 
 
 Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
 
-<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Patrocina el hackathon</a></center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a>
+  <a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a>
+</div>
 
 ## Tipos de patrocinio
 
@@ -42,7 +45,7 @@ Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un cur
 
 Para determinar la categoría de patrocinio se calculará el valor total combinando donaciones y vales.
 
-<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Patrocina el hackathon</a></center>
+<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
 
@@ -69,7 +72,7 @@ Para consideraros patrocinio de Comunidad 🤗 os pedimos:
 - Publicar posts / blog anunciando los resultados del hackathon
 - RT / comentar las publicaciones en las que os mencionemos
 
-<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Patrocina el hackathon</a></center>
+<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a></center>
 
 </details>
 
@@ -109,7 +112,7 @@ Lo que pedimos a las universidades colaboradoras:
 Enlaces útiles:
 - [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
-<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Patrocina el hackathon</a></center>
+<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a></center>
 </details>
 
 
@@ -152,7 +155,11 @@ Estamos a tu disposición en info@somosnlp.org y Discord.
 
 Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
 
-<center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Patrocina el hackathon</a></center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a>
+  <a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a>
+</div>
+
 
 ---
 
