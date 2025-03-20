@@ -17,15 +17,15 @@ Aquí tienes los enlaces útiles, sigue leyendo para más información.
 
 - 💻 [Participa en el hackathon y/o asiste a las charlas](https://forms.gle/bDaBC7XV3iu2trj59)
 - 🤗 [Únete al equipo que lo organiza](https://forms.gle/N5qtmZRuwobKTkjn7)
-- 🔊 [Propón una ponencia](https://somosnlp.org/hackathon-2025/ponencias)
+- 🔊 [Propón una ponencia](https://somosnlp.org/hackathon/ponencias)
 - 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/izE8j4nW2JsWcQT26)
-- 🙌 [Patrocina este maravilloso evento](https://somosnlp.org/hackathon-2025/patrocinios)
+- 🙌 [Patrocina este maravilloso evento](https://somosnlp.org/hackathon/patrocinios)
 
 <!-- ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif) -->
 
 ![Cartel #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
 
-*([English version](https://somosnlp.org/en/hackathon-2025))*
+*([English version](https://somosnlp.org/en/hackathon))*
 
 ## 🚀 Cómo puedes colaborar
 
@@ -51,12 +51,12 @@ Para que todo el mundo comience con las mismas condiciones, haremos las bases p�
     <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <div class="text-center">
-    <a href="https://somosnlp.org/hackathon-2025/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Bases del hackathon</a>
+    <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Bases del hackathon</a>
   </div>
 </div> -->
 
 <!--
-<center><a href="https://somosnlp.org/hackathon-2025/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
+<center><a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
 -->
 
 </details>
@@ -119,7 +119,7 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances. ¡Lee los temas sugeridos y mándanos tu propuesta!
 
-<center><a href="https://somosnlp.org/hackathon-2025/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
+<center><a href="https://somosnlp.org/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
 
 </details>
 
@@ -137,7 +137,7 @@ Comparte tu experiencia y conocimiento apoyando a los equipos participantes a cr
 
 SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y acercar los modelos de lenguaje al mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo visibilidad, vales y donaciones. ¡Contamos contigo!
 
-<center><a href="https://somosnlp.org/hackathon-2025/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
+<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
 

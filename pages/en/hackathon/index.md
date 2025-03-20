@@ -17,9 +17,9 @@ Here are the main links, keep reading for more information.
 
 - 💻 [Join the hackathon and/or the expert talks](https://forms.gle/bDaBC7XV3iu2trj59)
 - 🤗 [Join the organizing team](https://forms.gle/N5qtmZRuwobKTkjn7)
-- 🔊 [Propose a talk](https://somosnlp.org/hackathon-2025/ponencias)
+- 🔊 [Propose a talk](https://somosnlp.org/hackathon/ponencias)
 - 🧑‍🏫 [Offer a mentorship](https://forms.gle/izE8j4nW2JsWcQT26)
-- 🙌 [Sponsor this wonderful event](https://somosnlp.org/hackathon-2025/patrocinios)
+- 🙌 [Sponsor this wonderful event](https://somosnlp.org/hackathon/patrocinios)
 
 ![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
 
@@ -67,7 +67,7 @@ Do you have expertise in NLP or a related field? Share your knowledge with the c
 
 Please fill out the form with your proposal, and we will get back to you with more details.
 
-<center><a href="https://somosnlp.org/en/hackathon-2025/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propose a talk</a></center>
+<center><a href="https://somosnlp.org/en/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propose a talk</a></center>
 </details>
 
 <details  style="margin-bottom: 20px;">
@@ -98,7 +98,7 @@ Your support as a sponsor will help us make the hackathon a success and contribu
 
 For more information on sponsorship opportunities, please visit our website or contact us directly.
 
-<center><a href="https://somosnlp.org/en/hackathon-2025/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Become a sponsor today! </a></center>
+<center><a href="https://somosnlp.org/en/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Become a sponsor today! </a></center>
 </details>
 
 ---
