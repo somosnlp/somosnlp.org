@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2025: Info para universidades"
 description: ¡Anima a tu alumnado a participar y aprender con nuestro hackathon!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 ¡Hola profe! 👋

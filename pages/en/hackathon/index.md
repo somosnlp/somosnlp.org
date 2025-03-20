@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2025"
 description: Let's enable the creation of LLMs aligned with the culture of LATAM and the Iberian Peninsula.
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 There are 600M Spanish-speaking people in the world. Spanish is the main language in 21 countries, each with a rich culture. Although LLMs present increasingly better multilingual capabilities, are they really multicultural? Join now the #HackathonSomosNLP, the largest open-source NLP hackathon in Spanish! 🚀
@@ -21,7 +21,7 @@ Here are the main links, keep reading for more information.
 - 🧑‍🏫 [Offer a mentorship](https://forms.gle/izE8j4nW2JsWcQT26)
 - 🙌 [Sponsor this wonderful event](https://somosnlp.org/hackathon/patrocinios)
 
-![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
+![Hackathon 2024 Poster](https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg)
 
 
 ## 🚀 How you can collaborate
