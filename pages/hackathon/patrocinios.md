@@ -7,6 +7,13 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 ¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las tres ediciones anteriores **contamos cada vez con más de 500 registros de 30 países distintos y superamos las 5.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear datos que nos permitan crear modelos de lenguaje inclusivos y de calidad, adaptados a las diversas culturas de LATAM y la Península Ibérica.
 
+<div class="flex justify-center">
+    <figure>
+        <img src="https://somosnlp.github.io/assets/images/eventos/240301_mapa_ciudades_zoom.png" alt="Mapa Hackathon 2024" width="400">
+        <figcaption>Mapa Hackathon 2024</figcaption>
+    </figure>
+</div>
+
 Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
 Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
@@ -41,9 +48,7 @@ Nuestro hackathon es un evento gratuito, gracias a los patrocinios de Oro, Plata
 - Streaming de calidad
 - Buena gestión de este evento internacional online
 
-Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA, merchandising específicamente creado para el hackathon, tiempo de computación, vale para tiendas de informática, etc.
-
-Para determinar la categoría de patrocinio se calculará el valor total combinando donaciones y vales.
+Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA, merchandising específicamente creado para el hackathon, tiempo de computación en la nube, créditos de API, vale para tiendas de informática, etc.
 
 <center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
@@ -153,7 +158,7 @@ Enlaces útiles:
 
 Estamos a tu disposición en info@somosnlp.org y Discord.
 
-Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! ❤️
+Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! 💛
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a>

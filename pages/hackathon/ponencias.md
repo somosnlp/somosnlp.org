@@ -14,7 +14,14 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 ![Call for talks](https://somosnlp.github.io/assets/images/eventos/250401_hackathon_callfortalks.jpg)
 
-## Ponencias: temas sugeridos
+## Ponencias
+
+### Tipos
+
+- Keynote: máx 30 minutos
+- Taller aplicado (con notebook): máx 1 hora
+
+### Temas sugeridos
 
 A continuación, presentamos una lista de temas sugeridos para las ponencias que reflejan la diversidad y relevancia de los desafíos y oportunidades en este ámbito (están numerados aleatoriamente):
 
@@ -39,12 +46,24 @@ Aviso: Se debe contar con un Patrocinio de Oro para impartir una charla promocio
 
 <center><a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
 
-## Mentorías
+## Mentorías grupales
 
-Durante el hackathon, se ofrecerá apoyo a los equipos participantes en tres formatos:
+### Tipos
 
-1. Sesión en Discord: responder preguntas por escrito
-2. Ask Me Anything (AMA): evento en directo
-3. Mentoría asíncrona: responder preguntas por Discord
+- Mentoría continua asíncrona: responder preguntas por Discord (max 1h, 2/3 veces por semana)
+- Sesión de mentoría: responder preguntas por escrito (máx 1h30, 1 vez)
+- Ask Me Anything (AMA): evento en directo (máx 1h)
+
+### Temas sugeridos
+
+Además de las preguntas que les surjan a los equipos mientras desarrollan sus proyectos, se pueden proponer temas específicos para los AMAs. Aquí te dejamos algunos ejemplos:
+
+- Cómo encontrar tu primer trabajo en IA
+- Qué necesitas saber antes de empezar un PhD
+- Consejos para desplegar LLMs en producción
+- Cómo escribir un buen paper
+- Cómo hacer un buen pitch para un producto de IA
+
+Las sesiones de AMA pueden comenzar con una pequeña presentación para introducir el tema y luego dar paso a las preguntas.
 
 <center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
