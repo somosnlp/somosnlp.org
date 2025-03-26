@@ -25,12 +25,15 @@ Si eres estudiante y te gustaría que tu universidad participara en el hackathon
 ## ✨ Colaboración y beneficios
 
 Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar 
-- Publicar noticia, blog o similar en su página web antes del 31 de marzo
-- Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
+- Mínimo 1 publicación antes del 4 de abril
+- Presentar mínimo 5 estudiantes al hackathon
+
+Ideas de publicaciones:
+- Publicar posts en redes sociales, página web o newsletter animando a participar 
+- Publicar posts / artículo anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
 
 Al dar visibilidad al hackathon y presentar al menos 1 equipo de estudiantes al hackathon, la universidad se convierte en patrocinadora y contará con los beneficios correspondientes:
-- Logo de la universidad en la página web del hackathon y la de registro (*)
+- Logo de la universidad en la página web del hackathon (*)
 - Logo de la universidad en la página de "Comunidad" (*)
 - Agradecimiento en redes sociales
 - Etiquetas en posts de redes sociales (x5)

@@ -62,22 +62,26 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 <details>
 <summary>Tipos de visibilidad y beneficios</summary>
 
-- **🤗 Comunidad**, dar visibilidad al hackathon en general: logo pequeño y visibilidad en RRSS.
-- **🎓 Universidad**, dar visibilidad al hackathon entre tu alumnado y grupos de investigación: logo pequeño y visibilidad en RRSS.
+- **🤗 Comunidad**, mínimo 3 publicaciones: logo pequeño y visibilidad en RRSS.
+- **🎓 Universidad**, mínimo 1 publicación y 5 participantes: logo pequeño y visibilidad en RRSS.
+- La primera publicación debe ser antes del 4 de abril.
 
 </details>
 
 <details>
 <summary>¿Cómo darle visibilidad al hackathon?</summary>
 
-Para consideraros patrocinio de Comunidad 🤗 os pedimos:
-- Publicar posts / mencionar en podcast / newsletter animando a participar antes del 31 de marzo
-- Publicar posts animando a participar antes del 31 de marzo
-- Publicar posts anunciando los días de keynotes
-- Publicar posts / blog anunciando los resultados del hackathon
-- RT / comentar las publicaciones en las que os mencionemos
+- Las publicaciones pueden ser en diferentes plataformas: blog, podcast, newsletter, LinkedIn, X, etc.
+- Podéis utilizar las plantillas y material de difusión que ponemos a vuestra disposición para facilitar vuestra tarea.
+- 1 publicación se puede intercambiar por 2 "reposts" en redes sociales.
+- Agradecemos RT / comentarios en las publicaciones en las que os mencionemos.
+- En las publicaciones podéis animar a participar en el hackathon (hasta principios de abril), a asistir a las charlas (durante el mes de abril) y compartir los resultados del hackathon (a principios de mayo).
 
-<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a></center>
+Enlaces útiles:
+- [🎨 Material de difusión](https://somosnlp.notion.site/Visibilidad-Hackathon-2025-9e95599c2bd44c6b8077d775bf699267)
+- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
+
+<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Rellena el formulario de difusión</a></center>
 
 </details>
 
@@ -105,20 +109,6 @@ Enlaces útiles:
 </details>
 -->
 
-<details>
-<summary>¿Cómo darle visibilidad entre mis estudiantes?</summary>
-
-Lo que pedimos a las universidades colaboradoras:
-- Publicar posts animando a participar antes del 31 de marzo
-- Publicar noticia, blog o similar en su página web antes del 31 de marzo
-- Publicar posts / blog anunciando los resultados del hackathon, (¡claramente pueden centrarse en los proyectos de sus estudiantes!)
-- Presentar al menos 1 equipo de estudiantes al hackathon
-
-Enlaces útiles:
-- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
-
-<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a></center>
-</details>
 
 
 ### 👀 Tabla detallada de beneficios
@@ -138,8 +128,6 @@ Enlaces útiles:
 | Artículo de blog promocional * | ✅ | ✅ | ❌ | ❌ |
 | Vídeo promocional (3') * | ✅ | ✅ | ❌ | ❌  |
 | Charla promocional (30') * | ✅ | ❌ | ❌ | ❌ |
-| Mención y enlace en la leaderboard | ❌ | ❌ |❌ | ❌ |
-| Mención en un artículo de blog describiendo la creación de la leaderboard | ❌ | ❌ |❌ | ❌ |
 <!--
 | Aparición en la pantalla de espera antes del comienzo de los eventos | ✅ | ❌ | ❌ | ❌ |
 

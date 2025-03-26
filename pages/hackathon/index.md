@@ -132,6 +132,15 @@ SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y vi
 </details>
 
 <details  style="margin-bottom: 20px;">
+<summary>📣 Ayúdanos a difundir el evento</summary>
+
+Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más personas, ¡todo el apoyo es bienvenido! Además, a partir de 3 publicaciones añadiremos vuestro logo a la página web en la sección de "Patrocinios de Comunidad".
+
+<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a></center>
+
+</details>
+
+<details  style="margin-bottom: 20px;">
 <summary>🤗 Únete al equipo</summary>
 
 Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre *Cultural NLP*.
