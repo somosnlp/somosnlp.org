@@ -9,3 +9,6 @@ node_modules
 # IDE folders
 .idea/
 .vscode/
+
+# Private information
+scripts/data/
