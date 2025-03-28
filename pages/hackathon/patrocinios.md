@@ -60,22 +60,24 @@ Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un cur
 Los patrocinios de visibilidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en español.
 
 <details>
-<summary>Tipos de visibilidad y beneficios</summary>
+<summary>Tipos de visibilidad, requisitos y beneficios</summary>
 
-- **🤗 Comunidad**, mínimo 3 publicaciones: logo pequeño y visibilidad en RRSS.
+- **🤗 Comunidad**, mínimo 4 publicaciones: logo pequeño y visibilidad en RRSS.
 - **🎓 Universidad**, mínimo 1 publicación y 5 participantes: logo pequeño y visibilidad en RRSS.
 - La primera publicación debe ser antes del 4 de abril.
+- El logo se añadirá a la página web del hackathon una vez hecha la primera publicación.
 
 </details>
 
 <details>
 <summary>¿Cómo darle visibilidad al hackathon?</summary>
 
-- Las publicaciones pueden ser en diferentes plataformas: blog, podcast, newsletter, LinkedIn, X, etc.
 - Podéis utilizar las plantillas y material de difusión que ponemos a vuestra disposición para facilitar vuestra tarea.
-- 1 publicación se puede intercambiar por 2 "reposts" en redes sociales.
+- Las publicaciones pueden ser en diferentes plataformas: blog, podcast, newsletter, LinkedIn, X, etc.
+- Importante: en redes sociales recuerda etiquetar a SomosNLP para que nos llegue la notificación.
+- En redes sociales, 1 publicación se puede intercambiar por 2 "quotes" en X o 2 . "reposts with your thoughts" en LinkedIn.
+- Podéis publicar en diferentes momentos del hackathon. Por ejemplo, para animar a participar en el hackathon (hasta principios de abril), a asistir a las charlas (durante el mes de abril) y compartir los resultados del hackathon (a principios de mayo).
 - Agradecemos RT / comentarios en las publicaciones en las que os mencionemos.
-- En las publicaciones podéis animar a participar en el hackathon (hasta principios de abril), a asistir a las charlas (durante el mes de abril) y compartir los resultados del hackathon (a principios de mayo).
 
 Enlaces útiles:
 - [🎨 Material de difusión](https://somosnlp.notion.site/Visibilidad-Hackathon-2025-9e95599c2bd44c6b8077d775bf699267)
