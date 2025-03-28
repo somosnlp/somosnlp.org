@@ -5,9 +5,10 @@ events:
     view: Ver el calendario de eventos
     join: Unirme al calendario
   sections:
-    madrid: "✨ Eventos Presenciales en Madrid"
-    hackathon-2024: "🔥 Charlas y talleres del Hackathon 2024"
+    madrid: "✨ Eventos presenciales en Madrid"
     recordings: "Grabaciones de eventos"
+    hackathon-2025: "🔥 Charlas y talleres del Hackathon 2025"
+    hackathon-2024: "🚀 Charlas y talleres del Hackathon 2024"
     hackathon-2023: "🚀 Charlas y talleres del Hackathon 2023"
     hackathon-2022: "🚀 Charlas y talleres del Hackathon 2022"
     hackathon-2022-description: >-
