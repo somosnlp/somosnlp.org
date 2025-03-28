@@ -1,43 +1,76 @@
+community:
+  collaborations:
+    subtitle: >-
+      Thank you also to all the universities, research centers and companies
+      that have supported us along the way!
+    title: Collaborations
+  contact:
+    closing: We can't wait to meet you! 🚀
+    contact_us: Contact us on
+    mission: Would you like to support us in our mission?
+    or_email: or send an email to
+    questions: >-
+      Would you like to join the team? Give a talk? Launch a project? Sponsor an
+      event?...
+  contribute: I want to contribute
+  join_discord: Join Discord
+  meta:
+    description: Join our international community of people passionate about NLP
+    title: SomosNLP Community
+  speakers:
+    all_events: All events
+    become_speaker: Become a speaker
+    subtitle: >-
+      Thank you to everyone who has shared their experience with the community
+      through mentoring and talks!
+    title: Speakers
+  subtitle: >-
+    We are an international community where everyone interested in NLP is
+    welcome, join us! 🚀
+  title: Community
 events:
-  title: Events
-  subtitle: Talks and workshops by NLP specialists.
-  calendar:
-    view: View events calendar
-    join: Join the calendar
-  sections:
-    madrid: "✨ In-person Events in Madrid"
-    hackathon-2024: "🔥 Hackathon 2024 Talks and Workshops"
-    recordings: "Event Recordings"
-    hackathon-2023: "🚀 Hackathon 2023 Talks and Workshops"
-    hackathon-2022: "🚀 Hackathon 2022 Talks and Workshops"
-    hackathon-2022-description: >-
-      The 🤗 ecosystem, data labeling and sampling, model training and debugging,
-      translation, clustering, abstract writing... All these topics explained by specialists!
-    somos-mujeres-nlp: "💜 We are Women in NLP"
-    somos-mujeres-nlp-description: >-
-      Initiatives to give visibility to women working and researching in NLP and to projects
-      that apply NLP to fight against sexism.
-    community: "🙌 Community Projects"
-    community-description: >-
-      Workshops where community members present their projects, e.g.: hackathon winning projects.
-    community-description-2: >-
-      Would you like to present your project? This is your space!
-    community-description-3: >-
-      Send us the information
   all-events: See all events
+  calendar:
+    join: Join the calendar
+    view: View events calendar
+  sections:
+    community: 🙌 Community Projects
+    community-description: >-
+      Workshops where community members present their projects, e.g.: hackathon
+      winning projects.
+    community-description-2: Would you like to present your project? This is your space!
+    community-description-3: Send us the information
+    hackathon-2022: 🚀 Hackathon 2022 Talks and Workshops
+    hackathon-2022-description: >-
+      The 🤗 ecosystem, data labeling and sampling, model training and
+      debugging, translation, clustering, abstract writing... All these topics
+      explained by specialists!
+    hackathon-2023: 🚀 Hackathon 2023 Talks and Workshops
+    hackathon-2024: 🚀 Hackathon 2024 Talks and Workshops
+    hackathon-2025: 🔥 Hackathon 2025 Talks and Workshops
+    madrid: ✨ In-person Events in Madrid
+    recordings: Event Recordings
+    somos-mujeres-nlp: 💜 We are Women in NLP
+    somos-mujeres-nlp-description: >-
+      Initiatives to give visibility to women working and researching in NLP and
+      to projects that apply NLP to fight against sexism.
+  subtitle: Talks and workshops by NLP specialists.
+  title: Events
 jobs:
-  not_found: No job offers match your search yet.
-  search: Search
-  title: NLP Job Board
-  subtitle: Find job and research opportunities related to Natural Language Processing
-  disclaimer: Organizations are responsible for publishing and updating correct information.
-  total: Total Published Offers
-  looking_for_job: LOOKING FOR A JOB
-  follow_us: Follow us! We announce job offers on
   and_discord: and the \#jobs channel on
+  disclaimer: >-
+    Organizations are responsible for publishing and updating correct
+    information.
+  follow_us: Follow us! We announce job offers on
+  looking_for_job: LOOKING FOR A JOB
   looking_for_talent: LOOKING FOR TALENT
+  not_found: No job offers match your search yet.
   post_job_1: To post your job offer here
   post_job_2: fill out this form
+  search: Search
+  subtitle: Find job and research opportunities related to Natural Language Processing
+  title: NLP Job Board
+  total: Total Published Offers
 landing-page:
   banner: Join now our hackathon to include your culture in LLMs! 🔥
   contribute:
@@ -102,33 +135,7 @@ navbar:
   team: Community
 not-found: Not found
 resources:
-  title: Open-Source Resources
   subtitle: Open-source resources for the Spanish-speaking community
+  title: Open-Source Resources
 share: Share
 wip: We are working on it
-community:
-  title: Community
-  subtitle: >-
-    We are an international community where everyone interested in NLP is welcome, join us! 🚀
-  join_discord: Join Discord
-  contribute: I want to contribute
-  speakers:
-    title: Speakers
-    subtitle: >-
-      Thank you to everyone who has shared their experience with the community through mentoring and talks!
-    all_events: All events
-    become_speaker: Become a speaker
-  collaborations:
-    title: Collaborations
-    subtitle: >-
-     Thank you also to all the universities, research centers and companies that have supported us along the way!
-  contact:
-    questions: Would you like to join the team? Give a talk? Launch a project? Sponsor an event?...
-    mission: Would you like to support us in our mission?
-    contact_us: Contact us on
-    or_email: or send an email to
-    closing: We can't wait to meet you! 🚀
-  meta:
-    title: SomosNLP Community
-    description: >-
-      Join our international community of people passionate about NLP

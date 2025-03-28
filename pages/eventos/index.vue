@@ -44,17 +44,45 @@ const { t } = useI18n()
             </div>
 
             <hr class="mx-auto mt-8 mb-12 prose" />
+            <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
+                al Hackathon #Somos600M</div>
 
-            <!--
-            <div class="mx-auto my-8 text-center">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
-                    al Hackathon #Somos600M</span>
+            <div class="mt-10 grid gap-4 lg:grid-cols-2">
+                
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
-                        src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg" />
+                        src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg" />
+                </a>
+                <a href="/hackathon/ponencias" target="_blank">
+                    <img alt="Hackathon #Somos600M" width="650" height="365"
+                        src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_callfortalks.jpg" />
                 </a>
             </div>
-            -->
+
+            <div class="m-12">
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
+                    dark="text-accent-400">{{ t('events.sections.recordings') }}</span>
+                <ul>
+                    <li>
+                        <a href="#hackathon-2024">{{ t('events.sections.hackathon-2024') }}</a>
+                    </li>
+                    <li>
+                        <a href="#hackathon-2023">{{ t('events.sections.hackathon-2023') }}</a>
+                    </li>
+                    <li>
+                        <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
+                    </li>
+                    <li>
+                        <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
+                    </li>
+                    <li>
+                        <a href="#proyectos-de-la-comunidad">{{ t('events.sections.community') }}</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3> -->
+
 
             <h3 id="eventos-madrid">{{ t('events.sections.madrid') }}</h3>
 
@@ -70,6 +98,8 @@ const { t } = useI18n()
                             src="https://github.com/somosnlp/assets/raw/main/images/eventos/20250115_entaina_directivos_ia.png" />
                     </a>
                 </div>
+
+                <p>¿Organizamos un evento presencial en tu ciudad?</p>
             </div>
 
             <h3 id="hackathon-2024">{{ t('events.sections.hackathon-2024') }}</h3>
@@ -139,26 +169,6 @@ const { t } = useI18n()
                 </div>
             </div>
 
-
-
-            <div class="m-12">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
-                    dark="text-accent-400">{{ t('events.sections.recordings') }}</span>
-                <ul>
-                    <li>
-                        <a href="#hackathon-2023">{{ t('events.sections.hackathon-2023') }}</a>
-                    </li>
-                    <li>
-                        <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
-                    </li>
-                    <li>
-                        <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
-                    </li>
-                    <li>
-                        <a href="#proyectos-de-la-comunidad">{{ t('events.sections.community') }}</a>
-                    </li>
-                </ul>
-            </div>
 
             <h3 id="hackathon-2023">{{ t('events.sections.hackathon-2023') }}</h3>
 
