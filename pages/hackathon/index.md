@@ -134,7 +134,7 @@ SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y vi
 <details  style="margin-bottom: 20px;">
 <summary>📣 Ayúdanos a difundir el evento</summary>
 
-Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más personas, ¡todo el apoyo es bienvenido! Además, a partir de 3 publicaciones añadiremos vuestro logo a la página web en la sección de "Patrocinios de Comunidad".
+Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más personas, ¡todo el apoyo es bienvenido! Además, a partir de 4 publicaciones añadiremos vuestro logo a la página web en la sección de "Patrocinios de Comunidad".
 
 <center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a></center>
 
@@ -153,19 +153,21 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 
 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a hacer los modelos de lenguaje más inclusivos!
 
+### Organizado por
+
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
-<SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
+<SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
+logo="https://somosnlp.github.io/assets/logo_somosnlp_nobg.png"
+logo_dark="https://somosnlp.github.io/assets/logo_somosnlp_nobg.png" />
 
 <SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
 logo="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg" />
 
-<SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
-logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
+<SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
 
 </div>
 
@@ -173,6 +175,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
 ### Patrocinios de Oro
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
+logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
 
 <SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
 logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
