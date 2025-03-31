@@ -5,7 +5,7 @@ lang: pt
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Embora os modelos de linguagem mostrem capacidades multilíngues cada vez maiores, eles são realmente multiculturais? Junte-se agora ao #HackathonSomosNLP, o maior hackathon open-source de Processamento de Linguagem Natural em espanhol e português 🚀
+Existem 600M de falantes de espanhol e 265M de falantes de português no mundo. Estes são os idiomas principais em 29 países, cada um com uma rica cultura. Embora os modelos de linguagem apresentem capacidades multilíngues cada vez melhores, eles são realmente multiculturais? Junte-se agora ao #HackathonSomosNLP, o maior hackathon open-source de Processamento de Linguagem Natural em espanhol e português! 🚀
 
 Nas edições anteriores, contamos com mais de 1500 participantes de 30 países diferentes, superamos 20.000 visualizações de nossos eventos, aprendemos com 20 palestrantes e desenvolvemos 50 projetos relacionados aos Objetivos de Desenvolvimento Sustentável da ONU, demonstrando o potencial do PLN para abordar desafios sociais. Voltamos por isso e muito mais! 💪
 

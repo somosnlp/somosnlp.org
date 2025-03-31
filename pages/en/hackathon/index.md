@@ -5,7 +5,7 @@ lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-There are 600M Spanish-speaking people in the world. Spanish is the main language in 21 countries, each with a rich culture. Although LLMs present increasingly better multilingual capabilities, are they really multicultural? Join now the #HackathonSomosNLP, the largest open-source NLP hackathon in Spanish! 🚀
+There are 600M Spanish-speakers and 265M Portuguese-speakers in the world. These are the main languages in 29 countries, each with a rich culture. Although LLMs present increasingly better multilingual capabilities, are they really multicultural? Join now the #HackathonSomosNLP, the largest open-source NLP hackathon in Spanish and Portuguese! 🚀
 
 In past editions, we had in total more than 1500 participants from 30 different countries, we surpassed 20,000 views of our events, learned from 20 speakers, and developed 50 projects related to the UN's Sustainable Development Goals, demonstrating the potential of NLP to address social challenges. We're back for that and much more! 💪
 

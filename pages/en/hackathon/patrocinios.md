@@ -1,11 +1,11 @@
 ---
 title: "Hackathon SomosNLP 2025: Sponsorships"
-description: Thank you for helping us democratize NLP in Spanish!
+description: Thank you for helping us democratize NLP!
 lang: en
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Thank you very much for your interest in supporting us to organize and give visibility to this wonderful event! In the three previous editions, **we had more than 500 registrations from 30 different countries each time and surpassed 5,000 views of our events**. This year our challenges are to create data that will allow us to create inclusive and quality language models, adapted to the diverse cultures of LATAM and the Iberian Peninsula.
+Thank you very much for your interest in supporting us to organize and give visibility to this wonderful event! In each of the three previous editions, **we had more than 500 registrations from 30 different countries each time and surpassed 5,000 views of our events**. This year our objective is to generate data that will allow us to develop inclusive language models, adapted to the diverse cultures of LATAM and the Iberian Peninsula.
 
 <div class="flex justify-center">
     <figure>
@@ -14,7 +14,7 @@ Thank you very much for your interest in supporting us to organize and give visi
     </figure>
 </div>
 
-The types of sponsorships are explained below. As soon as we receive the form, we will contact you to fix the details and add your logo to the website.
+The types of sponsorships are explained below. As soon as we receive your information, we will contact you to fix the details and add your logo to the website.
 
 We are at your disposal at info@somosnlp.org, we count on your support! 💪
 
