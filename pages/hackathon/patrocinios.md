@@ -48,7 +48,7 @@ Nuestro hackathon es un evento gratuito, gracias a los patrocinios de Oro, Plata
 - Streaming de calidad
 - Buena gestión de este evento internacional online
 
-Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA, merchandising específicamente creado para el hackathon, tiempo de computación en la nube, créditos de API, vale para tiendas de informática, etc.
+Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA, merchandising específicamente creado para el hackathon, tiempo de computación en la nube, créditos de API, vale para tiendas de informática, mentorías, etc.
 
 <center><a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
