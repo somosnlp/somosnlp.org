@@ -5,7 +5,7 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Somos 600M de personas hispanohablantes. El español es el principal idioma en 21 países, cada uno con gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source Procesamiento del Lenguaje Natural en español 🚀
+Somos 600M de hispanohablantes y 265M de lusófonos en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
 En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
