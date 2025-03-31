@@ -43,7 +43,7 @@ const routes = router.getRoutes()
         <h2>Comunidad</h2>
 
         <p class="text-lg">
-            La fuerza de SomosNLP reside en la comunidad de +1900 personas comprometidas con el PLN abierto que la
+            La fuerza de SomosNLP reside en la comunidad de +2000 personas comprometidas con el PLN abierto que la
             forman.
             Aquí te
             presentamos a las que colaboran o han colaborado más activamente con

@@ -13,7 +13,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="blog/la-leaderboard" target="_blank" hover="text-accent-700">
+      <a href="hackathon" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
@@ -217,15 +217,15 @@ const showPastEvents = ref(true);
       <div class="grid grid-cols-3 gap-8 my-12">
 
         <!-- HACKATHON 2024 -->
-        <a href="/hackathon/ia_y_lms_retos_y_oportunidades" target="_blank">
+        <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
           <img alt="Charla de Elena González-Blanco" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
         </a>
-        <a href="/hackathon/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
+        <a href="/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
           <img alt="Charla de Gabriel Martín" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
         </a>
-        <a href="/hackathon/empatia_y_emociones_en_ia" target="_blank">
+        <a href="/hackathon-2024/empatia_y_emociones_en_ia" target="_blank">
           <img alt="Charla de Amanda Curry" width="650" height="365"
             src="https://somosnlp.github.io/assets/images/eventos/240326_amanda_curry.jpg" />
         </a>

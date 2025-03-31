@@ -14,7 +14,6 @@ declare module 'vue' {
     'Carbon:document': typeof import('virtual:vite-icons/carbon/document')['default']
     'Carbon:earth': typeof import('virtual:vite-icons/carbon/earth')['default']
     'Carbon:education': typeof import('virtual:vite-icons/carbon/education')['default']
-    'Carbon:link': typeof import('virtual:vite-icons/carbon/link')['default']
     'Carbon:list': typeof import('virtual:vite-icons/carbon/list')['default']
     'Carbon:logoDiscord': typeof import('virtual:vite-icons/carbon/logo-discord')['default']
     'Carbon:logoGithub': typeof import('virtual:vite-icons/carbon/logo-github')['default']
@@ -62,7 +61,6 @@ declare module 'vue' {
     TableDatasetsCSV: typeof import('./src/components/TableDatasetsCSV.vue')['default']
     TableJobs: typeof import('./src/components/TableJobs.vue')['default']
     TableModels: typeof import('./src/components/TableModels.vue')['default']
-    'Tabler:externalLink': typeof import('virtual:vite-icons/tabler/external-link')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
   }

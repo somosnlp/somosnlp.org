@@ -26,8 +26,8 @@ A pesar de ser el 7.5% de la población mundial, no contamos ni con un corpus de
 
 - [💻 Participa en el hackathon y/o asiste a las charlas de especialistas](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
 - [🤗 Únete al equipo que lo organiza](https://forms.gle/radg18NMLRZMPu38A)
-- [🙌 Patrocina este maravilloso evento](https://somosnlp.org/hackathon/patrocinios)
-- [🔊 Propón una ponencia](https://somosnlp.org/hackathon/ponencias)
+- [🙌 Patrocina este maravilloso evento](https://somosnlp.org/hackathon-2024/patrocinios)
+- [🔊 Propón una ponencia](https://somosnlp.org/hackathon-2024/ponencias)
 - [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
 - [📚 Dona una base de datos](https://somosnlp.org/donatucorpus)
  -->
@@ -82,7 +82,7 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
     <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div> -->
   <div class="text-center">
-    <a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Más info del hackathon</a>
+    <a href="https://somosnlp.org/hackathon-2024/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Más info del hackathon</a>
   </div>
 
 
@@ -158,7 +158,7 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances. ¡Lee los temas sugeridos y mándanos tu propuesta!
 
-<center><a href="https://somosnlp.org/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
+<center><a href="https://somosnlp.org/hackathon-2024/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
 
 </details>
 <details  style="margin-bottom: 20px;">
@@ -195,7 +195,7 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 
 SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y crear impacto en el mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo visibilidad, vales y donaciones. ¡Contamos contigo!
 
-<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el proyecto</a></center>
+<center><a href="https://somosnlp.org/hackathon-2024/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el proyecto</a></center>
 
 </details>
 

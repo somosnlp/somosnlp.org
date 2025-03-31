@@ -44,17 +44,45 @@ const { t } = useI18n()
             </div>
 
             <hr class="mx-auto mt-8 mb-12 prose" />
+            <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
+                al Hackathon #Somos600M</div>
 
-            <!--
-            <div class="mx-auto my-8 text-center">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
-                    al Hackathon #Somos600M</span>
+            <div class="mt-10 grid gap-4 lg:grid-cols-2">
+                
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
-                        src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg" />
+                        src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg" />
+                </a>
+                <a href="/hackathon/ponencias" target="_blank">
+                    <img alt="Hackathon #Somos600M" width="650" height="365"
+                        src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_callfortalks.jpg" />
                 </a>
             </div>
-            -->
+
+            <div class="m-12">
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
+                    dark="text-accent-400">{{ t('events.sections.recordings') }}</span>
+                <ul>
+                    <li>
+                        <a href="#hackathon-2024">{{ t('events.sections.hackathon-2024') }}</a>
+                    </li>
+                    <li>
+                        <a href="#hackathon-2023">{{ t('events.sections.hackathon-2023') }}</a>
+                    </li>
+                    <li>
+                        <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
+                    </li>
+                    <li>
+                        <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
+                    </li>
+                    <li>
+                        <a href="#proyectos-de-la-comunidad">{{ t('events.sections.community') }}</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3> -->
+
 
             <h3 id="eventos-madrid">{{ t('events.sections.madrid') }}</h3>
 
@@ -70,68 +98,70 @@ const { t } = useI18n()
                             src="https://github.com/somosnlp/assets/raw/main/images/eventos/20250115_entaina_directivos_ia.png" />
                     </a>
                 </div>
+
+                <p>¿Organizamos un evento presencial en tu ciudad?</p>
             </div>
 
             <h3 id="hackathon-2024">{{ t('events.sections.hackathon-2024') }}</h3>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="/hackathon/ia_y_lms_retos_y_oportunidades" target="_blank">
+                    <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
                         <img alt="Charla de Elena González-Blanco" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
                     </a>
 
-                    <a href="/hackathon/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
+                    <a href="/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
                         <img alt="Charla de Gabriel Martín" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
                     </a>
 
-                    <a href="/hackathon/importancia_de_la_calidad_de_los_datos_al_entrenar" target="_blank">
+                    <a href="/hackathon-2024/importancia_de_la_calidad_de_los_datos_al_entrenar" target="_blank">
                         <img alt="Charla de Manu Romero" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg" />
                     </a>
 
-                    <a href="/hackathon/diversidad_linguistica_en_ia" target="_blank">
+                    <a href="/hackathon-2024/diversidad_linguistica_en_ia" target="_blank">
                         <img alt="Charla de María Grandury" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240313_maria_grandury.jpg" />
                     </a>
 
-                    <a href="/hackathon/deteccion_de_sesgos_en_medios_de_comunicacion" target="_blank">
+                    <a href="/hackathon-2024/deteccion_de_sesgos_en_medios_de_comunicacion" target="_blank">
                         <img alt="Charla de Fran Rodrigo" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240313_francisco_javier_rodrigo.jpg" />
                     </a>
 
-                    <a href="/hackathon/combatiendo_el_discurso_de_odio_mediante_contranarrativas" target="_blank">
+                    <a href="/hackathon-2024/combatiendo_el_discurso_de_odio_mediante_contranarrativas" target="_blank">
                         <img alt="Charla de Estrella Vallecillo" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240313_estrella_vallecillo.jpg" />
                     </a>
 
-                    <a href="/hackathon/etica_ambiental_en_ia" target="_blank">
+                    <a href="/hackathon-2024/etica_ambiental_en_ia" target="_blank">
                         <img alt="Charla de Jorge Vallego" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240313_jorge_vallego.jpg" />
                     </a>
 
-                    <a href="/hackathon/entrenamiento_de_llms" target="_blank">
+                    <a href="/hackathon-2024/entrenamiento_de_llms" target="_blank">
                         <img alt="Charla de Alejandro Vaca" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240318_alejandro_vaca.jpg" />
                     </a>
 
-                    <a href="/hackathon/prospectiva_estrategica_y_nlp" target="_blank">
+                    <a href="/hackathon-2024/prospectiva_estrategica_y_nlp" target="_blank">
                         <img alt="Charla de Cristina Vila" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg" />
                     </a>
 
-                    <a href="/hackathon/estimacion_de_la_severidad_de_la_depresion_en_internet" target="_blank">
+                    <a href="/hackathon-2024/estimacion_de_la_severidad_de_la_depresion_en_internet" target="_blank">
                         <img alt="Charla de Anxo Pérez" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240319_anxo_perez.jpg" />
                     </a>
 
-                    <a href="/hackathon/como_anotar_corpus_linguisticos_para_entrenar_llms" target="_blank">
+                    <a href="/hackathon-2024/como_anotar_corpus_linguisticos_para_entrenar_llms" target="_blank">
                         <img alt="Charla de Marta Guerrero" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg" />
                     </a>
 
-                    <a href="/hackathon/empatia_y_emociones_en_ia" target="_blank">
+                    <a href="/hackathon-2024/empatia_y_emociones_en_ia" target="_blank">
                         <img alt="Charla de Amanda Curry" width="650" height="365"
                             src="https://somosnlp.github.io/assets/images/eventos/240326_amanda_curry.jpg" />
                     </a>
@@ -139,26 +169,6 @@ const { t } = useI18n()
                 </div>
             </div>
 
-
-
-            <div class="m-12">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
-                    dark="text-accent-400">{{ t('events.sections.recordings') }}</span>
-                <ul>
-                    <li>
-                        <a href="#hackathon-2023">{{ t('events.sections.hackathon-2023') }}</a>
-                    </li>
-                    <li>
-                        <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
-                    </li>
-                    <li>
-                        <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
-                    </li>
-                    <li>
-                        <a href="#proyectos-de-la-comunidad">{{ t('events.sections.community') }}</a>
-                    </li>
-                </ul>
-            </div>
 
             <h3 id="hackathon-2023">{{ t('events.sections.hackathon-2023') }}</h3>
 

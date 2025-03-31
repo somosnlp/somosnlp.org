@@ -8,7 +8,7 @@ const { t } = useI18n()
     <nav class="flex gap-4 items-center justify-between select-none">
         <div class="flex gap-8 items-center">
             <Logo />
-            <router-link to="/somos600m" class="whitespace-nowrap text-accent-500">#Somos600M
+            <router-link to="/hackathon" class="whitespace-nowrap text-accent-500">Hackathon
             </router-link>
             <router-link to="/recursos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.resources') }}
             </router-link>

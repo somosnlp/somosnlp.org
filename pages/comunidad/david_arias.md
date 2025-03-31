@@ -1,6 +1,6 @@
 ---
 title: David Arias
-description: Economist | Master´s Student in Data Science
+description: Economist | Master in Data Science & Business Intelligence
 cover: https://somosnlp.github.io/assets/images/comunidad/david_arias.jpg
 twitter: 
 linkedin: https://ec.linkedin.com/in/c-arias09

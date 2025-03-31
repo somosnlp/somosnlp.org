@@ -1,52 +1,49 @@
 ---
-title: "Hackathon SomosNLP 2024: #Somos600M"
-description: Vamos a crear un corpus que nos represente a los 600M de personas hispanohablantes y a estandarizar cómo evaluar nuestros LLMs.
+title: "#HackathonSomosNLP 2025"
+description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
+Somos 600M de personas hispanohablantes. El español es el principal idioma en 21 países, cada uno con gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source Procesamiento del Lenguaje Natural en español 🚀
+
+En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+
+En esta cuarta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica**.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif)
+Aquí tienes los enlaces a todos los formularios, sigue leyendo para más información.
+
+- 💻 [Participa en el hackathon y/o asiste a las charlas](https://forms.gle/bDaBC7XV3iu2trj59)
+- 🔊 [Propón una ponencia](https://forms.gle/n6DsNF5RwerA4oPf6)
+- 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/izE8j4nW2JsWcQT26)
+- 🙌 [Patrocina este maravilloso evento](https://forms.gle/DmKCzhvSf7dCeLzJA)
+- 📣 [Ayúdanos a difundir el evento](https://forms.gle/FUQPYBsqtmwKM3Vo6)
+- 🤗 [Únete al equipo que lo organiza](https://forms.gle/N5qtmZRuwobKTkjn7)
+
+![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/250401_hackathon.gif)
 
 *([English version](https://somosnlp.org/en/hackathon))*
 
-<!--
 ## 🚀 Cómo puedes colaborar
 
-- [💻 Participa en el hackathon y/o asiste a las charlas de especialistas](https://hackathonsomosnlp2024.eventbrite.com/?aff=w)
-- [🤗 Únete al equipo que lo organiza](https://forms.gle/radg18NMLRZMPu38A)
-- [🙌 Patrocina este maravilloso evento](https://somosnlp.org/hackathon/patrocinios)
-- [🔊 Propón una ponencia](https://somosnlp.org/hackathon/ponencias)
-- [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
-- [📚 Dona una base de datos](https://somosnlp.org/donatucorpus)
- -->
-
-## ¿Cómo puedes colaborar?
+Haz click en cada uno de las opciones siguientes para obtener más información:
 
 <details  style="margin-bottom: 20px;">
-<summary>💡 Asiste a las charlas de especialistas</summary>
+<summary>💻 Crea un modelo de lenguaje alineado con tu cultura</summary>
 
-En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de marzo tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
+Al unirte a este hackathon tendrás la oportunidad de desarrollar y aplicar tus conocimientos de entrenamiento de LLMs para la creación de modelos de calidad e inclusivos en tu lengua. Tendrás acceso a APIs de modelos del estado del arte, la posibilidad de ganar premios, participar en sorteos, asistir a charlas, talleres y mentorías, publicar un paper... ¡Apúntate ya!
 
-<!-- ¿Y hasta que llegue marzo? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546) -->
-
-<!-- <center><a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center> -->
-
-<center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
-<summary>💻 Crea una base de datos y entrena tu propio LLM</summary>
-
-Al unirte a este hackathon tendrás la oportunidad de colaborar con la creación de LLMs de calidad e inclusivos en tu lengua. Aplica tus conocimientos para superar los retos de cada etapa de desarrollo de tu LLM: creación del corpus, entrenamiento y evaluación.
-
-**Cada equipo participante (1-5 personas) generará un corpus de instrucciones, entrenará su LLM y creará una demo para compartir su gran trabajo con la comunidad.**
+**Cada equipo participante (1-5 personas) generará un dataset, alineará un LLM y creará una demo para compartir su gran trabajo con la comunidad.** También es posible contribuir únicamente al dataset.
 
 Desde SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
+
+Para que todo el mundo comience con las mismas condiciones, haremos las bases públicas el día 1 de abril. 
+
+  <div class="text-center">
+    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
+  </div>
 
 <!-- <div class="grid grid-cols-2">
   <div class="text-center">
@@ -57,10 +54,28 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
   </div>
 </div> -->
 
+<!--
 <center><a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
+-->
 
 </details>
 
+<details  style="margin-bottom: 20px;">
+<summary>💡 Asiste a las charlas de especialistas</summary>
+
+En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de abril tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
+
+¿Y hasta que llegue abril? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
+
+<!-- TODO: También te invitamos a seguir las charlas de la conferencia KHIPU.AI -->
+
+<center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+
+<!-- <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center> -->
+
+</details>
+
+<!--
 <details  style="margin-bottom: 20px;">
 <summary>🔍 Valida traducciones del inglés al español </summary>
 
@@ -87,14 +102,7 @@ Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa
 
 </details>
 
-<details  style="margin-bottom: 20px;">
-<summary>🤗 Únete al equipo</summary>
-
-Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre IA en español.
-
-<center><a href="https://forms.gle/radg18NMLRZMPu38A" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
-
-</details>
+-->
 
 <details  style="margin-bottom: 20px;">
 <summary>🔊 Propón una ponencia</summary>
@@ -110,44 +118,63 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 Comparte tu experiencia y conocimiento apoyando a los equipos participantes a crear bases de datos de calidad y entrenar un buen LLM. Puedes impartir una mentoría puntual o continua. ¡Piensa en tus puntos fuertes y ofrece una mentoría!
 
-<center><a href="https://forms.gle/7UmsVDnFmNo1pCrf9" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
+<center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
 
 </details>
 
 <details  style="margin-bottom: 20px;">
 <summary>🙌 Patrocina este maravilloso evento</summary>
 
-SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y crear impacto en el mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo visibilidad, vales y donaciones. ¡Contamos contigo!
+SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y acercar los modelos de lenguaje al mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo **visibilidad, vales y donaciones**. ¡Contamos contigo!
 
 <center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
 
-## 🚀 Nuestros objetivos
+<details  style="margin-bottom: 20px;">
+<summary>📣 Ayúdanos a difundir el evento</summary>
 
-La democratización del PLN en español es nuestro objetivo principal en SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es impulsando la creación de recursos abiertos de PLN en nuestro idioma.
+Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más personas, ¡todo el apoyo es bienvenido! Además, a partir de 4 publicaciones añadiremos vuestro logo a la página web en la sección de "Patrocinios de Comunidad".
 
-En las ediciones pasadas contamos en total con más de 1000 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a></center>
 
-En esta tercera edición nos sumamos a la revolución de los LLMs y continuamos fijando objetivos de alto impacto:
-1. 🌎 Crear el mayor **corpus de instrucciones de calidad que represente las variedades del español de los 600M de personas hispanohablantes** que nos permita entrenar modelos nativos e inclusivos.
-2. ✅ Crear la primera **leaderboard pública de LLMs en español** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales. 
+</details>
 
-¡Únete ya al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español! 🚀
+<details  style="margin-bottom: 20px;">
+<summary>🤗 Únete al equipo</summary>
 
-![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg)
+Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre *Cultural NLP*.
+
+<center><a href="https://forms.gle/N5qtmZRuwobKTkjn7" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
+
+</details>
 
 ## 👏 Agradecimientos 
 
-Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a hacer el PLN más inclusivo!
+Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a hacer los modelos de lenguaje más inclusivos!
 
-### Patrocinios de Oro
+### Organizado por
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
-<SponsorInfo sponsor="Argilla" url="http://somosnlp.org/patrocinios/argilla"
-logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
+<SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
+logo="https://somosnlp.github.io/assets/logo_somosnlp_nobg.png"
+logo_dark="https://somosnlp.github.io/assets/logo_somosnlp_nobg.png" />
+
+<SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
+logo="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg" />
+
+<SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
+
+</div>
+
+<!--
+### Patrocinios de Oro
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
 logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
@@ -233,6 +260,8 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" 
 
 </div>
 
+-->
+
 ---
 
 ## 🤗 ¡Conecta!
@@ -242,3 +271,4 @@ Para estar al día de todos los eventos y avances:
 - Síguenos en [Twitter](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
 - Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
 - Guarda los eventos del [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+<!-- TODO Newsletter -->
