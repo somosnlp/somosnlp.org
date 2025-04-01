@@ -87,7 +87,8 @@ Compartilhe sua experiência e conhecimento apoiando as equipes participantes na
 
 Muito obrigado pelo seu tempo e por nos apoiar para que nossa iniciativa possa ir mais longe. Vamos tornar os modelos de linguagem mais inclusivos!
 
-### Organizado por
+
+### 🚀 Organizado por
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
@@ -102,6 +103,70 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg" />
 <SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
+
+</div>
+
+### 💎 Platina
+
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="Cohere For AI" url=""
+logo="https://somosnlp.github.io/assets/images/patrocinios/cohere.svg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/cohere.svg" />
+
+</div>
+
+### 🥇 Ouro
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
+logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_title.svg"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_title.svg" />
+
+</div>
+
+### 🥈 Prata
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark.png" />
+
+</div>
+
+### 🌟 Comunidade
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="http://somosnlp.org/patrocinios/sepln"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
+
+<SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
+logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+
+<SponsorInfo sponsor="LatinX in AI" url="http://somosnlp.org/patrocinios/latinx-in-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
+
+<SponsorInfo sponsor="Proyecto ILENIA" url="http://somosnlp.org/patrocinios/ilenia"
+logo="https://somosnlp.github.io/assets/images/patrocinios/ILENIA.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ILENIA_dark.png" />
+
+<SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+
+<SponsorInfo sponsor="AI TINKERERS - Quito" url="http://somosnlp.org/comunidad"
+logo="https://somosnlp.github.io/assets/images/patrocinios/AITinkerers.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AITinkerers.png" />
+
+<SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"
+logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
 
 </div>
 
