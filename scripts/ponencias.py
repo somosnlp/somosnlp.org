@@ -1,6 +1,12 @@
 """Script to update talks and speaker profiles for the SomosNLP Hackathon 2024.
 
-This script processes a CSV file containing talk submissions from a Google Form and:
+Before running the script:
+- add ponencias.csv to scripts/data
+- add columns "Status" (="Aceptada")
+- update the constants at the beginning of the script
+- if the talk is already planned, add columns "Cartel" and "YouTube"
+
+This script processes a CSV file ("ponencias.csv") containing talk submissions from a Google Form and:
 1. Creates/updates talk files in pages/hackathon-2024/
 2. Creates/updates speaker profiles in pages/comunidad/
 
@@ -21,8 +27,14 @@ import pandas as pd
 import yaml
 
 # Constants
-HACKATHON_NAME = "Hackathon SomosNLP 2024"
-HACKATHON_DIR = "hackathon-2024"
+EVENT_NAME = "Hackathon SomosNLP"
+EVENT_YEAR = "2025"
+EVENT_DIR = "hackathon"
+DEFAULT_POSTER = "https://somosnlp.github.io/assets/logo_somosnlp.png"
+DEFAULT_YOUTUBE = "https://www.youtube.com/@SomosNLP"
+COMMUNITY_PHOTOS_BASE_URL = "https://somosnlp.github.io/assets/images/comunidad"
+FILE_PATH = "ponencias.csv"
+
 
 # Set up logging
 logging.basicConfig(
@@ -106,10 +118,10 @@ def format_video_url(url):
         url (str): YouTube video URL.
 
     Returns:
-        str: YouTube embed URL or empty string if invalid.
+        str: YouTube embed URL or default channel URL if invalid/empty.
     """
     if not url or pd.isna(url):
-        return ""
+        return DEFAULT_YOUTUBE
 
     # Extract video ID from various YouTube URL formats
     patterns = [
@@ -125,30 +137,50 @@ def format_video_url(url):
     return url  # Return original if no pattern matches
 
 
-def format_photo_url(url):
-    """Format photo URL, using SomosNLP logo for Google Drive links.
+def get_community_photo_url(name):
+    """Generate the URL for a community member's photo.
+
+    Args:
+        name (str): Name of the community member.
+
+    Returns:
+        str: URL to their photo in the community assets directory.
+    """
+    filename = clean_filename(name)  # Reuse our filename cleaning function
+    return f"{COMMUNITY_PHOTOS_BASE_URL}/{filename}.png"
+
+
+def format_photo_url(url, is_speaker=False, speaker_name=None):
+    """Format photo URL, using appropriate default for the context.
 
     Args:
         url (str): Photo URL, possibly from Google Drive.
+        is_speaker (bool): Whether this is for a speaker profile.
+        speaker_name (str, optional): Name of the speaker if is_speaker is True.
 
     Returns:
         str: Direct photo URL:
+            - Community photo URL if it's a speaker
             - Original URL if it's from somosnlp.github.io
-            - SomosNLP logo if it's from Google Drive
-            - Empty string if invalid/empty
+            - Default logo for other cases
     """
     if not url or pd.isna(url):
-        return ""
+        return (
+            get_community_photo_url(speaker_name)
+            if is_speaker and speaker_name
+            else DEFAULT_POSTER
+        )
 
     # Use original URL if it's from somosnlp.github.io
     if "somosnlp.github.io" in url:
         return url
 
-    # Use SomosNLP logo for Google Drive URLs
-    if "drive.google.com" in url:
-        return "https://somosnlp.github.io/assets/logo_somosnlp.png"
+    # For speakers, always use their community photo
+    if is_speaker and speaker_name:
+        return get_community_photo_url(speaker_name)
 
-    return url  # Return original for other cases
+    # Use default logo for Google Drive URLs or other cases
+    return DEFAULT_POSTER
 
 
 def parse_frontmatter(content):
@@ -232,8 +264,18 @@ def create_talk_content(row):
     website = clean_field(row["Página web"])
     twitter = clean_field(row["Twitter"])
     linkedin = clean_field(row["LinkedIn"])
-    poster = clean_field(row["Cartel"])
-    video = format_video_url(clean_field(row["YouTube"]))
+
+    # Handle missing or empty Cartel and YouTube columns
+    try:
+        poster = format_photo_url(clean_field(row.get("Cartel", "")))
+    except (KeyError, AttributeError):
+        poster = DEFAULT_POSTER
+
+    try:
+        video = format_video_url(clean_field(row.get("YouTube", "")))
+    except (KeyError, AttributeError):
+        video = DEFAULT_YOUTUBE
+
     tema = clean_field(row["¿Cuál es la temática?"])
     nivel = clean_field(row["Nivel técnico"])
 
@@ -255,8 +297,8 @@ bio: {speaker_bio}
     description="{description}"
     poster="{poster}"
     video="{video}"
-    tema={tema}
-    nivel={nivel}
+    tema="{tema}"
+    nivel="{nivel}"
     name="{speaker_name}"
     website="{website}"
     twitter="{twitter}"
@@ -292,14 +334,25 @@ def create_speaker_content(row, existing_content=None):
     website = clean_field(row["Página web"])
     twitter = clean_field(row["Twitter"])
     linkedin = clean_field(row["LinkedIn"])
-    photo = format_photo_url(clean_field(row["Foto de perfil"]))
+    photo = format_photo_url(
+        clean_field(row["Foto de perfil"]), is_speaker=True, speaker_name=name
+    )
     talk_title = clean_field(row["Título del evento"])
     description = clean_field(row["Descripción del evento"])
-    poster = clean_field(row["Cartel"])
-    video = format_video_url(clean_field(row["YouTube"]))
+
+    # Handle missing or empty Cartel and YouTube columns
+    try:
+        poster = format_photo_url(clean_field(row.get("Cartel", "")))
+    except (KeyError, AttributeError):
+        poster = DEFAULT_POSTER
+
+    try:
+        video = format_video_url(clean_field(row.get("YouTube", "")))
+    except (KeyError, AttributeError):
+        video = DEFAULT_YOUTUBE
 
     # Format talk title with hackathon name
-    talk_title_with_hackathon = f"{talk_title} | {HACKATHON_NAME}"
+    talk_title_with_hackathon = f"{talk_title} | {EVENT_NAME} {EVENT_YEAR}"
 
     if existing_content:
         # Parse existing content
@@ -349,7 +402,7 @@ def create_speaker_content(row, existing_content=None):
             "linkedin": linkedin,
             "github": frontmatter.get("github", ""),
             "huggingface": frontmatter.get("huggingface", ""),
-            "community": frontmatter.get("community", "Ponente"),
+            "community": frontmatter.get("community", f"Ponente {EVENT_YEAR}"),
         }
 
         # Reconstruct the file
@@ -372,7 +425,7 @@ twitter: {twitter}
 linkedin: {linkedin}
 github: ""
 huggingface: ""
-community: Ponente
+community: Ponente {EVENT_YEAR}
 ---
 
 ## Ponencias
@@ -423,7 +476,7 @@ def update_talks_and_speakers():
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     # Read the CSV file
-    csv_path = os.path.join(script_dir, "data", "ponencias.csv")
+    csv_path = os.path.join(script_dir, "data", FILE_PATH)
     try:
         df = pd.read_csv(csv_path)
     except FileNotFoundError:
@@ -466,7 +519,7 @@ def update_talks_and_speakers():
             processed_talks.add(talk_filename)
 
             talk_path = os.path.join(
-                script_dir, "..", "pages", HACKATHON_DIR, talk_filename
+                script_dir, "..", "pages", EVENT_DIR, talk_filename
             )
 
             # Create speaker filename with surname-names format

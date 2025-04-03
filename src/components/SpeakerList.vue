@@ -5,7 +5,8 @@ const router = useRouter()
 const routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/comunidad/')
-            && (i.meta as any).frontmatter.community === 'Ponente'
+            && (i.meta as any).frontmatter.community
+            && (i.meta as any).frontmatter.community.includes('Ponente')
     )
     .sort(
         (a, b) =>

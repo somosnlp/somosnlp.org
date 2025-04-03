@@ -17,7 +17,7 @@ const routes = router.getRoutes()
             && !i.path.startsWith('/comunidad/flor-plaza')
             && !i.path.startsWith('/comunidad/0-plantilla')
             && (i.meta as any).frontmatter.community
-            && (i.meta as any).frontmatter.community !== 'Ponente'
+            && !(i.meta as any).frontmatter.community.includes('Ponente')
     )
     .sort(
         (a, b) =>
