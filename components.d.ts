@@ -61,6 +61,7 @@ declare module 'vue' {
     TableDatasetsCSV: typeof import('./src/components/TableDatasetsCSV.vue')['default']
     TableJobs: typeof import('./src/components/TableJobs.vue')['default']
     TableModels: typeof import('./src/components/TableModels.vue')['default']
+    'Tabler:externalLink': typeof import('virtual:vite-icons/tabler/external-link')['default']
     'Twemoji:flagForFlagSpain': typeof import('virtual:vite-icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('virtual:vite-icons/twemoji/flag-for-flag-united-kingdom')['default']
   }

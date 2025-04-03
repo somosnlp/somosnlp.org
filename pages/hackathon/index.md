@@ -149,6 +149,11 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 
 </details>
 
+## 💡 Ponencias y mentorías
+
+
+
+
 ## 👏 Agradecimientos 
 
 Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciativa llegue más lejos. ¡Vamos a hacer los modelos de lenguaje más inclusivos!
@@ -302,6 +307,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" 
 </div>
 
 -->
+
+### 🤗 Equipo
+
+
 
 ---
 
