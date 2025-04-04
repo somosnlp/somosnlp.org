@@ -6,8 +6,8 @@ cover_dark: https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp
 twitter: https://twitter.com/IIConocimiento
 linkedin: https://www.linkedin.com/company/instituto-de-ingenieria-del-conocimiento-iic
 website: https://www.iic.uam.es 
-type: 1. Oro
-years: 2024, 2023
+type:  3. Comunidad 2025, Oro Corpus 2024
+years: 2025, 2024, 2023
 ---
 
 ## Colaboración

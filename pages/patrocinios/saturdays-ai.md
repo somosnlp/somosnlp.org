@@ -5,8 +5,8 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png
 twitter: https://twitter.com/AISaturdays_ES
 linkedin: https://www.linkedin.com/school/saturdaysai/
 website: https://saturdays.ai/
-type: 1. Oro
-years: 2024, 2023, 2022
+type: 1. Comunidad 2025, Oro 2024, Comunidad 2023, Comunidad 2022
+years: 2025, 2024, 2023, 2022
 ---
 
 Nuestra misión es hacer la IA accesible a cualquier persona, realizando proyectos con impacto social.
