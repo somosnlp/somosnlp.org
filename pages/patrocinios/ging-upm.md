@@ -6,8 +6,8 @@ cover_dark:
 twitter: 
 linkedin:
 website: https://ging.github.io
-type: 1. Oro Corpus
-years: 2024
+type: 1. Oro 2025, Oro Corpus 2024
+years: 2025, 2024
 ---
 
 ## Colaboración

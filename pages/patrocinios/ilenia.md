@@ -6,8 +6,8 @@ cover_dark: https://somosnlp.github.io/assets/images/patrocinios/ILENIA_dark.png
 twitter: 
 linkedin:
 website: 
-type: 3. Bronce
-years: 2024
+type: 3. Comunidad 2025, Comunidad 2024
+years: 2025, 2024
 ---
 
 ILENIA tiene por objeto impulsar en España la nueva economía digital basada en el lenguaje natural, aprovechando el potencial del español y del resto de lenguas oficiales como factor de crecimiento económico y de competitividad internacional en áreas tales como la inteligencia artificial, la traducción, la enseñanza, la producción y divulgación cultural, la investigación y la ciencia.

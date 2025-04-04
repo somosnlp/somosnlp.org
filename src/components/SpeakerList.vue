@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { useRouter } from 'vue-router'
 
-// Define the year prop with type number and required true
 const props = defineProps<{
     year?: number
     cols?: number

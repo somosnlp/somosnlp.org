@@ -5,8 +5,8 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/LXAI.png
 twitter: 
 linkedin:
 website: 
-type: 3. Bronce
-years: 2024, 2022
+type: 3. Comunidad 2025, Comunidad 2024, Comunidad 2022
+years: 2025, 2024, 2022
 ---
 
 Nuestra misión es aumentar la visibilidad de investigadores de Latinoamérica. Buscamos crear un espacio donde personas que trabajan o están interesadas en PLN se beneficien del intercambio científico, orientación y consejos de investigadores con su mismo origen. Con este objetivo en mente, LXAI ha organizado la segunda edición de un workshop en PLN, el cual se celebrará junto con la conferencia NAACL en Junio de 2024.

@@ -5,8 +5,8 @@ cover: https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png
 twitter: 
 linkedin:
 website: 
-type: 2. Plata
-years: 2024, 2023, 2022
+type: 3. Bronce 2025, Bronce 2024, Bronce 2023, Bronce 2022
+years: 2025, 2024, 2023, 2022
 ---
 
 ## Colaboración
