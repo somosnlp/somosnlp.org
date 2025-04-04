@@ -151,7 +151,9 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 
 ## 💡 Ponencias y mentorías
 
+Tendrás la oportunidad de aprender de líderes de la academia y la industria, ¡iremos anunciando nuevas ponencias y mentorías!
 
+<SpeakerList :year="2025" :cols="3" />
 
 
 ## 👏 Agradecimientos 
@@ -203,6 +205,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_titl
 <SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark.png" />
+
+<SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png" />
 
 </div>
 
@@ -307,9 +313,6 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" 
 </div>
 
 -->
-
-### 🤗 Equipo
-
 
 
 ---

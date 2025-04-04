@@ -83,6 +83,12 @@ Compartilhe sua experiência e conhecimento apoiando as equipes participantes na
 <center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofereça mentoria</a></center>
 </details>
 
+## 💡 Palestras e mentorias
+
+Você terá a oportunidade de aprender com líderes da academia e da indústria, iremos anunciar novas palestras e mentorias!
+
+<SpeakerList :year="2025" :cols="3" />
+
 ## 👏 Agradecimentos
 
 Muito obrigado pelo seu tempo e por nos apoiar para que nossa iniciativa possa ir mais longe. Vamos tornar os modelos de linguagem mais inclusivos!
@@ -133,6 +139,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_titl
 <SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark.png" />
+
+<SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png" />
 
 </div>
 
