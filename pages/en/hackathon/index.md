@@ -83,6 +83,12 @@ Share your experience and knowledge by supporting participating teams in creatin
 <center><a href="https://somosnlp.org/en/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Offer mentoring</a></center>
 </details>
 
+## 💡 Talks and mentorship sessions
+
+You will have the opportunity to learn from leaders in academia and industry, keep posted as we will announce new speakers and mentors!
+
+<SpeakerList :year="2025" :cols="3" />
+
 ## 👏 Acknowledgments
 
 Thank you very much for your time and for supporting us so that our initiative can reach further. Let's make language models more inclusive!
@@ -133,6 +139,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_titl
 <SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark.png" />
+
+<SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png" />
 
 </div>
 
