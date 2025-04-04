@@ -1,5 +1,5 @@
 ---
-title: Elena González-Blanco
+title: Elena González-Blanco, PhD
 description: Head of AI for EMEA Digital Natives @Microsoft
 cover: https://somosnlp.github.io/assets/images/comunidad/elena_gonzalez_blanco.jpeg
 website: 

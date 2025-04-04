@@ -1,5 +1,5 @@
 ---
-title: Oscar Cumbicus
+title: Oscar Cumbicus, PhD
 description: Professor and Researcher
 cover: https://oskrmiguel.github.io/profile/images/user-3.jpg
 website: https://oskrmiguel.github.io/profile/

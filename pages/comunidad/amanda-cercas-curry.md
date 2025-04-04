@@ -1,5 +1,5 @@
 ---
-title: Amanda Cercas Curry
+title: Amanda Cercas Curry, PhD
 description: Postdoc @MilaNLP
 cover: https://somosnlp.github.io/assets/images/comunidad/amanda_curry.jpg
 website: ''
