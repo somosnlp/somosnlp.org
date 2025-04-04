@@ -1,5 +1,5 @@
 ---
-title: Gabriela Arriagada-Bruneau
+title: Gabriela Arriagada-Bruneau, PhD
 description: Profesora IEA / IMC UC - Investigadora CENIA
 cover: https://somosnlp.github.io/assets/images/comunidad/gabriela_arriagada-bruneau.png
 website: https://eticasaplicadas.uc.cl/profesores/gabriela-arriagada-bruneau/

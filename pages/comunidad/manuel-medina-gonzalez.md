@@ -1,5 +1,5 @@
 ---
-title: Dr. Manuel Medina González
+title: Manuel Medina González, PhD
 description: Científico de datos en IBM Japan Systems Engineering
 cover: https://somosnlp.github.io/assets/images/comunidad/manuel_medina_gonzalez.jpg
 website: http://manuel.midoriparadise.com

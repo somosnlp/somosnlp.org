@@ -1,5 +1,5 @@
 ---
-title: Anxo Pérez
+title: Anxo Pérez, PhD
 description: Investigador @IRLab de la @UDC
 cover: https://somosnlp.github.io/assets/images/comunidad/anxo_perez.jpg
 website: https://pdi.udc.es/es/File/Pdi/UK44K
