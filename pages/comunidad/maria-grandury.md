@@ -1,12 +1,12 @@
 ---
 title: María Grandury
-description: Fundadora, Investigadora @SomosNLP
+description: Fundadora @SomosNLP | Investigadora @Universidad Politécnica de Madrid
 cover: https://somosnlp.github.io/assets/images/comunidad/maria_grandury.png
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
-community: Asociación
+community: 0. Asociación
 ---
 
 ## Ponencias
