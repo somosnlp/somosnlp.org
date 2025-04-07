@@ -5,19 +5,24 @@ const router = useRouter()
 const founder_routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/comunidad/maria-grandury')
-            || i.path.startsWith('/comunidad/manuel-romero')
-            || i.path.startsWith('/comunidad/flor-plaza')
-
+            || (
+                i.path.startsWith('/comunidad/')
+                && (i.meta as any).frontmatter.community
+                && (i.meta as any).frontmatter.community.includes('Equipo 2025')
+            )
+    )
+    .sort(
+        (a, b) =>
+            ((a.meta as any).frontmatter.community.localeCompare((b.meta as any).frontmatter.community)) ||
+            a.path.toLowerCase().localeCompare(b.path.toLowerCase())
     )
 const routes = router.getRoutes()
     .filter(
         i => i.path.startsWith('/comunidad/')
             && !i.path.startsWith('/comunidad/maria-grandury')
-            && !i.path.startsWith('/comunidad/manuel-romero')
-            && !i.path.startsWith('/comunidad/flor-plaza')
-            && !i.path.startsWith('/comunidad/0-plantilla')
             && (i.meta as any).frontmatter.community
             && !(i.meta as any).frontmatter.community.includes('Ponente')
+            && !(i.meta as any).frontmatter.community.includes('Equipo 2025')
     )
     .sort(
         (a, b) =>
@@ -29,7 +34,7 @@ const routes = router.getRoutes()
 <template>
 
     <div class="flex flex-col justify-center m-auto text-center prose ">
-        <h2>Equipo</h2>
+        <h2>Equipo Hackathon 2025</h2>
         <br />
     </div>
     <div class="auto-rows-fr mx-12 grid gap-6 lg:mx-36 lg:grid-cols-3">
