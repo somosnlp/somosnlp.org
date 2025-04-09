@@ -7,6 +7,12 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 There are 600M Spanish-speakers and 265M Portuguese-speakers in the world. These are the main languages in 29 countries, each with a rich culture. Although LLMs present increasingly better multilingual capabilities, are they really multicultural? Join now the #HackathonSomosNLP, the largest open-source NLP hackathon in Spanish and Portuguese! 🚀
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Register now</a>
+  <a href="https://somosnlp.org/en/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Discover the challenges</a>
+  <a href="https://somosnlp.notion.site/visibility-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Spread the word</a>
+</div>
+
 In past editions, we had in total more than 1500 participants from 30 different countries, we surpassed 20,000 views of our events, learned from 20 speakers, and developed 50 projects related to the UN's Sustainable Development Goals, demonstrating the potential of NLP to address social challenges. We're back for that and much more! 💪
 
 In this fourth edition, we are going to create open-source resources to **evaluate and improve the cultural adequacy of LLMs with respect to each of the countries of LATAM and the Iberian Peninsula**.
@@ -17,7 +23,7 @@ Here are all the links, keep reading for more information.
 
 - 💻 [Join the hackathon and/or attend the talks](https://forms.gle/bDaBC7XV3iu2trj59)
 - 🙌 [Sponsor this wonderful event](https://somosnlp.org/en/hackathon/patrocinios)
-- 📣 [Help us spread the word](https://somosnlp.org/en/hackathon/patrocinios)
+- 📣 [Help us spread the word](https://somosnlp.notion.site/visibility-hackathon-somosnlp-2025)
 - 🔊 [Propose a talk (Spanish or Portuguese)](https://somosnlp.org/en/hackathon/ponencias)
 - 🧑‍🏫 [Offer mentoring (Spanish, Portuguese, English)](https://somosnlp.org/en/hackathon/ponencias)
 
@@ -48,7 +54,11 @@ At SomosNLP, we believe that training is also a way to collaborate with the futu
 
 And until April arrives? [The recordings of previous talks are available!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 
-<center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now!</a></center>
+<div class="grid grid-cols-2">
+    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now!</a>
+    <a href="https://somosnlp.org/en/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Discover the challenges</a>
+</div>
+
 </details>
 
 <details  style="margin-bottom: 20px;">

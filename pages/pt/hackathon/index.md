@@ -7,6 +7,12 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Existem 600M de falantes de espanhol e 265M de falantes de português no mundo. Estes são os idiomas principais em 29 países, cada um com uma rica cultura. Embora os modelos de linguagem apresentem capacidades multilíngues cada vez melhores, eles são realmente multiculturais? Junte-se agora ao #HackathonSomosNLP, o maior hackathon open-source de Processamento de Linguagem Natural em espanhol e português! 🚀
 
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Inscreva-se já!</a>
+    <a href="https://somosnlp.org/pt/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubra os desafios</a>
+    <a href="https://somosnlp.notion.site/visibilidade-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunda o evento</a>
+</div>
+
 Nas edições anteriores, contamos com mais de 1500 participantes de 30 países diferentes, superamos 20.000 visualizações de nossos eventos, aprendemos com 20 palestrantes e desenvolvemos 50 projetos relacionados aos Objetivos de Desenvolvimento Sustentável da ONU, demonstrando o potencial do PLN para abordar desafios sociais. Voltamos por isso e muito mais! 💪
 
 Nesta quarta edição, vamos nos concentrar na criação de recursos que nos permitam **avaliar e melhorar a adequação cultural dos grandes modelos de linguagem em relação a cada um dos países da América Latina e da Península Ibérica**.
@@ -48,8 +54,12 @@ Na SomosNLP, acreditamos que a formação também é uma forma de colaborar com 
 
 E até abril chegar? [As gravações das palestras anteriores estão disponíveis!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 
-<center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Inscreva-se já!</a></center>
+<div class="grid grid-cols-2">
+    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Inscreva-se já!</a>
+    <a href="https://somosnlp.org/pt/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubra os desafios</a>
+</div>
 </details>
+
 
 <details  style="margin-bottom: 20px;">
 <summary>🙌 Patrocine este evento maravilhoso</summary>

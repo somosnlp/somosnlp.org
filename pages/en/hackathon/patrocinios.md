@@ -80,7 +80,7 @@ Visibility sponsorships are of utmost importance as they allow us to reach more 
 - We appreciate RT / comments on posts where we mention you.
 
 Useful links:
-- [🎨 Promotional material](https://somosnlp.notion.site/Visibilidad-Hackathon-2025-9e95599c2bd44c6b8077d775bf699267)
+- [🎨 Promotional material](https://somosnlp.notion.site/visibility-hackathon-somosnlp-2025)
 - [🎓 Info for universities](https://somosnlp.org/en/hackathon/universidades)
 
 <center><a href="mailto:info@somosnlp.org" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Promote the hackathon</a></center>
