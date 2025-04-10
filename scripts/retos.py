@@ -97,9 +97,11 @@ def format_challenge_content(reto):
         )
 
     if get_value(reto, "Espacio de anotación"):
-        content.extend(
-            [f"¡Participa ya! {get_value(reto, 'Espacio de anotación')}", ""]
-        )
+        link = get_value(reto, "Espacio de anotación").strip()
+        if link:  # Only add if there's actually a link
+            content.extend(["", "[¡Participa ya!](" + link + ")", ""])
+        else:
+            content.extend(["", ""])
 
     # Toggle content
     toggle_content = []
@@ -167,6 +169,12 @@ def generate_retos_md():
             "cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg",
             "---",
             "",
+            """
+            El hackathon de este año se centra en la creación de recursos que permitan la evaluación y el alineamiento de modelos de lenguaje con la cultura de los países de LATAM y la Península Ibérica.
+            
+            El hackathon consta de un reto principal y varios mini retos con los que también podéis acumular puntos para los premios finales y ganar premios extra.
+            """,
+            "",
             "## Mini retos",
             "",
         ]
@@ -193,25 +201,31 @@ def generate_retos_md():
     # Process charlas
     charlas = [r for r in retos if get_value(r, "Tipo de evento") == "Charla"]
     for charla in charlas:
-        content.extend(
-            [
-                f"#### {get_value(charla, 'Evento')}",
-                "",
-                (
-                    f"{get_value(charla, 'Descripción')}"
-                    if get_value(charla, "Descripción")
-                    else ""
-                ),
-                "",
-                "",
-            ]
-        )
+        description = get_value(charla, "Descripción")
+        link = get_value(charla, "Espacio de anotación")
+
+        content_items = [
+            f"#### {get_value(charla, 'Evento')}",
+            "",
+        ]
+
+        if description:
+            content_items.extend([description, ""])
+
+        if link and link.strip():
+            content_items.extend(
+                ["", "[¡Asiste al evento!](" + link.strip() + ")", "", ""]
+            )
+        else:
+            content_items.extend(["", ""])
+
+        content.extend(content_items)
 
     # Write the content to the file
     try:
-        with open("pages/hackathon/retos.md", "w", encoding="utf-8") as f:
+        with open("pages/hackathon/retos/index.md", "w", encoding="utf-8") as f:
             f.write("\n".join([line for line in content if line is not None]))
-        print("Successfully generated retos.md")
+        print("Successfully generated retos/index.md")
     except Exception as e:
         print(f"Error writing markdown file: {e}")
 

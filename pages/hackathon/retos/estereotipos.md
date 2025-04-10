@@ -6,10 +6,11 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 ---
 
 Este instructivo explica cómo utilizar el **Validador de Estereotipos** de la plataforma EDIA.  
-**Para una mejor comprensión del uso de la herramienta, se recomienda fuertemente ver el video explicativo disponible.**  
+**Para una mejor comprensión del uso de la herramienta, se recomienda fuertemente ver el [video explicativo](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) disponible.**  
 Este instructivo contiene una descripción básica del uso de la interfaz.
 
-[Accede a la herramienta](https://ediadev.ngrok.app/)
+- [Accede a la herramienta](https://ediadev.ngrok.app/)
+- [Vídeo explicativo](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
 ---
 
