@@ -5,12 +5,12 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Este instructivo explica cómo utilizar el **Validador de Estereotipos** de la plataforma EDIA.  
-**Para una mejor comprensión del uso de la herramienta, se recomienda fuertemente ver el [video explicativo](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) disponible.**  
-Este instructivo contiene una descripción básica del uso de la interfaz.
+Este instructivo explica cómo utilizar el **Validador de Estereotipos** de la plataforma EDIA. Este instructivo contiene una descripción básica del uso de la interfaz, **para una mejor comprensión del uso de la herramienta, se recomienda fuertemente ver el [video explicativo](https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) disponible.**  
 
-- [Accede a la herramienta](https://ediadev.ngrok.app/)
-- [Vídeo explicativo](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://ediadev.ngrok.app/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Accede a la herramienta</a>
+  <a href="https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Vídeo explicativo</a>
+</div>
 
 ---
 
@@ -53,4 +53,4 @@ Si no entiendes el par que aparece, detectas un error en los datos o no te sient
 
 ## Organización
 
-Muchas gracias al equipo: Luciana Benotti, Marcos Javier Gómez, Guido Ivetta, Sofía Martinelli, Nair Carolina Mazzeo, Beatriz Busaniche, Emilia Echeveste y Pietro Palombini. El equipo preparó este reto para el Hackathon SomosNLP 2025con una versión mejorada del taller que dictaron en KHIPU 2025. El taller original fue elaborado con la colaboración de Sunipa Dev, Vinodkumar Prabhakaran y Fundación Vía Libre. 
+Muchas gracias al equipo: Luciana Benotti, Marcos Javier Gómez, Guido Ivetta, Sofía Martinelli, Nair Carolina Mazzeo, Beatriz Busaniche, Emilia Echeveste y Pietro Palombini. El equipo preparó este reto para el Hackathon SomosNLP 2025 con una versión mejorada del taller que dictaron en KHIPU 2025. El taller original fue elaborado con la colaboración de Sunipa Dev, Vinodkumar Prabhakaran y Fundación Vía Libre. 
