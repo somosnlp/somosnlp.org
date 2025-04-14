@@ -47,16 +47,17 @@ const { t } = useI18n()
             <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
                 al Hackathon #Somos600M</div>
 
-            <div class="mt-10 grid gap-4 lg:grid-cols-2">
+            <div class="mt-10 grid gap-4 lg:grid-cols-1">
                 
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
                         src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg" />
                 </a>
+                <!-- 
                 <a href="/hackathon/ponencias" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
                         src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_callfortalks.jpg" />
-                </a>
+                </a> -->
             </div>
 
             <div class="m-12">
@@ -81,8 +82,25 @@ const { t } = useI18n()
                 </ul>
             </div>
 
-            <!-- <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3> -->
+            <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3>
+            <div class="mx-auto my-8 text-center">
+            <div class="grid grid-cols-2 gap-8 my-1">
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                    <img alt="Alfonso Amayuelas" width="650" height="365"
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/250415_alfonso_amayuelas.png" />
+                </a>
 
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                    <img alt="Selene Baez" width="650" height="365"
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/250410_selene_baez.png" />
+                </a>
+
+                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                    <img alt="Luis Vasquez" width="650" height="365"
+                        src="https://github.com/somosnlp/assets/raw/main/images/eventos/250410_luis_vasquez.png" />
+                </a>
+            </div>
+            </div>
 
             <h3 id="eventos-madrid">{{ t('events.sections.madrid') }}</h3>
 
