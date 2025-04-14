@@ -229,7 +229,18 @@ Muchísimas gracias a:
 
 </details>
 
+---
+
 ## 📅 Eventos
+
+#### Automatizando extracción de corpus desde PDFs | Alfonso Amayuelas, PhD @ Universidad de California, Santa Barbara
+
+¿Cómo usar las últimas herramientas en LLMs para crear QA datasets? En este evento usaremos un modelo de OCR y LLMs para estandarizar exámenes, cuestionarios, etc. 
+
+[¡En directo el martes!](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI&index=3)
+
+![alt text](https://somosnlp.github.io/assets/images/eventos/250415_alfonso_amayuelas.png)
+
 
 #### Confidently wrong: expresando incertidumbre en tareas multilinguales | Selene Baez, Postdoc @ University of Zurich
 
@@ -237,6 +248,7 @@ Si bien la fluidez y la coherencia de los Modelos de Lenguaje (LLM) en la genera
 
 [¡Grabación disponible!](https://www.youtube.com/watch?v=TC9tOEyPqy8&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
+![alt text](https://somosnlp.github.io/assets/images/eventos/250410_selene_baez.png)
 
 #### Red Teaming para Modelos de Lenguaje | Luis Vasquez, Research Engineer @Barcelona Supercomputing Center
 
@@ -244,3 +256,4 @@ Breve introducción al Red Teaming para Modelos de Lenguaje: definición, estrat
 
 [¡Grabación disponible!](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
+![alt text](https://somosnlp.github.io/assets/images/eventos/250410_luis_vasquez.png)
