@@ -21,10 +21,30 @@ Al ingresar al validador, lo primero que encontrarás es un formulario en el que
 Los pasos son los siguientes:
 
 - Seleccionar el idioma de la interfaz, es decir, el idioma en el que se mostrará la página y las instrucciones generales.
+<center>
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_1.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
+
 - Marcar los idiomas que comprendes (lectura y escritura). Puedes seleccionar varios, teniendo en cuenta que los datos de la actividad pueden aparecer en cualquiera de los idiomas que selecciones.
+<center>
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_2.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
+
 - Ingresar tu dirección de correo electrónico.
+<center>
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_3.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
+
 - Seleccionar una o más nacionalidades que representen tu identidad cultural, personal o nacional. También puedes opcionalmente elegir una o más regiones específicas o escribirlas manualmente si no aparecen en la lista.
+<center>
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_4.png" alt="Estereotipos 1" style="max-width: 50%;">
+    <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_5.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
+
 - Finalmente, leer el [consentimiento informado](https://docs.google.com/document/d/17Feum83dTqjcicgJxuWdZ3qLuL3emmVY2idGym_usLU) sobre uso de datos de la herramienta EDIA y si estás de acuerdo, aceptarlo para continuar.
+<center>
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_6.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
 
 ---
 
@@ -41,9 +61,25 @@ En cada ronda se mostrará una nacionalidad y un atributo. Tu tarea es:
    - 1: Totalmente en desacuerdo.  
    - 5: Totalmente de acuerdo.
 
+   <center>
+    <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_7.png" alt="Estereotipos 1" style="max-width: 50%;">
+    <center>        
+    <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_8.png" alt="Estereotipos 1" style="max-width: 50%;">
+    </center>
+   </center>
+
 2. (Opcional) Puedes escribir otro atributo que relaciones con la nacionalidad dada. Este atributo puede estar en cualquiera de los idiomas que seleccionaste al inicio. Se alienta a escribir en diferentes idiomas si es posible.
 
+<center>        
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_9.png" alt="Estereotipos 1" style="max-width: 50%;">
+<img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_10.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
+
 3. (Opcional) También puedes agregar otras nacionalidades o regiones que, en tu opinión, estén asociadas con el atributo presentado.
+
+<center>
+  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_11.png" alt="Estereotipos 1" style="max-width: 50%;">
+</center>
 
 Cuando completes los campos que consideres necesarios, haz clic en el botón *Enviar* para recibir un nuevo par nacionalidad–atributo, posiblemente en alguno de los idiomas que marcaste como conocidos.
 
