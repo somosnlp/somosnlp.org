@@ -9,11 +9,14 @@ Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs.
 
 *14 de abril - 7 de mayo | máx 2 ptos*
 
-<center><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+<center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
-Incentivos:
-- 200 por equipo = acceso a los 500 USD de la API Cohere para el reto principal
-- 50 por persona = co-autoría en el paper
+Incentivos (los números se refieren a preguntas respondidas validadas):
+- Por equipo:
+    - 200 por equipo = requisito para acceder a los 500 USD de la API Cohere para el reto principal
+    - Cada 50 preguntas por equipo = 0.5 ptos
+- Por persona:
+    - 100 por persona = co-autoría en el paper
 
 Muchísimas gracias a:
 - CENIA: Almacenamiento de los datos en los espacios de anotación

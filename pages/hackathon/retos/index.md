@@ -10,16 +10,16 @@ El hackathon de este año se centra en la creación de recursos que permitan la 
 El hackathon consta de un reto principal y varios mini retos con los que también podéis acumular puntos para los premios finales y ganar premios extra. La puntuación máxima total es de 10 puntos.
 
 Antes de comenzar:
-- Únete al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
-- Crea una cuenta en [Hugging Face](https://huggingface.co/join)
-- Rellena el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
-- Únete a la [organización de Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD)
-- [Crea o únete a un equipo](https://discord.com/channels/938134488670675055/1082369575666073611), crear un hilo en el canal #encuentra-equipo es la manera de registrar tu equipo para el hackathon
+- ✅ Únete al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
+- ✅ Crea una cuenta en [Hugging Face](https://huggingface.co/join)
+- ✅ Rellena el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
+- ✅ Únete a la [organización de Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD) del hackathon, donde se compartirán los datasets, modelos y demos
+- ✅ [Crea o únete a un equipo](https://discord.com/channels/938134488670675055/1082369575666073611), crear un hilo en el canal #encuentra-equipo es la manera de registrar tu equipo para el hackathon
 
 Si tienes cualquier duda:
 - Revisa el canal [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115), recomendamos activar las notificaciones del canal, publicamos máximo 1 vez al día
-- Pregúntanos en el canal [#pide-ayuda](https://discord.com/channels/938134488670675055/1051997272356966430) de Discord para que todo el mundo pueda beneficiarse de la respuesta
-- Los eventos los anunciamos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) y los añadimos al [calendario](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Pregunta tus dudas en el canal [#pide-ayuda](https://discord.com/channels/938134488670675055/1051997272356966430) de Discord para que todo el mundo pueda beneficiarse de la respuesta
+- Los eventos los anunciamos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) y los añadimos al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Nos puedes dar feedback para mejorar las guías de los retos con este [formulario](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
 
 ¡A por ello! 🚀
@@ -33,27 +33,8 @@ Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de
 
 *9 de abril - 21 de abril | máx 1 pto*
 
-
-[¡Participa ya!](https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y)
-
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo: [aquí](https://somosnlp.org/hackathon/retos/include)
-- Protocolo de recolección de exámenes
-- Recomendaciones para encontrar exámenes
-- Guía para extraer preguntas y respuestas de exámenes
-
-Incentivos:
-- 100 por equipo = 0.5 ptos y premio valorado en 50 USD
-- 200 por equipo = 1 pto y premio valorado en 100 USD
-- 300 por persona = invitación al Slack del proyecto global y co-autoría en el paper de INCLUDE v2
-
-Muchísimas gracias a:
-- EPFL: Premios y organización del equipo global
-- El equipo: María Grandury y Angelika Romanou
-
-</details>
+- [¡Participa ya!](https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y)
+- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/include)
 
 ### 👀 Estereotipos
 
@@ -61,24 +42,9 @@ Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 
 *9 de abril - 7 de mayo | máx 1 pto*
 
-[¡Participa ya!](https://ediadev.ngrok.app/)
+- [¡Participa ya!](https://ediadev.ngrok.app/)
+- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/estereotipos)
 
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo: [aquí](https://somosnlp.org/hackathon/retos/estereotipos)
-- Vídeo explicativo de la herramienta
-- Guía escrita para utilizar la herramienta
-
-Incentivos:
-- 100 por equipo = 1 pto
-- Tendréis acceso a los datos recolectados para alinear vuestro LLM
-
-Muchísimas gracias a:
-- El equipo: Luciana Benotti, Marcos Javier Gómez, Guido Ivetta, Sofía Martinelli Nair Carolina Mazzeo, Beatriz Busaniche, Emilia Echeveste
-y Pietro Palombini 
-
-</details>
 
 ### ❓ Preguntas culturales (BLEND)
 
@@ -86,25 +52,8 @@ Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs.
 
 *14 de abril - 7 de mayo | máx 2 ptos*
 
-¡Participa ya! 
-
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo:
-- Guía para responder preguntas
-- Guía para validar respuestas
-- Guía para proponer nuevas preguntas
-
-Incentivos:
-- 200 por equipo = acceso a los 500 USD de la API Cohere para el reto principal
-- 50 por persona = co-autoría en el paper
-
-Muchísimas gracias a:
-- CENIA: Almacenamiento de los datos en los espacios de anotación
-- El equipo: Eugenio Herrera, Sebastián Cifuentes, Clemente, Diana Galván y María Grandury
-
-</details>
+- [¡Participa ya!](https://somosnlp-blend-es.hf.space/)
+- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/blend)
 
 ## 🔥 Reto principal
 
@@ -114,23 +63,8 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 
 *14 de abril - 21 de abril | máx 3 ptos*
 
-¡Participa ya!
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo:
-- Guía para diseñar buenos prompts
-
-Incentivos:
-- 100 por equipo = acceso a los 500 USD de la API de Cohere para el reto principal
-- 200 por equipo = 2 ptos
-- Suma hasta 3 ptos a la puntuación total de tu equipo
-
-Muchísimas gracias a:
-- CENIA: Créditos API para los LLMs de la Arena
-- El equipo: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente y María Grandury
-
-</details>
+- [¡Participa ya!](https://fastchat-webui-908374066028.us-central1.run.app/gradio/)
+- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/preferencias)
 
 ### ⚙️ Opción A: Alineamiento de LLMs
 

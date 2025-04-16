@@ -11,10 +11,9 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 
 <center><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
-Incentivos:
-- 100 por equipo = acceso a los 500 USD de la API de Cohere para el reto principal
-- 200 por equipo = 2 ptos
-- Suma hasta 3 ptos a la puntuación total de tu equipo
+Incentivos (los números se refieren a prompts respondidos validados):
+- 100 por equipo = requisito para acceder a los 500 USD de la API de Cohere para el reto principal
+- Cada 50 prompts por equipo = 0.5 ptos
 
 Muchísimas gracias a:
 - CENIA: Créditos API para los LLMs de la Arena
