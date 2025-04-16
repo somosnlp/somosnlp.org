@@ -16,9 +16,13 @@ Incentivos (los números se refieren a preguntas con sus correspondientes respue
     - 100 preguntas en total = 0.5 ptos
     - 200 preguntas en total = 1 pto
 - Por persona:
-    - Cada 100 preguntas = 50 USD en créditos GPU (i.e., 200 preguntas = 100 USD)
+    - Cada 100 preguntas = 50 USD en créditos GPU o libros
     - 300 por persona = invitación al Slack del proyecto global y co-autoría en el paper de INCLUDE v2
 - OJO: ¡Los exámenes tienen que cumplir los requisitos!
+
+Recursos:
+- [Taller de Alfonso Amayuelas](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6&index=1)
+- Repo de GitHub con el código del taller: [amayuelas/corpus-automation](https://github.com/amayuelas/corpus-automation)
 
 ---
 

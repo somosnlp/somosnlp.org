@@ -33,6 +33,8 @@ Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de
 
 *9 de abril - 21 de abril | máx 1 pto*
 
+Requisitos: Saber buscar en internet
+
 - [¡Participa ya!](https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y)
 - [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/include)
 
@@ -41,6 +43,8 @@ Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de
 Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 
 *9 de abril - 7 de mayo | máx 1 pto*
+
+Requisitos: Haber vivido en sociedad
 
 - [¡Participa ya!](https://ediadev.ngrok.app/)
 - [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/estereotipos)
@@ -51,6 +55,8 @@ Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.
 
 *14 de abril - 7 de mayo | máx 2 ptos*
+
+Requisitos: Haber vivido en sociedad
 
 - [¡Participa ya!](https://somosnlp-blend-es.hf.space/)
 - [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/blend)
@@ -63,6 +69,8 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 
 *14 de abril - 21 de abril | máx 3 ptos*
 
+Requisitos: Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural
+
 - [¡Participa ya!](https://fastchat-webui-908374066028.us-central1.run.app/gradio/)
 - [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/preferencias)
 
@@ -71,6 +79,8 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 Procesa, filtra y extiende el dataset de preferencias v0 adaptándolo a tu caso de uso. Utilízalo para alinear un LLM utilizando técnicas de entrenamiento optimizado y alineamiento como LoRA, cuantización y optimización directa de preferencias (DPO). Para este reto cada equipo tendrá acceso a 500 USD de la API de Cohere y una GPU L40S de Hugging Face.
 
 *21 de abril - 5 de mayo | máx 3 ptos*
+
+Requisitos: Saber programar
 
 <details>
 <summary>Más información</summary>
@@ -92,6 +102,8 @@ Muchísimas gracias a:
 Crea un modelo multimodal que genere descripciones de imágenes teniendo en cuenta el contexto. Para este reto cada equipo tendrá acceso a 500 USD de la API de Cohere y una GPU L40S de Hugging Face.
 
 *21 de abril - 5 de mayo | máx 3 ptos*
+
+Requisitos: Tener experiencia en PLN, habrá menos material de apoyo para este reto que para la opción A
 
 <details>
 <summary>Más información</summary>
@@ -123,6 +135,7 @@ Guías y material de apoyo:
 Incentivos:
 - Suma hasta 0.5 ptos a la puntuación total de tu equipo
 - Mejores 2 o 3 demos = extensión del tiempo de ZeroGPU
+- Necesario para dar el proyecto por finalizado y optar a los premios
 
 Muchísimas gracias a:
 - Hugging Face: ZeroGPU para las  demos
@@ -144,6 +157,7 @@ Guías y material de apoyo:
 Incentivos:
 - Suma hasta 0.5 ptos a la puntuación total de tu equipo
 - Requerido por Mistral para dar los créditos al equipo ganador
+- Necesario para dar el proyecto por finalizado y optar a los premios
 
 </details>
 
