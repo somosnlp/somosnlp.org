@@ -5,6 +5,25 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
+Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
+
+*9 de abril - 7 de mayo | máx 1 pto*
+
+[¡Participa ya!](https://ediadev.ngrok.app/)
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://ediadev.ngrok.app/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Accede a la herramienta</a>
+  <a href="https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Vídeo explicativo</a>
+</div>
+
+Incentivos:
+- 100 estereotipos validados por equipo = 1 pto
+- Tendréis acceso a los datos recolectados para alinear vuestro LLM
+
+---
+
+## Guía
+
 Este instructivo explica cómo utilizar el **Validador de Estereotipos** de la plataforma EDIA. Este instructivo contiene una descripción básica del uso de la interfaz, **para una mejor comprensión del uso de la herramienta, se recomienda fuertemente ver el [video explicativo](https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) disponible.**  
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -12,9 +31,7 @@ Este instructivo explica cómo utilizar el **Validador de Estereotipos** de la p
   <a href="https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Vídeo explicativo</a>
 </div>
 
----
-
-## 1. Datos personales y consentimiento informado
+### 1. Datos personales y consentimiento informado
 
 Al ingresar al validador, lo primero que encontrarás es un formulario en el que se deben completar los datos personales y aceptar el consentimiento informado para poder continuar con la actividad.
 
@@ -46,9 +63,7 @@ Los pasos son los siguientes:
   <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_6.png" alt="Estereotipos 1" style="max-width: 50%;">
 </center>
 
----
-
-## 2. Uso del Validador de Estereotipos
+### 2. Uso del Validador de Estereotipos
 
 Una vez completada la primera parte, se habilita el acceso a la actividad principal.
 
