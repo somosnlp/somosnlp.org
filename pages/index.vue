@@ -65,10 +65,15 @@ const showPastEvents = ref(true);
   }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Próximos eventos"
-        src="https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg" />
-      <p>Hemos lanzado el Proyecto #Somos600M con el objetivo de representar en los modelos de lenguaje la riqueza de
-        nuestras lenguas. Tenemos varias iniciativas:</p>
+        src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg" />
+      <p>El objetivo de este hackathon es crear recursos que nos permitan evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica.</p>
+      <a target="_blank" class="button-accent max-w-100 mx-auto my-8" href="https://somosnlp.org/hackathon">
+        {{ t('landing-page.join-now') }}
+      </a>
 
+      <!-- <img class="mx-auto my-8" alt="Próximos eventos"
+        src="https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg" /> -->
+      <p>Este hackathon es la continuación del Proyecto #Somos600M que lanzamos en 2024 con el objetivo de representar en los modelos de lenguaje la riqueza de nuestras lenguas. Tenemos varias iniciativas:</p>
       <div class="my-8 grid gap-y-8 gap-x-6 grid-cols-[auto,1fr] items-center">
         <!-- i-fluent-rocket-24-regular -->
         <div class="rounded-md p-2 text-accent-900" bg="accent-100 dark:accent-300"
@@ -76,10 +81,10 @@ const showPastEvents = ref(true);
           <carbon:star text="lg" />
         </div>
         <div>
-          Implementar una leaderboard abierta para evaluar LLMs generativos en español y lenguas cooficiales.
-          <a href="blog/la-leaderboard" target="_blank">
+          Implementar una leaderboard abierta para evaluar LLMs generativos en español y lenguas cooficiales:
+          <a href="https://huggingface.co/spaces/la-leaderboard/la-leaderboard" target="_blank">
             <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
-              border="2 accent-300">V1 live el 23 de septiembre</span>
+              border="2 accent-300">"La Leaderboard"</span>
           </a>
         </div>
 
@@ -125,7 +130,7 @@ const showPastEvents = ref(true);
           <carbon:book text="lg" />
         </div>
         <div>
-          Creación un gran corpus de instrucciones, los equipos del Hackathon SomosNLP 2024 crearon la primera versión.
+          Creación de un gran corpus de instrucciones, los equipos del Hackathon SomosNLP 2024 crearon la primera versión:
           <a href="https://huggingface.co/somosnlp" target="_blank">
             <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
               border="2 accent-300">Proyectos Hackathon 2024</span>
@@ -137,7 +142,7 @@ const showPastEvents = ref(true);
           <carbon:list text="lg" />
         </div>
         <div>
-          Recolección de proyectos, eventos y grupos de investigación que están impulsando el PLN en español.
+          Recolección de proyectos, eventos y grupos de investigación que están impulsando el PLN en español:
           <a href="https://huggingface.co/spaces/somosnlp/spanish-nlp-initiatives" target="_blank">
             <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
               border="2 accent-300">Descubre las iniciativas</span>
@@ -147,7 +152,7 @@ const showPastEvents = ref(true);
       </div>
 
       <p>Buscamos colaboraciones con grupos de investigación de LATAM, el Caribe y España, ¡contáctanos!</p>
-      <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/somos600m">
+      <a target="_blank" class="button-accent max-w-100 mx-auto my-8" href="https://somosnlp.org/somos600m">
         {{ t('landing-page.know-more') }}
       </a>
     </div>
