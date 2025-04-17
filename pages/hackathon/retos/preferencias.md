@@ -387,3 +387,8 @@ opciones para comer y divertirse al aire libre.
 - Recuerda que también puedes participar en los mini retos para conseguir más puntos
     - [INCLUDE](https://somosnlp.org/hackathon/retos/include) - Recolección de exámenes (hasta el 23 de abril, habrá premios y paper)
     - [BLEND](https://somosnlp.org/hackathon/retos/blend) - Preguntas de conocimiento cultural (hasta el 7 de mayo, habrá paper)
+
+
+<center style="margin-top:40px;"><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
