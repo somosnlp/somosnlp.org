@@ -102,3 +102,7 @@ Como puedes ver en la imagen de ejemplo, el formulario de anotación contiene va
 - Save as draft: Para guardar tu respuesta como borrador y continuarla más tarde.
 - Submit: Para enviar tu respuesta y continuar con la siguiente pregunta.
 - En la parte superior de la pantalla, verás un contador que indica en qué pregunta te encuentras (por ejemplo, "1 of 500"), lo que te permitirá hacer un seguimiento de tu progreso.
+
+<center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>

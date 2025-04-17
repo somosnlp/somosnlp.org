@@ -65,8 +65,8 @@ Incluye lo siguiente:
 - Dominio del examen (e.g., Literatura, Derecho, Conducir, etc.)
 - Nivel del examen
 - Número de preguntas
-- Enlace del examen (si está disponible en línea, si no el nombre del libro o documento)
-- Formato (e.g., PDF, página web, libro de texto, etc.)
+- Origen del examen (URL si está disponible en línea, nombre del libro o URL al documento PDF en tu Drive, etc.)
+- Formato original (e.g., PDF, página web, libro de texto, etc.)
 
 ### 3. Procesar los exámenes
 
@@ -74,7 +74,8 @@ Una vez que has encontrado un examen:
 
 - Extrae las preguntas y respuestas y crea un archivo final en formato **JSON** (ejemplo a continuación).
     - Te recomendamos el [taller de Alfonso Amayuelas](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6&index=1)
-- Sube el archivo final a un dataset en [huggingface.co/somosnlp-hackathon-2025](https://huggingface.co/somosnlp-hackathon-2025) con el nombre del examen. Si no formas parte de la organización, únete con esta [invitación](https://huggingface.co/somosnlp-hackathon-2025).
+    - Repo de GitHub con el código del taller: [amayuelas/corpus-automation](https://github.com/amayuelas/corpus-automation)
+- Sube el archivo final a un dataset **PRIVADO** en [huggingface.co/somosnlp-hackathon-2025](https://huggingface.co/somosnlp-hackathon-2025) con el nombre del examen. Si no formas parte de la organización, únete con esta [invitación](https://huggingface.co/somosnlp-hackathon-2025).
 - En el canal de Discord [#examenes-include](https://discord.com/channels/938134488670675055/1326890438782750852), menciona a @mariagrandury y comparte el enlace al dataset creado.
 - Verificaremos el contenido y te informaremos si se necesita hacer algún cambio.
 
@@ -84,10 +85,10 @@ Ejemplo JSON en el formato esperado:
 {
   "language": "es",
   "country": "España",
-  "exam_name": "Examen Final de Física de Secundaria 2017",
+  "exam_name": "Examen final de Historia de España de Secundaria 2017",
   "source": "https://url-del-examen",
-  "license": "Desconocida",
-  "level": "Acceso a la Universidad",
+  "license": "CC-BY-SA",
+  "level": "Acceso a la universidad",
   "category_en": "History",
   "category_original_lang": "Historia",
   "original_question_num": 1,
@@ -102,3 +103,7 @@ Ejemplo JSON en el formato esperado:
 Muchísimas gracias a:
 - EPFL: Premios y organización del equipo global
 - El equipo: María Grandury y Angelika Romanou
+
+<center style="margin-top:40px;"><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>

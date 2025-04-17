@@ -105,3 +105,7 @@ Si no entiendes el par que aparece, detectas un error en los datos o no te sient
 ## Organización
 
 Muchas gracias al equipo: Luciana Benotti, Marcos Javier Gómez, Guido Ivetta, Sofía Martinelli, Nair Carolina Mazzeo, Beatriz Busaniche, Emilia Echeveste y Pietro Palombini. El equipo preparó este reto para el Hackathon SomosNLP 2025 con una versión mejorada del taller que dictaron en KHIPU 2025. El taller original fue elaborado con la colaboración de Sunipa Dev, Vinodkumar Prabhakaran y Fundación Vía Libre. 
+
+<center style="margin-top:40px;"><a href="https://ediadev.ngrok.app/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
