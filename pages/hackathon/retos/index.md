@@ -16,6 +16,19 @@ Antes de comenzar:
 - ✅ Únete a la [organización de Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD) del hackathon, donde se compartirán los datasets, modelos y demos
 - ✅ [Crea o únete a un equipo](https://discord.com/channels/938134488670675055/1082369575666073611), crear un hilo en el canal #encuentra-equipo es la manera de registrar tu equipo para el hackathon
 
+Al participar tendrás la oportunidad de:
+- ✨ Aprender con talleres y charlas en directo
+- ✨ Conseguir acceso a los 500 USD de la API de Cohere
+- ✨ Conseguir acceso a GPUs L40S de Hugging Face
+- ✨ Ganar 1000 USD en créditos de la API de Mistral
+- ✨ Ganar cientos de USD en créditos GPU y libros de IA y lenguaje
+- ✨ Ganar acceso a un Máster online de IA
+- ✨ Ganar una entrada para la conferencia online de WomenTech Network
+- ✨ Ganar una nominación a la red de talento Nova
+- ✨ Ganar mentorías con personas relevantes en el campo del PLN
+- ✨ Co-publicar papers en conferencias de PLN internacionales
+- ✨ Conseguir un certificado de participación (o equipo ganador) del hackathon
+
 Si tienes cualquier duda:
 - Revisa el canal [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115), recomendamos activar las notificaciones del canal, publicamos máximo 1 vez al día
 - Pregunta tus dudas en el canal [#pide-ayuda](https://discord.com/channels/938134488670675055/1051997272356966430) de Discord para que todo el mundo pueda beneficiarse de la respuesta
@@ -31,7 +44,7 @@ Si tienes cualquier duda:
 
 Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de los LLMs. Prioriza exámenes en lenguas distintas al español y/o centrados en temas culturales (e.g. historia, literatura). Utilizaremos estas preguntas y respuestas para extender el benchmark abierto INCLUDE.
 
-*9 de abril - 21 de abril | máx 1 pto*
+*9 de abril - 24 de abril (EXTENDIDA) | máx 1 pto*
 
 Requisitos: Saber buscar en internet
 
@@ -67,7 +80,7 @@ Requisitos: Haber vivido en sociedad
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 21 de abril | máx 3 ptos*
+*14 de abril - 28 de abril | máx 3 ptos*
 
 Requisitos: Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural
 

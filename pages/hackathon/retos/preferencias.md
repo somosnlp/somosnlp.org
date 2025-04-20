@@ -7,13 +7,13 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 21 de abril | máx 3 ptos*
+*14 de abril - 28 de abril | máx 3 ptos*
 
 <center><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
 Incentivos (los números se refieren a prompts respondidos validados):
 - 100 por equipo = requisito para acceder a los 500 USD de la API de Cohere para el reto principal
-- Cada 50 prompts por equipo = 0.5 ptos
+- Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos, el otro punto se obtiene de evaluar cómo utilicéis la API de Cohere para mejorar el dataset)
 
 Muchísimas gracias a:
 - CENIA: Créditos API para los LLMs de la Arena
@@ -31,7 +31,7 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 4. El día 21 de abril publicaremos el conjunto de prompts y respuestas, llamémoslo “dataset v0”
 5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender v0 y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
 
-Nota: para acceder a los créditos y GPUs es necesario contribuir 200 prompts **de calidad** al dataset.
+Nota: para acceder a los créditos y GPUs, el equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend)).
 
 Lee con atención las guías a continuación para más detalles de cada paso. Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto.
 
