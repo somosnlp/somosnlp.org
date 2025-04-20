@@ -17,7 +17,7 @@ Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 </div>
 
 Incentivos:
-- Cada 10 estereotipos validados por equipo = 0.1 ptos
+- Cada 10 estereotipos validados por equipo = 0.1 ptos (máx 1 pto)
 - Tendréis acceso a los datos recolectados para alinear vuestro LLM
 
 ---

@@ -14,9 +14,9 @@ Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs.
 Incentivos (los números se refieren a preguntas respondidas validadas):
 - Por equipo:
     - 200 por equipo = requisito para acceder a los 500 USD de la API Cohere para el reto principal
-    - Cada 50 preguntas por equipo = 0.5 ptos
+    - Cada 50 preguntas por equipo = 0.5 ptos (máx 2 ptos)
 - Por persona:
-    - 100 por persona = co-autoría en el paper
+    - 100 por persona = co-autoría en el paper de BLEND-ES
 
 Muchísimas gracias a:
 - CENIA: Almacenamiento de los datos en los espacios de anotación
