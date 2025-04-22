@@ -5,23 +5,29 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
+Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios. **Lee la guía para aprender a diseñar prompts de calidad.**
 
 *14 de abril - 28 de abril | máx 3 ptos*
 
 <center><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
-Incentivos (los números se refieren a prompts respondidos validados):
+🌎 Genera **solo** prompts relacionados con el país o países con los que tengas un vínculo lo suficientemente fuerte como para conocer la cultura local.
+
+✨ Incentivos (los números se refieren a prompts respondidos validados):
 - 100 por equipo = requisito para acceder a los 500 USD de la API de Cohere para el reto principal
 - Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos, el otro punto se obtiene de evaluar cómo utilicéis la API de Cohere para mejorar el dataset)
+- Tendréis acceso a los datos generados por todos los equipos para tomarlos de base para vuestro alineamiento, **una mayor calidad de los datos implica una mayor calidad de vuestro proyecto**
 
-Muchísimas gracias a:
+🙌 Muchísimas gracias a:
 - CENIA: Créditos API para los LLMs de la Arena
 - El equipo: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente y María Grandury
 
+Recursos:
+- Definiciones, ejemplos de prompts y datasets de preferencias a continuación
+
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
 El objetivo de este reto es crear entre todos los equipos un dataset que permita alinear LLMs con la cultura de los países de LATAM y la Península Ibérica. Para ello, cada equipo tiene que:
 
@@ -33,9 +39,12 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 
 Nota: para acceder a los créditos y GPUs, el equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend)).
 
-Lee con atención las guías a continuación para más detalles de cada paso. Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto.
+🚨 **Lee con atención las guías a continuación para más detalles de cada paso.** Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto. No se considerarán prompts y respuestas de equipos que no hayan seguido las instrucciones.
 
-## **0. Cómo crear equipos**
+## 🤗 Cómo crear equipos
+
+<details>
+<summary>Cómo crear equipos</summary>
 
 - Pueden ser homogéneos (todas las personas son del mismo país) o heterogéneos (distintos países de origen)
     - Equipos homogéneos
@@ -52,7 +61,9 @@ Lee con atención las guías a continuación para más detalles de cada paso. To
 > 2. Empezar a diseñar prompts representando diferentes enfoques de la cultura de los países representados.
 > 3. Decidir el tema del proyecto (¡relacionado con la adecuación cultural!) para tenerlo en cuenta, si queréis, en el diseño de prompts. Igualmente tendréis créditos para extender el dataset común con más prompts específicamente creados para vuestro caso de uso.
 
-## 1. Las definiciones
+</details>
+
+## 👀 1. Las definiciones
 
 El principal objetivo del hackathon, y en particular de este reto, es mejorar la “adecuación cultural” de los LLMs, veamos qué significa esto. Comenzamos con unas definiciones:
 
@@ -131,7 +142,7 @@ Distintos propósitos comunicativos
 </details>
 
 
-## **2. Cómo diseñar los prompts**
+## 🎨 2. Cómo diseñar los prompts
 
 ### 2.1. Características generales
 
@@ -164,7 +175,7 @@ Inclúyelo en el “System prompt”. Además del rol, recomendamos explicitar e
 
 </details>
 
-### **2.2. Ejemplos de prompt (no exhaustivos)**
+### 2.2. Ejemplos de prompt (no exhaustivos)
 
 💡 Los prompts que se muestran a continuación son sólo una guía
 
@@ -312,7 +323,7 @@ opciones para comer y divertirse al aire libre.
     - opcional: añade las columnas que necesites, por ejemplo si has creado una plantilla con diferentes características sociales (e.g. `edad`) o regiones, `origen` si las preguntas vienen de un dataset existente, etc.
 - Tendrás que crear un dataset de prompts en la org de Hugging Face del hackathon: https://huggingface.co/somosnlp-hackathon-2025 (si todavía no te has unido, utiliza esta [invitación](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD))
 
-### **2.4. Recursos**
+### 2.4. Recursos
 
 <details>
 <summary>Datasets relacionados (podéis tomar las categorías para las preguntas)</summary>
@@ -351,7 +362,7 @@ opciones para comer y divertirse al aire libre.
 
 </details>
 
-## 3. Cómo elegir la mejor respuesta en el LLM Arena
+## ✅ 3. Cómo elegir la mejor respuesta en el LLM Arena
 
 - Una vez diseñes los prompts, utiliza el LLM Arena para generar respuestas con LLMs. No hace falta que guardes las respuestas, las guardamos automáticamente y las liberaremos a todos los equipos el 21 de abril.
 - Lee con atención las dos respuestas generadas por el LLM. Luego, elige la opción que consideres **más adecuada** cultural y comunicativamente
@@ -365,7 +376,7 @@ opciones para comer y divertirse al aire libre.
     - **Ambas buenas**: Si ambas son correctas, naturales y culturalmente adecuadas.
     - **Ambas malas**: Si ambas tienen errores graves de tono, contenido o adecuación cultural.
 
-## 4. Validar preguntas y respuestas de otros equipos
+## 🔍 4. Validar preguntas y respuestas de otros equipos
 
 - El miércoles, cuando haya un mínimo número de preguntas y respuestas, publicaremos el espacio de validación
 - En el espacio podrás ver lo siguiente:
@@ -380,7 +391,7 @@ opciones para comer y divertirse al aire libre.
     - Evita sesgos personales, evalúa desde la perspectiva del rol definido
     - Si el prompt no tiene anclaje cultural o ambas respuestas no se pueden evaluar razonablemente, repórtalo como inválido
 
-## 5. Más retos
+## 🌍 5. Más retos
 
 - El lunes 21 publicaremos el conjunto de preguntas y respuestas para que lo podáis utilizar para alinear vuestros LLMs. También incluiremos los datos del mini reto “[Validador de estereotipos](https://somosnlp.org/hackathon/retos/estereotipos)”.
 - A partir del lunes 21, daremos acceso a los créditos de Cohere y las GPUs de Hugging Face a los equipos cuando alcancen el mínimo de prompts

@@ -14,7 +14,7 @@ Antes de comenzar:
 - ✅ Crea una cuenta en [Hugging Face](https://huggingface.co/join)
 - ✅ Rellena el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
 - ✅ Únete a la [organización de Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD) del hackathon, donde se compartirán los datasets, modelos y demos
-- ✅ [Crea o únete a un equipo](https://discord.com/channels/938134488670675055/1082369575666073611), crear un hilo en el canal #encuentra-equipo es la manera de registrar tu equipo para el hackathon
+- ✅ [Crea o únete a un equipo](https://discord.com/channels/938134488670675055/1082369575666073611), crear un hilo en el canal #encuentra-equipo es la manera de registrar tu equipo para el hackathon (aunque seas un equipo de 1 persona)
 
 Al participar tendrás la oportunidad de:
 - ✨ Aprender con talleres y charlas en directo
@@ -198,7 +198,7 @@ Muchísimas gracias a:
 
 ¿Cómo usar las últimas herramientas en LLMs para crear QA datasets? En este evento usaremos un modelo de OCR y LLMs para estandarizar exámenes, cuestionarios, etc. 
 
-[¡En directo el martes!](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI&index=3)
+[¡Grabación ya disponible!](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI&index=3)
 
 ![alt text](https://somosnlp.github.io/assets/images/eventos/250415_alfonso_amayuelas.png)
 

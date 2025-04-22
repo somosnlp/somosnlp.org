@@ -11,22 +11,25 @@ Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs.
 
 <center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
-Incentivos (los números se refieren a preguntas respondidas validadas):
+🌎 Responde **solo** preguntas del país o países con los que tengas un vínculo lo suficientemente fuerte como para conocer la cultura local.
+
+✨ Incentivos (los números se refieren a preguntas respondidas validadas):
 - Por equipo:
     - 200 por equipo = requisito para acceder a los 500 USD de la API Cohere para el reto principal
     - Cada 50 preguntas por equipo = 0.5 ptos (máx 2 ptos)
 - Por persona:
     - 100 por persona = co-autoría en el paper de BLEND-ES
 
-Muchísimas gracias a:
+🙌 Muchísimas gracias a:
 - CENIA: Almacenamiento de los datos en los espacios de anotación
 - El equipo: Eugenio Herrera, Sebastián Cifuentes, Clemente y María Grandury
 
 ---
 
-## **¿Qué es BLEND y por qué estamos replicándolo?**
+## ¿Qué es BLEND y por qué estamos replicándolo?
 
-### **Background**
+<details>
+<summary>¿Qué es BLEND?</summary>
 
 En este reto buscamos adaptar la metodología de [*BLEND: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages*](https://arxiv.org/abs/2406.09948) para la creación de un nuevo benchmark cultural enfocado en las culturas de habla hispana.
 
@@ -36,7 +39,10 @@ Un ejemplo de pregunta es: "¿Qué comen generalmente las personas de [Nombre de
 
 Con esta información, los autores realizaron un cruce de respuestas, y así generaron preguntas de alternativa múltiples para evaluar el conocimiento cultural de distintos LLMs.
 
-### **Propuesta**
+</details>
+
+<details>
+<summary>¿Cuál es nuestra propuesta?</summary>
 
 Con tu ayuda, buscamos replicar esta metodología en el contexto de nuestra diversa realidad cultural. En la siguiente figura puedes apreciar qué buscamos:
 
@@ -45,9 +51,11 @@ Con tu ayuda, buscamos replicar esta metodología en el contexto de nuestra dive
 
 Notar que cada cuadrado en verde implica tu participación, es decir, ¡serás una pieza clave en la construcción de este nuevo benchmark!
 
-## **¿Cómo comenzar a responder preguntas?**
+</details>
 
-Para participar en la anotación colaborativa de datos, primero debes ingresar a XXX dirección.
+## ¿Cómo comenzar a responder preguntas?
+
+Para participar en la anotación colaborativa de datos, primero debes ingresar a [huggingface.co/spaces/somosnlp/blend-es](https://huggingface.co/spaces/somosnlp/blend-es).
 
 Necesitarás una cuenta en HuggingFace para ingresar. Si no tienes una, puedes crearte una de forma sencilla [aquí](https://huggingface.co/join).
 
@@ -62,7 +70,7 @@ Como notarás, hay un listado de múltiples *datasets*, nombrados acorde a su p
 
 Es decir, cada país tiene un espacio para responder preguntas, y otro para validar las respuestas del resto de los participantes.
 
-### **Instrucciones para responder**
+### Instrucciones para responder
 
 Al ingresar al espacio correspondiente a tu país, te encontrarás con la siguiente interfaz:
 
@@ -77,7 +85,7 @@ Al momento de responder las preguntas, es importante seguir estas pautas:
 - **Especifica la región si es necesario**: Si tu respuesta representa más a una región específica que a todo el país, indica el nombre de esta región en el formulario.
 - **No uses IA ni buscadores**: Todas las respuestas deben provenir de tu conocimiento y experiencia personal. No está permitido consultar ChatGPT, Google, Bing u otros servicios similares.
 
-### **Completando el formulario paso a paso**
+### Completando el formulario paso a paso
 
 Como puedes ver en la imagen de ejemplo, el formulario de anotación contiene varios campos que debes completar:
 

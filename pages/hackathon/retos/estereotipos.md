@@ -16,7 +16,9 @@ Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
   <a href="https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Vídeo explicativo</a>
 </div>
 
-Incentivos:
+🌎 Genera **solo** estereotipos desde el punto de vista del país o países con los que tengas un vínculo lo suficientemente fuerte como para conocer la cultura local.
+
+✨ Incentivos:
 - Cada 10 estereotipos validados por equipo = 0.1 ptos (máx 1 pto)
 - Tendréis acceso a los datos recolectados para alinear vuestro LLM
 
