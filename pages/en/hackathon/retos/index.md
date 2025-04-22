@@ -12,7 +12,7 @@ The hackathon consists of a main challenge and several mini-challenges through w
 Before starting:
 - ✅ Join the [SomosNLP Discord server](https://discord.com/invite/my8w7JUxZR)
 - ✅ Create a [Hugging Face account](https://huggingface.co/join)
-- ✅ Fill out the [registration form](https://forms.gle/bDaBC7XV3iu2trj59)
+- ✅ Fill out the [registration form](https://forms.gle/amMtcsYM5TuNMzKR6)
 - ✅ Join the hackathon's [Hugging Face organization](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), where datasets, models, and demos will be shared
 - ✅ [Create or join a team](https://discord.com/channels/938134488670675055/1082369575666073611), creating a thread in the #encuentra-equipo channel is the way to register your team for the hackathon
 

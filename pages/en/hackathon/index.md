@@ -8,7 +8,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 There are 600M Spanish-speakers and 265M Portuguese-speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each with a rich culture. Although language models show increasingly better multilingual capabilities, are they really multicultural? Join now the #HackathonSomosNLP, the largest open-source NLP hackathon in Spanish and Portuguese! 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
-  <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Register now</a>
+  <a href="https://forms.gle/amMtcsYM5TuNMzKR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Register now</a>
   <a href="https://somosnlp.org/en/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Discover the challenges</a>
   <a href="https://somosnlp.notion.site/visibility-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Spread the word</a>
 </div>
@@ -21,7 +21,7 @@ The best part? EVERYONE can collaborate! 🎉
 
 Here are all the links, keep reading for more information.
 
-- 💻 [Join the hackathon and/or attend the talks](https://forms.gle/bDaBC7XV3iu2trj59)
+- 💻 [Join the hackathon](https://forms.gle/amMtcsYM5TuNMzKR6)
 - 🙌 [Sponsor this wonderful event](https://somosnlp.org/en/hackathon/patrocinios)
 - 📣 [Help us spread the word](https://somosnlp.notion.site/visibility-hackathon-somosnlp-2025)
 - 🔊 [Propose a talk (Spanish or Portuguese)](https://somosnlp.org/en/hackathon/ponencias)
@@ -44,23 +44,12 @@ At SomosNLP, we want to encourage you to participate regardless of your current 
 
 <div class="grid grid-cols-2">
   <div class="text-center">
-    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now</a>
+    <a href="https://forms.gle/amMtcsYM5TuNMzKR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now</a>
   </div>
   <div class="text-center">
     <a href="https://somosnlp.org/en/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Discover the challenges</a>
   </div>
 </div>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
-<summary>💡 Attend talks by experts</summary>
-
-At SomosNLP, we believe that training is also a way to collaborate with the future of NLP in Spanish. During the Tuesdays of April, various keynotes will be given by professionals in the world of Natural Language Processing. These events are free and open to everyone.
-
-And until April arrives? [The recordings of previous talks are available!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
-
-<center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Register now</a></center>
 
 </details>
 
