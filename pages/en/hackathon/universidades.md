@@ -14,7 +14,7 @@ This hackathon is an ideal experience for your students to improve their knowled
 - **Can I use the hackathon as a classroom activity?** Yes, as long as the dates and conditions set for all participants are respected.
 - **Is there a maximum number of teams per university or professor?** No, the more the better! The maximum number of people per team is 5.
 - **Can you give a presentation about the community and the event for my university or class?** Yes, of course, contact us as soon as possible to set the date.
-- **As a professor, can I give a talk or mentoring during the hackathon?** Of course! It will be a pleasure to have both your students AND faculty. Fill out the corresponding form to propose a [talk](https://forms.gle/n6DsNF5RwerA4oPf6) or [mentoring](https://forms.gle/izE8j4nW2JsWcQT26).
+- **As a professor, can I give a talk or mentoring during the hackathon?** Of course! It will be a pleasure to have both your students AND faculty. Fill out the corresponding form to propose a [talk](https://forms.gle/n6DsNF5RwerA4oPf6) or [mentoring](https://forms.gle/amMtcsYM5TuNMzKR6).
 - **Some of my students don't speak Spanish, is that a problem?** No, everyone is welcome, in this edition [the instructions are translated into English](https://somosnlp.org/en/hackathon/bases).
 - *NEW!* **Can we hold the hackathon in person at the university?** Yes, universities that wish to can provide a room for their students (and participants from the same city) where they can get together and develop their projects in person. Let us know so we can help you.
 
