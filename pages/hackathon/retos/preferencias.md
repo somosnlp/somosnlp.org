@@ -65,6 +65,7 @@ Nota: para acceder a los créditos y GPUs, el equipo debe contribuir en total 10
 
 ## 👀 1. Las definiciones
 
+
 El principal objetivo del hackathon, y en particular de este reto, es mejorar la “adecuación cultural” de los LLMs, veamos qué significa esto. Comenzamos con unas definiciones:
 
 <details>
@@ -78,6 +79,13 @@ El principal objetivo del hackathon, y en particular de este reto, es mejorar la
 
 </details>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/1.jpg" alt="Adecuación Cultural 1" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/2.jpg" alt="Adecuación Cultural 2" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/3.jpg" alt="Adecuación Cultural 3" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/4.jpg" alt="Adecuación Cultural 4" style="width: 100%;">
+</div>
+
 <details>
 <summary>Multiculturalidad</summary>
 
@@ -89,12 +97,20 @@ El principal objetivo del hackathon, y en particular de este reto, es mejorar la
 
 </details>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/5.jpg" alt="Adecuación Cultural 5" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/6.jpg" alt="Adecuación Cultural 6" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/7.jpg" alt="Adecuación Cultural 7" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/8.jpg" alt="Adecuación Cultural 8" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/9.jpg" alt="Adecuación Cultural 9" style="width: 100%;">
+</div>
+
 <details>
 <summary>Adecuación cultural</summary>
 
 - Algo es adecuado en relación al propósito de lo que se hace. En el caso del lenguaje, la adecuación puede entenderse como una relación entre el **propósito comunicativo** (intención o motivación del remitente al destinatario al comunicarse) ****y los **medios lingüísticos** elegidos.
 - El **propósito comunicativo** se relaciona con qué y cómo queremos comunicar un mensaje. Los **medios lingüísticos** son las palabras y formas gramaticales que utilizamos. Por ejemplo, las siguientes dos oraciones cumplen el propósito de solicitar una explicación:
-    1. ¿*Me podrías explicar, por favor?*
+    1. *¿Me podrías explicar, por favor?*
     2. *Explícame.*
     
     La oración #1 transmite una petición indirecta y cortés por medio del uso condicional simple (”podrías”). La inclusión de la frase “por favor” refuerza la cortesía. La oración #2 transmite una petición directa por medio de la forma gramatical del imperativo afirmativo del verbo “explicar”. Es menos cortés que la oración #1.
@@ -134,13 +150,28 @@ Distintos propósitos comunicativos
 
 </details>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/10.jpg" alt="Adecuación Cultural 10" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/11.jpg" alt="Adecuación Cultural 11" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/12.jpg" alt="Adecuación Cultural 12" style="width: 100%;">
+</div>
+
 <details>
 <summary>¿Cómo afecta la cultura en la capacidad de un LLM de entender un lenguaje?</summary>
-  - En la comunicación → Los propósitos comunicativos se ven directamente afectados por las palabras y formas gramaticales usadas. Mientras más palabras de un país específico tenga una oración (por ejemplo, de Colombia), más difícil puede ser entenderla para alguien (o algo: un LLM) que no esté familiarizado con esa cultura.
-  - En la percepción del mundo → Códigos morales (i.e., qué es bueno, qué es malo), actividades comunes (e.g., ir a la lucha libre o ir a una corrida de toros), etc.
+
+- En la comunicación: Los propósitos comunicativos se ven directamente afectados por las palabras y formas gramaticales usadas. Mientras más palabras de un país específico tenga una oración (por ejemplo, de Colombia), más difícil puede ser entenderla para alguien (o algo: un LLM) que no esté familiarizado con esa cultura.
+- En la percepción del mundo: Códigos morales (i.e., qué es bueno, qué es malo), actividades comunes (e.g., ir a la lucha libre), etc.
 
 </details>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/13.jpg" alt="Adecuación Cultural 13" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/14.jpg" alt="Adecuación Cultural 14" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/15.jpg" alt="Adecuación Cultural 15" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/16.jpg" alt="Adecuación Cultural 16" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/17.jpg" alt="Adecuación Cultural 17" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/18.jpg" alt="Adecuación Cultural 18" style="width: 100%;">
+</div>
 
 ## 🎨 2. Cómo diseñar los prompts
 
