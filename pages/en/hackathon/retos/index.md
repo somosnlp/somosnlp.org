@@ -31,7 +31,7 @@ Let's do this! 🚀
 
 Look for multiple-choice exams from your country to evaluate LLMs' knowledge. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g., history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.
 
-*April 9 - April 21 | max 1 point*
+*April 9 - April 28 | max 1 point*
 
 Requirements: Know how to search on the internet
 

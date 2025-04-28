@@ -44,7 +44,7 @@ Si tienes cualquier duda:
 
 Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de los LLMs. Prioriza exámenes en lenguas distintas al español y/o centrados en temas culturales (e.g. historia, literatura). Utilizaremos estas preguntas y respuestas para extender el benchmark abierto INCLUDE.
 
-*9 de abril - 24 de abril (EXTENDIDA) | máx 1 pto*
+*9 de abril - 30 de abril (EXTENDIDA) | máx 1 pto*
 
 Requisitos: Saber buscar en internet
 
@@ -55,7 +55,7 @@ Requisitos: Saber buscar en internet
 
 Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 
-*9 de abril - 7 de mayo | máx 1 pto*
+*Comienza el 9 de abril | máx 1 pto*
 
 Requisitos: Haber vivido en sociedad
 
@@ -67,7 +67,7 @@ Requisitos: Haber vivido en sociedad
 
 Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.
 
-*14 de abril - 7 de mayo | máx 2 ptos*
+*Comienza el 14 de abril | máx 2 ptos*
 
 Requisitos: Haber vivido en sociedad
 
@@ -80,7 +80,7 @@ Requisitos: Haber vivido en sociedad
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 28 de abril | máx 3 ptos*
+*Comienza el 14 de abril | máx 3 ptos*
 
 Requisitos: Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural
 

@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Procure exames de múltipla escolha do seu país para avaliar o conhecimento dos LLMs. Priorize exames em idiomas diferentes do espanhol e/ou focados em temas culturais (por exemplo, história, literatura). Usaremos essas perguntas e respostas para estender o benchmark aberto INCLUDE.
 
-*9 de abril - 21 de abril | máx 1 ponto*
+*9 de abril - 28 de abril (EXTENDIDA) | máx 1 ponto*
 
 <center><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participe agora!</a></center>
 
