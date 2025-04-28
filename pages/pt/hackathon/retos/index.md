@@ -70,7 +70,7 @@ Requisitos: Ter vivido em sociedade
 
 Projete prompts que avaliem a adequação cultural com seu país e escolha a melhor resposta em uma LLM Arena. Os prompts e as respostas serão coletados e compartilhados com todas as equipes participantes como dataset de preferências v0 para a fase de alinhamento. Para este desafio, você terá acesso a uma LLM Arena com 5 modelos grandes ou proprietários.
 
-*14 de abril - 21 de abril | máx 3 pontos*
+*14 de abril - 28 de abril | máx 3 pontos*
 
 Requisitos: Ter vivido em sociedade e querer entender bem o conceito de adequação cultural
 

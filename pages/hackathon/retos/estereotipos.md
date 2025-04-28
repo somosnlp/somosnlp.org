@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 
-*9 de abril - 7 de mayo | máx 1 pto*
+*Comienza el 9 de abril | máx 1 pto*
 
 [¡Participa ya!](https://ediadev.ngrok.app/)
 

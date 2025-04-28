@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Look for multiple-choice exams from your country to evaluate LLMs' knowledge. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g., history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.
 
-*April 9 - April 21 | max 1 point*
+*April 9 - April 28 (EXTENDED) | max 1 point*
 
 <center><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participate now!</a></center>
 

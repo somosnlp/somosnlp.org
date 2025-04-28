@@ -5,11 +5,17 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios. **Lee la guía para aprender a diseñar prompts de calidad.**
+Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 28 de abril | máx 3 ptos*
+*Comienza el 14 de abril | máx 3 ptos*
 
-<center><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+1. **Lee la guía a continuación para aprender a diseñar prompts de calidad.**
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">2. Verifica que has comprendido la guía</a>
+  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">3. Valida prompts de otros equipos</a>
+  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">4. Manda tus prompts a la Arena</a>
+</div>
 
 🌎 Genera **solo** prompts relacionados con el país o países con los que tengas un vínculo lo suficientemente fuerte como para conocer la cultura local.
 
@@ -20,10 +26,11 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 
 🙌 Muchísimas gracias a:
 - CENIA: Créditos API para los LLMs de la Arena
-- El equipo: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente y María Grandury
+- El equipo: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente, María Grandury, Luis Vasquez y Valle Ruiz
 
 Recursos:
 - Definiciones, ejemplos de prompts y datasets de preferencias a continuación
+- [Charla sobre Red Teaming de Luis Vasquez](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
 ---
 
@@ -37,7 +44,9 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 4. El día 21 de abril publicaremos el conjunto de prompts y respuestas, llamémoslo “dataset v0”
 5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender v0 y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
 
-Nota: para acceder a los créditos y GPUs, el equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend)).
+Para acceder a los créditos API y GPUs:
+- El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
+- La(s) persona(s) que mande(n) los prompts al Arena tienen que haber completado el [test de comprensión de la guía](https://forms.gle/itbDvVxD2iG5nzsC6)
 
 🚨 **Lee con atención las guías a continuación para más detalles de cada paso.** Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto. No se considerarán prompts y respuestas de equipos que no hayan seguido las instrucciones.
 
@@ -409,11 +418,11 @@ opciones para comer y divertirse al aire libre.
 
 ## 🔍 4. Validar preguntas y respuestas de otros equipos
 
-- El miércoles, cuando haya un mínimo número de preguntas y respuestas, publicaremos el espacio de validación
+- Abre el [espacio de validación](https://huggingface.co/spaces/somosnlp/validacion-preferencias) y selecciona el país para el cual puedas valorar la adecuación cultural
 - En el espacio podrás ver lo siguiente:
     - una pregunta
-    - las dos respuestas generadas por los LLMs
-    - la respuesta elegida
+    - las dos respuestas generadas por LLMs
+    - la respuesta elegida originalmente
 - Tendrás que anotar:
     1. Si la pregunta te parece que está bien diseñada teniendo en cuenta la guía anterior
     2. Si también elegirías esa respuesta o cambiarías
@@ -431,6 +440,10 @@ opciones para comer y divertirse al aire libre.
     - [BLEND](https://somosnlp.org/hackathon/retos/blend) - Preguntas de conocimiento cultural (hasta el 7 de mayo, habrá paper)
 
 
-<center style="margin-top:40px;"><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="TODO URL" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Verifica que has comprendido la guía</a>
+  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Valida prompts de otros equipos</a>
+  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Manda tus prompts a la Arena</a>
+</div>
 
 <center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
