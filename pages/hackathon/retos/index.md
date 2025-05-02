@@ -44,7 +44,7 @@ Si tienes cualquier duda:
 
 Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de los LLMs. Prioriza exámenes en lenguas distintas al español y/o centrados en temas culturales (e.g. historia, literatura). Utilizaremos estas preguntas y respuestas para extender el benchmark abierto INCLUDE.
 
-*9 de abril - 30 de abril (EXTENDIDA) | máx 1 pto*
+*9 de abril - 31 de mayo (EXTENDIDA) | máx 1 pto*
 
 Requisitos: Saber buscar en internet
 
@@ -55,7 +55,7 @@ Requisitos: Saber buscar en internet
 
 Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
 
-*Comienza el 9 de abril | máx 1 pto*
+*9 de abril - 15 de mayo (EXTENDIDA) | máx 1 pto*
 
 Requisitos: Haber vivido en sociedad
 
@@ -67,7 +67,7 @@ Requisitos: Haber vivido en sociedad
 
 Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.
 
-*Comienza el 14 de abril | máx 2 ptos*
+*14 de abril - 31 de mayo (EXTENDIDA) | máx 2 ptos*
 
 Requisitos: Haber vivido en sociedad
 
@@ -80,7 +80,7 @@ Requisitos: Haber vivido en sociedad
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*Comienza el 14 de abril | máx 3 ptos*
+*14 de abril - 15 de mayo (EXTENDIDA) | máx 3 ptos*
 
 Requisitos: Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural
 
@@ -91,7 +91,7 @@ Requisitos: Haber vivido en sociedad y querer comprender bien el concepto de ade
 
 Procesa, filtra y extiende el dataset de preferencias v0 adaptándolo a tu caso de uso. Utilízalo para alinear un LLM utilizando técnicas de entrenamiento optimizado y alineamiento como LoRA, cuantización y optimización directa de preferencias (DPO). Para este reto cada equipo tendrá acceso a 500 USD de la API de Cohere y una GPU L40S de Hugging Face.
 
-*21 de abril - 5 de mayo | máx 3 ptos*
+*21 de abril - 31 de mayo (Máx. 2 semanas) | máx 3 ptos*
 
 Requisitos: Saber programar
 
@@ -114,7 +114,7 @@ Muchísimas gracias a:
 
 Crea un modelo multimodal que genere descripciones de imágenes teniendo en cuenta el contexto. Para este reto cada equipo tendrá acceso a 500 USD de la API de Cohere y una GPU L40S de Hugging Face.
 
-*21 de abril - 5 de mayo | máx 3 ptos*
+*21 de abril - 31 de mayo (Máx. 2 semanas) | máx 3 ptos*
 
 Requisitos: Tener experiencia en PLN, habrá menos material de apoyo para este reto que para la opción A
 
@@ -137,7 +137,7 @@ Muchísimas gracias a:
 
 Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo pueda ver tu trabajo.
 
-*21 de abril - 5 de mayo | máx 0.5 ptos*
+*Hasta el 31 de mayo (EXTENDIDA) | máx 0.5 ptos*
 
 <details>
 <summary>Más información</summary>
@@ -159,7 +159,7 @@ Muchísimas gracias a:
 
 Graba un vídeo 5 minutos presentando tu proyecto.
 
-*7 de mayo | máx 0.5 ptos*
+*Envío hasta el1 de junio (EXTENDIDA) | máx 0.5 ptos*
 
 <details>
 <summary>Más información</summary>

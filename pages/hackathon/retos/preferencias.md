@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*Comienza el 14 de abril | máx 3 ptos*
+*14 de abril - 15 de mayo (EXTENDIDA) | máx 3 ptos*
 
 1. **Lee la guía a continuación para aprender a diseñar prompts de calidad.**
 
@@ -434,14 +434,14 @@ opciones para comer y divertirse al aire libre.
 ## 🌍 5. Más retos
 
 - El lunes 21 publicaremos el conjunto de preguntas y respuestas para que lo podáis utilizar para alinear vuestros LLMs. También incluiremos los datos del mini reto “[Validador de estereotipos](https://somosnlp.org/hackathon/retos/estereotipos)”.
-- A partir del lunes 21, daremos acceso a los créditos de Cohere y las GPUs de Hugging Face a los equipos cuando alcancen el mínimo de prompts
+- A partir del lunes 21, daremos acceso a los créditos de Cohere y las GPUs de Hugging Face a los equipos cuando alcancen el mínimo de prompts, menciona a @mariagrandury en el hilo de tu equipo del canal #encuentra-equipo
 - Recuerda que también puedes participar en los mini retos para conseguir más puntos
-    - [INCLUDE](https://somosnlp.org/hackathon/retos/include) - Recolección de exámenes (hasta el 23 de abril, habrá premios y paper)
-    - [BLEND](https://somosnlp.org/hackathon/retos/blend) - Preguntas de conocimiento cultural (hasta el 7 de mayo, habrá paper)
+    - [INCLUDE](https://somosnlp.org/hackathon/retos/include) - Recolección de exámenes (hasta el 30 de abril, habrá premios y paper)
+    - [BLEND](https://somosnlp.org/hackathon/retos/blend) - Preguntas de conocimiento cultural (hasta el final del hackathon, habrá paper)
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="TODO URL" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Verifica que has comprendido la guía</a>
+  <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Verifica que has comprendido la guía</a>
   <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Valida prompts de otros equipos</a>
   <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Manda tus prompts a la Arena</a>
 </div>
