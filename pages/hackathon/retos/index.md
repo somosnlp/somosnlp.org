@@ -9,12 +9,16 @@ El hackathon de este año se centra en la creación de recursos que permitan la 
 
 El hackathon consta de un reto principal y varios mini retos con los que también podéis acumular puntos para los premios finales y ganar premios extra. La puntuación máxima total es de 10 puntos.
 
-Antes de comenzar:
-- ✅ Únete al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
-- ✅ Crea una cuenta en [Hugging Face](https://huggingface.co/join)
-- ✅ Rellena el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
-- ✅ Únete a la [organización de Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD) del hackathon, donde se compartirán los datasets, modelos y demos
-- ✅ [Crea o únete a un equipo](https://discord.com/channels/938134488670675055/1082369575666073611), crear un hilo en el canal #encuentra-equipo es la manera de registrar tu equipo para el hackathon (aunque seas un equipo de 1 persona)
+Antes de comenzar, todas las personas tienen que:
+- ✅ Unirse al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
+- ✅ Crear una cuenta en [Hugging Face](https://huggingface.co/join)
+- ✅ Rellenar el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
+- ✅ Unirse a la [organización de Hugging Face del hackathon](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), donde se compartirán los datasets, modelos y demos
+
+Para crear un equipo:
+- Puedes apuntarte con gente que ya conozcas (por ejemplo, tu grupo de clase o del trabajo) o conocer a gente de la comunidad de SomosNLP de otros países, universidades y empresas. Si quieres conocer a gente, revisa el [canal #encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611)
+- Una vez que hayáis creado el equipo, UNA persona tiene que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
+
 
 Al participar tendrás la oportunidad de:
 - ✨ Aprender con talleres y charlas en directo

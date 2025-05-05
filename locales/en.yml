@@ -135,6 +135,7 @@ navbar:
   resources: Resources
   team: Community
 not-found: Not found
+not-found-cache: Try clearing the cache and reloading the page
 resources:
   subtitle: Open-source resources for the Spanish-speaking community
   title: Open-Source Resources

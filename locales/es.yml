@@ -1,43 +1,79 @@
+community:
+  collaborations:
+    subtitle: >-
+      ¡Gracias también a todas las universidades, centros de investigación y
+      empresas que nos habéis apoyado en nuestro camino!
+    title: Colaboraciones
+  contact:
+    closing: ¡Estamos impacientes por conocerte! 🚀
+    contact_us: Contáctanos por
+    mission: ¿Te gustaría apoyarnos en nuestra misión?
+    or_email: o manda un email a
+    questions: >-
+      ¿Te gustaría formar parte del equipo? ¿Dar una charla? ¿Lanzar un
+      proyecto? ¿Patrocinar un evento?...
+  contribute: Quiero contribuir
+  join_discord: Únete a Discord
+  meta:
+    description: Únete a nuestra comunidad internacional de personas apasionadas por el PLN
+    title: Comunidad SomosNLP
+  speakers:
+    all_events: Todos los eventos
+    become_speaker: Quiero ser ponente
+    subtitle: >-
+      ¡Gracias a todas las personas que habéis compartido vuestra experiencia
+      con la comunidad mediante mentorías y ponencias!
+    title: Ponentes
+  subtitle: >-
+    Somos una comunidad internacional en la que todas las personas interesadas
+    en el PLN son bienvenidas, ¡únete! 🚀
+  title: Comunidad
 events:
-  title: Eventos
-  subtitle: Charlas y talleres impartidos por especialistas del campo del PLN.
+  all-events: Ver todos los eventos
   calendar:
-    view: Ver el calendario de eventos
     join: Unirme al calendario
+    view: Ver el calendario de eventos
   sections:
-    madrid: "✨ Eventos presenciales en Madrid"
-    recordings: "Grabaciones de eventos"
-    hackathon-2025: "🔥 Charlas y talleres del Hackathon 2025"
-    hackathon-2024: "🚀 Charlas y talleres del Hackathon 2024"
-    hackathon-2023: "🚀 Charlas y talleres del Hackathon 2023"
-    hackathon-2022: "🚀 Charlas y talleres del Hackathon 2022"
+    community: 🙌 Proyectos de la comunidad
+    community-description: >-
+      Talleres en los que miembros de la comunidad presentan sus proyectos,
+      e.g.: proyectos ganadores de hackathones.
+    community-description-2: ¿Te gustaría presentar tu proyecto? ¡Este es tu espacio!
+    community-description-3: Mándanos la información
+    hackathon-2022: 🚀 Charlas y talleres del Hackathon 2022
     hackathon-2022-description: >-
       El ecosistema de 🤗, etiquetado y muestreo de datos, entrenamiento de
-      modelos y debugging, traducción, clustering, escritura de abstracts... ¡Todos estos temas explicados por especialistas!
-    somos-mujeres-nlp: "💜 Somos Mujeres NLP"
+      modelos y debugging, traducción, clustering, escritura de abstracts...
+      ¡Todos estos temas explicados por especialistas!
+    hackathon-2023: 🚀 Charlas y talleres del Hackathon 2023
+    hackathon-2024: 🚀 Charlas y talleres del Hackathon 2024
+    hackathon-2025: 🔥 Charlas y talleres del Hackathon 2025
+    madrid: ✨ Eventos presenciales en Madrid
+    recordings: Grabaciones de eventos
+    somos-mujeres-nlp: 💜 Somos Mujeres NLP
     somos-mujeres-nlp-description: >-
-      Iniciativas para dar visibilidad a mujeres que trabajan e investigan en el campo del PLN y a proyectos que aplican el PLN para luchar contra el sexismo.
-    community: "🙌 Proyectos de la comunidad"
-    community-description: >-
-      Talleres en los que miembros de la comunidad presentan sus proyectos, e.g.: proyectos ganadores de hackathones.
-    community-description-2: >-
-      ¿Te gustaría presentar tu proyecto? ¡Este es tu espacio!
-    community-description-3: >-
-      Mándanos la información
-  all-events: Ver todos los eventos
+      Iniciativas para dar visibilidad a mujeres que trabajan e investigan en el
+      campo del PLN y a proyectos que aplican el PLN para luchar contra el
+      sexismo.
+  subtitle: Charlas y talleres impartidos por especialistas del campo del PLN.
+  title: Eventos
 jobs:
-  not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
-  search: Buscar
-  title: Bolsa de Empleo de PLN
-  subtitle: Encuentra ofertas de empleo e investigación relacionadas con el Procesamiento del Lenguaje Natural
-  disclaimer: Las entidades son responsables de publicar información correcta y actualizarla.
-  total: Total Ofertas Publicadas
-  looking_for_job: BUSCO EMPLEO
-  follow_us: ¡Síguenos! Anunciamos las ofertas en
   and_discord: y el canal \#empleo de
+  disclaimer: >-
+    Las entidades son responsables de publicar información correcta y
+    actualizarla.
+  follow_us: ¡Síguenos! Anunciamos las ofertas en
+  looking_for_job: BUSCO EMPLEO
   looking_for_talent: BUSCO TALENTO
+  not_found: Todavía no hay ofertas que coincidan con tu búsqueda.
   post_job_1: Para que aparezca aquí tu oferta de empleo
   post_job_2: rellena este formulario
+  search: Buscar
+  subtitle: >-
+    Encuentra ofertas de empleo e investigación relacionadas con el
+    Procesamiento del Lenguaje Natural
+  title: Bolsa de Empleo de PLN
+  total: Total Ofertas Publicadas
 landing-page:
   banner: ¡Únete ya a nuestro hackathon para incluir tu cultura en los LLMs! 🔥
   contribute:
@@ -114,33 +150,9 @@ navbar:
   resources: Recursos
   team: Comunidad
 not-found: No se ha encontrado
-share: Compartir
+not-found-cache: Prueba a limpiar el caché y recargar la página
 resources:
-  title: Recursos Open-Source
   subtitle: Recursos abiertos y gratuitos para toda la comunidad hispanohablante
+  title: Recursos Open-Source
+share: Compartir
 wip: Este enlace pronto te redirigirá a donde querías, estamos en ello
-community:
-  title: Comunidad
-  subtitle: >-
-    Somos una comunidad internacional en la que todas las personas interesadas en el PLN son bienvenidas, ¡únete! 🚀
-  join_discord: Únete a Discord
-  contribute: Quiero contribuir
-  speakers:
-    title: Ponentes
-    subtitle: >-
-      ¡Gracias a todas las personas que habéis compartido vuestra experiencia con la comunidad mediante mentorías y ponencias!
-    all_events: Todos los eventos
-    become_speaker: Quiero ser ponente
-  collaborations:
-    title: Colaboraciones
-    subtitle: >-
-      ¡Gracias también a todas las universidades, centros de investigación y empresas que nos habéis apoyado en nuestro camino!
-  contact:
-    questions: ¿Te gustaría formar parte del equipo? ¿Dar una charla? ¿Lanzar un proyecto? ¿Patrocinar un evento?...
-    mission: ¿Te gustaría apoyarnos en nuestra misión?
-    contact_us: Contáctanos por
-    or_email: o manda un email a
-    closing: ¡Estamos impacientes por conocerte! 🚀
-  meta:
-    title: Comunidad SomosNLP
-    description: Únete a nuestra comunidad internacional de personas apasionadas por el PLN
