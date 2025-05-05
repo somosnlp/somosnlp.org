@@ -47,6 +47,7 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 Para acceder a los créditos API y GPUs:
 - El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
 - La(s) persona(s) que mande(n) los prompts al Arena tienen que haber completado el [test de comprensión de la guía](https://forms.gle/itbDvVxD2iG5nzsC6)
+- Hay que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
 
 🚨 **Lee con atención las guías a continuación para más detalles de cada paso.** Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto. No se considerarán prompts y respuestas de equipos que no hayan seguido las instrucciones.
 
