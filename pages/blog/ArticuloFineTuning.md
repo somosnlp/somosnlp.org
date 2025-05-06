@@ -3,7 +3,7 @@ title: Cómo afinar y alinear nuestro modelos
 description: Discusion, instrucciones y código ejemplo de DPO, PEFT y Cuantización
 date: 2025-05-04T122:00:00.000+00:00
 lang: es
-cover: https://github.com/Neovalle/H4rmony/blob/main/fine%20tuning.jpg
+cover: https://github.com/Neovalle/H4rmony/blob/main/data/fine%20tuning.jpg
 author: Jorge Vallego
 bio: AI Engineering Consultant - H4rmony Project Leader
 website: https://TheH4rmonyProject.org
@@ -18,7 +18,7 @@ linkedin: linkedin.com/in/jorge-vallego-391838a6
 Comencemos analizando de una forma intuitiva de qué queremos lograr y qué es lo que hace un ajuste de un modelo.
 Fine-tuning o ajuste es el proceso de adaptar un modelo preentrenado a una tarea específica utilizando nuevos ejemplos. En el contexto del reto de alineamiento del hackathon, esto significa enseñar al modelo a responder de manera más adecuada a la cultura, lengua y formas de comunicación propias de tu región.
 
-Pero antes, conviene preguntarse: ¿qué es un modelo preentrenado y qué partes nos interesa modificar o “alinear”? En líneas generales, un modelo consta de un embedding (representación numérica de palabras o tokens) y una red neuronal que ha sido entrenada para predecir el siguiente token de una secuencia. Este tipo de modelos se conocen como *autoregresivos*: generan una palabra (o token) a la vez, y usan lo generado hasta el momento como contexto para predecir el siguiente.
+Pero antes, conviene preguntarse: ¿qué es un modelo preentrenado y qué partes nos interesa modificar o “alinear”? En líneas generales, un modelo de lenguaje consta de un embedding (representación numérica vectorial de palabras o más precisamente, tokens) y una red neuronal que ha sido entrenada para predecir el siguiente token de una secuencia. Este tipo de modelos generan una palabra (o token) a la vez, y usan lo generado hasta el momento como contexto para predecir el siguiente, por lo cual se dice que son autoregresivos.
 
 El comportamiento del modelo está determinado por miles de millones de parámetros, que son los pesos de las conexiones entre las capas de la red neuronal. Durante el fine-tuning, lo que buscamos es ajustar esos pesos (o algunos de ellos) para que el modelo se comporte de manera más alineada con nuestros valores, objetivos o comunidad.
 
@@ -356,8 +356,24 @@ En un primer vistazo vemos que está convergiendo, pero lejos de aproximarse a 0
 Sabemos que tenemos un código que funciona correctamente con DPO, PEFT y cuantización, nos queda trabajar en la parte más interesante que es asegurarnos que tenemos un buen dataset, entender el modelo base que nos conviene usar y más que nada entender cómo ajustar los hiper parámetros para lograr el mejor fine-tunining posible. Sobre estos temas profundizaremos en la próxima entrega. 
 
 
+## Referencias
 
-
+- Vaswani, A. et al. (2017). *Attention is All You Need*.  
+  [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)
+- Rafailov, R. et al. (2023). *Direct Preference Optimization: Your Language Model is Secretly a Reward Model*.  
+  [https://arxiv.org/abs/2305.18290](https://arxiv.org/abs/2305.18290)  
+- TRL – Transformers Reinforcement Learning (Hugging Face):  
+  [https://github.com/huggingface/trl](https://github.com/huggingface/trl) 
+- Hu, E. et al. (2021). *LoRA: Low-Rank Adaptation of Large Language Models*.  
+  [https://arxiv.org/abs/2106.09685](https://arxiv.org/abs/2106.09685)  
+- PEFT Library (Hugging Face):  
+  [https://github.com/huggingface/peft](https://github.com/huggingface/peft) 
+- Dettmers, T. et al. (2023). *QLoRA: Efficient Finetuning of Quantized LLMs*.  
+  [https://arxiv.org/abs/2305.14314](https://arxiv.org/abs/2305.14314)  
+- bitsandbytes:  
+  [https://github.com/TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)
+- Weights & Biases:  
+  [https://docs.wandb.ai/](https://docs.wandb.ai/)
 
 
 
