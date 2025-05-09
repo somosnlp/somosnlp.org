@@ -6,8 +6,8 @@ cover_dark: https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.
 twitter: https://twitter.com/divertlespln
 linkedin:
 website: https://divertles.ujaen.es/
-type: 2. Plata
-years: 2024, 2023
+type: 2. Comunidad 2025, Comunidad 2024, Comunidad 2023
+years: 2025, 2024, 2023
 ---
 
 DiverTLes es una comunidad de mujeres que trabajan e investigan en Tecnologías del Lenguaje (TL) en España para fomentar las vocaciones científicas en este área de la Inteligencia Artificial. Esta comunidad surge como una iniciativa más de la Red Temática de Excelencia PLNnet financiada por el Ministerio de Ciencia e Innovación. Su objetivo principal es visibilizar el papel de la mujer en un campo estrechamente relacionado con el mundo de la computación mostrando la diversidad que existe en la disciplina del Procesamiento del Lenguaje Natural (PLN) y divulgando el trabajo que se hace en este área de la mano de mujeres que estudian y desarrollan sistemas basados en tecnologías del lenguaje.

@@ -50,6 +50,7 @@ watch([() => route.path, language], loadContent, { immediate: true })
       <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_not_found_60pq.svg" alt="Not found" />
       <div class="font-bold tracking-wide text-4xl">404</div>
       <div class="tracking-tight">{{ t('not-found') }} :(</div>
+      <div class="tracking-tight">{{ t('not-found-cache') }}</div>
     </div>
   </Container>
   <Container v-else>
