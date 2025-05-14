@@ -28,6 +28,8 @@ declare module 'vue' {
     'Carbon:sun': typeof import('virtual:vite-icons/carbon/sun')['default']
     'Carbon:userAvatarFilledAlt': typeof import('virtual:vite-icons/carbon/user-avatar-filled-alt')['default']
     'Carbon:userMultiple': typeof import('virtual:vite-icons/carbon/user-multiple')['default']
+    ChallengeItem: typeof import('./src/components/ChallengeItem.vue')['default']
+    ChallengesGrid: typeof import('./src/components/ChallengesGrid.vue')['default']
     CommunityList: typeof import('./src/components/CommunityList.vue')['default']
     Container: typeof import('./src/components/Container.vue')['default']
     CourseSummary: typeof import('./src/components/CourseSummary.vue')['default']

@@ -5,7 +5,101 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-El hackathon de este año se centra en la creación de recursos que permitan la evaluación y el alineamiento de modelos de lenguaje con la cultura de los países de LATAM y la Península Ibérica.
+<script setup>
+import ChallengesGrid from '../../../src/components/ChallengesGrid.vue'
+
+const miniChallenges = [
+  {
+    title: "Exámenes (INCLUDE)",
+    description: "Busca exámenes de opción múltiple para evaluar el conocimiento de los LLMs sobre tu país. Prioriza exámenes en lenguas distintas al español y/o centrados en temas culturales (e.g. historia, literatura).",
+    dates: "9 de abril - 31 de mayo ",
+    points: "1 pto",
+    requirements: "Saber buscar en internet",
+    link: "https://somosnlp.org/hackathon/retos/include",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  },
+  {
+    title: "Estereotipos",
+    description: "Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.",
+    dates: "9 de abril - 21 de mayo ",
+    points: "1 pto",
+    requirements: "Haber vivido en sociedad",
+    link: "https://somosnlp.org/hackathon/retos/estereotipos",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  },
+  {
+    title: "Preguntas culturales (BLEND)",
+    description: "Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.",
+    dates: "14 de abril - 31 de mayo ",
+    points: "2 ptos",
+    requirements: "Haber vivido en sociedad",
+    link: "https://somosnlp.org/hackathon/retos/blend",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  }
+]
+
+const mainChallenges = [
+  {
+    title: "1. Genera un dataset de preferencias",
+    description: "Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento.",
+    dates: "14 de abril - 21 de mayo ",
+    points: "3 ptos",
+    requirements: "Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural",
+    link: "https://somosnlp.org/hackathon/retos/preferencias",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  },
+  {
+    title: "2.A. Alinea un modelo textual (LLM)",
+    description: "Procesa, filtra y extiende el dataset de preferencias v0 adaptándolo a tu caso de uso. Utilízalo para alinear un LLM usando técnicas de entrenamiento optimizado y alineamiento como LoRA, cuantización y optimización directa de preferencias (DPO).",
+    dates: "21 de abril - 31 de mayo (Máx. 2 semanas)",
+    points: "3 ptos",
+    requirements: "Saber programar",
+    link: "https://somosnlp.org/hackathon/retos/preferencias",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  },
+  {
+    title: "2.B. Alinea un modelo multimodal",
+    description: "Genera un dataset de imágenes y descripciones utilizando la API de Cohere. Utilízalo para crear un modelo multimodal (VLLM) que genere descripciones de imágenes teniendo en cuenta el contexto usando las últimas técnicas de entrenamiento optimizado.",
+    dates: "21 de abril - 31 de mayo (Máx. 2 semanas)",
+    points: "3 ptos",
+    requirements: "Tener experiencia en PLN",
+    link: "https://somosnlp.org/hackathon/retos/preferencias",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  }
+]
+
+const finalChallenges = [
+  {
+    title: "3. Crea de una demo",
+    description: "Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo pueda ver tu trabajo.",
+    dates: "Hasta el 31 de mayo ",
+    points: "0.5 ptos",
+    requirements: "Haber completado algún reto principal",
+    link: "https://somosnlp.org/hackathon/retos/presentacion",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  },
+  {
+    title: "4. Graba un vídeo",
+    description: "Graba un vídeo 5 minutos presentando tu proyecto para el jurado y el resto de la comunidad.",
+    dates: "Envío hasta el 1 de junio ",
+    points: "0.5 ptos",
+    requirements: "Haber completado algún reto principal",
+    link: "https://somosnlp.org/hackathon/retos/presentacion",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  },
+  {
+    title: "5. (Opcional) Escribe un paper",
+    description: "Escribe un paper describiendo tu proyecto. Si te interesa, te podemos mentorizar y ayudar a mandarlo a un workshop de LatinX in NLP.",
+    dates: "A partir de junio",
+    points: "0.5 ptos",
+    requirements: "Haber completado algún reto principal",
+    link: "https://somosnlp.org/hackathon/retos/presentacion",
+    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+  }
+]
+</script>
+
+El hackathon de este año se centra en la creación de recursos que permitan la evaluación y el alineamiento de modelos de lenguaje con la cultura de los países de LATAM y la Península Ibérica. El hackathon se ha extendido **hasta el 31 DE MAYO**.
 
 El hackathon consta de un reto principal y varios mini retos con los que también podéis acumular puntos para los premios finales y ganar premios extra. La puntuación máxima total es de 10 puntos.
 
@@ -19,6 +113,7 @@ Para crear un equipo:
 - Puedes apuntarte con gente que ya conozcas (por ejemplo, tu grupo de clase o del trabajo) o conocer a gente de la comunidad de SomosNLP de otros países, universidades y empresas. Si quieres conocer a gente, revisa el [canal #encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611)
 - Una vez que hayáis creado el equipo, UNA persona tiene que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
 
+## 👏 Incentivos y premios
 
 Al participar tendrás la oportunidad de:
 - ✨ Aprender con talleres y charlas en directo
@@ -33,170 +128,37 @@ Al participar tendrás la oportunidad de:
 - ✨ Co-publicar papers en conferencias de PLN internacionales
 - ✨ Conseguir un certificado de participación (o equipo ganador) del hackathon
 
+¡A por ello! 🚀
+
+
+## ✨ Mini retos
+
+Participa en estos mini retos para contribuir a la creación de bases de datos que evalúen el conocimiento cultural y estereotipos de los LLMs. ¡Podrás acumular puntos y ganar premios extra!
+
+<ChallengesGrid :challenges="miniChallenges" />
+
+## 🔥 Reto principal
+
+1. Genera un dataset de preferencias
+2. Alinea un modelo textual (opción A) o multimodal (opción B), a elegir
+3. Crea una demo de tu proyecto
+4. Presenta tu proyecto en un vídeo de 5 mins
+5. (Opcional) escribe un paper presentando tu proyecto
+
+<ChallengesGrid :challenges="mainChallenges" />
+
+<ChallengesGrid :challenges="finalChallenges" />
+
+## ❓ Ayuda
+
 Si tienes cualquier duda:
 - Revisa el canal [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115), recomendamos activar las notificaciones del canal, publicamos máximo 1 vez al día
 - Pregunta tus dudas en el canal [#pide-ayuda](https://discord.com/channels/938134488670675055/1051997272356966430) de Discord para que todo el mundo pueda beneficiarse de la respuesta
 - Los eventos los anunciamos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) y los añadimos al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Nos puedes dar feedback para mejorar las guías de los retos con este [formulario](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
 
-¡A por ello! 🚀
 
-
-## ✨ Mini retos
-
-### ✅ Exámenes (INCLUDE)
-
-Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de los LLMs. Prioriza exámenes en lenguas distintas al español y/o centrados en temas culturales (e.g. historia, literatura). Utilizaremos estas preguntas y respuestas para extender el benchmark abierto INCLUDE.
-
-*9 de abril - 31 de mayo (EXTENDIDA) | máx 1 pto*
-
-Requisitos: Saber buscar en internet
-
-- [¡Participa ya!](https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y)
-- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/include)
-
-### 👀 Estereotipos
-
-Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.
-
-*9 de abril - 15 de mayo (EXTENDIDA) | máx 1 pto*
-
-Requisitos: Haber vivido en sociedad
-
-- [¡Participa ya!](https://ediadev.ngrok.app/)
-- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/estereotipos)
-
-
-### ❓ Preguntas culturales (BLEND)
-
-Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.
-
-*14 de abril - 31 de mayo (EXTENDIDA) | máx 2 ptos*
-
-Requisitos: Haber vivido en sociedad
-
-- [¡Participa ya!](https://somosnlp-blend-es.hf.space/)
-- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/blend)
-
-## 🔥 Reto principal
-
-### 📚 Dataset de preferencias (LLM Arena)
-
-Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
-
-*14 de abril - 15 de mayo (EXTENDIDA) | máx 3 ptos*
-
-Requisitos: Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural
-
-- [¡Participa ya!](https://fastchat-webui-908374066028.us-central1.run.app/gradio/)
-- [Guías, material de apoyo e incentivos](https://somosnlp.org/hackathon/retos/preferencias)
-
-### ⚙️ Opción A: Alineamiento de LLMs
-
-Procesa, filtra y extiende el dataset de preferencias v0 adaptándolo a tu caso de uso. Utilízalo para alinear un LLM utilizando técnicas de entrenamiento optimizado y alineamiento como LoRA, cuantización y optimización directa de preferencias (DPO). Para este reto cada equipo tendrá acceso a 500 USD de la API de Cohere y una GPU L40S de Hugging Face.
-
-*21 de abril - 31 de mayo (Máx. 2 semanas) | máx 3 ptos*
-
-Requisitos: Saber programar
-
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo:
-- Notebook de ejemplo para alinear un LLM con DPO
-
-Incentivos:
-- Suma hasta 3 ptos a la puntuación total de tu equipo
-
-Muchísimas gracias a:
-- Cohere: Créditos API por un valor de 500 USD para cada equipo
-- Hugging Face: GPUs L40S para cada equipo (L40S = 8 vCPU, 62 GB RAM, 48 GB VRAM)
-
-</details>
-
-### 🎨 Opción B: Proyecto multimodal cultural
-
-Crea un modelo multimodal que genere descripciones de imágenes teniendo en cuenta el contexto. Para este reto cada equipo tendrá acceso a 500 USD de la API de Cohere y una GPU L40S de Hugging Face.
-
-*21 de abril - 31 de mayo (Máx. 2 semanas) | máx 3 ptos*
-
-Requisitos: Tener experiencia en PLN, habrá menos material de apoyo para este reto que para la opción A
-
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo:
-- Notebook de ejemplo para entrenar un modelo de generación de descripciones de imágenes
-
-Incentivos:
-- Suma hasta 3 ptos a la puntuación total de tu equipo
-
-Muchísimas gracias a:
-- Cohere: Créditos API por un valor de 500 USD para cada equipo
-- Hugging Face: GPUs L40S para cada equipo (L40S = 8 vCPU, 62 GB RAM, 48 GB VRAM)
-
-</details>
-
-### 🎥 Creación de una demo
-
-Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo pueda ver tu trabajo.
-
-*Hasta el 31 de mayo (EXTENDIDA) | máx 0.5 ptos*
-
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo:
-- Código de ejemplo para crear una demo en Hugging Face
-
-Incentivos:
-- Suma hasta 0.5 ptos a la puntuación total de tu equipo
-- Mejores 2 o 3 demos = extensión del tiempo de ZeroGPU
-- Necesario para dar el proyecto por finalizado y optar a los premios
-
-Muchísimas gracias a:
-- Hugging Face: ZeroGPU para las  demos
-
-</details>
-
-### 🎥 Vídeo 5’ presentando el proyecto
-
-Graba un vídeo 5 minutos presentando tu proyecto.
-
-*Envío hasta el1 de junio (EXTENDIDA) | máx 0.5 ptos*
-
-<details>
-<summary>Más información</summary>
-
-Guías y material de apoyo:
-- Recomendaciones para crear una presentación
-
-Incentivos:
-- Suma hasta 0.5 ptos a la puntuación total de tu equipo
-- Requerido por Mistral para dar los créditos al equipo ganador
-- Necesario para dar el proyecto por finalizado y optar a los premios
-
-</details>
-
-### 📝 Opcional: escritura de un paper
-
-Con la ayuda de doctorandos, profesores y profesoras, escribe un paper presentando tu proyecto y mándalo al workshop de LatinX in NLP de NeurIPS, una de las conferencias más importantes del campo.
-
-<details>
-<summary>Más información</summary>
-
-Incentivos:
-- Gana experiencia de investigación
-- Si tu paper es aceptado, ¡tendrás la oportunidad de viajar a Vancouver a presentarlo!
-
-Muchísimas gracias a:
-- LatinX in AI: Mentorías para escribir papers
-
-</details>
-
----
-
-## 📅 Eventos
+## 🗓️ Eventos
 
 #### Automatizando extracción de corpus desde PDFs | Alfonso Amayuelas, PhD @ Universidad de California, Santa Barbara
 
