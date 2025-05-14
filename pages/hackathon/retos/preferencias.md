@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 15 de mayo (EXTENDIDA) | máx 3 ptos*
+*14 de abril - 21 de mayo (EXTENDIDA) | máx 3 ptos*
 
 1. **Lee la guía a continuación para aprender a diseñar prompts de calidad.**
 
