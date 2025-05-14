@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Compartilhe e avalie estereótipos para ajudar a mitigar vieses dos LLMs.
 
-*9 de abril - 7 de maio | máx 1 ponto*
+*9 de abril - 21 de maio (PRORROGADO) | máx 1 ponto*
 
 [Participe agora!](https://ediadev.ngrok.app/)
 
@@ -16,8 +16,10 @@ Compartilhe e avalie estereótipos para ajudar a mitigar vieses dos LLMs.
   <a href="https://www.youtube.com/watch?v=9y4nnVZxvUU&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Vídeo explicativo</a>
 </div>
 
-Incentivos:
-- Cada 10 estereótipos validados por equipe = 0,1 pontos
+🌎 Gere **apenas** estereótipos do ponto de vista do país ou países com os quais você tenha um vínculo forte o suficiente para conhecer a cultura local.
+
+✨ Incentivos:
+- Cada 10 estereótipos validados por equipe = 0,1 pontos (máx 1 ponto)
 - Você terá acesso aos dados coletados para alinhar seu LLM
 
 ---
