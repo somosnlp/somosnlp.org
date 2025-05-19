@@ -14,6 +14,8 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 A continuación compartimos más detalles y consejos para maximizar la visibilidad de tu proyecto 🚀 
 
+---
+
 ## 🖼️ Creación de una demo
 
 Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo pueda interactuar con tu modelo. Además, las mejores demos conseguirán una extensión del tiempo de ZeroGPU patrocinado por Hugging Face!
@@ -31,19 +33,21 @@ Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo p
 
 - Necesario para dar el proyecto por finalizado y optar a los premios
 - Suma hasta 0.5 ptos a la puntuación total de tu equipo
-- Las 2 o 3 mejores demos conseguirán una extensión del tiempo de ZeroGPU patrocinado por Hugging Face
+- Las mejores demos conseguirán una extensión del tiempo de ZeroGPU patrocinado por Hugging Face
 
 </details>
 
 <details>
 <summary>Recursos</summary>
 
+- Inspiración: Revisa los "trending Spaces" o "Spaces of the week" en hf.co/spaces
 - Docs: [Gradio docs](https://www.gradio.app/docs)
 - Notebook: [Cómo crear una demo con Gradio](https://somosnlp.org/recursos/tutoriales/06_demos_con_gradio)
 - Vídeo tutoriales: [Aquí](https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta) tienes tutoriales para crear demos utilizando Gradio, Streamlit y Flask.
 
 </details>
 
+---
 
 ## 🎥 Grabación de un vídeo de 5’
 
@@ -65,18 +69,28 @@ Las grabaciones se visualizarán en directo con el jurado, os recomendamos que a
 <details>
 <summary>Guía</summary>
 
+Contenido:
 - La duración del vídeo tiene que ser como máximo 5:00 minutos (máximo estricto)
-- El contenido de la presentación es libre, os podéis centrar en lo que creáis que tiene más valor de vuestro proyecto
+- El contenido de la presentación es libre, os podéis centrar en lo que creáis **que tiene más valor de vuestro proyecto**
+- En general se recomienda el siguiente guión: motivación, metodología, resultados, análisis, conclusión y futuros pasos
+
+Formato:
 - Graba la pantalla durante una reunión de Zoom o Teams (en Google Meet está prohibido) en la que estéis (a poder ser) todos los miembros del equipo
 - Todas las personas presentes tienen que hablar
 - El vídeo no puede ser editado, compartid directamente la grabación
+- Confirma que se haya grabado el audio además de la imagen
+- Sube la grabación a Drive y compártela con mariagrandury [at] gmail [dot] com
+
+Inspiración:
 - Os invitamos a mirar las presentaciones de los proyectos de la edición 2024 en [esta lista de reproducción](https://www.youtube.com/watch?v=cBDzM0CAwpw&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=14&t=1260s)
 
 </details>
 
+---
+
 ## 📝 Opcional: escritura de un paper
 
-Con la ayuda de estudiantes de doctorado, profesores y profesoras, escribe un paper presentando tu proyecto y mándalo al Workshop de una conferencia internacional de PLN.
+Con la ayuda de investigadoras e investigadores, escribe un paper presentando tu proyecto y mándalo a un Workshop de una conferencia internacional de PLN.
 
 
 <details>
@@ -106,3 +120,5 @@ Contactaremos a los equipos que nos comuniquen su interés para organizar mentor
 - Elimina los spaces de entrenamiento y sube los scripts/notebooks al repo de tu modelo.
 No más commits (ni en las docs) hasta que se anuncien los resultados por favor! No queremos descalificar a nadie 🙏
 - Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias! -->
+
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
