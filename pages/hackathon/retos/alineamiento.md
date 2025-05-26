@@ -11,8 +11,8 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
     - A. Alinea un **modelo de lenguaje** (LLM) para generar texto de manera culturalmente adecuada
     - B. Adapta un **modelo multimodal visión-lenguaje** (VLLM) para generar descripciones de imágenes teniendo en cuenta el contexto cultural
 - En español, portugués o cualquier lengua de la Península Ibérica o LATAM
-- Adapta de un modelo ya existente (no pre-entrenes uno desde cero), recomendamos tomar de base modelos en torno a 7B
-- ¡Genera el dataset con ayuda de 500 USD en créditos de la API de Cohere!
+- Adapta de un modelo ya existente (no pre-entrenes uno desde cero), recomendamos tomar de base modelos en torno a 7B (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) y [Gemma](https://huggingface.co/google/gemma-3-4b-it))
+- ¡Genera el dataset con ayuda de 500 USD en créditos de la API de Cohere! Recomendamos filtrar y extender el dataset de preferencias v0 generado en común en la Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
 - Entrena tu modelo directamente en JupyterLab en el hub de Hugging Face, ¡tenemos GPUs patrocinadas por 🤗! 
 - Sube el modelo(s) junto con todos los notebooks utilizados a hf.co/somosnlp-hackathon-2025
 - Escribe la [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), incluye enlaces al dataset y los notebooks utilizados (e.g. preprocesamiento, entrenamiento)
@@ -39,11 +39,14 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 Los datos son lo más importante en el desarrollo de un modelo y también le daremos mayor importancia a la hora de evaluar los proyectos 👀
 
 - Genera un dataset para tu proyecto:
-    - Aprovecha los 500 USD de créditos de la API de Cohere que tiene cada equipo
-    - Ten en cuenta que tratándose de temas culturales, es muy importante que todo lo que se genere sintéticamente sea revisado por una persona (podéis utilizar Argilla)
+    - Toma como versión inicial para tu dataset el generado en común en la Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
+    - Aprovecha los 500 USD de créditos de la API de Cohere que tiene cada equipo para filtrarlo, mejorarlo y extenderlo con más prompts y respuestas específicamente diseñados para tu caso de uso
+    - Ten en cuenta que tratándose de temas culturales, es muy importante que todo lo que se genere sintéticamente sea revisado por una persona (podéis utilizar [Argilla](https://huggingface.co/docs/hub/en/datasets-argilla))
 - Sube el dataset a hf.co/somosnlp-hackathon-2025 e itera
 - Sube al repo del dataset todos los notebooks y scripts utilizados para generar el dataset y procesarlo
+    - Si prefieres crear un repo en GitHub con todo el código, puedes hacerlo, no olvides de incluir un enlace en la Dataset Card
 - Cumplimenta **bien** la Dataset Card
+    - "Dataset Card" es el nombre de la documentación en los datasets de Hugging Face, es el README.md del repositorio de los datasets
     - OJO: Se tiene en cuenta para la evaluación del proyecto
     - Incluye en la introducción la motivación del proyecto e impacto
     - Detalla el proceso de generación y procesamiento, incluye las librerías utilizadas y menciona las pruebas hechas, incluye los enlaces al código
@@ -69,6 +72,7 @@ Cómo nombrar los datasets:
     - No hace falta que crees un repo diferente para cada modelo, si haces push a un mismo repo, el modelo actualizado se guardará como un nuevo commit (al que puedes enlazar desde la Model Card si quieres)
 6. **Descarga los notebooks de procesamiento del dataset y entrenamiento del modelo, súbelos al repo del modelo** (MUY IMPORTANTE) y elimina el Space de JupyterLab
 7. Cumplimenta **bien** la Model Card
+    - "Model Card" es el nombre de la documentación en los modelos de Hugging Face, es el README.md del repositorio de los modelos
     - OJO: Se tiene en cuenta para la evaluación del proyecto
     - Recomendación: Vete describiendo las pruebas según las haces, así como el proceso de mejora del dataset y entrenamiento del modelos
     - Incluye en la introducción la motivación del proyecto e impacto

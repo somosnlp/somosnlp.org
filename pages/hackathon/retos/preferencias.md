@@ -41,8 +41,8 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 1. Diseñar prompts siguiendo la guía a continuación
 2. Mandar sus prompts a un LLM Arena y elegir la mejor respuesta
 3. Simultáneamente, ir validando los prompts y respuestas de otros equipos
-4. El día 21 de abril publicaremos el conjunto de prompts y respuestas, llamémoslo “dataset v0”
-5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender v0 y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
+4. El día 21 de abril publicaremos el conjunto de prompts y respuestas: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
+5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
 
 Para acceder a los créditos API y GPUs:
 - El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
