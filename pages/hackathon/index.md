@@ -215,6 +215,10 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark
 logo="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png" />
 
+<SponsorInfo sponsor="SaturdaysAI" url="http://somosnlp.org/patrocinios/saturdays-ai"
+logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+
 </div>
 
 
