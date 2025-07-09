@@ -205,11 +205,19 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_titl
 
 ### 🥈 Plata
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
 logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia.png"
 logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark.png" />
+
+<SponsorInfo sponsor="UPM - Eunomia & CO" url="http://somosnlp.org/patrocinios/upm"
+logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia&co.png"
+logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia&co.png" />
+
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
 logo="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png"
