@@ -46,8 +46,6 @@ Esperamos que os gusten y que surjan muchas aplicaciones utilizando estos nuevos
 </a>
 </div> -->
 
----
-
 ### 📚 Benchmark de conocimiento cultural: INCLUDE
 
 Este reto consistía en recolectar exámenes de opción múltiple y extraer las preguntas para generar un gran benchmark de evaluación LLMs enfocado en el conocimiento regional.
