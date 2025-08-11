@@ -22,9 +22,33 @@ const trueflag_principal_nlp_engineer = {
     "más": "https://www.linkedin.com/jobs/view/4181079020"
 }
 
+const galtea_founding_ml_engineer = {
+    "ocupación": "Founding ML Engineer - GenAI",
+    "palabras clave": "GenAI, LLM evals, AI safety",
+    "contrato": "Tiempo Completo",
+    "entidad": "Galtea",
+    "nº trabajadores/as": "0 - 9",
+    "localización": "Híbrido Barcelona",
+    "fecha publicación (fecha límite)": "2025/04/18",
+    "más": "https://www.linkedin.com/jobs/view/4199476532/?refId=HUQlcbajSsyZH8dvAuXp0A%3D%3D&trackingId=HUQlcbajSsyZH8dvAuXp0A%3D%3D"
+}
+
+const nielseniq_ai_research_scientists = {
+    "ocupación": "AI Research Scientists",
+    "palabras clave": "LLM, Post-Training, Research",
+    "contrato": "Tiempo Completo",
+    "entidad": "NielsenIQ",
+    "nº trabajadores/as": "Más de 250",
+    "localización": "Híbrido (Madrid, Valladolid), posibilidad remoto",
+    "fecha publicación (fecha límite)": "2025/05/21 (2025/07/31)",
+    "más": "https://www.linkedin.com/posts/david-jim%C3%A9nez-cabello-phd_nielseniq-ai-machinelearning-activity-7326150986622763009-sVKU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA18mUIBrb-ziaetEHWSzJj349OdfgCFL-g"
+}
+
 export const columnas = ['ocupación', 'contrato', 'entidad', 'nº trabajadores/as', 'localización', 'fecha publicación (fecha límite)', 'más']
 
 export const ofertas = [
     orga_ai_machine_learning_researcher,
-    trueflag_principal_nlp_engineer
+    trueflag_principal_nlp_engineer,
+    galtea_founding_ml_engineer,
+    nielseniq_ai_research_scientists
 ]

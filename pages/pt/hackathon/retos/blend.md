@@ -7,26 +7,29 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Responda perguntas sobre seu país para avaliar o conhecimento cultural dos LLMs. Usaremos essas respostas para estender o benchmark aberto BLEND.
 
-*14 de abril - 7 de maio | máx 2 pontos*
+*14 de abril - 31 de maio (PRORROGADO) | máx 2 pontos*
 
 <center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participe agora!</a></center>
 
-Incentivos (os números se referem a perguntas respondidas validadas):
+🌎 Responda **apenas** perguntas do país ou países com os quais você tenha um vínculo forte o suficiente para conhecer a cultura local.
+
+✨ Incentivos (os números se referem a perguntas respondidas validadas):
 - Por equipe:
     - 200 por equipe = requisito para acessar os 500 USD da API Cohere para o desafio principal
-    - Cada 50 perguntas por equipe = 0,5 pontos
+    - Cada 50 perguntas por equipe = 0,5 pontos (máx 2 pontos)
 - Por pessoa:
-    - 100 por pessoa = coautoria no paper
+    - 100 por pessoa = coautoria no paper do BLEND-ES
 
-Muito obrigado a:
+🙌 Muito obrigado a:
 - CENIA: Armazenamento dos dados nos espaços de anotação
-- A equipe: Eugenio Herrera, Sebastián Cifuentes, Clemente e María Grandury
+- A equipe: Eugenio Herrera, Sebastián Cifuentes, Clemente, María Grandury, Luis Vasquez e Valle Ruiz
 
 ---
 
-## **O que é BLEND e por que estamos replicando?**
+## O que é BLEND e por que estamos replicando?
 
-### **Background**
+<details>
+<summary>O que é BLEND?</summary>
 
 Neste desafio, buscamos adaptar a metodologia de [*BLEND: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages*](https://arxiv.org/abs/2406.09948) para a criação de um novo benchmark cultural focado nas culturas de língua hispânica.
 
@@ -36,7 +39,10 @@ Um exemplo de pergunta é: "O que as pessoas de [Nome do país] geralmente comem
 
 Com essa informação, os autores fizeram um cruzamento de respostas e assim geraram perguntas de múltipla escolha para avaliar o conhecimento cultural de diferentes LLMs.
 
-### **Proposta**
+</details>
+
+<details>
+<summary>Qual é nossa proposta?</summary>
 
 Com sua ajuda, buscamos replicar esta metodologia no contexto de nossa diversa realidade cultural. Na figura a seguir, você pode ver o que buscamos:
 
@@ -44,9 +50,11 @@ Com sua ajuda, buscamos replicar esta metodologia no contexto de nossa diversa r
 
 Note que cada quadrado em verde implica sua participação, ou seja, você será uma peça-chave na construção deste novo benchmark!
 
-## **Como começar a responder perguntas?**
+</details>
 
-Para participar da anotação colaborativa de dados, primeiro você deve acessar XXX endereço.
+## Como começar a responder perguntas?
+
+Para participar da anotação colaborativa de dados, primeiro você deve acessar [huggingface.co/spaces/somosnlp/blend-es](https://huggingface.co/spaces/somosnlp/blend-es).
 
 Você precisará de uma conta no HuggingFace para entrar. Se não tiver uma, você pode criar facilmente [aqui](https://huggingface.co/join).
 
@@ -61,7 +69,7 @@ Como você notará, há uma lista de múltiplos *datasets*, nomeados de acordo c
 
 Ou seja, cada país tem um espaço para responder perguntas e outro para validar as respostas dos demais participantes.
 
-### **Instruções para responder**
+### Instruções para responder
 
 Ao entrar no espaço correspondente ao seu país, você encontrará a seguinte interface:
 
@@ -76,7 +84,7 @@ Ao responder as perguntas, é importante seguir estas diretrizes:
 - **Especifique a região se necessário**: Se sua resposta representa mais uma região específica do que todo o país, indique o nome desta região no formulário.
 - **Não use IA nem buscadores**: Todas as respostas devem vir do seu conhecimento e experiência pessoal. Não é permitido consultar ChatGPT, Google, Bing ou outros serviços similares.
 
-### **Preenchendo o formulário passo a passo**
+### Preenchendo o formulário passo a passo
 
 Como você pode ver na imagem de exemplo, o formulário de anotação contém vários campos que você deve preencher:
 
@@ -100,7 +108,7 @@ Como você pode ver na imagem de exemplo, o formulário de anotação contém v�
 - Descartar: Para descartar sua resposta atual e começar de novo.
 - Salvar como rascunho: Para salvar sua resposta como rascunho e continuá-la mais tarde.
 - Enviar: Para enviar sua resposta e continuar com a próxima pergunta.
-- Na parte superior da tela, você verá um contador que indica em qual pergunta você está (por exemplo, "1 of 500"), o que permitirá que você acompanhe seu progresso. 
+- Na parte superior da tela, você verá um contador que indica em qual pergunta você está (por exemplo, "1 of 500"), o que permitirá que você acompanhe seu progresso.
 
 <center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participe agora!</a></center>
 

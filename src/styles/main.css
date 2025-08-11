@@ -45,3 +45,21 @@ html.dark {
     dark:text-white dark:bg-gray-800 dark:border-gray-900
     transform hover:scale-102 active:scale-98;
 }
+
+/* Full width container for grids */
+.full-width-container {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: 12px;
+    padding: 0 max(var(--page-padding), calc((100vw - 1200px) / 2));
+    background-color: var(--vp-c-bg-soft);
+}
+
+.full-width-container .grid {
+    max-width: 1200px;
+    margin: 0 auto;
+}

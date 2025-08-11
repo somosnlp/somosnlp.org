@@ -7,19 +7,30 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Projete prompts que avaliem a adequação cultural com seu país e escolha a melhor resposta em uma LLM Arena. Os prompts e as respostas serão coletados e compartilhados com todas as equipes participantes como dataset de preferências v0 para a fase de alinhamento. Para este desafio, você terá acesso a uma LLM Arena com 5 modelos grandes ou proprietários.
 
-*14 de abril - 21 de abril | máx 3 pontos*
+*14 de abril - 21 de maio (PRORROGADO) | máx 3 pontos*
 
-<center><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participe agora!</a></center>
+1. **Leia o guia a seguir para aprender a projetar prompts de qualidade.**
 
-Incentivos (os números se referem a prompts respondidos validados):
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">2. Verifique que você entendeu o guia</a>
+  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">3. Valide prompts de outras equipes</a>
+  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">4. Envie seus prompts à Arena</a>
+</div>
+
+🌎 Gere **apenas** prompts relacionados com o país ou países com os quais você tenha um vínculo forte o suficiente para conhecer a cultura local.
+
+✨ Incentivos (os números se referem a prompts respondidos validados):
 - 100 por equipe = requisito para acessar os 500 USD da API da Cohere para o desafio principal
-- Cada 50 prompts por equipe = 0,5 pontos
+- Cada 50 prompts por equipe = 0,5 pontos (máx 2 pontos, o outro ponto é obtido de avaliar como vocês utilizarem a API da Cohere para melhorar o dataset)
+- Vocês terão acesso aos dados gerados por todas as equipes para tomá-los como base para seu alinhamento, **uma maior qualidade dos dados implica uma maior qualidade do seu projeto**
 
-Muito obrigado a:
+🙌 Muito obrigado a:
 - CENIA: Créditos API para os LLMs da Arena
-- A equipe: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente e María Grandury
+- A equipe: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente, María Grandury, Luis Vasquez e Valle Ruiz
 
----
+Recursos:
+- Definições, exemplos de prompts e datasets de preferências a seguir
+- [Palestra sobre Red Teaming de Luis Vasquez](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
 ## Objetivo
 
@@ -67,6 +78,13 @@ O principal objetivo do hackathon, e em particular deste desafio, é melhorar a 
 
 </details>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/1.png" alt="Adequação Cultural 1" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/2.png" alt="Adequação Cultural 2" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/3.png" alt="Adequação Cultural 3" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/4.png" alt="Adequação Cultural 4" style="width: 100%;">
+</div>
+
 <details>
 <summary>Multiculturalidade</summary>
 
@@ -77,6 +95,15 @@ O principal objetivo do hackathon, e em particular deste desafio, é melhorar a 
 > 
 
 </details>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/5.png" alt="Adequação Cultural 5" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/6.png" alt="Adequação Cultural 6" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/7.png" alt="Adequação Cultural 7" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/8.png" alt="Adequação Cultural 8" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/9.png" alt="Adequação Cultural 9" style="width: 100%;">
+</div>
+
 
 <details>
 <summary>Adequação cultural</summary>
@@ -123,12 +150,27 @@ Diferentes propósitos comunicativos
 
 </details>
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/10.png" alt="Adequação Cultural 10" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/11.png" alt="Adequação Cultural 11" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/12.png" alt="Adequação Cultural 12" style="width: 100%;">
+</div>
+
 <details>
 <summary>Como a cultura afeta a capacidade de um LLM de entender uma linguagem?</summary>
   - Na comunicação → Os propósitos comunicativos são diretamente afetados pelas palavras e formas gramaticais usadas. Quanto mais palavras de um país específico uma oração tiver (por exemplo, do Brasil), mais difícil pode ser entendê-la para alguém (ou algo: um LLM) que não esteja familiarizado com essa cultura.
   - Na percepção do mundo → Códigos morais (i.e., o que é bom, o que é mau), atividades comuns (por exemplo, ir a uma luta livre ou ir a uma tourada), etc.
 
 </details>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/13.png" alt="Adequação Cultural 13" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/14.png" alt="Adequação Cultural 14" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/15.png" alt="Adequação Cultural 15" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/16.png" alt="Adequação Cultural 16" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/17.png" alt="Adequação Cultural 17" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/18.png" alt="Adequação Cultural 18" style="width: 100%;">
+</div>
 
 
 ## **2. Como projetar os prompts**

@@ -7,7 +7,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfech
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 15 de mayo (EXTENDIDA) | máx 3 ptos*
+*14 de abril - 21 de mayo (EXTENDIDA) | máx 3 ptos*
 
 1. **Lee la guía a continuación para aprender a diseñar prompts de calidad.**
 
@@ -41,8 +41,8 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 1. Diseñar prompts siguiendo la guía a continuación
 2. Mandar sus prompts a un LLM Arena y elegir la mejor respuesta
 3. Simultáneamente, ir validando los prompts y respuestas de otros equipos
-4. El día 21 de abril publicaremos el conjunto de prompts y respuestas, llamémoslo “dataset v0”
-5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender v0 y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
+4. El día 21 de abril publicaremos el conjunto de prompts y respuestas: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
+5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
 
 Para acceder a los créditos API y GPUs:
 - El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
@@ -90,10 +90,10 @@ El principal objetivo del hackathon, y en particular de este reto, es mejorar la
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/1.jpg" alt="Adecuación Cultural 1" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/2.jpg" alt="Adecuación Cultural 2" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/3.jpg" alt="Adecuación Cultural 3" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/4.jpg" alt="Adecuación Cultural 4" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/1.jpg" alt="Adecuación Cultural 1" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/2.jpg" alt="Adecuación Cultural 2" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/3.jpg" alt="Adecuación Cultural 3" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/4.jpg" alt="Adecuación Cultural 4" style="width: 100%;">
 </div>
 
 <details>
@@ -108,11 +108,11 @@ El principal objetivo del hackathon, y en particular de este reto, es mejorar la
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/5.jpg" alt="Adecuación Cultural 5" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/6.jpg" alt="Adecuación Cultural 6" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/7.jpg" alt="Adecuación Cultural 7" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/8.jpg" alt="Adecuación Cultural 8" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/9.jpg" alt="Adecuación Cultural 9" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/5.jpg" alt="Adecuación Cultural 5" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/6.jpg" alt="Adecuación Cultural 6" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/7.jpg" alt="Adecuación Cultural 7" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/8.jpg" alt="Adecuación Cultural 8" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/9.jpg" alt="Adecuación Cultural 9" style="width: 100%;">
 </div>
 
 <details>
@@ -161,9 +161,9 @@ Distintos propósitos comunicativos
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/10.jpg" alt="Adecuación Cultural 10" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/11.jpg" alt="Adecuación Cultural 11" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/12.jpg" alt="Adecuación Cultural 12" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/10.jpg" alt="Adecuación Cultural 10" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/11.jpg" alt="Adecuación Cultural 11" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/12.jpg" alt="Adecuación Cultural 12" style="width: 100%;">
 </div>
 
 <details>
@@ -175,12 +175,12 @@ Distintos propósitos comunicativos
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/13.jpg" alt="Adecuación Cultural 13" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/14.jpg" alt="Adecuación Cultural 14" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/15.jpg" alt="Adecuación Cultural 15" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/16.jpg" alt="Adecuación Cultural 16" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/17.jpg" alt="Adecuación Cultural 17" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/18.jpg" alt="Adecuación Cultural 18" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/13.jpg" alt="Adecuación Cultural 13" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/14.jpg" alt="Adecuación Cultural 14" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/15.jpg" alt="Adecuación Cultural 15" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/16.jpg" alt="Adecuación Cultural 16" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/17.jpg" alt="Adecuación Cultural 17" style="width: 100%;">
+    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/18.jpg" alt="Adecuación Cultural 18" style="width: 100%;">
 </div>
 
 ## 🎨 2. Cómo diseñar los prompts
