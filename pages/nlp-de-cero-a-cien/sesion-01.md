@@ -24,8 +24,8 @@ En esta primera sesión el tema es Word Embeddings, un concepto fundamental del 
 
 ## Recursos adicionales
 
-* https://jalammar.github.io/illustrated-Word2Vec/: guía ilustrada que explica de manera muy intuitiva los conceptos de Word2Vec.
-* https://lena-voita.github.io/nlp_course/word_embeddings.html: explicación de Word Embeddings y contiene tanto publicaciones como preguntas para hacer reflexión adicional.
+* https://jalammar.github.io/illustrated-word2vec/ : guía ilustrada que explica de manera muy intuitiva los conceptos de Word2Vec.
+* https://lena-voita.github.io/nlp_course/word_embeddings.html : explicación de Word Embeddings y contiene tanto publicaciones como preguntas para hacer reflexión adicional.
 * [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/): capítulo 6, secciones 3-8.
 
 ## Papers
@@ -132,4 +132,10 @@ model.most_similar(positive=["Mexico", "burger"], negative=["USA"], topn=1)
 
 ---
 
-➡️ Siguiente sesión: [Modelos Secuenciales (RNNs y LSTMs)](/nlp-de-cero-a-cien/sesion-02)
+<div class="text-center">
+    ➡️ Sesión siguiente: <a href="/nlp-de-cero-a-cien/sesion-02" class="text-blue-500">Modelos Secuenciales (RNNs y LSTMs)</a>
+</div>
+
+<div class="text-center mt-4">
+    ⬅️ Inicio: <a href="/nlp-de-cero-a-cien/" class="text-blue-500">Curso Práctico: NLP de 0 a 100</a>
+</div>

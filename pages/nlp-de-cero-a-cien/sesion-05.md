@@ -39,4 +39,10 @@ author: Lewis Tunstall
 
 ---
 
-➡️ Siguiente sesión: [Transformers y Modelado del Lenguaje](/nlp-de-cero-a-cien/sesion-06)
+<div class="text-center">
+    ➡️ Sesión siguiente: <a href="/nlp-de-cero-a-cien/sesion-06" class="text-blue-500">Transformers y Modelado del Lenguaje</a>
+</div>
+
+<div class="text-center mt-4">
+    ⬅️ Sesión anterior: <a href="/nlp-de-cero-a-cien/sesion-04" class="text-blue-500">Transformers y Aprendizaje por Transferencia</a>
+</div>

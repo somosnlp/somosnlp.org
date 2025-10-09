@@ -25,7 +25,17 @@ Esperamos que hayas aprendido muchíiisimo, comparte tu logro en redes y menció
 
 ## Notebooks
 
-<a href="https://github.com/somosnlp/nlp-de-cero-a-cien/tree/main/7_demos_de_nlp_con_spaces" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1SybCk89RDUM8aDQynWxU7bUhqxM3bES_" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" />
+</a>
+
+<a href="https://huggingface.co/spaces" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" />
+</a>
+
+<a href="https://github.com/somosnlp/nlp-de-cero-a-cien/tree/main/7_demos_de_nlp_con_spaces" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github" alt="GitHub" />
+</a>
 
 ---
 
@@ -35,4 +45,10 @@ Te damos la bienvenida al open-source, anímate a compartir con la comunidad en 
 
 ¿Quieres seguir aprendiendo? Echa un vistazo a nuestro canal de YouTube donde encontrarás contenido más avanzado:
 
-➡️ [Más charlas y talleres impartidos por profesionales](https://www.youtube.com/@somosnlp)
+<div class="text-center">
+    ➡️ Youtube: <a href="https://www.youtube.com/@somosnlp" class="text-blue-500">Más charlas y talleres impartidos por profesionales</a>
+</div>
+
+<div class="text-center mt-4">
+    🏠 Incio: <a href="/nlp-de-cero-a-cien/" class="text-blue-500">Curso Práctico: NLP de 0 a 100</a>
+</div>
