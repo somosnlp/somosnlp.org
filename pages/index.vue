@@ -33,7 +33,7 @@ const showPastEvents = ref(true);
       <div class="mt-10 grid gap-4 lg:grid-cols-2">
         <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">
           <carbon:user-multiple />
-          {{ t('landing-page.join-us') }}
+          {{ t('landing-page.join-us-discord') }}
         </a>
         <router-link to="/nuestra-mision" class="button-gray">
           <carbon:bullhorn />
@@ -172,7 +172,7 @@ const showPastEvents = ref(true);
             {{ t('landing-page.why.community') }}
             <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
               <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
-                border="2 accent-300">{{ t('landing-page.join-us') }}</span>
+                border="2 accent-300">{{ t('landing-page.join-us-discord') }}</span>
             </a>
           </div>
 
