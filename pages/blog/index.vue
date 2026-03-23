@@ -6,9 +6,9 @@
                 ¿Qué quieres compartir con la comunidad?
             </a>
         </header>
-        <hr class="mx-auto mt-8 mb-12 prose" />
+        <!-- <hr class="mx-auto mt-8 mb-12 prose" /> -->
 
-        <div class="mx-auto mt-8 mb-12 prose italic">
+        <!-- <div class="mx-auto mt-8 mb-12 prose italic">
             <ol>
                 <li>
                     Crear un corpus de instrucciones de calidad que represente las variedades del español habladas por 600M
@@ -31,7 +31,7 @@
                     style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Lee
                     más!</a>
             </center>
-        </div>
+        </div> -->
 
         <hr class="mx-auto mt-8 mb-12 prose" />
         <BlogList />
