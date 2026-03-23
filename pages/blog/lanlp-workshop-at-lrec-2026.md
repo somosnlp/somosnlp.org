@@ -1,5 +1,5 @@
 ---
-title: LANLP: Bridging Ibero and Latin American NLP communities
+title: "LANLP: Bridging Ibero and Latin American NLP communities"
 description: Te esperamos en el Networking Symposium LANLP en LREC 2026 (Palma) 
 date: 2026-02-01T18:00:00.000+00:00
 lang: es
