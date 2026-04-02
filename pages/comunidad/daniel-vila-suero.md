@@ -29,7 +29,7 @@ community: Activo
 
 <EventSummary
     description='En este taller práctico mostraremos como usar Rubrix (ahora "Argilla") para construir y mejorar datos de entrenamiento para PLN, a partir de ejemplos prácticos de clasificación de texto y reconocimiento de entidades nombradas, en español.'
-    poster="/images/evento_daniel.png"
+    poster="/images/eventos/220329_daniel.png"
     video="https://www.youtube.com/embed/UR6MHBbPA3g"
 />
 

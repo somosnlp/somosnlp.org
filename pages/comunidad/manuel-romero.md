@@ -52,7 +52,7 @@ community: AA
 
 <EventSummary
     description="En este taller Manuel Romero nos mostrará todos las herramientas que Hugging Face provee para colaborar a la democratización de la IA: Tokenizers, Datasets, Model Hub y Spaces. Además, nos enseñará cómo aprovechar todas esas herramientas para crear nuestro modelo (y base de datos) desde cero y ponerlo en producción."
-    poster="/images/evento_manu.png"
+    poster="/images/eventos/220314_manu.png"
     video="https://www.youtube.com/embed/_TbNgSodiPY"
     name="Manuel Romero"
     website="https://hf.co/mrm8488"

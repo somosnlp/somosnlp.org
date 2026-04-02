@@ -21,7 +21,7 @@ Big Onion es un equipo de personas experimentadas en innovación con foco en neg
 
 <EventSummary
     description=""
-    poster="/images/evento_23_03_encrucijada.png"
+    poster="/images/eventos/220323_encrucijada.png"
     video="https://www.youtube.com/embed/GX4l3WhOy4o"
     name=""
     twitter=""

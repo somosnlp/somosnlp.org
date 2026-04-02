@@ -22,6 +22,9 @@ export default defineConfig({
   plugins: [
     Vue({
       include: [/\.vue$/, /\.md$/],
+      template: {
+        transformAssetUrls: false,
+      },
     }),
 
     // https://github.com/hannoeru/vite-plugin-pages
@@ -96,6 +99,27 @@ export default defineConfig({
   ssgOptions: {
     script: 'async',
     formatting: 'minify',
+  },
+
+  build: {
+    rollupOptions: {
+      plugins: [
+        {
+          name: 'stub-public-images',
+          resolveId(id: string) {
+            if (id.startsWith('/images/') || (/\.(png|jpe?g|gif|svg|bmp|webp)$/i.test(id) && id.startsWith('/'))) {
+              return '\0stub-public:' + id
+            }
+          },
+          load(id: string) {
+            if (id.startsWith('\0stub-public:')) {
+              const path = id.slice('\0stub-public:'.length)
+              return `export default ${JSON.stringify(path)}`
+            }
+          },
+        },
+      ],
+    },
   },
 
   optimizeDeps: {

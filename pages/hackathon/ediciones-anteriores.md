@@ -72,15 +72,15 @@ Y a los corpus:
     <!-- HACKATHON 2022 -->
     <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 04" width="650" height="365"
-        src="/images/evento_cristina.png" />
+        src="/images/eventos/220323_cristina.png" />
     </a>
     <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 05" width="650" height="365"
-        src="/images/evento_paulo.png" />
+        src="/images/eventos/220323_paulo.png" />
     </a>
     <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 06" width="650" height="365"
-        src="/images/evento_ximena.png" />
+        src="/images/eventos/220330_ximena.png" />
     </a>
 </div>
 

@@ -2,7 +2,7 @@
 title: Inteligencia Artificial y Procesamiento del Lenguaje Natural, una apasionante encrucijada
 speaker: Cristina Aranda Gutiérrez
 speaker_bio: Co-Fundadora @Big Onion | Dra. en Lingüística Teórica y Aplicada
-speaker_pic: /images/ponente_cristina_aranda.jpg
+speaker_pic: /images/comunidad/cristina_aranda.jpg
 date: 2022-03-23T13:00:00.000+00:00
 lang: es
 time: 13h CET
@@ -10,7 +10,7 @@ time: 13h CET
 
 <EventSummary
     description="La inteligencia artificial (IA) forma parte de forma silenciosa de nuestro día y se ha convertido en una de las principales palancas en la digitalización de empresas. El objetivo de esta conferencia es explicar qué es la IA, cuáles son sus principales retos. En concreto, la Dra. Cristina Aranda se centrará en uno de los verticales de la IA con más potencial para el desarrollo económico de países y empresas: el procesamiento del lenguaje natural, para el cual, como se mostrará, es necesaria la transferencia de conocimiento y la colaboración de perfiles con diferente formación y experiencia, Las humanidades y las carreras técnicas por fin se juntan para crear productos y servicios de gran impacto social o empresarial."
-    poster="/images/evento_23_03_encrucijada.png"
+    poster="/images/eventos/220323_encrucijada.png"
     video="https://www.youtube.com/embed/GX4l3WhOy4o"
     name="Cristina Aranda Gutiérrez"
     twitter="https://twitter.com/cris_aranda_"

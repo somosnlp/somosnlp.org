@@ -21,7 +21,7 @@ Mujeres Tech es una asociación sin ánimo de lucro que nace a principios de 201
 
 <EventSummary
     description=""
-    poster="/images/evento_23_03_encrucijada.png"
+    poster="/images/eventos/220323_encrucijada.png"
     video="https://www.youtube.com/embed/GX4l3WhOy4o"
     name=""
     twitter=""

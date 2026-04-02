@@ -35,5 +35,5 @@ Disponemos de instancias de GPU Nvidia de última generación en configuraciones
 
 <div class="flex justify-center">
     <img alt="" width="250" height="140" 
-    src="/images/patrocinios/" />
+    src="/images/patrocinios/QBlocks.png" />
 </div>

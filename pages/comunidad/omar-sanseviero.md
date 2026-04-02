@@ -17,7 +17,7 @@ community: Activo
 
 <EventSummary
     description="En esta charla, Omar explicará diferentes mecanismos para evaluar un modelo y encontrar errores. ¡La charla hablará sobre diferentes métricas, técnicas de depuración de transformadores, revisión de datos y más!"
-    poster="/images/evento_omar.png"
+    poster="/images/eventos/220316_omar.png"
     video="https://www.youtube.com/embed/jvhEra9mdPw"
     name="Omar Sanseviero"
     website="https://osanseviero.github.io/hackerllama/"

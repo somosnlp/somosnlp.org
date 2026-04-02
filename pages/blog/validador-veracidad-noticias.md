@@ -4,7 +4,7 @@ description: Presentamos este interesante proyecto de Omdena México
 date: 2022-11-17T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: /images/logo_omdena_mexico_portada.png
+cover: /images/patrocinios/omdena_mexico_portada.png
 author: Mario Rodriguez
 bio: Mexico Chapter Lead & Partnerships Manager at Omdena
 linkedin: https://www.linkedin.com/in/emmanuel-rotm/
@@ -22,7 +22,7 @@ El objetivo principal de los [Capítulos Locales de Omdena](https://omdena.com/l
 Como ejemplo, se puede navegar a través de algunos de nuestros más de 350 proyectos completados a través de: https://omdena.com/projects/ o https://omdena.com/local-chapters/
 
 <div class="flex justify-center">
-    <img src="/images/logo_omdena_mexico_portada.png" alt="Omdena México" width="560" height="315"/>
+    <img src="/images/patrocinios/omdena_mexico_portada.png" alt="Omdena México" width="560" height="315"/>
 </div>
 
 
