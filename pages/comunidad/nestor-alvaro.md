@@ -1,7 +1,7 @@
 ---
 title: Néstor Álvaro
 description: Fundador @SpainAI
-cover: https://somosnlp.github.io/assets/images/comunidad/nestor_alvaro.jpeg
+cover: /images/comunidad/nestor_alvaro.jpeg
 twitter: 
 linkedin: https://www.linkedin.com/in/nestoralvaro-phd/
 website: 
@@ -16,7 +16,7 @@ community: Patrocinio
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

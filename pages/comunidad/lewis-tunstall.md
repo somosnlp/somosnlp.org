@@ -1,7 +1,7 @@
 ---
 title: Lewis Tunstall
 description: ML Engineer @HuggingFace 
-cover: https://somosnlp.github.io/assets/images/core_team_lewis.jpeg
+cover: /images/core_team_lewis.jpeg
 website: 
 twitter: https://twitter.com/_lewtun
 linkedin: https://www.linkedin.com/in/lewis-tunstall
@@ -15,7 +15,7 @@ community: Colaboración
 
 <EventSummary
     description="Pregúntale lo que quieras a Lewis Tunstall, Ingeniero de ML en Hugging Face y Co-Autor del libro 'Natural Language Processing with Transformers' junto con Leandro von Werra y Thomas Wolf. Además, el host de este AMA será Manuel Romero, el mayor contribuidor del Model Hub de Hugging Face. Te resolverán todas tus dudas relacionadas con el libro de Lewis, el ecosistema de Hugging Face y el desarrollo tu proyecto. ¡No te pierdas esta oportunidad!"
-    poster="https://somosnlp.github.io/assets/images/evento_ama_lewis.png"
+    poster="/images/evento_ama_lewis.png"
     video="https://www.youtube.com/embed/RWIZj9puFX0"
     name="Lewis Tunstall"
     website="https://transformersbook.com/"
@@ -30,7 +30,7 @@ community: Colaboración
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

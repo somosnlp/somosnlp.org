@@ -1,8 +1,8 @@
 ---
 title: Yamato
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/YAMATO.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/YAMATO_dark.png
+cover: /images/patrocinios/YAMATO.png
+cover_dark: /images/patrocinios/YAMATO_dark.png
 twitter: 
 linkedin:
 website: 
@@ -16,7 +16,7 @@ years: 2024
 
 <div class="flex justify-center">
     <img alt="YAMATO" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/YAMATO.png" />
+    src="/images/patrocinios/YAMATO.png" />
 </div>
 
 <!-- TODO -->

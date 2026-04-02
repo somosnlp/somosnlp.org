@@ -4,7 +4,7 @@ description: Descubre los proyectos finales y las charlas impartidas
 date: 2024-05-03T18:00:00.000+00:00
 lang: es
 duration: 6min
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 author: María Grandury
 bio: Fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -16,13 +16,13 @@ huggingface: https://huggingface.co/mariagrandury
 Ha finalizado la tercera edición del [hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia!
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" alt="Cartel Hackathon 2024" width="560" height="315"/>
+    <img src="/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" alt="Cartel Hackathon 2024" width="560" height="315"/>
 </div>
 
 Es todo un placer haber organizado un evento que haya conseguido reunir una vez más a más de 500 participantes de 30 países.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes 2024" width="560" height="315"/>
+    <img src="/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes 2024" width="560" height="315"/>
 </div> <!--TOOD actualizar mapa-->
 
 ## Proyectos
@@ -39,7 +39,7 @@ Esperamos que os gusten y que surjan muchas aplicaciones utilizando estos nuevos
 
 <div class="flex justify-center">
 <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank">
-    <img src="https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
+    <img src="/images/eventos/240411_presentaciones.jpg"
         width="650" height="365" alt="Proyectos del Hackathon 2024" />
 </a>
 </div>
@@ -395,51 +395,51 @@ Proyecto:
     <div class="grid grid-cols-2 gap-8 my-1">
         <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
             <img alt="Charla de Elena González-Blanco" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
+                src="/images/eventos/240307_elena_gonzalez_blanco.png" />
         </a>
         <a href="/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
             <img alt="Charla de Gabriel Martín" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
+                src="/images/eventos/240311_gabriel_martin_blazquez.jpg" />
         </a>
         <a href="/hackathon-2024/importancia_de_la_calidad_de_los_datos_al_entrenar" target="_blank">
             <img alt="Charla de Manu Romero" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg" />
+                src="/images/eventos/240311_manu_romero.jpg" />
         </a>
         <a href="/hackathon-2024/diversidad_linguistica_en_ia" target="_blank">
             <img alt="Charla de María Grandury" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240313_maria_grandury.jpg" />
+                src="/images/eventos/240313_maria_grandury.jpg" />
         </a>
         <a href="/hackathon-2024/deteccion_de_sesgos_en_medios_de_comunicacion" target="_blank">
             <img alt="Charla de Fran Rodrigo" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240313_francisco_javier_rodrigo.jpg" />
+                src="/images/eventos/240313_francisco_javier_rodrigo.jpg" />
         </a>
         <a href="/hackathon-2024/combatiendo_el_discurso_de_odio_mediante_contranarrativas" target="_blank">
             <img alt="Charla de Estrella Vallecillo" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240313_estrella_vallecillo.jpg" />
+                src="/images/eventos/240313_estrella_vallecillo.jpg" />
         </a>
         <a href="/hackathon-2024/etica_ambiental_en_ia" target="_blank">
             <img alt="Charla de Jorge Vallego" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240313_jorge_vallego.jpg" />
+                src="/images/eventos/240313_jorge_vallego.jpg" />
         </a>
         <a href="/hackathon-2024/entrenamiento_de_llms" target="_blank">
             <img alt="Charla de Alejandro Vaca" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240318_alejandro_vaca.jpg" />
+                src="/images/eventos/240318_alejandro_vaca.jpg" />
         </a>
         <a href="/hackathon-2024/prospectiva_estrategica_y_nlp" target="_blank">
             <img alt="Charla de Cristina Vila" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg" />
+                src="/images/eventos/240319_cristina_vila.jpg" />
         </a>
         <a href="/hackathon-2024/estimacion_de_la_severidad_de_la_depresion_en_internet" target="_blank">
             <img alt="Charla de Anxo Pérez" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240319_anxo_perez.jpg" />
+                src="/images/eventos/240319_anxo_perez.jpg" />
         </a>
         <a href="/hackathon-2024/como_anotar_corpus_linguisticos_para_entrenar_llms" target="_blank">
             <img alt="Charla de Marta Guerrero" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg" />
+                src="/images/eventos/240320_marta_guerrero.jpg" />
         </a>
         <a href="/hackathon-2024/empatia_y_emociones_en_ia" target="_blank">
             <img alt="Charla de Amanda Curry" width="650" height="365"
-                src="https://somosnlp.github.io/assets/images/eventos/240326_amanda_curry.jpg" />
+                src="/images/eventos/240326_amanda_curry.jpg" />
         </a>
     </div>
 </div>

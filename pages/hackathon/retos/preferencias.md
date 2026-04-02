@@ -2,7 +2,7 @@
 title: "Reto #HackathonSomosNLP 2025: Preferencias"
 description: Cómo participar en este reto y ayudar a alinear modelos de lenguaje con tu cultura
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
@@ -90,10 +90,10 @@ El principal objetivo del hackathon, y en particular de este reto, es mejorar la
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/1.jpg" alt="Adecuación Cultural 1" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/2.jpg" alt="Adecuación Cultural 2" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/3.jpg" alt="Adecuación Cultural 3" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/4.jpg" alt="Adecuación Cultural 4" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/1.jpg" alt="Adecuación Cultural 1" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/2.jpg" alt="Adecuación Cultural 2" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/3.jpg" alt="Adecuación Cultural 3" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/4.jpg" alt="Adecuación Cultural 4" style="width: 100%;">
 </div>
 
 <details>
@@ -108,11 +108,11 @@ El principal objetivo del hackathon, y en particular de este reto, es mejorar la
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/5.jpg" alt="Adecuación Cultural 5" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/6.jpg" alt="Adecuación Cultural 6" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/7.jpg" alt="Adecuación Cultural 7" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/8.jpg" alt="Adecuación Cultural 8" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/9.jpg" alt="Adecuación Cultural 9" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/5.jpg" alt="Adecuación Cultural 5" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/6.jpg" alt="Adecuación Cultural 6" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/7.jpg" alt="Adecuación Cultural 7" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/8.jpg" alt="Adecuación Cultural 8" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/9.jpg" alt="Adecuación Cultural 9" style="width: 100%;">
 </div>
 
 <details>
@@ -161,9 +161,9 @@ Distintos propósitos comunicativos
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/10.jpg" alt="Adecuación Cultural 10" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/11.jpg" alt="Adecuación Cultural 11" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/12.jpg" alt="Adecuación Cultural 12" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/10.jpg" alt="Adecuación Cultural 10" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/11.jpg" alt="Adecuación Cultural 11" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/12.jpg" alt="Adecuación Cultural 12" style="width: 100%;">
 </div>
 
 <details>
@@ -175,12 +175,12 @@ Distintos propósitos comunicativos
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/13.jpg" alt="Adecuación Cultural 13" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/14.jpg" alt="Adecuación Cultural 14" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/15.jpg" alt="Adecuación Cultural 15" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/16.jpg" alt="Adecuación Cultural 16" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/17.jpg" alt="Adecuación Cultural 17" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/es/18.jpg" alt="Adecuación Cultural 18" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/13.jpg" alt="Adecuación Cultural 13" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/14.jpg" alt="Adecuación Cultural 14" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/15.jpg" alt="Adecuación Cultural 15" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/16.jpg" alt="Adecuación Cultural 16" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/17.jpg" alt="Adecuación Cultural 17" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/18.jpg" alt="Adecuación Cultural 18" style="width: 100%;">
 </div>
 
 ## 🎨 2. Cómo diseñar los prompts

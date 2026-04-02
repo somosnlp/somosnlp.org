@@ -2,7 +2,7 @@
 title: "Reto #HackathonSomosNLP 2025: BLEND"
 description: Cómo participar en este reto y ayudar a mejorar el conocimiento cultural de los modelos de lenguaje
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.
@@ -46,7 +46,7 @@ Con esta información, los autores realizaron un cruce de respuestas, y así gen
 
 Con tu ayuda, buscamos replicar esta metodología en el contexto de nuestra diversa realidad cultural. En la siguiente figura puedes apreciar qué buscamos:
 
-![BLEND 1](https://somosnlp.github.io/assets/images/blog/retos_2025_blend_1.png)
+![BLEND 1](/images/blog/retos_2025_blend_1.png)
 
 
 Notar que cada cuadrado en verde implica tu participación, es decir, ¡serás una pieza clave en la construcción de este nuevo benchmark!
@@ -61,7 +61,7 @@ Necesitarás una cuenta en HuggingFace para ingresar. Si no tienes una, puedes c
 
 Una vez dentro, verás la siguiente interfaz:
 
-![BLEND 2](https://somosnlp.github.io/assets/images/blog/retos_2025_blend_2.png)
+![BLEND 2](/images/blog/retos_2025_blend_2.png)
 
 Como notarás, hay un listado de múltiples *datasets*, nombrados acorde a su país, bajo el siguiente formato:
 
@@ -74,7 +74,7 @@ Es decir, cada país tiene un espacio para responder preguntas, y otro para vali
 
 Al ingresar al espacio correspondiente a tu país, te encontrarás con la siguiente interfaz:
 
-![BLEND 3](https://somosnlp.github.io/assets/images/blog/retos_2025_blend_3.png)
+![BLEND 3](/images/blog/retos_2025_blend_3.png)
 
 Al momento de responder las preguntas, es importante seguir estas pautas:
 

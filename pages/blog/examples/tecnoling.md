@@ -1,7 +1,7 @@
 ---
 title: "Tecnoling: presentación de pymes de PLN"
 description: Os contamos cómo transcurrió el evento.
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 date: 2023-09-21T15:00:00.000+00:00
 lang: es
 duration: 1min

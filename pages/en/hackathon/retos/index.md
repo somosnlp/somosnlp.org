@@ -2,7 +2,7 @@
 title: "Challenges #HackathonSomosNLP 2025"
 description: Let's enable the creation of LLMs aligned with the culture of LATAM and the Iberian Peninsula.
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 This year's hackathon focuses on creating resources that enable the evaluation and alignment of language models with the culture of LATAM and Iberian Peninsula countries.

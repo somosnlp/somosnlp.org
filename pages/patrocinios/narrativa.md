@@ -1,8 +1,8 @@
 ---
 title: Narrativa
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/Narrativa_dark.png
+cover: /images/patrocinios/Narrativa.png
+cover_dark: /images/patrocinios/Narrativa_dark.png
 twitter: https://twitter.com/NarrativaAI
 linkedin: https://www.linkedin.com/company/narrativaai/
 website: narrativa.com 
@@ -27,7 +27,7 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
 
 <EventSummary
     description="En este taller Manuel Romero nos mostrará todos las herramientas que Hugging Face provee para colaborar a la democratización de la IA: Tokenizers, Datasets, Model Hub y Spaces. Además, nos enseñará cómo aprovechar todas esas herramientas para crear nuestro modelo (y base de datos) desde cero y ponerlo en producción."
-    poster="https://somosnlp.github.io/assets/images/evento_manu.png"
+    poster="/images/evento_manu.png"
     video="https://www.youtube.com/embed/_TbNgSodiPY"
     name="Manuel Romero"
     website="https://hf.co/mrm8488"
@@ -42,11 +42,11 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 
 <div class="flex justify-center">
     <img alt="Narrativa" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/Narrativa.png" />
+    src="/images/patrocinios/Narrativa.png" />
 </div>

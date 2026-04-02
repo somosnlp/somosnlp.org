@@ -3,7 +3,7 @@ title: "Empatía y Emociones en IA: Dónde estamos y a dónde vamos"
 date: 2023-03-26T18:00:00.000+01:00
 time:
 duration: 30 mins
-cover: https://somosnlp.github.io/assets/images/eventos/240325_amanda_curry.jpg
+cover: /images/eventos/240325_amanda_curry.jpg
 author: Amanda Cercas Curry
 twitter: https://twitter.com/CurriedAmanda
 linkedin: https://www.linkedin.com/in/amanda-cercas-curry/
@@ -14,7 +14,7 @@ bio: Amanda es una investigadora postdoctoral en MilaNLP en la Universidad Bocco
 
 <EventSummary
     description="En esta charla, donde convergen la tecnología, la filosofía, y la psicología, hablaremos sobre las emociones, por qué son importantes para nosotros, cómo las está abordando la inteligencia artificial y qué problemas pueden surgir, tanto éticos como técnicos."
-    poster="https://somosnlp.github.io/assets/images/eventos/240319_amanda_curry.jpg"
+    poster="/images/eventos/240319_amanda_curry.jpg"
     video="https://www.youtube.com/embed/cBDzM0CAwpw"
     tema=12
     nivel=2

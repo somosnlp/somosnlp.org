@@ -1,7 +1,7 @@
 ---
 title: Sara A. Pedraz
 description: Innovation Lead @GSK | Doctorando @INSTIFEM Universidad Complutense 
-cover: https://somosnlp.github.io/assets/images/comunidad/sara_a_pedraz.jpeg
+cover: /images/comunidad/sara_a_pedraz.jpeg
 twitter: https://twitter.com/@PedrazSara_
 linkedin: https://www.linkedin.com/in/sarapedraz
 website: 
@@ -15,7 +15,7 @@ community:
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    poster="/images/eventos/230309_mesa_redonda_8m.jpg"
     video="https://www.youtube.com/embed/5fOiLWXQ78c"
     name=""
     website=""

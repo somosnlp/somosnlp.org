@@ -3,7 +3,7 @@ title: "Ética Ambiental en IA: Construyendo Narrativas Sostenibles en Español"
 date: 2023-03-13T18:30:00.000+00:00
 time:
 duration: 30 mins
-cover: https://somosnlp.github.io/assets/images/eventos/240313_jorge_vallego.jpg
+cover: /images/eventos/240313_jorge_vallego.jpg
 author: Jorge Vallego
 twitter: 
 linkedin: https://linkedin.com/in/jorge-vallego-391838a6
@@ -14,7 +14,7 @@ bio: "Investigador en el campo de la Inteligencia Artificial (IA) y la ecolingü
 
 <EventSummary
     description="Este ponencia se centra en la intersección crítica entre la ética ambiental y el avance de la IA, con un enfoque particular en cómo podemos construir y promover narrativas sostenibles dentro del ámbito lingüístico español. A través de esta charla, exploraremos cómo los principios de la ecolingüística pueden integrarse en el desarrollo y aplicación de la IA para fomentar prácticas que no sólo respeten, sino que también promuevan la armonía con nuestro entorno. Discutiremos el proyecto H4rmony, una iniciativa sin fines de lucro, que busca alinear las capacidades de la IA con los valores ecológicos. Demostraremos, con ejemplos de modelos antes y después del H4rmony fine-tuning, el cambio hacia una narrativa más consciente del impacto ambiental."
-    poster="https://somosnlp.github.io/assets/images/eventos/240313_jorge_vallego.jpg"
+    poster="/images/eventos/240313_jorge_vallego.jpg"
     video="https://www.youtube.com/embed/MJLdrXz6bSE"
     tema=7
     nivel=2

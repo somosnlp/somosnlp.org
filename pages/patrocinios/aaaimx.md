@@ -1,8 +1,8 @@
 ---
 title: Capítulo Estudiantil AAAIMX
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/AAAIMX_dark.png
+cover: /images/patrocinios/AAAIMX.png
+cover_dark: /images/patrocinios/AAAIMX_dark.png
 twitter: https://www.facebook.com/aaaimx/
 linkedin: https://www.linkedin.com/company/aaaimx
 website: https://www.aaaimx.org/
@@ -18,5 +18,5 @@ El Capítulo Estudiantil AAAIMX es un grupo conformado por estudiantes, profesor
 
 <div class="flex justify-center">
     <img alt="Capítulo Estudiantil AAAIMX" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/AAAIMX.png" />
+    src="/images/patrocinios/AAAIMX.png" />
 </div>

@@ -2,14 +2,14 @@
 title: "Hackathon #Somos600M: How to participate"
 description: Everything you need to know to present a good project at the hackathon
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 Each participating team will generate a corpus of instructions, train their LLM, and create a demo to share their great work with the community. This year the focus is on projects that represent the richness of Spanish and the diversity of Spanish-speaking people. As always, we encourage projects to have a social impact and be related to one of the UN's Sustainable Development Goals. Thank you for participating! ✨
 
 <div class="flex justify-center">
 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
-    <img src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg"
+    <img src="/images/eventos/240301_hackathon.jpg"
         width="650" height="365" alt="Hackathon 2024 Poster" />
 </a>
 </div>

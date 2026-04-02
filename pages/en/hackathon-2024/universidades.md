@@ -2,7 +2,7 @@
 title: "Hackathon #Somos600M: Info for Universities"
 description: Encourage your students to participate and learn with our hackathon!
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 Hey professor! 👋
@@ -42,12 +42,12 @@ By giving visibility to the hackathon and presenting at least 1 team of students
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="University of Puerto Rico" url="https://upr.edu"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
+logo="/images/patrocinios/UPR.png"
+logo_dark="/images/patrocinios/UPR.png" />
 
 <SponsorInfo sponsor="National University of Loja" url="https://unl.edu.ec"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" />
+logo="/images/patrocinios/UNL_square.png"
+logo_dark="/images/patrocinios/UNL_square.png" />
 
 </div>
 

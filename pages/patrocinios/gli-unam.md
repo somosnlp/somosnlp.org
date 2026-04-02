@@ -1,7 +1,7 @@
 ---
 title: Grupo de Ingeniería Lingüística
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg
+cover: /images/patrocinios/GIL_UNAM.jpeg
 twitter: https://twitter.com/GIL_UNAM
 linkedin:
 website: https://www.facebook.com/ingenieriaLinguistica
@@ -17,5 +17,5 @@ Somos un grupo de investigación de la UNAM especializado en el Procesamiento de
 
 <div class="flex justify-center">
     <img alt="GIL_UNAM" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/GIL_UNAM.jpeg" />
+    src="/images/patrocinios/GIL_UNAM.jpeg" />
 </div>

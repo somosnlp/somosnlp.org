@@ -2,12 +2,12 @@
 title: Bases del Hackathon
 description: Todo lo que necesitas saber para presentar un buen proyecto al hackathon
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
+cover: /images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 ---
 
 <div class="flex justify-center">
 <a href="https://hackathon_somos_nlp_2023.eventbrite.com/?aff=w" target="_blank">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
+    <img src="/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
         width="650" height="365" alt="Cartel del Hackathon 2023" />
 </a>
 </div>

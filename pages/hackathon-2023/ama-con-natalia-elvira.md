@@ -3,7 +3,7 @@ title: Ask Me Anything
 date: 2023-03-23T18:00:00.000+00:00
 lang: es
 duration: 1h
-cover: "https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg"
+cover: "/images/eventos/230323_ama_con_natalia_elvira.jpg"
 author: Natalia Elvira Astoreca
 website: 
 twitter: https://twitter.com/natalakiou
@@ -14,7 +14,7 @@ bio: Tras terminar su doctorado en lingüística griega, Natalia descubrió Pyth
 
 <EventSummary
     description="Puedo resolver todas las preguntas que te surjan sobre el etiquetado de datos y la organización de proyectos de anotación."
-    poster="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg"
+    poster="/images/eventos/230323_ama_con_natalia_elvira.jpg"
     video="https://www.youtube.com/embed/A0ORiFldWLQ"
     name=""
     website=""

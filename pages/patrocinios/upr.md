@@ -1,7 +1,7 @@
 ---
 title: Universidad de Puerto Rico (UPR)
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/UPR.png
+cover: /images/patrocinios/UPR.png
 twitter: 
 linkedin:
 website: 
@@ -15,7 +15,7 @@ years: 2024
 
 <div class="flex justify-center">
     <img alt="UPR" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
+    src="/images/patrocinios/UPR.png" />
 </div>
 
 <!-- TODO -->

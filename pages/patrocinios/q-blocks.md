@@ -1,8 +1,8 @@
 ---
 title: Q Blocks
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/QBlocks_dark.png
+cover: /images/patrocinios/QBlocks.png
+cover_dark: /images/patrocinios/QBlocks_dark.png
 twitter: https://twitter.com/blocks_q
 linkedin: https://www.linkedin.com/company/q-blocks/
 website: https://qblocks.cloud/
@@ -35,5 +35,5 @@ Disponemos de instancias de GPU Nvidia de última generación en configuraciones
 
 <div class="flex justify-center">
     <img alt="" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/" />
+    src="/images/patrocinios/" />
 </div>

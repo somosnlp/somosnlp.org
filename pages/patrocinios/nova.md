@@ -1,8 +1,8 @@
 ---
 title: Nova
 description: Red global de talento
-cover: https://somosnlp.github.io/assets/images/patrocinios/Nova.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/Nova_dark.png
+cover: /images/patrocinios/Nova.png
+cover_dark: /images/patrocinios/Nova_dark.png
 twitter: https://twitter.com/NovaTalent_
 linkedin: https://www.linkedin.com/company/nova/
 website: https://www.novatalent.com/
@@ -30,5 +30,5 @@ en la actualidad en mejorar su tecnología y establecerse en nuevos mercados.
 
 <div class="flex justify-center">
     <img alt="" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/nova.png" />
+    src="/images/patrocinios/nova.png" />
 </div>

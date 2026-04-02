@@ -4,7 +4,7 @@ description: Únete a este nuevo curso gratuito online de LLMs
 date: 2025-03-01T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://github.com/somosnlp/assets/raw/main/images/blog/mooc_upm_llms.png"
+cover: "/images/blog/mooc_upm_llms.png"
 author: Javier Conde
 bio: Profesor Ayudante Doctor @Universidad Politécnica de Madrid
 ---

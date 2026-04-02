@@ -2,7 +2,7 @@
 title: Introducción a la IA generativa a través de los LLMs
 description: Nuevo curso gratuito de LLMs
 lang: es
-cover: "https://github.com/somosnlp/assets/raw/main/images/blog/mooc_upm_llms.png"
+cover: "/images/blog/mooc_upm_llms.png"
 ---
 
 

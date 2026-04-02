@@ -19,7 +19,7 @@ Después de una primera edición en la que contamos con más de 500 participante
 
 ¡Únete a la segunda edición del mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
 
-![Cartel del Hackathon 2023](https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg)
+![Cartel del Hackathon 2023](/images/eventos/230320_hackathon_llms_fecha_extendida.jpg)
 
 La democratización del PLN en español es el objetivo principal de SomosNLP y creemos que una de las mejores maneras de avanzar hacia este objetivo es creando más recursos abiertos de PLN en nuestro idioma.
 
@@ -93,15 +93,15 @@ Desde el equipo de SomosNLP queremos animarte a participar independientemente de
 
 - Durante los primeros días del hackathon daremos una serie de **talleres prácticos** mostrándote cómo hacer fine-tuning de un LLM y cómo etiquetar tu base de datos para que tengas un ejemplo de referencia.
 
-![Fine-tuning LLMs](https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg)
-![Etiquetado de datos con Argilla](https://somosnlp.github.io/assets/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg)
+![Fine-tuning LLMs](/images/eventos/230320_fine_tuning_llms.jpg)
+![Etiquetado de datos con Argilla](/images/eventos/230321_etiquetado_de_datos_con_argilla.jpg)
 
 - Organizaremos **AMAs** (del inglés, Ask Me Anything) con expertas y mentores para que puedan solucionar tus dudas.
 
-![AMA con Omar Sanseviero](https://somosnlp.github.io/assets/images/eventos/230322_ama_con_omar_sanseviero.jpg)
-![AMA con Natalia Elvira](https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg)
-![AMA con Manuel Romero](https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg)
-![AMA con Alejandro Vaca](https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg)
+![AMA con Omar Sanseviero](/images/eventos/230322_ama_con_omar_sanseviero.jpg)
+![AMA con Natalia Elvira](/images/eventos/230323_ama_con_natalia_elvira.jpg)
+![AMA con Manuel Romero](/images/eventos/230327_ama_con_manuel_romero.jpg)
+![AMA con Alejandro Vaca](/images/eventos/230330_ama_con_alejandro_vaca.jpg)
 
 ---
 

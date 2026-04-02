@@ -4,7 +4,7 @@ description: Somos la red internacional de hispanohablantes democratizando el NL
 date: 2021-07-01T16:00:00.000+00:00
 lang: es
 duration: 1min
-cover: https://somosnlp.github.io/assets/logo.svg
+cover: /logo.svg
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -14,7 +14,7 @@ github: https://github.com/mariagrandury
 ---
 
 <div class="flex justify-center">
-    <img alt="SomosNLP logo" src="https://somosnlp.github.io/assets/logo.svg" />
+    <img alt="SomosNLP logo" src="/logo.svg" />
 </div>
 
 SomosNLP es la comunidad de estudiantes, profesionales e investigadores hispanohablantes democratizando el PLN en nuestro idioma. Nuestro objetivo es crear y compartir recursos que posibiliten y aceleren el avance del PLN en español.

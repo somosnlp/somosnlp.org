@@ -2,7 +2,7 @@
 title: "Hackathon #Somos600M: Call for Talks"
 description: ¡Share your knowledge with the community!
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 A priori all the talks will be given in Spanish. Anyway, we will be happy to hear from you if you are doing research on romance languages and would like to share your experience with the community.

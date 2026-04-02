@@ -1,7 +1,7 @@
 ---
 title: Manuel Romero
 description: CSO @MAISA AI
-cover: https://somosnlp.github.io/assets/images/comunidad/manuel_romero.jpg
+cover: /images/comunidad/manuel_romero.jpg
 website: https://hf.co/mrm8488
 twitter: https://twitter.com/mrm8488
 linkedin: https://www.linkedin.com/in/manuel-romero-cs
@@ -17,7 +17,7 @@ community: AA
 
 <EventSummary
     description="En este taller comentamos cómo es posible ajustar (hacer fine-tuning) a LLMs con una configuración de hardware humilde gracias a las últimas técnicas de PEFT como QLoRA y librerías de optimización."
-    poster="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg"
+    poster="/images/eventos/240311_manu_romero.jpg"
     video="https://www.youtube.com/embed/hPq5NG8kA8w"
     slides="https://drive.google.com/open?id=1KSTcLzOJvGp3b5cxMk5b14QbiV_rUGdZ"
     notebook=""
@@ -38,7 +38,7 @@ community: AA
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230327_ama_con_manuel_romero.jpg"
+    poster="/images/eventos/230327_ama_con_manuel_romero.jpg"
     video="https://www.youtube.com/embed/ADYPxZlUZDY"
     name=""
     website=""
@@ -52,7 +52,7 @@ community: AA
 
 <EventSummary
     description="En este taller Manuel Romero nos mostrará todos las herramientas que Hugging Face provee para colaborar a la democratización de la IA: Tokenizers, Datasets, Model Hub y Spaces. Además, nos enseñará cómo aprovechar todas esas herramientas para crear nuestro modelo (y base de datos) desde cero y ponerlo en producción."
-    poster="https://somosnlp.github.io/assets/images/evento_manu.png"
+    poster="/images/evento_manu.png"
     video="https://www.youtube.com/embed/_TbNgSodiPY"
     name="Manuel Romero"
     website="https://hf.co/mrm8488"
@@ -67,7 +67,7 @@ community: AA
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

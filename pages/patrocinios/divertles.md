@@ -1,8 +1,8 @@
 ---
 title: DiverTLes
 description: Diversidad de Tecnologías del Lenguaje en España
-cover: https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png
+cover: /images/patrocinios/DiverTLes.png
+cover_dark: /images/patrocinios/DiverTLes_dark.png
 twitter: https://twitter.com/divertlespln
 linkedin:
 website: https://divertles.ujaen.es/
@@ -23,7 +23,7 @@ DiverTLes es una comunidad de mujeres que trabajan e investigan en Tecnologías 
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    poster="/images/eventos/230309_mesa_redonda_8m.jpg"
     video="https://www.youtube.com/embed/5fOiLWXQ78c"
     name=""
     website=""
@@ -40,5 +40,5 @@ DiverTLes es una comunidad de mujeres que trabajan e investigan en Tecnologías 
 
 <div class="flex justify-center">
     <img alt="DiverTLes" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png" />
+    src="/images/patrocinios/DiverTLes.png" />
 </div>

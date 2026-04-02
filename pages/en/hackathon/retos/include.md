@@ -2,7 +2,7 @@
 title: "Challenge #HackathonSomosNLP 2025: INCLUDE Exams"
 description: How to participate in this challenge and help improve the cultural knowledge of language models
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Look for multiple-choice exams from your country to evaluate LLMs' knowledge. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g., history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.

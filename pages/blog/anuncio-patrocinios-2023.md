@@ -4,7 +4,7 @@ description: ¡Muchísimas gracias por vuestro apoyo!
 date: 2023-03-16T18:00:00.000+00:00
 lang: es
 duration: 4min
-cover: https://somosnlp.github.io/assets/images/eventos/230320_hackathon_llms_fecha_extendida.jpg
+cover: /images/eventos/230320_hackathon_llms_fecha_extendida.jpg
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -35,7 +35,7 @@ Disponemos de instancias de GPU Nvidia de última generación en configuraciones
 ⚙️ ¡Patrocinan GPU VMs 24GB para todos los equipos del hackathon!
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/QBlocks.png" alt="Q Blocks" width="250" height="250"/>
+    <img src="/images/patrocinios/QBlocks.png" alt="Q Blocks" width="250" height="250"/>
 </div>
 
 ## Argilla
@@ -51,7 +51,7 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
 🚀 Co-organización del reto colaborativo de limpieza y validación de la traducción de Alpaca
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" alt="Argilla" width="250" height="250"/>
+    <img src="/images/patrocinios/Argilla.svg" alt="Argilla" width="250" height="250"/>
 </div>
 
 ---
@@ -71,7 +71,7 @@ AgilMentor es un equipo de mentores y mentoras que proporcionan herramientas par
 Para captar la atención de AgilMentor, te animamos a crear un buen canvas de modelo de negocio. [Lucas, co-fundador de AgilMentor, nos explica cómo](https://www.youtube.com/watch?v=oQnu5aE4_8M&list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546&t=1647s) 💡
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" alt="AgilMentor" width="250" height="250"/>
+    <img src="/images/patrocinios/AgilMentor.png" alt="AgilMentor" width="250" height="250"/>
 </div>
 
 ---
@@ -87,7 +87,7 @@ Para captar la atención de AgilMentor, te animamos a crear un buen canvas de mo
 ⚙️ Además, durante el hackathon todos los Spaces de los equipos participantes tendrán acceso a una **Nvidia T4** para poder crear demos increíbles y poder mostrar sus datasets y modelos desarrollados.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" alt="Hugging Face" width="250" height="250"/>
+    <img src="/images/patrocinios/HuggingFace.svg" alt="Hugging Face" width="250" height="250"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ para las personas que durante el transcurso del hackathon demuestren ser más pr
 Además, la persona que consiga una mayor puntuación en el proceso de selección de Nova tendrá la oportunidad de participar en un **curso de Personal Branding**, impartido por el Co-Fundador y CEO de Nova Ramón Rodrigáñez, durante el que desarrollará conocimientos clave para encontrar nuevas oportunidades profesionales, triunfar dentro de tu empresa y causar buena impresión al buscar inversores.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/patrocinios/Nova.png" alt="Nova" width="560" height="315"/>
+    <img src="/images/patrocinios/Nova.png" alt="Nova" width="560" height="315"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ Además, la persona que consiga una mayor puntuación en el proceso de selecció
 🎟️ Todas las personas que entreguen un proyecto completo al hackathon tendrán un **20% de descuento** en los tickets de la WomenTech Network Global Conference 2023 #WTGC2023. Además, al participar en el hackathon tendrás la oportunidad de participar en el **sorteo de 3 tickets** (cada uno por un valor de 137,95€).
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/WTGC.png" alt="WomenTech Global Conference banner" width="560" height="315"/>
+    <img src="/images/blog/WTGC.png" alt="WomenTech Global Conference banner" width="560" height="315"/>
 </div>
 
 ---

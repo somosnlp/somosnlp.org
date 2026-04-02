@@ -3,7 +3,7 @@ title: ¿Cómo anotar corpus lingüísticos para entrenar LLMs?
 date: 2024-03-20T18:00:00.000+00:00
 time: 11h ARG · 15h CET
 duration: 30 mins
-cover: https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg
+cover: /images/eventos/240320_marta_guerrero.jpg
 author: Marta Guerrero Nieto
 twitter: https://www.twitter.com/marta_mgn
 linkedin: https://www.linkedin.com/in/marta-guerrero-nieto-b69176b3/
@@ -14,7 +14,7 @@ bio: Marta Guerrero Nieto es directora técnica en Business and Language Analyti
 
 <EventSummary
     description="En esta charla, Marta Guerrero compartirá su experiencia y conocimientos sobre cómo anotar corpus lingüísticos para entrenar LLMs, utilizando como ejemplo los corpus donados por el IIC para la futura primera leaderboard de LLMs en español."
-    poster="https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg"
+    poster="/images/eventos/240320_marta_guerrero.jpg"
     video="https://www.youtube.com/embed/d6vrflcIY-g"
     slides=""
     notebook=""

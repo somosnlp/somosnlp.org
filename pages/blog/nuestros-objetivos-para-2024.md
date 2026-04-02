@@ -4,7 +4,7 @@ description: Conseguir que la IA comprenda a 600M de personas hispanohablantes
 date: 2023-12-30T16:00:00.000+00:00
 lang: es
 duration: 2min
-cover: "https://github.com/somosnlp/assets/raw/main/images/ilustraciones/undraw_gifts_re_97j6.svg"
+cover: "/images/ilustraciones/undraw_gifts_re_97j6.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com

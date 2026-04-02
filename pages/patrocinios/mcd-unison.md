@@ -1,7 +1,7 @@
 ---
 title: MCD UNISON
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png
+cover: /images/patrocinios/MCDUnisonMX.png
 twitter: https://twitter.com/McdUnison
 linkedin: https://www.linkedin.com/company/64708901/admin/
 website: https://mcd.unison.mx
@@ -17,5 +17,5 @@ Maestría en Ciencia de Datos del Departamento de Matemáticas de la Universidad
 
 <div class="flex justify-center">
     <img alt="MCDunisonMX" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/MCDunisonMX.png" />
+    src="/images/patrocinios/MCDunisonMX.png" />
 </div>

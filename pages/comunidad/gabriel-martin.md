@@ -1,7 +1,7 @@
 ---
 title: Gabriel Martín
 description: Ingeniero de ML @Argilla
-cover: https://somosnlp.github.io/assets/images/comunidad/gabriel_martin.png
+cover: /images/comunidad/gabriel_martin.png
 website: 
 twitter: https://twitter.com/gabrielmbmb_
 linkedin: https://www.linkedin.com/in/gabrielmbmb/
@@ -16,7 +16,7 @@ community: Ponente
 
 <EventSummary
     description="En esta charla hablaré sobre Notus, una LLM entrenada por Argilla a finales de año de 2023 que obtuvo muy buenos resultados en los benchmarks a través de la mejora de los datos de entrenamiento. Además, mostraré como crear un dataset similar al utilizado en el fine-tune de Notus utilizando Argilla y distilabel, dos herramientas que nos permiten anotar y crear datos de entrenamiento de manera sencilla."
-    poster="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg"
+    poster="/images/eventos/240311_gabriel_martin_blazquez.jpg"
     video="https://www.youtube.com/embed/riM3pgV4m_I"
 />
 

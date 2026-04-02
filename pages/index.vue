@@ -28,7 +28,7 @@ const showPastEvents = ref(true);
         <h1 class="font-medium tracking-tighter text-3xl">{{ t('landing-page.heading') }}</h1>
       </div>
       <img class="mx-auto my-8" alt="SomosNLP logo" width="320" length="320"
-        src="https://somosnlp.github.io/assets/logo.svg" />
+        src="/logo.svg" />
       <p text="lg">{{ t('landing-page.heading-2') }}</p>
       <div class="mt-10 grid gap-4 lg:grid-cols-2">
         <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">
@@ -50,7 +50,7 @@ const showPastEvents = ref(true);
   }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Próximos eventos"
-        src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg" />
+        src="/images/eventos/240301_hackathon.jpg" />
       <p class="my-8">{{ t('landing-page.events.event-description') }}</p>
       <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/hackathon">
         {{ t('landing-page.events.join-event') }}
@@ -65,14 +65,14 @@ const showPastEvents = ref(true);
   }}</span>
       </h1>
       <img class="mx-auto my-8" alt="Próximos eventos"
-        src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg" />
+        src="/images/eventos/250401_hackathon_sinfecha.jpg" />
       <p>El objetivo de este hackathon es crear recursos que nos permitan evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica.</p>
       <a target="_blank" class="button-accent max-w-100 mx-auto my-8" href="https://somosnlp.org/hackathon">
         {{ t('landing-page.join-now') }}
       </a>
 
       <!-- <img class="mx-auto my-8" alt="Próximos eventos"
-        src="https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg" /> -->
+        src="/images/eventos/240301_somos600m.jpg" /> -->
       <p>Este hackathon es la continuación del Proyecto #Somos600M que lanzamos en 2024 con el objetivo de representar en los modelos de lenguaje la riqueza de nuestras lenguas. Tenemos varias iniciativas:</p>
       <div class="my-8 grid gap-y-8 gap-x-6 grid-cols-[auto,1fr] items-center">
         <!-- i-fluent-rocket-24-regular -->
@@ -208,7 +208,7 @@ const showPastEvents = ref(true);
           </p>
         </a>
       </div>
-      <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg"
+      <img src="/images/ilustraciones/undraw_Traveling_re_weve.svg"
         alt="Comunidad internacional" />
     </div>
   </Container>
@@ -224,56 +224,56 @@ const showPastEvents = ref(true);
         <!-- HACKATHON 2024 -->
         <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
           <img alt="Charla de Elena González-Blanco" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
+            src="/images/eventos/240307_elena_gonzalez_blanco.png" />
         </a>
         <a href="/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
           <img alt="Charla de Gabriel Martín" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
+            src="/images/eventos/240311_gabriel_martin_blazquez.jpg" />
         </a>
         <a href="/hackathon-2024/empatia_y_emociones_en_ia" target="_blank">
           <img alt="Charla de Amanda Curry" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/240326_amanda_curry.jpg" />
+            src="/images/eventos/240326_amanda_curry.jpg" />
         </a>
 
         <!-- HACKATHON 2023 -->
         <a href="/hackathon-2023/fine-tuning-llms" target="_blank">
           <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
+            src="/images/eventos/230320_fine_tuning_llms.jpg" />
         </a>
         <a href="/hackathon-2023/deteccion-del-lenguaje-ofensivo" target="_blank">
           <img alt="Detección del lenguaje ofensivo" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
+            src="/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
         </a>
         <a href="/hackathon-2023/evaluacion-con-desacuerdo" target="_blank">
           <img alt="Evaluación con desacuerdo" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
+            src="/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
         </a>
 
         <!-- EQUIPOS HACKATHON 2022 -->
         <a href="https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">
           <img alt="Evento 01" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/221208_modelo_juridico_mexicano.jpg" />
+            src="/images/eventos/221208_modelo_juridico_mexicano.jpg" />
         </a>
         <a href="https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M" target="_blank">
           <img alt="Evento 02" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/221213_neutralizacion_de_genero.jpg" />
+            src="/images/eventos/221213_neutralizacion_de_genero.jpg" />
         </a>
         <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
-          <img alt="Evento 03" width="650" height="365" src="https://somosnlp.github.io/assets/images/evento_iic.png" />
+          <img alt="Evento 03" width="650" height="365" src="/images/evento_iic.png" />
         </a>
 
         <!-- HACKATHON 2022 -->
         <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 04" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_cristina.png" />
+            src="/images/evento_cristina.png" />
         </a>
         <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 05" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
+            src="/images/evento_paulo.png" />
         </a>
         <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 06" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+            src="/images/evento_ximena.png" />
         </a>
       </div>
       <router-link to="/eventos" class="button-accent max-w-100 mx-auto">
@@ -287,7 +287,7 @@ const showPastEvents = ref(true);
       <h2 class="font-medium text-center mb-6 tracking-wider text-4xl">{{ t('landing-page.contribute.heading') }}</h2>
       <p class="mx-auto text-lg text-center max-w-65ch opacity-75">{{ t('landing-page.contribute.text') }}</p>
       <div class="grid gap-16 place-items-center lg:grid-cols-2 my-8">
-        <img class="p-8" src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_content_team_3epn.svg"
+        <img class="p-8" src="/images/ilustraciones/undraw_content_team_3epn.svg"
           alt="Proyectos open-source" />
         <div class="grid gap-6 justify-center md:grid-cols-2">
           <a href="https://discord.com/invite/my8w7JUxZR" target="_blank"

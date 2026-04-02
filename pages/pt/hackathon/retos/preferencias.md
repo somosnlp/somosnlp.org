@@ -2,7 +2,7 @@
 title: "Desafio #HackathonSomosNLP 2025: Preferências"
 description: Como participar neste desafio e ajudar a alinhar modelos de linguagem com sua cultura
 lang: pt
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Projete prompts que avaliem a adequação cultural com seu país e escolha a melhor resposta em uma LLM Arena. Os prompts e as respostas serão coletados e compartilhados com todas as equipes participantes como dataset de preferências v0 para a fase de alinhamento. Para este desafio, você terá acesso a uma LLM Arena com 5 modelos grandes ou proprietários.
@@ -79,10 +79,10 @@ O principal objetivo do hackathon, e em particular deste desafio, é melhorar a 
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/1.png" alt="Adequação Cultural 1" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/2.png" alt="Adequação Cultural 2" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/3.png" alt="Adequação Cultural 3" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/4.png" alt="Adequação Cultural 4" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/1.png" alt="Adequação Cultural 1" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/2.png" alt="Adequação Cultural 2" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/3.png" alt="Adequação Cultural 3" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/4.png" alt="Adequação Cultural 4" style="width: 100%;">
 </div>
 
 <details>
@@ -97,11 +97,11 @@ O principal objetivo do hackathon, e em particular deste desafio, é melhorar a 
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/5.png" alt="Adequação Cultural 5" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/6.png" alt="Adequação Cultural 6" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/7.png" alt="Adequação Cultural 7" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/8.png" alt="Adequação Cultural 8" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/9.png" alt="Adequação Cultural 9" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/5.png" alt="Adequação Cultural 5" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/6.png" alt="Adequação Cultural 6" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/7.png" alt="Adequação Cultural 7" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/8.png" alt="Adequação Cultural 8" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/9.png" alt="Adequação Cultural 9" style="width: 100%;">
 </div>
 
 
@@ -151,9 +151,9 @@ Diferentes propósitos comunicativos
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/10.png" alt="Adequação Cultural 10" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/11.png" alt="Adequação Cultural 11" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/12.png" alt="Adequação Cultural 12" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/10.png" alt="Adequação Cultural 10" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/11.png" alt="Adequação Cultural 11" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/12.png" alt="Adequação Cultural 12" style="width: 100%;">
 </div>
 
 <details>
@@ -164,12 +164,12 @@ Diferentes propósitos comunicativos
 </details>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/13.png" alt="Adequação Cultural 13" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/14.png" alt="Adequação Cultural 14" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/15.png" alt="Adequação Cultural 15" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/16.png" alt="Adequação Cultural 16" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/17.png" alt="Adequação Cultural 17" style="width: 100%;">
-    <img src="https://somosnlp.github.io/assets/images/infografias/adecuacion_cultural/pt/18.png" alt="Adequação Cultural 18" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/13.png" alt="Adequação Cultural 13" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/14.png" alt="Adequação Cultural 14" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/15.png" alt="Adequação Cultural 15" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/16.png" alt="Adequação Cultural 16" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/17.png" alt="Adequação Cultural 17" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/pt/18.png" alt="Adequação Cultural 18" style="width: 100%;">
 </div>
 
 

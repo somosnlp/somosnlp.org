@@ -1,7 +1,7 @@
 ---
 title: Next Generation Internet Group (GING)
 description: Grupo de investigación del Telematics Engineering Department (DIT) de la Universidad Politécnica de Madrid (UPM)
-cover: https://somosnlp.github.io/assets/images/patrocinios/GING_UPM.png
+cover: /images/patrocinios/GING_UPM.png
 cover_dark:
 twitter: 
 linkedin:
@@ -16,7 +16,7 @@ years: 2025, 2024
 
 <div class="flex justify-center">
     <img alt="Nombre" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/GING_UPM.png" />
+    src="/images/patrocinios/GING_UPM.png" />
 </div>
 
 *Última actualización: 14 de mayo de 2024*

@@ -1,7 +1,7 @@
 ---
 title: Omar Espejel
 description: ML Developer Advocate @HuggingFace  
-cover: https://somosnlp.github.io/assets/images/comunidad/omar_espejel.jpg
+cover: /images/comunidad/omar_espejel.jpg
 website: 
 twitter: https://twitter.com/espejelomar
 linkedin: https://www.linkedin.com/in/omar-espejel
@@ -20,6 +20,6 @@ community: Colaboración
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">
-        <img src="https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png" width="650" height="365" alt="Cartel del hackathon" />
+        <img src="/images/hackathon_pln_es_3.png" width="650" height="365" alt="Cartel del hackathon" />
     </a>
 </div>

@@ -1,8 +1,8 @@
 ---
 title: AgilMentor
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/AgilMentor_dark.png
+cover: /images/patrocinios/AgilMentor.png
+cover_dark: /images/patrocinios/AgilMentor_dark.png
 twitter: 
 linkedin: https://www.linkedin.com/company/agilmentor/
 website: https://agilmentor.com
@@ -22,7 +22,7 @@ Somos una incubadora de startups que busca potenciar emprendedores hispanohablan
 
 <EventSummary
     description="En la charla abordaremos cual es el camino que recorre un proyecto en estadio idea hasta convertirse en una startup con alcance global. En este camino veremos específicamente cómo financiarse para crecer y qué puntos son relevantes para un inversor. No te pierdas los consejos que vamos a darte!"
-    poster="https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg"
+    poster="/images/eventos/230329_de_la_idea_a_la_startup.jpg"
     video="https://www.youtube.com/embed/oQnu5aE4_8M"
     name=""
     website=""
@@ -35,5 +35,5 @@ Somos una incubadora de startups que busca potenciar emprendedores hispanohablan
 
 <div class="flex justify-center">
     <img alt="AgilMentor" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/AgilMentor.png" />
+    src="/images/patrocinios/AgilMentor.png" />
 </div>

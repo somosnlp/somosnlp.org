@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2025: Info para universidades"
 description: ¡Anima a tu alumnado a participar y aprender con nuestro hackathon!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 ¡Hola profe! 👋
@@ -46,25 +46,25 @@ Al dar visibilidad al hackathon y presentar al menos 1 equipo de estudiantes al 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Universidad de Puerto Rico" url="https://upr.edu"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" />
+logo="/images/patrocinios/UPR.png"
+logo_dark="/images/patrocinios/UPR.png" />
 
 <SponsorInfo sponsor="Universidad Nacional de Loja" url="https://unl.edu.ec"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" />
+logo="/images/patrocinios/UNL_square.png"
+logo_dark="/images/patrocinios/UNL_square.png" />
 
 </div>
 
 
 <SponsorInfo sponsor="UNED Research Group in NLP & IR" url="https://sites.google.com/view/nlp-uned/home"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png" />
+logo="/images/patrocinios/UNEDNLP.png"
+logo_dark="/images/patrocinios/UNEDNLP.png" />
 
 <SponsorInfo sponsor="UNAM" url="https://www.unam.mx/"
-logo="https://somosnlp.github.io/assets/images/logo_UNAM.png"
-logo_dark="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png" />
+logo="/images/logo_UNAM.png"
+logo_dark="/images/logo_UNAM_dark.png" />
 
 <SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
-logo="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MCDUnisonMX.png" />
+logo="/images/patrocinios/MCDUnisonMX.png"
+logo_dark="/images/patrocinios/MCDUnisonMX.png" />
 -->

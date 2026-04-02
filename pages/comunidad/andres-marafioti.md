@@ -1,7 +1,7 @@
 ---
 title: Andrés Marafioti
 description: Investigador @Hugging Face
-cover: https://somosnlp.github.io/assets/images/comunidad/andres_marafioti.jpg
+cover: /images/comunidad/andres_marafioti.jpg
 website: ''
 twitter: https://x.com/andimarafioti
 linkedin: https://www.linkedin.com/in/andresmarafioti/
@@ -21,7 +21,7 @@ community: Ponente 2025
 Los Modelos Visión-Lenguaje (VLMs) combinan el poder del entendimiento visual y textual, permitiendo que las máquinas interpreten y razonen sobre el mundo de forma multimodal. En esta charla, exploraremos cómo funcionan los VLMs, desmitificaremos la mecánica detrás de sus capacidades visuales y discutiremos por qué es importante hacerlos eficientes. En el camino, presentaré SmolVLM, nuestro modelo VLM compacto de última generación, y compartiré ideas sobre cómo lo optimizamos para funcionar directamente en dispositivos sin comprometer el rendimiento.
 
 Tanto si eres nuevo en la inteligencia artificial multimodal como si ya eres un experto, te llevarás una comprensión más profunda de cómo ven las máquinas —y de cómo pueden hacerlo de forma más inteligente."
-    poster="https://somosnlp.github.io/assets/logo_somosnlp.png"
+    poster="/logo_somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />
 

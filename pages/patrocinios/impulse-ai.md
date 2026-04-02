@@ -1,8 +1,8 @@
 ---
 title: ImpulseAI (ex LATAM AI)
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI_dark.png
+cover: /images/patrocinios/ImpulseAI.png
+cover_dark: /images/patrocinios/ImpulseAI_dark.png
 twitter: 
 linkedin:
 website: 
@@ -16,7 +16,7 @@ years: 2024
 
 <div class="flex justify-center">
     <img alt="ImpulseAI" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png" />
+    src="/images/patrocinios/ImpulseAI.png" />
 </div>
 
 <!-- TODO -->

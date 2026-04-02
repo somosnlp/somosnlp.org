@@ -19,7 +19,7 @@ useHead({
     { name: 'twitter:creator', content: '@somosnlp_' },
     { name: 'twitter:title', content: 'SomosNLP - Democratizando el NLP en español' },
     { name: 'twitter:description', content: 'Comunidad internacional de hispanohablantes que estudian, trabajan e investigan en el campo del PLN, ¡únete!' },
-    { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+    { name: 'twitter:image', content: '/logo.png' },
     { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
   ],
 })

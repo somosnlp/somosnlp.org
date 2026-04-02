@@ -1,8 +1,8 @@
 ---
 title: Platzi
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/platzi.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/platzi_dark.png
+cover: /images/patrocinios/platzi.png
+cover_dark: /images/patrocinios/platzi_dark.png
 twitter: 
 linkedin:
 website: 
@@ -16,7 +16,7 @@ years: 2023, 2022
 
 <div class="flex justify-center">
     <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/platzi_llm.png" alt="Platzi LLM" width="560" height="315" />
+        <img src="/images/blog/platzi_llm.png" alt="Platzi LLM" width="560" height="315" />
     </a>
 </div>
 
@@ -28,7 +28,7 @@ years: 2023, 2022
 
 <EventSummary
     description="En esta keynote se explorará el impacto de los Modelos de Lenguaje de Aprendizaje Profundo (LLM) en la sociedad, así como su alcance y las implicaciones éticas y económicas de su adopción. Se analizarán las oportunidades y desafíos que plantea esta tecnología en rápida evolución y se propondrán pautas para una adopción responsable y equitativa."
-    poster="https://somosnlp.github.io/assets/images/eventos/230328_impacto_de_los_llms.jpg"
+    poster="/images/eventos/230328_impacto_de_los_llms.jpg"
     video="https://www.youtube.com/embed/AeEc9dhAqM8"
     name=""
     website=""
@@ -43,5 +43,5 @@ years: 2023, 2022
 
 <div class="flex justify-center">
     <img alt="platzi" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/platzi.png" />
+    src="/images/patrocinios/platzi.png" />
 </div>

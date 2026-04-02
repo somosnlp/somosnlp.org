@@ -1,7 +1,7 @@
 ---
 title: Marta Guerrero Nieto
 description: Directora técnica en Business and Language Analytics @Instituto de Ingeniería del Conocimiento
-cover: https://somosnlp.github.io/assets/images/comunidad/marta_guerrero.png
+cover: /images/comunidad/marta_guerrero.png
 website: 
 twitter: https://www.twitter.com/marta_mgn
 linkedin: https://www.linkedin.com/in/marta-guerrero-nieto-b69176b3/
@@ -16,7 +16,7 @@ community: Ponente
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/240320_marta_guerrero.jpg"
+    poster="/images/eventos/240320_marta_guerrero.jpg"
     video="https://www.youtube.com/embed/d6vrflcIY-g"
 />
 

@@ -1,7 +1,7 @@
 ---
 title: Omdena Mexico
 description:
-cover: https://somosnlp.github.io/assets/images/logo_omdena_mexico_perfil.png
+cover: /images/logo_omdena_mexico_perfil.png
 twitter: 
 linkedin: 
 website: https://omdena.com/
@@ -31,5 +31,5 @@ years: 2023
 
 <div class="flex justify-center">
     <img alt="Omdena Mexico" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/logo_omdena_mexico_perfil.png" />
+    src="/images/logo_omdena_mexico_perfil.png" />
 </div>

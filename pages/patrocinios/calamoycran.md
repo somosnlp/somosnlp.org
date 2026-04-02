@@ -1,8 +1,8 @@
 ---
 title: CÁLAMO&CRAN
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark.png
+cover: /images/patrocinios/Calamo&Cran.png
+cover_dark: /images/patrocinios/Calamo&Cran_dark.png
 twitter: 
 linkedin:
 website: 
@@ -18,7 +18,7 @@ Centro de formación de profesionales del lenguaje, la edición y la comunicaci�
 
 <div class="flex justify-center">
     <img alt="Cálamo&Cran" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran.png" />
+    src="/images/patrocinios/Calamo&Cran.png" />
 </div>
 
 <!-- TODO -->

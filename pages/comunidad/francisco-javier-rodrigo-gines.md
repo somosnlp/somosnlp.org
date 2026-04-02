@@ -1,7 +1,7 @@
 ---
 title: Francisco-Javier Rodrigo-Ginés
 description: Investigador predoctoral @UNED | Consultor data science @T-Systems
-cover: https://somosnlp.github.io/assets/images/comunidad/fran_rodrigo.jpg
+cover: /images/comunidad/fran_rodrigo.jpg
 website: https://franrodrigo.es/
 twitter: 
 linkedin: https://www.linkedin.com/in/fran-rodrigo/
@@ -22,7 +22,7 @@ community: Ponente
 - Mitigación de sesgos en datasets: Se debatirá sobre la necesidad de desarrollar conjuntos de datos apropiados, poniendo especial énfasis en los recursos lingüísticos en español. Técnicas como el 'counterfactual data augmentation' serán presentadas como métodos para disminuir los sesgos presentes en estos corpus, un aspecto fundamental en la investigación de NLP.
 
 - Aplicaciones en la detección de sesgo mediático mediante NLP: Serán expuestos los enfoques y modelos de NLP utilizados en la identificación de sesgos en los medios, con particular atención a metodologías como la clasificación de texto en cascada para corpus jerárquicos. Se compartirán igualmente los hallazgos obtenidos y las direcciones futuras para mejorar la detección de sesgos en el contenido mediático."
-    poster="https://somosnlp.github.io/assets/images/eventos/240313_francisco_javier_rodrigo.jpg"
+    poster="/images/eventos/240313_francisco_javier_rodrigo.jpg"
     video="https://www.youtube.com/embed/awgrg0luNvM"
 />
 

@@ -2,7 +2,7 @@
 title: "Presentación proyectos #HackathonSomosNLP 2025: Demo, vídeo y paper"
 description: Cómo presentar el proyecto que hayas creado durante el hackathon.
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 ¡Enhorabuena por llegar hasta aquí, ya solo queda presentar al mundo tu gran proyecto!

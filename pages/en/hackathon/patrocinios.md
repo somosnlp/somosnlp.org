@@ -2,14 +2,14 @@
 title: "Hackathon SomosNLP 2025: Sponsorships"
 description: Thank you for helping us democratize NLP!
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Thank you very much for your interest in supporting us to organize and give visibility to this wonderful event! In each of the three previous editions, **we had more than 500 registrations from 30 different countries each time and surpassed 5,000 views of our events**. This year our objective is to generate data that will allow us to develop inclusive language models, adapted to the diverse cultures of LATAM and the Iberian Peninsula.
 
 <div class="flex justify-center">
     <figure>
-        <img src="https://somosnlp.github.io/assets/images/eventos/240301_mapa_ciudades_zoom.png" alt="Hackathon 2024 Map" width="400">
+        <img src="/images/eventos/240301_mapa_ciudades_zoom.png" alt="Hackathon 2024 Map" width="400">
         <figcaption>Hackathon 2024 Map</figcaption>
     </figure>
 </div>

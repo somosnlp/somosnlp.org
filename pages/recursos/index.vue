@@ -12,7 +12,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'SomosNLP - Recursos open-source de PLN en español' },
         { name: 'twitter:description', content: '¡Fórmate con el equipo de SomosNLP!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+        { name: 'twitter:image', content: '/logo.png' },
         { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
     ]
 })
@@ -27,7 +27,7 @@ useHead({
 
         <hr class="mx-auto mt-8 mb-12 prose" />
         <div class="my-8 flex justify-center">
-            <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_education_edited.svg" alt="Recursos"
+            <img src="/images/ilustraciones/undraw_education_edited.svg" alt="Recursos"
                 width="200" height="230" />
         </div>  
         <ResourcesList />

@@ -3,7 +3,7 @@ title: "Detección automática de sesgo en medios de comunicación: enfoques y s
 date: 2024-03-13T17:30:00.000+01:00
 time:
 duration: 30 mins
-cover: https://somosnlp.github.io/assets/images/eventos/240313_francisco_javier_rodrigo.jpg
+cover: /images/eventos/240313_francisco_javier_rodrigo.jpg
 author: Francisco-Javier Rodrigo-Ginés
 twitter: 
 linkedin: https://www.linkedin.com/in/fran-rodrigo/
@@ -14,7 +14,7 @@ bio: Fran Rodrigo, ingeniero informático por la Universidad de Jaén, actualmen
 
 <EventSummary
     description="Este evento se centra en la detección y el tratamiento del sesgo mediático desde la óptica de la investigación en NLP, estructurándose en tres secciones principales: definición y contextos del sesgo mediático, mitigación de sesgos en datasets, y aplicaciones en la detección de sesgo mediático mediante NLP."
-    poster="https://somosnlp.github.io/assets/images/eventos/240313_francisco_javier_rodrigo.jpg"
+    poster="/images/eventos/240313_francisco_javier_rodrigo.jpg"
     video="https://www.youtube.com/embed/awgrg0luNvM"
     tema=6
     nivel=3

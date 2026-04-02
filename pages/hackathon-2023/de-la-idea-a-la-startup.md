@@ -3,7 +3,7 @@ title: De la idea a la startup
 date: 2023-03-29T18:00:00.000+00:00
 lang: es
 duration: 45min
-cover: "https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg"
+cover: "/images/eventos/230329_de_la_idea_a_la_startup.jpg"
 author: Lucas Fernández
 bio: 
 website: https://agilmentor.com/
@@ -14,7 +14,7 @@ github:
 
 <EventSummary
     description="En la charla abordaremos cual es el camino que recorre un proyecto en estadio idea hasta convertirse en una startup con alcance global. En este camino veremos específicamente cómo financiarse para crecer y qué puntos son relevantes para un inversor. No te pierdas los consejos que vamos a darte!"
-    poster="https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg"
+    poster="/images/eventos/230329_de_la_idea_a_la_startup.jpg"
     video="https://www.youtube.com/embed/oQnu5aE4_8M"
     name=""
     website=""

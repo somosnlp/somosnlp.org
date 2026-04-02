@@ -2,7 +2,7 @@
 title: "Desafio #HackathonSomosNLP 2025: Exames INCLUDE"
 description: Como participar neste desafio e ajudar a melhorar o conhecimento cultural dos modelos de linguagem
 lang: pt
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Procure exames de múltipla escolha do seu país para avaliar o conhecimento dos LLMs. Priorize exames em idiomas diferentes do espanhol e/ou focados em temas culturais (por exemplo, história, literatura). Usaremos essas perguntas e respostas para estender o benchmark aberto INCLUDE.

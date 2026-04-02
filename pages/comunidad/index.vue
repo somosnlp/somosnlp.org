@@ -11,7 +11,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Comunidad SomosNLP' },
         { name: 'twitter:description', content: 'Únete a nuestra comunidad internacional de personas apasionadas por el PLN' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+        { name: 'twitter:image', content: '/logo.png' },
         { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
     ]
 })
@@ -29,7 +29,7 @@ useHead({
 
         <div class="flex justify-center">
             <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
-                <img src="https://somosnlp.github.io/assets/images/blog/ya_somos_2000.gif" alt="¡Ya Somos 2000!"
+                <img src="/images/blog/ya_somos_2000.gif" alt="¡Ya Somos 2000!"
                     width="500" height="289.71" />
             </a>
         </div>

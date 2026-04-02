@@ -15,7 +15,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Bolsa de Empleo PLN - SomosNLP' },
         { name: 'twitter:description', content: 'Ofertas de empleo e investigación en el ámbito del PLN.' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/logo.png' },
+        { name: 'twitter:image', content: '/logo.png' },
         { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
     ]
 })

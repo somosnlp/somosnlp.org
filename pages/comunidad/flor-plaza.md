@@ -1,7 +1,7 @@
 ---
 title: Flor Plaza, PhD
 description: Postdoc @MilaNLP Bocconi University
-cover: https://somosnlp.github.io/assets/images/comunidad/flor_plaza.jpg
+cover: /images/comunidad/flor_plaza.jpg
 twitter: https://twitter.com/florplaza22
 linkedin: https://linkedin.com/in/flor-miriam-plaza-del-arco-395770b9
 website: https://fmplaza.github.io/
@@ -15,7 +15,7 @@ community: AB
 
 <EventSummary
     description="En esta charla se hablará sobre una de las tareas con más impacto social en el área del PLN: la detección del lenguaje ofensivo. Principales avances y desafíos actuales."
-    poster="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
+    poster="/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
     video="https://www.youtube.com/embed/GZbWS5cHZDs"
     name=""
     website=""
@@ -29,7 +29,7 @@ community: AB
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    poster="/images/eventos/230309_mesa_redonda_8m.jpg"
     video="https://www.youtube.com/embed/5fOiLWXQ78c"
     name=""
     website=""
@@ -45,7 +45,7 @@ community: AB
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg"
+    poster="/images/eventos/230308_video_8m.jpg"
     video="https://www.youtube.com/embed/ZLd85RiLViQ"
     name=""
     website=""

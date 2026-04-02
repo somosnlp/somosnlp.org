@@ -1,7 +1,7 @@
 ---
 title: María Grandury
 description: Fundadora @SomosNLP | Investigadora @Universidad Politécnica de Madrid
-cover: https://somosnlp.github.io/assets/images/comunidad/maria_grandury.png
+cover: /images/comunidad/maria_grandury.png
 website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
@@ -15,7 +15,7 @@ community: 0. Asociación
 
 <EventSummary
     description="Hablaremos de la importancia de la diversidad lingüística en IA y cómo cada persona puede apoyar la iniciativa #Somos600M en el desarrollo de LLMs inclusivos, que representen la diversidad de los 600 millones de personas hispanohablantes."
-    poster="https://somosnlp.github.io/assets/images/eventos/240313_maria_grandury.jpg"
+    poster="/images/eventos/240313_maria_grandury.jpg"
     video="https://www.youtube.com/embed/QCNPVy3QWFs"
 />
 
@@ -23,7 +23,7 @@ community: 0. Asociación
 
 <EventSummary
     description="Descubriremos diversas técnicas y herramientas open-source integradas en el ecosistema de Hugging Face que podéis utilizar para evaluar y mitigar sesgos tanto en datasets como en modelos de PLN. También hay un mini paréntesis sobre la evaluación de la huella de carbono del entrenamiento de modelos."
-    poster="https://somosnlp.github.io/assets/images/eventos/230328_evaluacion_de_sesgos.jpg"
+    poster="/images/eventos/230328_evaluacion_de_sesgos.jpg"
     video="https://www.youtube.com/embed/Ng2Yb7qrfY4"
 />
 
@@ -31,7 +31,7 @@ community: 0. Asociación
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cristina Vila Carreira
 description: Asesora empresarial independiente
-cover: https://somosnlp.github.io/assets/images/comunidad/cristina_vila.jpeg
+cover: /images/comunidad/cristina_vila.jpeg
 website: 
 twitter: 
 linkedin: https://www.linkedin.com/in/cristinavila-futuro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
@@ -16,7 +16,7 @@ community: Ponente
 
 <EventSummary
     description="Contaremos metodologías de diseño de futuros que podáis aplicar para traer al presente casos de uso de futuro de las tecnologías relacionadas con el NLP."
-    poster="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg"
+    poster="/images/eventos/240319_cristina_vila.jpg"
     video="https://www.youtube.com/embed/3StMUo_bqic"
 />
 

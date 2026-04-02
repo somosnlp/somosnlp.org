@@ -30,9 +30,9 @@ import yaml
 EVENT_NAME = "Hackathon SomosNLP"
 EVENT_YEAR = "2025"
 EVENT_DIR = "hackathon"
-DEFAULT_POSTER = "https://somosnlp.github.io/assets/logo_somosnlp.png"
+DEFAULT_POSTER = "/logo_somosnlp.png"
 DEFAULT_YOUTUBE = "https://www.youtube.com/@SomosNLP"
-COMMUNITY_PHOTOS_BASE_URL = "https://somosnlp.github.io/assets/images/comunidad"
+COMMUNITY_PHOTOS_BASE_URL = "/images/comunidad"
 FILE_PATH = "ponencias.csv"
 
 
@@ -161,7 +161,7 @@ def format_photo_url(url, is_speaker=False, speaker_name=None):
     Returns:
         str: Direct photo URL:
             - Community photo URL if it's a speaker
-            - Original URL if it's from somosnlp.github.io
+            - Local path if it's a local asset URL
             - Default logo for other cases
     """
     if not url or pd.isna(url):
@@ -171,8 +171,8 @@ def format_photo_url(url, is_speaker=False, speaker_name=None):
             else DEFAULT_POSTER
         )
 
-    # Use original URL if it's from somosnlp.github.io
-    if "somosnlp.github.io" in url:
+    # Use local path for assets that start with /
+    if url.startswith("/"):
         return url
 
     # For speakers, always use their community photo

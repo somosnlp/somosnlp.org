@@ -1,7 +1,7 @@
 ---
 title: Sociedad Española de Procesamiento de Lenguaje Natural (SEPLN)
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png
+cover: /images/patrocinios/SEPLN.png
 twitter: 
 linkedin:
 website: 
@@ -17,7 +17,7 @@ La Sociedad Española de Procesamiento de Lenguaje Natural (SEPLN) es una socied
 
 <div class="flex justify-center">
     <img alt="SEPLN" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
+    src="/images/patrocinios/SEPLN.png" />
 </div>
 
 <!-- TODO -->

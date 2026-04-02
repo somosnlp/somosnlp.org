@@ -1,8 +1,8 @@
 ---
 title: Barcelona Supercomputing Center (BSC)
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/BSC.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/BSC_dark.png
+cover: /images/patrocinios/BSC.png
+cover_dark: /images/patrocinios/BSC_dark.png
 twitter: https://x.com/BSC_CNS 
 linkedin: https://www.linkedin.com/company/barcelona-supercomputing-center
 website: https://www.bsc.es
@@ -18,7 +18,7 @@ El Barcelona Supercomputing Center-Centro Nacional de Supercomputación (BSC-CNS
 
 <div class="flex justify-center">
     <img alt="Nombre" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/BSC.png" />
+    src="/images/patrocinios/BSC.png" />
 </div>
 
 *Última actualización: 14 de mayo de 2024*

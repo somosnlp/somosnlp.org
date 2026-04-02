@@ -1,8 +1,8 @@
 ---
 title: Instituto de Ingeniería del Conocimiento
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/iic.bmp
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp
+cover: /images/patrocinios/iic.bmp
+cover_dark: /images/patrocinios/iic_dark.bmp
 twitter: https://twitter.com/IIConocimiento
 linkedin: https://www.linkedin.com/company/instituto-de-ingenieria-del-conocimiento-iic
 website: https://www.iic.uam.es 
@@ -22,7 +22,7 @@ years: 2025, 2024, 2023
 
 <EventSummary
     description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
-    poster="https://somosnlp.github.io/assets/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg"
+    poster="/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg"
     video="https://www.youtube.com/embed/Ujn379UCHBg"
     name=""
     website=""
@@ -45,13 +45,13 @@ years: 2025, 2024, 2023
 
 <EventSummary
     description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."
-    poster="https://somosnlp.github.io/assets/images/evento_iic.png"
+    poster="/images/evento_iic.png"
     video="https://www.youtube.com/embed/3OhArr1R2Lw"
 />
 
 <div class="flex justify-center">
     <img alt="IIC" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp" />
+    src="/images/patrocinios/iic.bmp" />
 </div>
 
 *Última actualización: 14 de mayo de 2024*

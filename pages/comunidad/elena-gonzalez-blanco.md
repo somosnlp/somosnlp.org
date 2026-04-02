@@ -1,7 +1,7 @@
 ---
 title: Elena González-Blanco, PhD
 description: Head of AI for EMEA Digital Natives @Microsoft
-cover: https://somosnlp.github.io/assets/images/comunidad/elena_gonzalez_blanco.jpeg
+cover: /images/comunidad/elena_gonzalez_blanco.jpeg
 website: 
 twitter: https://twitter.com/elenagbg
 linkedin: https://www.linkedin.com/in/elenagbg
@@ -16,7 +16,7 @@ community: Ponente
 
 <EventSummary
     description="En esta primera charla de especialistas, descubriremos de la mano de Elena los actuales retos y oportunidades de la Inteligencia Artificial y los Modelos del Lenguaje."
-    poster="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png"
+    poster="/images/eventos/240307_elena_gonzalez_blanco.png"
     video="https://www.youtube.com/embed/JzpvHRrqtSU"
 />
 

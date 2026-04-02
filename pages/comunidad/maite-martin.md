@@ -1,7 +1,7 @@
 ---
 title: Maite Martín, PhD
 description: Catedrática @UJaen | @Grupo SINAI | Coordinadora @DiverTLes
-cover: https://somosnlp.github.io/assets/images/comunidad/maite_martin.png
+cover: /images/comunidad/maite_martin.png
 twitter: https://twitter.com/maite_martin
 linkedin: https://linkedin.com/in/maite-mart%C3%ADn-valdivia-3177b524
 website: http://blogs.ujaen.es/maite/
@@ -16,7 +16,7 @@ community: Ponente
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    poster="/images/eventos/230309_mesa_redonda_8m.jpg"
     video="https://www.youtube.com/embed/5fOiLWXQ78c"
     name=""
     website=""
@@ -33,7 +33,7 @@ community: Ponente
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315" />
+        <img src="/images/jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315" />
     </a>
 </div>
 

@@ -9,27 +9,27 @@ const organizers: Organizer[] = [
   {
     name: 'María Grandury',
     university: 'Universidad Politécnica de Madrid',
-    profileImage: 'https://somosnlp.github.io/assets/images/comunidad/maria_grandury.png'
+    profileImage: '/images/comunidad/maria_grandury.png'
   },
   {
     name: 'Selene Báez',
     university: 'University of Zurich',
-    profileImage: 'https://somosnlp.github.io/assets/images/comunidad/selene_baez.jpg'
+    profileImage: '/images/comunidad/selene_baez.jpg'
   },
   {
     name: 'Diana Galván',
     university: 'University of Cambridge',
-    profileImage: 'https://somosnlp.github.io/assets/images/comunidad/diana_galvan.png'
+    profileImage: '/images/comunidad/diana_galvan.png'
   },
   {
     name: 'Helena Gómez',
     university: 'Universidad Nacional Autónoma de México',
-    profileImage: 'https://somosnlp.github.io/assets/images/comunidad/helena_gomez_adorno.jpg'
+    profileImage: '/images/comunidad/helena_gomez_adorno.jpg'
   },
   {
     name: 'Danae Sánchez',
     university: 'University of Copenhagen',
-    profileImage: 'https://somosnlp.github.io/assets/images/comunidad/danae_sanchez.jpeg'
+    profileImage: '/images/comunidad/danae_sanchez.jpeg'
   }
 ]
 </script>

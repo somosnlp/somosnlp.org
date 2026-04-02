@@ -4,7 +4,7 @@ description: Presentamos este interesante proyecto de Omdena México
 date: 2022-11-17T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: https://somosnlp.github.io/assets/images/logo_omdena_mexico_portada.png
+cover: /images/logo_omdena_mexico_portada.png
 author: Mario Rodriguez
 bio: Mexico Chapter Lead & Partnerships Manager at Omdena
 linkedin: https://www.linkedin.com/in/emmanuel-rotm/
@@ -22,7 +22,7 @@ El objetivo principal de los [Capítulos Locales de Omdena](https://omdena.com/l
 Como ejemplo, se puede navegar a través de algunos de nuestros más de 350 proyectos completados a través de: https://omdena.com/projects/ o https://omdena.com/local-chapters/
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/logo_omdena_mexico_portada.png" alt="Omdena México" width="560" height="315"/>
+    <img src="/images/logo_omdena_mexico_portada.png" alt="Omdena México" width="560" height="315"/>
 </div>
 
 
@@ -47,7 +47,7 @@ El equipo que está trabajando en este interesante proyecto está formado por
 No te pierdas el evento, [¡regístrate ya!](https://somosnlp_omdenamx_news_veracity_validator.eventbrite.com/)
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/eventos/221129_news_veracity_validator_en.png" alt="Cartel Evento News Veracity Validator" width="560" height="315"/>
+    <img src="/images/eventos/221129_news_veracity_validator_en.png" alt="Cartel Evento News Veracity Validator" width="560" height="315"/>
 </div>
 
 *Nota: Excepcionalmente, este taller se impartirá en inglés.*

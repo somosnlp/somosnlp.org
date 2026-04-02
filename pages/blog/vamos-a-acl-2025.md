@@ -4,7 +4,7 @@ description: ¡Nos vemos en ACL 2025!
 date: 2025-08-11T18:00:00.000+00:00
 lang: es
 duration: 6mins
-cover: https://somosnlp.github.io/assets/images/eventos/250728_bof_es.png
+cover: /images/eventos/250728_bof_es.png
 author: María Grandury
 bio: Fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -13,7 +13,7 @@ linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
 ---
 
-![ACL 2025](https://somosnlp.github.io/assets/images/eventos/250727_acl_banner.png)
+![ACL 2025](/images/eventos/250727_acl_banner.png)
 
 ## 🔥 ¡Vamos a disfrutar de la conferencia juntos!
 

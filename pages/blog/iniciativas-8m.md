@@ -1,7 +1,7 @@
 ---
 title: Iniciativas 8M
 description: Únete y apoya nuestras iniciativas del día de la mujer
-cover: https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg
+cover: /images/eventos/230308_video_8m.jpg
 date: 2023-02-28T09:00:00.000+00:00
 lang: es
 duration: 2min
@@ -23,7 +23,7 @@ Con motivo del 8M queremos dar visibilidad a mujeres trabajando e investigando e
     <a href="https://www.youtube.com/watch?v=5fOiLWXQ78c&list=PLTA-KAy8nxaCIWrABV_JOJbriszTKIRXC"
         target="_blank">
         <img alt="Mesa Redonda 8M" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg" />
+            src="/images/eventos/230309_mesa_redonda_8m.jpg" />
     </a>
 </div>
 
@@ -54,7 +54,7 @@ Tú también puedes ser protagonista este 8M. Te animamos a grabar un **vídeo d
     <a href="https://www.youtube.com/watch?v=ZLd85RiLViQ&list=PLTA-KAy8nxaCIWrABV_JOJbriszTKIRXC"
         target="_blank">
         <img alt="Mesa Redonda 8M" width="650" height="365"
-            src="https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg" />
+            src="/images/eventos/230308_video_8m.jpg" />
     </a>
 </div>
 
@@ -69,7 +69,7 @@ Tú también puedes ser protagonista este 8M. Te animamos a grabar un **vídeo d
 <ProfileItemProps
     name="María Grandury"
     title="ML Research Engineer @neurocat.AI | Fundadora @SomosNLP_"
-    cover="https://somosnlp.github.io/assets/images/comunidad/maria_grandury.jpg"
+    cover="/images/comunidad/maria_grandury.jpg"
     website="https://mariagrandury.com"
     twitter="https://twitter.com/mariagrandury"
     linkedin="https://www.linkedin.com/in/mariagrandury"
@@ -79,7 +79,7 @@ Tú también puedes ser protagonista este 8M. Te animamos a grabar un **vídeo d
 <ProfileItemProps
     name="Flor Plaza"
     title="Postdoctoral Research Fellow @MilaNLP"
-    cover="https://somosnlp.github.io/assets/images/comunidad/flor_plaza.jpg"
+    cover="/images/comunidad/flor_plaza.jpg"
     website="https://fmplaza.github.io/"
     twitter="https://twitter.com/florplaza22"
     linkedin="https://linkedin.com/in/flor-miriam-plaza-del-arco-395770b9"

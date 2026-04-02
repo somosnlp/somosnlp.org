@@ -1,7 +1,7 @@
 ---
 title: Saturdays AI
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png
+cover: /images/patrocinios/SaturdaysAI.png
 twitter: https://twitter.com/AISaturdays_ES
 linkedin: https://www.linkedin.com/school/saturdaysai/
 website: https://saturdays.ai/
@@ -24,5 +24,5 @@ Nuestra misión es hacer la IA accesible a cualquier persona, realizando proyect
 
 <div class="flex justify-center">
     <img alt="Saturdays AI" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+    src="/images/patrocinios/SaturdaysAI.png" />
 </div>

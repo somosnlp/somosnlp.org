@@ -1,7 +1,7 @@
 ---
 title: Estrella Vallecillo
 description: Investigadora @NLP_SINAI (Universidad de Jaén)
-cover: https://somosnlp.github.io/assets/images/comunidad/estrella_vallecillo.jpg
+cover: /images/comunidad/estrella_vallecillo.jpg
 website: 
 twitter: https://twitter.com/EstrellaVR15
 linkedin: https://www.linkedin.com/in/estrella-vallecillo-rodr%C3%ADguez-b94752281/
@@ -16,7 +16,7 @@ community: Ponente
 
 <EventSummary
     description="En esta charla daremos a conocer la tarea de generación automática de contranarrativas, una nueva estrategia que ha surgido para combatir los mensajes de odio en redes sociales. Veremos qué métodos se están utilizando para abordar esta tarea y los retos a los que nos enfrentamos."
-    poster="https://somosnlp.github.io/assets/images/eventos/240313_estrella_vallecillo.jpg"
+    poster="/images/eventos/240313_estrella_vallecillo.jpg"
     video="https://www.youtube.com/embed/vHMGzh86gJU"
 />
 

@@ -4,7 +4,7 @@ description: El curso gratuito y open-source más completo de NLP en español
 date: 2021-07-07T16:00:00.000+00:00
 lang: es
 duration: 4min
-cover: "https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg"
+cover: "/images/nlp_de_cero_a_cien.jpeg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -20,7 +20,7 @@ Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP 
 ➡️ Puedes encontrar tanto las grabaciones de los talleres como las diapositivas y los notebooks [aquí](https://somosnlp.org/nlp-de-cero-a-cien).
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+    <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
 </div>
 
 
