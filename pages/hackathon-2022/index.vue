@@ -9,7 +9,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon SomosNLP 2022' },
         { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: '/images/hackathon_pln_es_3.png' },
+        { name: 'twitter:image', content: '/images/eventos/220314_hackathon_pln_es_3.png' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de SomosNLP' }
     ]
 })
@@ -47,7 +47,7 @@ useHead({
         <article class="m-auto prose">
             ¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
             <div class="flex justify-center">
-                <img src="/images/hackathon_pln_es_3.png" width="650"
+                <img src="/images/eventos/220314_hackathon_pln_es_3.png" width="650"
                     height="365" alt="Cartel del hackathon" />
             </div>
 
