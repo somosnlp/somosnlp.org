@@ -1,7 +1,7 @@
 ---
 title: Ivana Feldfeber
 description: Cofundadora y directora ejecutiva @DataGénero
-cover: https://somosnlp.github.io/assets/images/comunidad/ivana_feldfeber.jpg
+cover: /images/comunidad/ivana_feldfeber.jpg
 twitter: https://twitter.com/ivanafeld
 linkedin: https://www.linkedin.com/in/ivana-feldfeber/
 website: 
@@ -14,7 +14,7 @@ community: Ponente
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230328_aymurai.jpg"
+    poster="/images/eventos/230328_aymurai.jpg"
     video="https://www.youtube.com/embed/JwputbLp8AI"
     name="Ivana Feldfeber"
     website=""

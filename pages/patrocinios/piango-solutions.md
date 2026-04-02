@@ -1,8 +1,8 @@
 ---
 title: Piango Solutions
 description: Desarrollar software que empodere a empresas y emprendedores, eliminando barreras tecnológicas con soluciones accesibles, escalables y hechas a medida. 
-cover: https://somosnlp.github.io/assets/images/patrocinios/PiangoSolutions.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/PiangoSolutions_dark.png
+cover: /images/patrocinios/PiangoSolutions.png
+cover_dark: /images/patrocinios/PiangoSolutions_dark.png
 twitter: 
 linkedin: https://www.linkedin.com/company/piango-solutions/
 website: https://piangosolutions.github.io
@@ -23,7 +23,7 @@ Proyectos: Nuestros proyectos están dirigidos a la transformación social. Actu
 
 <div class="flex justify-center">
     <img alt="Piango Solutions" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/PiangoSolutions.png" />
+    src="/images/patrocinios/PiangoSolutions.png" />
 </div>
 
 *Última actualización: 16 de mayo de 2025*

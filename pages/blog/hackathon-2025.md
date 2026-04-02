@@ -4,7 +4,7 @@ description: Descubre los proyectos finales y las charlas impartidas
 date: 2025-07-31T18:00:00.000+00:00
 lang: es
 duration: 6min
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 author: María Grandury
 bio: Fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -16,13 +16,13 @@ huggingface: https://huggingface.co/mariagrandury
 Ha finalizado la cuarta edición del [hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia!
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg" alt="Cartel Hackathon 2025" width="560" height="315"/>
+    <img src="/images/eventos/250401_hackathon_sinfecha.jpg" alt="Cartel Hackathon 2025" width="560" height="315"/>
 </div>
 
 <!-- Es todo un placer haber organizado un evento que haya conseguido reunir una vez más a participantes de 30 países.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes 2025" width="560" height="315"/>
+    <img src="/images/asistentes_hackathon_mapa.png" alt="Mapa de participantes 2025" width="560" height="315"/>
 </div> TOOD actualizar mapa -->
 
 ## 🚀 Proyectos
@@ -41,7 +41,7 @@ Esperamos que os gusten y que surjan muchas aplicaciones utilizando estos nuevos
 
 <!-- <div class="flex justify-center">
 <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-    <img src="https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
+    <img src="/images/eventos/240411_presentaciones.jpg"
         width="650" height="365" alt="Proyectos del Hackathon 2025" />
 </a>
 </div> -->

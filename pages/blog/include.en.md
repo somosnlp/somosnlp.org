@@ -4,7 +4,7 @@ description: Help us create diverse benchmarks to ensure fair representation in 
 date: 2025-01-09T16:00:00.000+00:00
 lang: en
 duration: 1min
-cover: "https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png"
+cover: "/images/patrocinios/INCLUDE_post.png"
 author: Angelika Romanou
 bio: PhD Candidate at EPFL (École Polytechnique Fédérale de Lausanne)
 website: https://agromanou.github.io/
@@ -15,7 +15,7 @@ linkedin: https://www.linkedin.com/in/angelika-romanou-67067057/
 TL;DR: We are looking for multiple-choice tests in any language to add to the multicultural INCLUDE benchmark. Fill out the [form](https://forms.gle/9VbDMSHvhqSQbtL56) now!
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png" alt="INCLUDE" width="400">
+    <img src="/images/patrocinios/INCLUDE_post.png" alt="INCLUDE" width="400">
 </div>
 
 It is often said that large language models (LLMs) are developing increasingly advanced multilingual capabilities, but in which languages exactly? In the case of languages spoken in several countries, which varieties of the language are being considered? If we aim for LLMs to be multilingual and multicultural, we need to ensure that the entire global community is represented in the datasets. Change starts by creating diverse evaluation benchmarks that allow us to measure the current state and make progress toward truly inclusive LLMs.

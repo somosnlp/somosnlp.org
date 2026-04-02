@@ -1,8 +1,8 @@
 ---
 title: IBiDat
 description: 
-cover: https://somosnlp.github.io/assets/images/patrocinios/IBiDat.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/IBiDat_dark.png
+cover: /images/patrocinios/IBiDat.png
+cover_dark: /images/patrocinios/IBiDat_dark.png
 twitter: 
 linkedin:
 website: 
@@ -17,5 +17,5 @@ years: 2023, 2022
 
 <div class="flex justify-center">
     <img alt="IBiDat" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/IBiDat.png" />
+    src="/images/patrocinios/IBiDat.png" />
 </div>

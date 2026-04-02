@@ -1,7 +1,7 @@
 ---
 title: Karen Collantes
 description: 
-cover: https://somosnlp.github.io/assets/images/comunidad/karen_collantes.jpeg
+cover: /images/comunidad/karen_collantes.jpeg
 twitter: 
 linkedin: 
 website: 

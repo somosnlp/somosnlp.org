@@ -2,7 +2,7 @@
 title: "Challenge #HackathonSomosNLP 2025: Stereotypes Validator"
 description: How to participate in this challenge and help mitigate stereotypes in language models
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Share and evaluate stereotypes to help mitigate LLMs' biases.
@@ -39,28 +39,28 @@ The steps are as follows:
 
 - Select the interface language, that is, the language in which the page and general instructions will be displayed.
 <center>
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_1.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_1.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 - Mark the languages you understand (reading and writing). You can select several, keeping in mind that the activity data may appear in any of the languages you select.
 <center>
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_2.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_2.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 - Enter your email address.
 <center>
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_3.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_3.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 - Select one or more nationalities that represent your cultural, personal, or national identity. You can also optionally choose one or more specific regions or write them manually if they don't appear in the list.
 <center>
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_4.png" alt="Stereotypes 1" style="max-width: 50%;">
-    <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_5.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_4.png" alt="Stereotypes 1" style="max-width: 50%;">
+    <img src="/images/blog/retos_2025_estereotipos_5.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 - Finally, read the [informed consent](https://docs.google.com/document/d/17Feum83dTqjcicgJxuWdZ3qLuL3emmVY2idGym_usLU) about data usage of the EDIA tool and, if you agree, accept it to continue.
 <center>
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_6.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_6.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 ### 2. Using the Stereotypes Validator
@@ -77,23 +77,23 @@ In each round, a nationality and an attribute will be shown. Your task is to:
    - 5: Strongly agree.
 
    <center>
-    <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_7.png" alt="Stereotypes 1" style="max-width: 50%;">
+    <img src="/images/blog/retos_2025_estereotipos_7.png" alt="Stereotypes 1" style="max-width: 50%;">
     <center>        
-    <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_8.png" alt="Stereotypes 1" style="max-width: 50%;">
+    <img src="/images/blog/retos_2025_estereotipos_8.png" alt="Stereotypes 1" style="max-width: 50%;">
     </center>
    </center>
 
 2. (Optional) You can write another attribute that you relate to the given nationality. This attribute can be in any of the languages you selected at the beginning. You are encouraged to write in different languages if possible.
 
 <center>        
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_9.png" alt="Stereotypes 1" style="max-width: 50%;">
-<img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_10.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_9.png" alt="Stereotypes 1" style="max-width: 50%;">
+<img src="/images/blog/retos_2025_estereotipos_10.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 3. (Optional) You can also add other nationalities or regions that, in your opinion, are associated with the presented attribute.
 
 <center>
-  <img src="https://somosnlp.github.io/assets/images/blog/retos_2025_estereotipos_11.png" alt="Stereotypes 1" style="max-width: 50%;">
+  <img src="/images/blog/retos_2025_estereotipos_11.png" alt="Stereotypes 1" style="max-width: 50%;">
 </center>
 
 When you have completed the fields you consider necessary, click the *Submit* button to receive a new nationality-attribute pair, possibly in one of the languages you marked as known.

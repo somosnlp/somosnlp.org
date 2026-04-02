@@ -3,7 +3,7 @@ title: "Detección del lenguaje ofensivo en la era digital: Retos y avances"
 date: 2023-04-04T18:00:00.000+00:00
 lang: es
 duration: 30min
-cover: "https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
+cover: "/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
 author: Flor Plaza
 twitter: https://twitter.com/florplaza22
 linkedin: https://linkedin.com/in/flor-miriam-plaza-del-arco-395770b9
@@ -14,7 +14,7 @@ bio: Flor Miriam Plaza del Arco es investigadora postdoctoral en el grupo MilaNL
 
 <EventSummary
     description="En esta charla se hablará sobre una de las tareas con más impacto social en el área del PLN: la detección del lenguaje ofensivo. Principales avances y desafíos actuales."
-    poster="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
+    poster="/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg"
     video="https://www.youtube.com/embed/GZbWS5cHZDs"
     name=""
     website=""

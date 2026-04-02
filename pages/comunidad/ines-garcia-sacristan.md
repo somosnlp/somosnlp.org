@@ -1,7 +1,7 @@
 ---
 title: Inés García Sacristán 
 description: Software Developer @Software Themis  y The Reuse Company
-cover: https://somosnlp.github.io/assets/images/comunidad/ines_garcia_sacristan.png
+cover: /images/comunidad/ines_garcia_sacristan.png
 twitter: 
 linkedin: http://www.linkedin.com/in/igarciasacristan
 website: 
@@ -15,7 +15,7 @@ community: Ponente
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    poster="/images/eventos/230309_mesa_redonda_8m.jpg"
     video="https://www.youtube.com/embed/5fOiLWXQ78c"
     name=""
     website=""

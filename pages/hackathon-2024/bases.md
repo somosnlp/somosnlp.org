@@ -2,7 +2,7 @@
 title: "Bases del Hackathon #Somos600M"
 description: Todo lo que necesitas saber para presentar un buen proyecto al hackathon
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg
+cover: /images/eventos/240301_hackathon_ext.jpg
 ---
 
 El Hackathon #Somos600M ya ha finalizado, puedes revisar los [proyectos](/blog/proyectos-hackathon-2024.md) de los equipos participantes y las grabaciones de los [talleres y charlas](https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J) de especialistas.
@@ -17,7 +17,7 @@ Cada equipo participante generará un corpus de instrucciones, entrenará su LLM
 
 <div class="flex justify-center">
 <a href="https://hackathonsomosnlp2024.eventbrite.com/?aff=w" target="_blank">
-    <img src="https://somosnlp.github.io/assets/images/eventos/240301_hackathon_ext.jpg"
+    <img src="/images/eventos/240301_hackathon_ext.jpg"
         width="650" height="365" alt="Cartel del Hackathon 2024" />
 </a>
 </div>

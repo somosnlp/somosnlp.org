@@ -4,7 +4,7 @@ description: Cómo SomosNLP puede darle mayor visibilidad a vuestros proyectos
 date: 2024-01-13T16:00:00.000+00:00
 lang: es
 duration: 2min
-cover: "https://somosnlp.github.io/assets/images/ilustraciones/undraw_Traveling_re_weve.svg"
+cover: "/images/ilustraciones/undraw_Traveling_re_weve.svg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com

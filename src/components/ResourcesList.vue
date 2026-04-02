@@ -49,7 +49,7 @@ const routes_notebooks = filterRoutes(['/recursos/tutoriales']);
     </div>
 
     <div class="my-12 flex justify-center">
-        <img src="https://somosnlp.github.io/assets/images/ilustraciones/undraw_video_upload_3d4u.svg" alt="Tutoriales"
+        <img src="/images/ilustraciones/undraw_video_upload_3d4u.svg" alt="Tutoriales"
             width="300" height="365" />
     </div>
 

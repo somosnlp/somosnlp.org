@@ -1,7 +1,7 @@
 ---
 title: Noemi Rosby
 description: Ingeniera en ML @Centro Nacional de IA
-cover: https://somosnlp.github.io/assets/images/comunidad/noemi_rosby.jpg
+cover: /images/comunidad/noemi_rosby.jpg
 website: 
 twitter: 
 linkedin: 

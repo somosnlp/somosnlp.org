@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2025"
 description: Let's enable the creation of LLMs aligned with the culture of LATAM and the Iberian Peninsula.
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 There are 600M Spanish-speakers and 265M Portuguese-speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each with a rich culture. Although language models show increasingly better multilingual capabilities, are they really multicultural? Join now the #HackathonSomosNLP, the largest open-source NLP hackathon in Spanish and Portuguese! 🚀
@@ -27,7 +27,7 @@ Here are all the links, keep reading for more information.
 - 🔊 [Propose a talk (Spanish or Portuguese)](https://somosnlp.org/en/hackathon/ponencias)
 - 🧑‍🏫 [Offer mentoring (Spanish, Portuguese, English)](https://somosnlp.org/en/hackathon/ponencias)
 
-![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/250401_hackathon.gif)
+![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
 
 ## 🚀 How you can collaborate
 
@@ -97,16 +97,16 @@ Thank you very much for your time and for supporting us so that our initiative c
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
-logo="https://somosnlp.github.io/assets/logo_somosnlp_nobg.png"
-logo_dark="https://somosnlp.github.io/assets/logo_somosnlp_nobg.png" />
+logo="/logo_somosnlp_nobg.png"
+logo_dark="/logo_somosnlp_nobg.png" />
 
 <SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
-logo="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/CENIA.jpeg" />
+logo="/images/patrocinios/CENIA.jpeg"
+logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 <SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
+logo="/images/patrocinios/UPM.jpeg"
+logo_dark="/images/patrocinios/UPM.jpeg" />
 
 </div>
 
@@ -115,8 +115,8 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
 <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Cohere For AI" url=""
-logo="https://somosnlp.github.io/assets/images/patrocinios/cohere.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/cohere.svg" />
+logo="/images/patrocinios/cohere.svg"
+logo_dark="/images/patrocinios/cohere.svg" />
 
 </div>
 
@@ -125,8 +125,8 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/cohere.svg" />
 <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
-logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_title.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_title.svg" />
+logo="/images/patrocinios/HuggingFace_title.svg"
+logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 </div>
 
@@ -135,12 +135,12 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace_titl
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM_eunomia_dark.png" />
+logo="/images/patrocinios/UPM_eunomia.png"
+logo_dark="/images/patrocinios/UPM_eunomia_dark.png" />
 
 <SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MistralAI.png" />
+logo="/images/patrocinios/MistralAI.png"
+logo_dark="/images/patrocinios/MistralAI.png" />
 
 </div>
 

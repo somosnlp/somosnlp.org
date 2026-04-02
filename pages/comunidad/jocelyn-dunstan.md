@@ -1,7 +1,7 @@
 ---
 title: Jocelyn Dunstan, PhD
 description: Académica @Universidad Católica de Chile | Investigadora @IMFD
-cover: https://somosnlp.github.io/assets/images/comunidad/jocelyn_dunstan.jpg
+cover: /images/comunidad/jocelyn_dunstan.jpg
 twitter: https://twitter.com/jocelyndunstane 
 linkedin: https://www.linkedin.com/in/jocelyn-dunstan-bb92858b/
 website: 
@@ -14,7 +14,7 @@ community: Ponente
 
 <EventSummary
     description="La idea es explicar por qué es un dominio interesante y sus desafíos actuales. Al asistir a esta charla aprenderás sobre las tareas clásicas de NLP en medicina y los avances en NLP clínico en Chile."
-    poster="https://somosnlp.github.io/assets/images/eventos/230404_nlp_clinico.png"
+    poster="/images/eventos/230404_nlp_clinico.png"
     video="https://www.youtube.com/embed/GQbF1MypKIg"
     name=""
     website=""

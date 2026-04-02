@@ -2,7 +2,7 @@
 title: "Proyecto #Somos600M"
 description: "Objetivo: representar en los sistemas de IA la diversidad de las lenguas habladas por 600M de personas. ¡Únete!"
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 
@@ -15,9 +15,9 @@ A pesar de ser el 7.5% de la población mundial, no contamos ni con un corpus de
 
 ¿Lo mejor? Tenemos varias iniciativas para lograr estos objetivos y... ¡TODO EL MUNDO puede colaborar! 🎉
 
-![Cartel del Proyecto #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_somos600m.jpg)
+![Cartel del Proyecto #Somos600M](/images/eventos/240301_somos600m.jpg)
 
-<!-- ![GIF Hackathon #Somos600M](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.gif) -->
+<!-- ![GIF Hackathon #Somos600M](/images/eventos/240301_hackathon.gif) -->
 
 <!-- *([English version](https://somosnlp.org/en/hackathon))* -->
 
@@ -43,7 +43,7 @@ En la comunidad hispanohablante no contamos con LLMs propios adaptados para segu
 1. 🌎 Crear el mayor **corpus de instrucciones de calidad y diverso**, que incluya diversas tareas de PLN, represente las diferentes variedades del español y lenguas cooficiales y nos permita entrenar modelos nativos e inclusivos.
 2. ✅ Crear la primera **leaderboard abierta de LLMs generativos** que nos permita estandarizar cómo evaluar y comparar los diferentes modelos en español y lenguas cooficiales, ofreciendo resultados públicos e imparciales. 
 
-<!-- ![Cartel del Hackathon 2024](https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg) -->
+<!-- ![Cartel del Hackathon 2024](/images/eventos/240301_hackathon.jpg) -->
 
 <!-- 
 ---
@@ -224,14 +224,14 @@ Si estás trabajando en un proyecto similar o conoces más recursos avísanos :)
 Los equipos del Hackathon SomosNLP 2024 #Somos600M crearon 18 corpus de instrucciones:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; align-items: center;">
-    <img src="https://somosnlp.github.io/assets/images/eventos/240301_mapa_ciudades_zoom.png" alt="Mapa Hackathon" style="width: 100%; height: auto;">
-    <img src="https://somosnlp.github.io/assets/images/blog/instruction_datasets_v1.png" alt="Corpus instrucciones" style="width: 100%; height: auto;">
+    <img src="/images/eventos/240301_mapa_ciudades_zoom.png" alt="Mapa Hackathon" style="width: 100%; height: auto;">
+    <img src="/images/blog/instruction_datasets_v1.png" alt="Corpus instrucciones" style="width: 100%; height: auto;">
 </div>
 
 Gracias a las donaciones de 5 grupos de investigación, el 1 de julio lanzaremos la primera versión de la leaderboard:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; align-items: center;">
-    <img src="https://somosnlp.github.io/assets/images/blog/evaluation_datasets_v1.png" alt="Corpus evaluación" style="width: 100%; height: auto;">
+    <img src="/images/blog/evaluation_datasets_v1.png" alt="Corpus evaluación" style="width: 100%; height: auto;">
 </div>
 
 
@@ -252,12 +252,12 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
-logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
+logo="/images/patrocinios/HuggingFace.svg"
+logo_dark="/images/patrocinios/HuggingFace.svg" />
 
 <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/patrocinios/argilla"
-logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
+logo="/images/patrocinios/Argilla.svg"
+logo_dark="/images/patrocinios/Argilla.svg" />
 
 </div>
 
@@ -266,24 +266,24 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
-logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+logo="/images/patrocinios/iic.bmp"
+logo_dark="/images/patrocinios/iic_dark.bmp" />
 
 <SponsorInfo sponsor="LenguajeNaturalAI" url="http://somosnlp.org/patrocinios/lenguaje-natural-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+logo="/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
 <SponsorInfo sponsor="GING UPM" url="http://somosnlp.org/patrocinios/ging-upm"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPM.jpeg" />
+logo="/images/patrocinios/UPM.jpeg"
+logo_dark="/images/patrocinios/UPM.jpeg" />
 
 <SponsorInfo sponsor="HiTZ" url="http://somosnlp.org/patrocinios/hitz"
-logo="https://somosnlp.github.io/assets/images/patrocinios/HiTZ.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HiTZ.png" />
+logo="/images/patrocinios/HiTZ.png"
+logo_dark="/images/patrocinios/HiTZ.png" />
 
 <SponsorInfo sponsor="BSC" url="http://somosnlp.org/patrocinios/bsc"
-logo="https://somosnlp.github.io/assets/images/patrocinios/BSC.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BSC_dark.png" />
+logo="/images/patrocinios/BSC.png"
+logo_dark="/images/patrocinios/BSC_dark.png" />
 
 </div>
 
@@ -292,32 +292,32 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BSC_dark.png" />
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="LenguajeNatural.AI" url="http://somosnlp.org/patrocinios/lenguaje-natural-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+logo="/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
 <SponsorInfo sponsor="Calamo&Cran" url="http://somosnlp.org/patrocinios/calamoycran"
-logo="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark.png" />
+logo="/images/patrocinios/Calamo&Cran.png"
+logo_dark="/images/patrocinios/Calamo&Cran_dark.png" />
 
 <SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+logo="/images/patrocinios/SaturdaysAI.png"
+logo_dark="/images/patrocinios/SaturdaysAI.png" />
 
 <SponsorInfo sponsor="MonsterAPI" url="http://somosnlp.org/patrocinios/monsterapi"
-logo="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg" />
+logo="/images/patrocinios/MonsterAPI.jpeg"
+logo_dark="/images/patrocinios/MonsterAPI.jpeg" />
 
 <!-- <SponsorInfo sponsor="Impulse Data & AI Conference" url="https://latam-ai.com/"
-logo="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ImpulseAI_dark.png" />
+logo="/images/patrocinios/ImpulseAI.png"
+logo_dark="/images/patrocinios/ImpulseAI_dark.png" />
 
 <SponsorInfo sponsor="Universidad de Puerto Rico" url="https://upr.edu"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UPR.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UPR.png" /> -->
+logo="/images/patrocinios/UPR.png"
+logo_dark="/images/patrocinios/UPR.png" /> -->
 
 <SponsorInfo sponsor="Yamato" url="http://somosnlp.org/patrocinios/yamato"
-logo="https://somosnlp.github.io/assets/images/patrocinios/YAMATO.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/YAMATO_dark.png" />
+logo="/images/patrocinios/YAMATO.png"
+logo_dark="/images/patrocinios/YAMATO_dark.png" />
 
 </div>
 
@@ -326,44 +326,44 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/YAMATO_dark.png"
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Proyecto ILENIA" url="http://somosnlp.org/patrocinios/ilenia"
-logo="https://somosnlp.github.io/assets/images/patrocinios/ILENIA.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/ILENIA_dark.png" />
+logo="/images/patrocinios/ILENIA.png"
+logo_dark="/images/patrocinios/ILENIA_dark.png" />
 
 <SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="https://www.sepln.org"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
+logo="/images/patrocinios/SEPLN.png"
+logo_dark="/images/patrocinios/SEPLN.png" />
 
 <SponsorInfo sponsor="AlexFocus" url="https://www.youtube.com/watch?v=UboQG4M3Sx0&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J"
-logo="https://somosnlp.github.io/assets/images/patrocinios/AlexFocus.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/AlexFocus.jpeg" />
+logo="/images/patrocinios/AlexFocus.jpeg"
+logo_dark="/images/patrocinios/AlexFocus.jpeg" />
 
 <SponsorInfo sponsor="Mujeres Tech" url="http://somosnlp.org/patrocinios/mujeres-tech"
-logo="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
+logo="/images/patrocinios/MujeresTech.png"
+logo_dark="/images/patrocinios/MujeresTech.png" />
 
 <SponsorInfo sponsor="DiverTLes" url="http://somosnlp.org/patrocinios/divertles"
-logo="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/DiverTLes_dark.png" />
+logo="/images/patrocinios/DiverTLes.png"
+logo_dark="/images/patrocinios/DiverTLes_dark.png" />
 
 <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"
-logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
+logo="/images/patrocinios/WomenTechNetwork.png"
+logo_dark="/images/patrocinios/WomenTechNetwork.png" />
 
 <SponsorInfo sponsor="Spain AI" url="http://somosnlp.org/patrocinios/spain-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png" />
+logo="/images/patrocinios/SpainAI.png"
+logo_dark="/images/patrocinios/SpainAI_dark.png" />
 
 <SponsorInfo sponsor="Big Onion" url="http://somosnlp.org/patrocinios/big-onion"
-logo="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/BigOnion.jpg" />
+logo="/images/patrocinios/BigOnion.jpg"
+logo_dark="/images/patrocinios/BigOnion.jpg" />
 
 <SponsorInfo sponsor="Universidad Nacional de Loja" url="http://somosnlp.org/patrocinios/unl"
-logo="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/UNL_square.png" />
+logo="/images/patrocinios/UNL_square.png"
+logo_dark="/images/patrocinios/UNL_square.png" />
 
 <SponsorInfo sponsor="LatinX in AI" url="http://somosnlp.org/patrocinios/latinx-in-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
+logo="/images/patrocinios/LXAI.png"
+logo_dark="/images/patrocinios/LXAI.png" />
 
 </div>
 

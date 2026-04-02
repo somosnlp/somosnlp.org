@@ -1,8 +1,8 @@
 ---
 title: Proyecto ILENIA
 description: Impulsando el PLN en las lenguas cooficiales de España
-cover: https://somosnlp.github.io/assets/images/patrocinios/ILENIA.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/ILENIA_dark.png
+cover: /images/patrocinios/ILENIA.png
+cover_dark: /images/patrocinios/ILENIA_dark.png
 twitter: 
 linkedin:
 website: 
@@ -18,7 +18,7 @@ ILENIA tiene por objeto impulsar en España la nueva economía digital basada en
 
 <div class="flex justify-center">
     <img alt="ILENIA" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/ILENIA.png" />
+    src="/images/patrocinios/ILENIA.png" />
 </div>
 
 <!-- TODO -->

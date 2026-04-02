@@ -4,7 +4,7 @@ description: Únete a la iniciativa de crear un gran corpus multilingüe de alta
 date: 2024-12-10T16:00:00.000+00:00
 lang: es
 duration: 2min
-cover: "https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png"
+cover: "/images/blog/fineweb_post.png"
 author: María Grandury
 bio: Investigadora de NLP y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -16,7 +16,7 @@ github: https://github.com/mariagrandury
 TL;DR: Anota de 1 a 5 la calidad educativa de textos en tu idioma aquí: [FineWeb2](https://data-is-better-together-fineweb-c.hf.space/)
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/blog/fineweb_post.png" alt="FineWeb Multilingüe" width="400"/>
+    <img src="/images/blog/fineweb_post.png" alt="FineWeb Multilingüe" width="400"/>
 </div>
 
 ## Cómo apoyar la iniciativa

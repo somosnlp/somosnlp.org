@@ -2,7 +2,7 @@
 title: "Desafios #HackathonSomosNLP 2025"
 description: Vamos possibilitar a criação de LLMs alinhados com a cultura da LATAM e da Península Ibérica.
 lang: pt
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 <script setup>
@@ -16,7 +16,7 @@ const miniChallenges = [
     points: "1 ponto",
     requirements: "Saber pesquisar na internet",
     link: "https://somosnlp.org/pt/hackathon/retos/include",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "Estereótipos",
@@ -25,7 +25,7 @@ const miniChallenges = [
     points: "1 ponto",
     requirements: "Ter vivido em sociedade",
     link: "https://somosnlp.org/pt/hackathon/retos/estereotipos",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "Perguntas Culturais (BLEND)",
@@ -34,7 +34,7 @@ const miniChallenges = [
     points: "2 pontos",
     requirements: "Ter vivido em sociedade",
     link: "https://somosnlp.org/pt/hackathon/retos/blend",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
 
@@ -46,7 +46,7 @@ const mainChallenges = [
     points: "3 pontos",
     requirements: "Ter vivido em sociedade e querer entender bem o conceito de adequação cultural",
     link: "https://somosnlp.org/pt/hackathon/retos/preferencias",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "2.A. Alinhe um Modelo Textual (LLM)",
@@ -55,7 +55,7 @@ const mainChallenges = [
     points: "3 pontos",
     requirements: "Saber programar",
     link: "https://somosnlp.org/pt/hackathon/retos/preferencias",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "2.B. Alinhe um Modelo Multimodal",
@@ -64,7 +64,7 @@ const mainChallenges = [
     points: "3 pontos",
     requirements: "Ter experiência em NLP",
     link: "https://somosnlp.org/pt/hackathon/retos/preferencias",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
 
@@ -76,7 +76,7 @@ const finalChallenges = [
     points: "0,5 pontos",
     requirements: "Ter completado algum desafio principal",
     link: "https://somosnlp.org/pt/hackathon/retos/presentacion",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "4. Grave um Vídeo",
@@ -85,7 +85,7 @@ const finalChallenges = [
     points: "0,5 pontos",
     requirements: "Ter completado algum desafio principal",
     link: "https://somosnlp.org/pt/hackathon/retos/presentacion",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "5. (Opcional) Escreva um Paper",
@@ -94,7 +94,7 @@ const finalChallenges = [
     points: "0,5 pontos",
     requirements: "Ter completado algum desafio principal",
     link: "https://somosnlp.org/pt/hackathon/retos/presentacion",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
 </script>
@@ -166,7 +166,7 @@ Como usar as últimas ferramentas em LLMs para criar datasets de QA? Neste event
 
 [Gravação já disponível!](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI&index=3)
 
-![alt text](https://somosnlp.github.io/assets/images/eventos/250415_alfonso_amayuelas.png)
+![alt text](/images/eventos/250415_alfonso_amayuelas.png)
 
 
 #### Confidently wrong: expressando incerteza em tarefas multilíngues | Selene Baez, Postdoc @ Universidade de Zurique
@@ -175,7 +175,7 @@ Embora a fluência e a coerência dos Modelos de Linguagem (LLM) na geração de
 
 [Gravação disponível!](https://www.youtube.com/watch?v=TC9tOEyPqy8&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
-![alt text](https://somosnlp.github.io/assets/images/eventos/250410_selene_baez.png)
+![alt text](/images/eventos/250410_selene_baez.png)
 
 #### Red Teaming para Modelos de Linguagem | Luis Vasquez, Research Engineer @Barcelona Supercomputing Center
 
@@ -183,4 +183,4 @@ Breve introdução ao Red Teaming para Modelos de Linguagem: definição, estrat
 
 [Gravação disponível!](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
-![alt text](https://somosnlp.github.io/assets/images/eventos/250410_luis_vasquez.png)
+![alt text](/images/eventos/250410_luis_vasquez.png)

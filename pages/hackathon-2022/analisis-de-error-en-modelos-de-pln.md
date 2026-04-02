@@ -2,7 +2,7 @@
 title: Análisis de Error en Modelos de PLN
 speaker: Omar Sanseviero
 speaker_bio: Ingeniero de ML @HuggingFace
-speaker_pic: https://somosnlp.github.io/assets/images/core_team_omar_sanseviero.png
+speaker_pic: /images/core_team_omar_sanseviero.png
 date: 2022-03-16T19:00:00.000+00:00
 lang: es
 time: 19h CET
@@ -10,7 +10,7 @@ time: 19h CET
 
 <EventSummary
     description="En esta charla, Omar explicará diferentes mecanismos para evaluar un modelo y encontrar errores. ¡La charla hablará sobre diferentes métricas, técnicas de depuración de transformadores, revisión de datos y más!"
-    poster="https://somosnlp.github.io/assets/images/evento_omar.png"
+    poster="/images/evento_omar.png"
     video="https://www.youtube.com/embed/jvhEra9mdPw"
     name="Omar Sanseviero"
     website="https://osanseviero.github.io/hackerllama/"

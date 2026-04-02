@@ -3,7 +3,7 @@ title: Detección y mitigación de sesgos en LLMs
 date: 2023-03-28T18:30:00.000+00:00
 lang: es
 duration: 30min
-cover: "https://somosnlp.github.io/assets/images/eventos/230322_evaluacion_de_sesgos.jpg"
+cover: "/images/eventos/230322_evaluacion_de_sesgos.jpg"
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -14,7 +14,7 @@ github: https://github.com/mariagrandury
 
 <EventSummary
     description="Hoy descubriremos diversas técnicas y herramientas open-source integradas en el ecosistema de Hugging Face que podéis utilizar para evaluar y mitigar sesgos tanto en datasets como en modelos de PLN. También hay un mini paréntesis sobre la evaluación de la huella de carbono del entrenamiento de modelos."
-    poster="https://somosnlp.github.io/assets/images/eventos/230328_evaluacion_de_sesgos.jpg"
+    poster="/images/eventos/230328_evaluacion_de_sesgos.jpg"
     video="https://www.youtube.com/embed/Ng2Yb7qrfY4"
     name=""
     website=""

@@ -1,7 +1,7 @@
 ---
 title: Omar Sanseviero
 description: Lead de ML, Dev Advocacy y Moonshot @HuggingFace
-cover: https://somosnlp.github.io/assets/images/comunidad/omar_sanseviero.jpeg
+cover: /images/comunidad/omar_sanseviero.jpeg
 website: https://osanseviero.github.io/hackerllama/
 twitter: https://twitter.com/osanseviero
 linkedin: https://www.linkedin.com/in/omarsanseviero
@@ -17,7 +17,7 @@ community: Activo
 
 <EventSummary
     description="En esta charla, Omar explicará diferentes mecanismos para evaluar un modelo y encontrar errores. ¡La charla hablará sobre diferentes métricas, técnicas de depuración de transformadores, revisión de datos y más!"
-    poster="https://somosnlp.github.io/assets/images/evento_omar.png"
+    poster="/images/evento_omar.png"
     video="https://www.youtube.com/embed/jvhEra9mdPw"
     name="Omar Sanseviero"
     website="https://osanseviero.github.io/hackerllama/"
@@ -40,7 +40,7 @@ community: Activo
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 

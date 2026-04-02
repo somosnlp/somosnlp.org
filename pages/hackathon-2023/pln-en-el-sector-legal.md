@@ -14,7 +14,7 @@ bio: Ana Gabriela Palomeque Ortiz es ingeniera en Sistemas Computacionales por e
 
 <EventSummary
     description="Descubre cómo el PLN puede ser utilizado para construir diversas herramientas que apoyen a impartir de justicia."
-    poster="https://somosnlp.github.io/assets/images/eventos/230404_pln_en_el_sector_legal.png"
+    poster="/images/eventos/230404_pln_en_el_sector_legal.png"
     video=""
     name=""
     website=""

@@ -4,7 +4,7 @@ description: Te esperamos en el Networking Symposium LANLP en LREC 2026 (Palma)
 date: 2026-02-01T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/blog/la-leaderboard.png"
+cover: "/images/blog/la-leaderboard.png"
 ---
 
 16 May 2026, Palma de Mallorca, Spain

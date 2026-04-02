@@ -4,7 +4,7 @@ description: Utilizando H4rmony, un dataset de preferencia ecológica
 date: 2024-03-17T16:00:00.000+00:00
 lang: es
 duration: 5min
-cover: "https://somosnlp.github.io/assets/images/blog/h4rmony.png"
+cover: "/images/blog/h4rmony.png"
 author: Jorge Vallego
 bio: Consultor en Ingenieria de Datos y AI - Investigador Independiente
 HuggingFace: https://huggingface.co/datasets/neovalle/H4rmony
@@ -16,7 +16,7 @@ Durante una de las [keynotes del Hackathon #Somos600M](https://www.youtube.com/w
 Esto sería algo particularmente interesante de aplicar y desarrollar durante la creación del gran corpus en español, en todas las fases de entrenamiento de LLMs y por qué no, también creando una nueva métrica ecológica en el leaderboard en español. En términos de entrenamiento ofrecemos un punto de partida, que ya ha sido probado en inglés, el dataset [H4rmony](https://huggingface.co/datasets/neovalle/H4rmony).
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/h4rmony.png" alt="H4rmony" width="250"/>
+    <img src="/images/blog/h4rmony.png" alt="H4rmony" width="250"/>
 </div>
 
 Este dataset ha sido creado como parte del H4rmony project, cuyo objetivo es mejorar la eco-narrativa de los modelos de lenguaje promoviendo un discurso sostenible, impulsando el ecocentrismo sobre el antropocentrismo. Es un dataset de preferencias que hemos creado usando principios ecolingüísticos y usado exitosamente en pruebas de concepto que nos han permitido alinear modelos abiertos con valores ecológicos. Lo hemos probado en entrenamientos con diferentes metodologías, en fine-tuning por instrucción, y en aprendizaje reforzado, tanto a través de modelos de recompensa como por DPO, siendo este último el que nos resultó más eficiente considerando tiempo de GPU, simplicidad de código y resultados finales.

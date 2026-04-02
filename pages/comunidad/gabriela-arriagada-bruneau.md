@@ -1,7 +1,7 @@
 ---
 title: Gabriela Arriagada-Bruneau, PhD
 description: Profesora IEA / IMC UC - Investigadora CENIA
-cover: https://somosnlp.github.io/assets/images/comunidad/gabriela_arriagada-bruneau.png
+cover: /images/comunidad/gabriela_arriagada-bruneau.png
 website: https://eticasaplicadas.uc.cl/profesores/gabriela-arriagada-bruneau/
 twitter: ''
 linkedin: https://www.linkedin.com/in/gabriela-arriagada-bruneau-7a294892/
@@ -17,7 +17,7 @@ community: Ponente 2025
 
 <EventSummary
     description="Charla sobre diferentes desafíos éticos y metodologías sociotécnicas para enfrentarlos. Habrá preguntas interactivas."
-    poster="https://somosnlp.github.io/assets/logo_somosnlp.png"
+    poster="/logo_somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />
 

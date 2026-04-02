@@ -2,7 +2,7 @@
 title: "Hackathon #Somos600M: Diseña el Cartel"
 description: "¡Diseña el cartel del Hackathon #Somos600M!"
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 Para fomentar distintas habilidades de nuestra comunidad, este año queremos daros la oportunidad de diseñar el cartel del hackathon. Los objetivos del hackathon son la creación un corpus en español de calidad que incluya las variedades de este rico idioma hablado por 600M personas y la creación de una leaderboard que nos permita evaluar los LLMs en español. ¡Muestra tu versión más artística y ayúdanos a crear el cartel!
@@ -22,7 +22,7 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 - Fecha: 1 al 24 de marzo de 2024
 - Página web: somosnlp.org/hackathon
 - #HackathonSomosNLP
-- [Logo de SomosNLP](https://github.com/somosnlp/assets/blob/main/logo_somos_nlp.png)
+- [Logo de SomosNLP](/logo_somos_nlp.png)
 - Algún elemento gráfico extra
 
 ## 📝 Notas

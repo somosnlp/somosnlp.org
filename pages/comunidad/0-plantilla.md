@@ -1,7 +1,7 @@
 ---
 title: 
 description: 
-cover: https://somosnlp.github.io/assets/images/comunidad/
+cover: /images/comunidad/
 twitter: 
 linkedin: 
 website: 

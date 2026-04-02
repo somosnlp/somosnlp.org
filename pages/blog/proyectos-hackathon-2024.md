@@ -4,7 +4,7 @@ description: ¡Te presentamos los proyectos de la edición 2024 de nuestro hacka
 date: 2024-04-23T16:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
+cover: "/images/eventos/240411_presentaciones.jpg"
 author: María Grandury
 bio: Fundadora de SomosNLP
 ---
@@ -21,7 +21,7 @@ Esperamos que os gusten y que surjan muchas aplicaciones utilizando estos nuevos
 
 <div class="flex justify-center">
 <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank">
-    <img src="https://somosnlp.github.io/assets/images/eventos/240411_presentaciones.jpg"
+    <img src="/images/eventos/240411_presentaciones.jpg"
         width="650" height="365" alt="Proyectos del Hackathon 2024" />
 </a>
 </div>

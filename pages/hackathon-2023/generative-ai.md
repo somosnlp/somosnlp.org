@@ -16,7 +16,7 @@ Big fan of Money Heist."
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/"
+    poster="/images/eventos/"
     video="https://www.youtube.com/embed/"
     name=""
     website=""

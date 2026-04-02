@@ -4,7 +4,7 @@ description: ¡Muchísimas gracias por vuestro apoyo!
 date: 2024-03-06T18:00:00.000+00:00
 lang: es
 duration: 4min
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 author: María Grandury
 bio: Fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -42,8 +42,8 @@ Además, Hugging Face patrocina **CPU upgrades** y **almacenamiento estático** 
 
 <div class="flex justify-center mx-auto" style="width: 280px;">
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
-logo="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/HuggingFace.svg" />
+logo="/images/patrocinios/HuggingFace.svg"
+logo_dark="/images/patrocinios/HuggingFace.svg" />
 </div>
 
 ---
@@ -61,8 +61,8 @@ Argilla es una plataforma open-source de gestión y etiquetado de datos para pro
 
 <div class="flex justify-center mx-auto" style="width: 280px; height: 157px;">
 <SponsorInfo sponsor="Argilla" url="http://somosnlp.org/patrocinios/argilla"
-logo="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Argilla.svg" />
+logo="/images/patrocinios/Argilla.svg"
+logo_dark="/images/patrocinios/Argilla.svg" />
 </div>
 
 ---
@@ -79,8 +79,8 @@ Con descuentos y becas para su nuevo curso ["La revolución del NLP: LLMs y más
 
 <div class="flex justify-center mx-auto" style="width: 280px;">
 <SponsorInfo sponsor="LenguajeNatural.AI" url="http://somosnlp.org/patrocinios/lenguaje-natural-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+logo="/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 </div>
 
 ---
@@ -94,8 +94,8 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalA
 
 <div class="flex justify-center mx-auto" style="width: 200px">
 <SponsorInfo sponsor="MonsterAPI" url="http://somosnlp.org/patrocinios/monsterapi"
-logo="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg" />
+logo="/images/patrocinios/MonsterAPI.jpeg"
+logo_dark="/images/patrocinios/MonsterAPI.jpeg" />
 </div>
 
 ---
@@ -110,8 +110,8 @@ Nuestra misión es hacer la IA accesible a cualquier persona, realizando proyect
 
 <div class="flex justify-center mx-auto" style="width: 280px;">
 <SponsorInfo sponsor="Saturdays AI" url="http://somosnlp.org/patrocinios/saturdays-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SaturdaysAI.png" />
+logo="/images/patrocinios/SaturdaysAI.png"
+logo_dark="/images/patrocinios/SaturdaysAI.png" />
 </div>
 
 ---
@@ -128,8 +128,8 @@ Centro de formación de profesionales del lenguaje, la edición y la comunicaci�
 
 <div class="flex justify-center mx-auto" style="width: 280px;">
 <SponsorInfo sponsor="Calamo&Cran" url="http://somosnlp.org/patrocinios/calamoycran"
-logo="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/Calamo&Cran_dark.png" />
+logo="/images/patrocinios/Calamo&Cran.png"
+logo_dark="/images/patrocinios/Calamo&Cran_dark.png" />
 </div>
 
 ---
@@ -145,8 +145,8 @@ Nuestra misión es aumentar la visibilidad de investigadores de Latinoamérica. 
 
 <div class="flex justify-center mx-auto" style="width: 280px">
 <SponsorInfo sponsor="LatinX in AI" url="http://somosnlp.org/patrocinios/latinx-in-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
+logo="/images/patrocinios/LXAI.png"
+logo_dark="/images/patrocinios/LXAI.png" />
 </div>
 
 ---
@@ -161,8 +161,8 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
 
 <div class="flex justify-center mx-auto" style="width: 280px">
 <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"
-logo="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
+logo="/images/patrocinios/WomenTechNetwork.png"
+logo_dark="/images/patrocinios/WomenTechNetwork.png" />
 </div>
 
 ---
@@ -172,13 +172,13 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork
 ## Instituto de Ingeniería del Conocimiento
 
 <SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
-logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+logo="/images/patrocinios/iic.bmp"
+logo_dark="/images/patrocinios/iic_dark.bmp" />
 
 <div class="flex justify-center">
 <SponsorInfo sponsor="LenguajeNatural.AI" url="http://somosnlp.org/patrocinios/lenguaje-natural-ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+logo="/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 </div>
 
 -->

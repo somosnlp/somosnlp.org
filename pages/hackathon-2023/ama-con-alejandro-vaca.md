@@ -3,7 +3,7 @@ title: Ask Me Anything
 date: 2023-03-27T18:00:00.000+00:00
 lang: es
 duration: 1h
-cover: "https://somosnlp.github.io/assets/images/eventos/230327_ama_con_alejandro_vaca.jpg"
+cover: "/images/eventos/230327_ama_con_alejandro_vaca.jpg"
 author: Alejandro Vaca
 twitter: 
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
@@ -14,7 +14,7 @@ bio: Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio 
 
 <EventSummary
     description="¡Pregúntame lo que quieras de Procesamiento del Lenguaje Natural!"
-    poster="https://somosnlp.github.io/assets/images/eventos/230330_ama_con_alejandro_vaca.jpg"
+    poster="/images/eventos/230330_ama_con_alejandro_vaca.jpg"
     video="https://www.youtube.com/embed/G4R6w0W4Lv0"
     name=""
     website=""

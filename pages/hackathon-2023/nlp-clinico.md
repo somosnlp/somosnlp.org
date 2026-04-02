@@ -14,7 +14,7 @@ bio: Jocelyn Dunstan es académica de la Universidad Católica de Chile en vacan
 
 <EventSummary
     description="La idea es explicar por qué es un dominio interesante y sus desafíos actuales. Al asistir a esta charla aprenderás sobre las tareas clásicas de NLP en medicina y los avances en NLP clínico en Chile."
-    poster="https://somosnlp.github.io/assets/images/eventos/230404_nlp_clinico.png"
+    poster="/images/eventos/230404_nlp_clinico.png"
     video="https://www.youtube.com/embed/GQbF1MypKIg"
     name=""
     website=""

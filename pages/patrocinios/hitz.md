@@ -1,7 +1,7 @@
 ---
 title: "HiTZ: Centro Vasco de Tecnología de la Lengua"
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/HiTZ.png
+cover: /images/patrocinios/HiTZ.png
 cover_dark:
 twitter: https://x.com/Hitz_zentroa
 linkedin: https://www.linkedin.com/company/hitz-zentroa
@@ -18,7 +18,7 @@ HiTZ es un centro de referencia en Tecnologías del lenguaje. Su objetivo es pro
 
 <div class="flex justify-center">
     <img alt="Nombre" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/HiTZ.png" />
+    src="/images/patrocinios/HiTZ.png" />
 </div>
 
 *Última actualización: 14 de mayo de 2024*

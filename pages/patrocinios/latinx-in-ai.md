@@ -1,7 +1,7 @@
 ---
 title: LatinX in AI
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/LXAI.png
+cover: /images/patrocinios/LXAI.png
 twitter: 
 linkedin:
 website: 
@@ -17,7 +17,7 @@ Nuestra misión es aumentar la visibilidad de investigadores de Latinoamérica. 
 
 <div class="flex justify-center">
     <img alt="LXAI" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/LXAI.png" />
+    src="/images/patrocinios/LXAI.png" />
 </div>
 
 <!-- TODO -->

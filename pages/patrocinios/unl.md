@@ -1,8 +1,8 @@
 ---
 title: Universidad Nacional de Loja
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/UNL.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/UNL_dark.png
+cover: /images/patrocinios/UNL.png
+cover_dark: /images/patrocinios/UNL_dark.png
 twitter: https://twitter.com/UNLoficial
 linkedin: https://www.linkedin.com/school/universidad-nacional-de-loja/mycompany/
 website: https://unl.edu.ec
@@ -19,5 +19,5 @@ Es misión de la Universidad Nacional de Loja: la formación académica y profes
 
 <div class="flex justify-center">
     <img alt="UNL" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/UNL.png" />
+    src="/images/patrocinios/UNL.png" />
 </div>

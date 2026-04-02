@@ -1,7 +1,7 @@
 ---
 title: Laura Segura
 description: Innovation Developer @Vodafone
-cover: https://somosnlp.github.io/assets/images/comunidad/laura_segura.jpg
+cover: /images/comunidad/laura_segura.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/laura-segura-mayordomo 
 website: 
@@ -14,7 +14,7 @@ community: Escritora
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/hackathon" target="_blank">
-        <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
+        <img src="/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
             width="650" height="365" alt="Cartel del Hackathon 2023" />
     </a>
 </div>
@@ -23,7 +23,7 @@ community: Escritora
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/womentech-global-conference-2023" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/WTGC_banner.jpg" alt="WTGC 2023" width="560" height="315" />
+        <img src="/images/blog/WTGC_banner.jpg" alt="WTGC 2023" width="560" height="315" />
     </a>
 </div>
 

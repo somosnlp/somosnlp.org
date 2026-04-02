@@ -15,7 +15,7 @@ community: Diseñadora
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/hackathon" target="_blank">
-        <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
+        <img src="/images/eventos/230320_hackathon_llms_fecha_extendida.jpg"
             width="650" height="365" alt="Cartel del Hackathon 2023" />
     </a>
 </div>

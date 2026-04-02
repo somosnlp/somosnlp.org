@@ -3,7 +3,7 @@ title: Prospectiva estratégica y NLPs
 date: 2023-03-19T18:00:00.000+00:00
 time:
 duration: 30 mins
-cover: https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg
+cover: /images/eventos/240319_cristina_vila.jpg
 author: Cristina Vila Carreira
 twitter: 
 linkedin: https://www.linkedin.com/in/cristinavila-futuro
@@ -14,7 +14,7 @@ bio: Cristina Vila es experta en conectar negocio, tecnología y personas. Ingen
 
 <EventSummary
     description="Contaremos metodologías de diseño de futuros que podáis aplicar para traer al presente casos de uso de futuro de las tecnologías relacionadas con el NLP."
-    poster="https://somosnlp.github.io/assets/images/eventos/240319_cristina_vila.jpg"
+    poster="/images/eventos/240319_cristina_vila.jpg"
     video="https://www.youtube.com/embed/3StMUo_bqic"
     tema=12
     nivel=1

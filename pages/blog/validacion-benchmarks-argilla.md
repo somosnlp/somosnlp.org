@@ -1,7 +1,7 @@
 ---
 title: Validación de benchmarks con Argilla
 description: Lanzamos la campaña de validación de benchmarks
-cover: https://somosnlp.github.io/assets/images/blog/coleccion_espacios_de_anotacion.png
+cover: /images/blog/coleccion_espacios_de_anotacion.png
 date: 2024-03-04T12:00:00.000+00:00
 lang: es
 duration: 1min
@@ -13,7 +13,7 @@ author: María Grandury
 Aunque no tengas conocimientos de IA y dispongas de poquito tiempo, puedes colaborar validando las traducciones del inglés al español de las bases de datos de la famosa Open LLM Leaderboard de Hugging Face, en concreto de MMLU, ARC-C y HellaSwag. Estas traducciones fueron originalmente hechas por el Grupo de PLN de la Universidad de Oregon utilizando ChatGPT y con este esfuerzo colaborativo las queremos validar y corregir para asegurarnos de que utilizamos datos de calidad.
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/coleccion_espacios_de_anotacion.png" alt="Validación de benchmarks con Argilla" width="560" height="315"/>
+    <img src="/images/blog/coleccion_espacios_de_anotacion.png" alt="Validación de benchmarks con Argilla" width="560" height="315"/>
 </div>
 
 ## 🚀 Cómo participar

@@ -2,7 +2,7 @@
 title: "Hackathon #Somos600M: Sponsorships"
 description: Thank you for helping us democratize NLP in Spanish!
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 Thank you very much for your interest in supporting us in organizing and giving visibility to this wonderful event! In the previous two editions **we had a total of more than 1000 participants from 30 different countries and exceeded 20,000 views of our events**. This year our challenges are to create databases that allow us to train inclusive and quality LLMs and to create the first ranking for evaluating LLMs in Spanish and co-official languages.

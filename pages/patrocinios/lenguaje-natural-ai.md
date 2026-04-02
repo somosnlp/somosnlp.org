@@ -1,7 +1,7 @@
 ---
 title: LenguajeNaturalAI
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg
+cover: /images/patrocinios/LenguajeNaturalAI.jpeg
 twitter: 
 linkedin:
 website: 
@@ -18,7 +18,7 @@ Nuestra misión es generar un impacto social positivo mediante el uso de Intelig
 
 <div class="flex justify-center">
     <img alt="LenguajeNaturalAI" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+    src="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 </div>
 
 <!-- TODO -->

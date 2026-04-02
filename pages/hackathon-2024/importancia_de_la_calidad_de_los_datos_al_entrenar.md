@@ -3,7 +3,7 @@ title: El impacto de la calidad de los datos en el entrenamiento de LLMs
 date: 2023-03-11T18:00:00.000+00:00
 time:
 duration: 1h
-cover: https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg
+cover: /images/eventos/240311_manu_romero.jpg
 author: Manu Romero
 twitter: https://twitter.com/mrm8488
 linkedin: https://www.linkedin.com/in/manuel-romero-cs
@@ -14,7 +14,7 @@ bio: "MLE/CSO @maisaAI_. Head Contrib/ Ambassador🤗 @huggingface. Research �
 
 <EventSummary
     description="En este taller comentamos cómo es posible ajustar (hacer fine-tuning) a LLMs con una configuración de hardware humilde gracias a las últimas técnicas de PEFT como QLoRA y librerías de optimización."
-    poster="https://somosnlp.github.io/assets/images/eventos/240311_manu_romero.jpg"
+    poster="/images/eventos/240311_manu_romero.jpg"
     video="https://www.youtube.com/embed/hPq5NG8kA8w"
     slides="https://drive.google.com/open?id=1KSTcLzOJvGp3b5cxMk5b14QbiV_rUGdZ"
     notebook=""

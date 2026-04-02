@@ -9,7 +9,7 @@ useHead({
         { name: 'twitter:creator', content: '@somosnlp_' },
         { name: 'twitter:title', content: 'Hackathon SomosNLP 2022' },
         { name: 'twitter:description', content: '¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!' },
-        { name: 'twitter:image', content: 'https://somosnlp.github.io/assets/images/hackathon_pln_es_3.png' },
+        { name: 'twitter:image', content: '/images/hackathon_pln_es_3.png' },
         { name: 'twitter:image:alt', content: 'Cartel del Hackathon de SomosNLP' }
     ]
 })
@@ -47,7 +47,7 @@ useHead({
         <article class="m-auto prose">
             ¡Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español!
             <div class="flex justify-center">
-                <img src="https://github.com/somosnlp/assets/raw/main/images/hackathon_pln_es_3.png" width="650"
+                <img src="/images/hackathon_pln_es_3.png" width="650"
                     height="365" alt="Cartel del hackathon" />
             </div>
 
@@ -272,47 +272,47 @@ useHead({
             <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Paperspace" url="https://www.paperspace.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_paperspace.svg"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_paperspace_dark.svg" />
+                    logo="/images/logo_paperspace.svg"
+                    logo_dark="/images/logo_paperspace_dark.svg" />
                 <SponsorInfo sponsor="Platzi" url="https://platzi.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_platzi.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_platzi_dark.png" />
+                    logo="/images/logo_platzi.png"
+                    logo_dark="/images/logo_platzi_dark.png" />
                 <SponsorInfo sponsor="Hugging Face" url="https://huggingface.co/"
-                    logo="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_HuggingFace.svg" />
+                    logo="/images/logo_HuggingFace.svg"
+                    logo_dark="/images/logo_HuggingFace.svg" />
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="BSC" url="https://www.bsc.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_BSC.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_BSC_dark.png" />
+                    logo="/images/logo_BSC.png"
+                    logo_dark="/images/logo_BSC_dark.png" />
                 <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
-                    logo="https://somosnlp.github.io/assets/images/logo_DiverTLes.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_DiverTLes_dark.png" />
+                    logo="/images/logo_DiverTLes.png"
+                    logo_dark="/images/logo_DiverTLes_dark.png" />
                 <SponsorInfo sponsor="IBiDat" url="https://ibidat.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_IBiDat.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_IBiDat_dark.png" />
+                    logo="/images/logo_IBiDat.png"
+                    logo_dark="/images/logo_IBiDat_dark.png" />
                 <SponsorInfo sponsor="Narrativa" url="https://www.narrativa.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_Narrativa.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_Narrativa_dark.png" />
+                    logo="/images/logo_Narrativa.png"
+                    logo_dark="/images/logo_Narrativa_dark.png" />
                 <SponsorInfo sponsor="Plan TL" url="https://plantl.mineco.gob.es/"
-                    logo="https://somosnlp.github.io/assets/images/logo_PlanTL.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_PlanTL_dark.png" />
+                    logo="/images/logo_PlanTL.png"
+                    logo_dark="/images/logo_PlanTL_dark.png" />
                 <SponsorInfo sponsor="PLNnet" url="https://gplsi.dlsi.ua.es/pln/"
-                    logo="https://somosnlp.github.io/assets/images/logo_PLNnet.svg"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_PLNnet.svg" />
+                    logo="/images/logo_PLNnet.svg"
+                    logo_dark="/images/logo_PLNnet.svg" />
                 <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
-                    logo="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_SaturdaysAI.png" />
+                    logo="/images/logo_SaturdaysAI.png"
+                    logo_dark="/images/logo_SaturdaysAI.png" />
                 <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
-                    logo="https://somosnlp.github.io/assets/images/logo_SpainAI.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_SpainAI_dark.png" />
+                    logo="/images/logo_SpainAI.png"
+                    logo_dark="/images/logo_SpainAI_dark.png" />
                 <SponsorInfo sponsor="UNAM" url="https://www.unam.mx/"
-                    logo="https://somosnlp.github.io/assets/images/logo_UNAM.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_UNAM_dark.png" />
+                    logo="/images/logo_UNAM.png"
+                    logo_dark="/images/logo_UNAM_dark.png" />
                 <SponsorInfo sponsor="UNL" url="https://www.unl.edu.ec/"
-                    logo="https://somosnlp.github.io/assets/images/logo_UNL_square.png"
-                    logo_dark="https://somosnlp.github.io/assets/images/logo_UNL_square.png" />
+                    logo="/images/logo_UNL_square.png"
+                    logo_dark="/images/logo_UNL_square.png" />
             </div>
         </article>
     </Container>

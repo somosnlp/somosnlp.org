@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP"
 description: Únete al mayor hackathon open-source de Procesamiento del Lenguaje Natural en español
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
@@ -46,41 +46,41 @@ Y a los corpus:
     <!-- HACKATHON 2024 -->
     <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
         <img alt="Charla de Elena González-Blanco" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/eventos/240307_elena_gonzalez_blanco.png" />
+        src="/images/eventos/240307_elena_gonzalez_blanco.png" />
     </a>
     <a href="/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
         <img alt="Charla de Gabriel Martín" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/eventos/240311_gabriel_martin_blazquez.jpg" />
+        src="/images/eventos/240311_gabriel_martin_blazquez.jpg" />
     </a>
     <a href="/hackathon-2024/empatia_y_emociones_en_ia" target="_blank">
         <img alt="Charla de Amanda Curry" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/eventos/240326_amanda_curry.jpg" />
+        src="/images/eventos/240326_amanda_curry.jpg" />
     </a>
     <!-- HACKATHON 2023 -->
     <a href="/hackathon-2023/fine-tuning-llms" target="_blank">
         <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/eventos/230320_fine_tuning_llms.jpg" />
+        src="/images/eventos/230320_fine_tuning_llms.jpg" />
     </a>
     <a href="/hackathon-2023/deteccion-del-lenguaje-ofensivo" target="_blank">
         <img alt="Detección del lenguaje ofensivo" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
+        src="/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
     </a>
     <a href="/hackathon-2023/evaluacion-con-desacuerdo" target="_blank">
         <img alt="Evaluación con desacuerdo" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
+        src="/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
     </a>
     <!-- HACKATHON 2022 -->
     <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 04" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/evento_cristina.png" />
+        src="/images/evento_cristina.png" />
     </a>
     <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 05" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/evento_paulo.png" />
+        src="/images/evento_paulo.png" />
     </a>
     <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 06" width="650" height="365"
-        src="https://somosnlp.github.io/assets/images/evento_ximena.png" />
+        src="/images/evento_ximena.png" />
     </a>
 </div>
 

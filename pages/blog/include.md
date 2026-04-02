@@ -4,7 +4,7 @@ description: Ayuda a que los LLMs se evalúen también en tu idioma y cultura
 date: 2025-01-09T16:00:00.000+00:00
 lang: es
 duration: 1min
-cover: "https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png"
+cover: "/images/patrocinios/INCLUDE_post.png"
 author: María Grandury
 bio: Investigadora de NLP y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -16,7 +16,7 @@ huggingface: https://huggingface.co/mariagrandury
 Buscamos exámenes tipo test en cualquier idioma para añadirlos al benchmark multicultural INCLUDE. ¡Rellena ya el [formulario](https://forms.gle/7qfV6wJE4mZxfGFb7)!
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/patrocinios/INCLUDE_post.png" alt="INCLUDE" width="400">
+    <img src="/images/patrocinios/INCLUDE_post.png" alt="INCLUDE" width="400">
 </div>
 
 Se suele decir que los grandes modelos de lenguaje (LLM) están desarrollando capacidades multilingües cada vez más avanzadas, pero ¿en qué idiomas exactamente? En muchas ocasiones, el español está presente, pero, ¿qué variedades del idioma se están considerando? Si realmente aspiramos a que los LLM sean verdaderamente multilingües y multiculturales, necesitamos garantizar que toda la comunidad esté representada en las bases de datos. El cambio comienza creando conjuntos de evaluación diversos, que nos permitan medir el estado actual y avanzar hacia LLM que sean realmente inclusivos.

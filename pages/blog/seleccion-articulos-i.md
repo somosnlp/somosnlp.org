@@ -4,7 +4,7 @@ description: Selección de artículos relevantes para la comunidad hispanohablan
 date: 2024-11-12T12:00:00.000+00:00
 lang: es
 duration: 4min
-cover: https://somosnlp.github.io/assets/images/blog/seleccion_articulos.png
+cover: /images/blog/seleccion_articulos.png
 author: Gonzalo Martínez, PhD
 bio: Investigador de PLN @UC3M
 scholar: https://scholar.google.com/citations?user=FF6Yw5QAAAAJ
@@ -15,7 +15,7 @@ scholar: https://scholar.google.com/citations?user=FF6Yw5QAAAAJ
 Sabemos que es casi imposible mantenerse al día de todos los artículos científicos que van saliendo en los idiomas de la comunidad hispanohablante, así que aquí iniciamos esta serie mensual de resúmenes para compartir contigo una selección de artículos interesantes. Si tienes alguna sugerencia o quieres que comentemos tu trabajo, ¡escríbenos a info@somosnlp.com! 
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/blog/seleccion_articulos_laura_rdgz.png" alt="Selección de artículos" width="400">
+    <img src="/images/blog/seleccion_articulos_laura_rdgz.png" alt="Selección de artículos" width="400">
 </div>
 
 ## 🔍 Desambiguando palabras: ¿Pueden los modelos entender nuestros dobles sentidos?

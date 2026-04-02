@@ -1,7 +1,7 @@
 ---
 title: DataGénero
 description: Observatorio de datos con perspectiva de género
-cover: https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png
+cover: /images/patrocinios/DataGenero.png
 twitter: https://www.twitter.com/datagenero
 linkedin: https://www.linkedin.com/company/datagenero
 website: https://www.datagenero.org 
@@ -19,7 +19,7 @@ years: 2023
 
 <EventSummary
     description="En esta charla presentaremos el trabajo en conjunto que estamos realizando desde DataGénero - Observatorio de Datos con Perspectiva de Género y el Juzgado N°10 Contravenciona, Penal y de Faltas de la Ciudad de Buenos Aires, para construir una herramienta (software) que genere datos estructurados a partir de datos no estructurados. Nuestro software se llama AymurAI que en quechua significa cosecha. Queremos 'cosechar' datos sobre resoluciones judiciales sobre casos de violencia de género. Nuestra herramienta utiliza reglas y reconocimiento de entidades (NER) para extraer información clave de documentos judiciales, pasa por una pantalla de validación y luego estructura la información recolectada en un set de datos abiertos con perspectiva de género. A través de este proyecto queremos promover la justicia abierta, el gobierno abierto, los datos abiertos con perspectiva de género y la visibilización de problemáticas urgentes a través de los datos."
-    poster="https://somosnlp.github.io/assets/images/eventos/230328_aymurai.jpg"
+    poster="/images/eventos/230328_aymurai.jpg"
     video="https://www.youtube.com/embed/JwputbLp8AI"
     name=""
     website=""
@@ -32,5 +32,5 @@ years: 2023
 
 <div class="flex justify-center">
     <img alt="DataGenero" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/DataGenero.png" />
+    src="/images/patrocinios/DataGenero.png" />
 </div>

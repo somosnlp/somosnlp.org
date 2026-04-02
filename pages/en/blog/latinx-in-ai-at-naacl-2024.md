@@ -4,7 +4,7 @@ description: Present your project to the NAACL 2024 Workshop LatinX in NLP!
 date: 2024-03-18T16:00:00.000+00:00
 lang: en
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/blog/latinx_in_ai_naacl_2024.jpg"
+cover: "/images/blog/latinx_in_ai_naacl_2024.jpg"
 author: María Grandury
 bio: Fundadora @SomosNLP
 ---

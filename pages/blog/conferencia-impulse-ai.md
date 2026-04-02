@@ -4,7 +4,7 @@ description: Regístrate ya con el código de descuento SomosNLP50
 date: 2023-12-22T16:00:00.000+00:00
 lang: es
 duration: 1min
-cover: "https://github.com/somosnlp/assets/raw/main/images/eventos/240116_impulse_ai.png"
+cover: "/images/eventos/240116_impulse_ai.png"
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -21,7 +21,7 @@ Como community sponsors del evento, ¡tenemos una oferta increíble para ti!
 ✨ [Código de descuento exclusivo: SomosNLP50](https://bit.ly/somosNLP)
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/240116_impulse_ai.png" alt="Cartel Impulse AI 2024" width="560" height="315"/>
+    <img src="/images/eventos/240116_impulse_ai.png" alt="Cartel Impulse AI 2024" width="560" height="315"/>
 </div>
 
 Habrá más de 30 sesiones organizadas en 4 pistas:

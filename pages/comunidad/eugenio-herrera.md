@@ -1,7 +1,7 @@
 ---
 title: Eugenio Herrera
 description: Investigador e Ingeniero de ML @Centro Nacional de IA
-cover: https://somosnlp.github.io/assets/images/comunidad/eugenio_herrera.webp
+cover: /images/comunidad/eugenio_herrera.webp
 twitter: 
 linkedin: 
 website: 

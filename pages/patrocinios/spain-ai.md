@@ -1,8 +1,8 @@
 ---
 title: Spain AI
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/SpainAI_dark.png
+cover: /images/patrocinios/SpainAI.png
+cover_dark: /images/patrocinios/SpainAI_dark.png
 twitter: https://twitter.com/Spain_AI_ 
 linkedin: https://www.linkedin.com/company/spainai/
 website: https://www.spain-ai.com
@@ -23,7 +23,7 @@ Entre otras iniciativas
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/nlp-de-cero-a-cien" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
+        <img src="/images/nlp_de_cero_a_cien.jpeg" alt="SomosNLP logo" width="560" height="315" />
     </a>
 </div>
 
@@ -33,5 +33,5 @@ Entre otras iniciativas
 
 <div class="flex justify-center">
     <img alt="SpainAI" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/SpainAI.png" />
+    src="/images/patrocinios/SpainAI.png" />
 </div>

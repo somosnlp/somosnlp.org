@@ -1,8 +1,8 @@
 ---
 title: Software Themis
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis_dark.png
+cover: /images/patrocinios/SoftwareThemis.png
+cover_dark: /images/patrocinios/SoftwareThemis_dark.png
 twitter: https://twitter.com/SoftwareThemis_
 linkedin: https://www.linkedin.com/company/software-themis/
 website: https://www.themis.es
@@ -22,7 +22,7 @@ Software Themis es el primer corrector de lenguaje sexista.
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230309_mesa_redonda_8m.jpg"
+    poster="/images/eventos/230309_mesa_redonda_8m.jpg"
     video="https://www.youtube.com/embed/5fOiLWXQ78c"
     name=""
     website=""
@@ -38,5 +38,5 @@ Software Themis es el primer corrector de lenguaje sexista.
 
 <div class="flex justify-center">
     <img alt="SoftwareThemis" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/SoftwareThemis.png" />
+    src="/images/patrocinios/SoftwareThemis.png" />
 </div>

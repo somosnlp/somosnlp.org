@@ -4,7 +4,7 @@ description: La primera tabla de clasificación para modelos de lenguaje generat
 date: 2024-09-23T18:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/blog/la-leaderboard.png"
+cover: "/images/blog/la-leaderboard.png"
 author: Maria Sayavera
 bio: Project Management, Innovation and Dissemination @BSC-CNS
 ---

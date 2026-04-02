@@ -1,8 +1,8 @@
 ---
 title: MonsterAPI
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.png
-cover_dark: https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.png
+cover: /images/patrocinios/MonsterAPI.png
+cover_dark: /images/patrocinios/MonsterAPI.png
 twitter: 
 linkedin:
 website: 
@@ -16,8 +16,8 @@ years: 2024
 
 <div class="flex justify-center">
 <SponsorInfo sponsor="MonsterAPI" url="http://somosnlp.org/patrocinios/monsterapi"
-logo="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/MonsterAPI.jpeg" />
+logo="/images/patrocinios/MonsterAPI.jpeg"
+logo_dark="/images/patrocinios/MonsterAPI.jpeg" />
 </div>
 
 <!-- TODO -->

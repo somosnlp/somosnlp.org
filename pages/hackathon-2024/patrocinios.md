@@ -2,7 +2,7 @@
 title: "Hackathon #Somos600M: Patrocinios"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 ¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las dos ediciones anteriores **contamos en total con más de 1000 participantes de 30 países distintos y superamos las 20.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear bases de datos que nos permitan entrenar LLMs inclusivos y de calidad y crear el primer ranking de evaluación de LLMs en español y lenguas cooficiales.

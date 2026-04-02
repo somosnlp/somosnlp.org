@@ -1,7 +1,7 @@
 ---
 title: Natalia Astoreca, PhD
 description: Product Manager @Argilla
-cover: "https://somosnlp.github.io/assets/images/comunidad/natalia_elvira.jpeg"
+cover: "/images/comunidad/natalia_elvira.jpeg"
 twitter: https://twitter.com/natalakiou
 linkedin: https://www.linkedin.com/in/neastoreca/
 website: 
@@ -14,7 +14,7 @@ community: Colaboración
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230323_ama_con_natalia_elvira.jpg"
+    poster="/images/eventos/230323_ama_con_natalia_elvira.jpg"
     video="https://www.youtube.com/embed/A0ORiFldWLQ"
     name=""
     website=""
@@ -31,7 +31,7 @@ community: Colaboración
 
 <div class="flex justify-center">
     <a href="https://huggingface.co/datasets/somosnlp/somos-clean-alpaca-es" target="_blank">
-        <img src="https://somosnlp.github.io/assets/images/blog/argilla_llm.webp" alt="Argilla LLM" width="560" height="315" />
+        <img src="/images/blog/argilla_llm.webp" alt="Argilla LLM" width="560" height="315" />
     </a>
 </div>
 
@@ -39,7 +39,7 @@ community: Colaboración
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/eventos/230308_video_8m.jpg"
+    poster="/images/eventos/230308_video_8m.jpg"
     video="https://www.youtube.com/embed/ZLd85RiLViQ"
     name=""
     website=""

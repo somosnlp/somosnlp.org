@@ -3,7 +3,7 @@ title: "Taller + AMA: Entrenamiento de LLMs"
 date: 2023-03-18T18:00:00.000+00:00
 time:
 duration: 1h45
-cover: https://somosnlp.github.io/assets/images/eventos/240318_alejandro_vaca.jpg
+cover: /images/eventos/240318_alejandro_vaca.jpg
 author: Alejandro Vaca Serrano
 twitter: 
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
@@ -14,7 +14,7 @@ bio: Ganador de varios premios, como el 1er premio del Cajamar UniversityHack 20
 
 <EventSummary
     description="En esta charla aprenderás cómo entrenar LLMs del Estado del Arte con las técnicas más recientes y avanzadas en hardware limitado. Se cubrirá desde la adaptación a idioma / dominio hasta el alineamiento de estos modelos con las preferencias del usuario, pasando por el aprendizaje de instrucciones conversacional. Además, podrás preguntarle a Alejandro tooodas tus dudas sobre entrenamiento de LLMs."
-    poster="https://somosnlp.github.io/assets/images/eventos/240318_alejandro_vaca.jpg"
+    poster="/images/eventos/240318_alejandro_vaca.jpg"
     video="https://www.youtube.com/embed/458UWBlBdtI"
     slides=""
     notebook=""

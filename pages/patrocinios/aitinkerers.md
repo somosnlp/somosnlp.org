@@ -1,7 +1,7 @@
 ---
 title: AI TINKERERS
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/AITinkerers.png
+cover: /images/patrocinios/AITinkerers.png
 twitter: 
 linkedin: 
 website: 

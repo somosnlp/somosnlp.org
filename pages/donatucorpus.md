@@ -2,7 +2,7 @@
 title: Dona tu corpus
 description: Vamos a estandarizar el proceso de evaluación de LLMs en nuestras lenguas y necesitamos tu ayuda
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/240301_hackathon.jpg
+cover: /images/eventos/240301_hackathon.jpg
 ---
 
 La iniciativa #Somos600M tiene dos objetivos ambiciosos:
@@ -112,16 +112,16 @@ Campaña de recolección de corpus organizada con el apoyo de:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Instituto de Ingeniería del Conocimiento" url="http://somosnlp.org/patrocinios/iic"
-logo="https://somosnlp.github.io/assets/images/patrocinios/iic.bmp"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/iic_dark.bmp" />
+logo="/images/patrocinios/iic.bmp"
+logo_dark="/images/patrocinios/iic_dark.bmp" />
 
 <SponsorInfo sponsor="Sociedad Española para el Procesamiento del Lenguaje Natural" url="https://www.sepln.org"
-logo="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/SEPLN.png" />
+logo="/images/patrocinios/SEPLN.png"
+logo_dark="/images/patrocinios/SEPLN.png" />
 
 <SponsorInfo sponsor="LenguajeNatural.AI" url="https://lenguajenatural.ai"
-logo="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg"
-logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalAI.jpeg" />
+logo="/images/patrocinios/LenguajeNaturalAI.jpeg"
+logo_dark="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 
 </div>
 
@@ -129,5 +129,5 @@ logo_dark="https://somosnlp.github.io/assets/images/patrocinios/LenguajeNaturalA
 Colección de corpus donados:
 
 <a href="https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d" target="_blank">
-<img src="https://somosnlp.github.io/assets/images/blog/coleccion_corpus_donados.png" alt="Colección de corpus donados">
+<img src="/images/blog/coleccion_corpus_donados.png" alt="Colección de corpus donados">
 </a>

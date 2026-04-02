@@ -4,7 +4,7 @@ description: ¡Te ayudamos a presentar tu proyecto a la conferencia!
 date: 2024-03-18T16:00:00.000+00:00
 lang: es
 duration: 3min
-cover: "https://somosnlp.github.io/assets/images/blog/latinx_in_ai_naacl_2024.jpg"
+cover: "/images/blog/latinx_in_ai_naacl_2024.jpg"
 author: María Grandury
 bio: Fundadora @SomosNLP
 ---
@@ -14,7 +14,7 @@ El equipo de LatinX in AI invita a toda la comunidad a presentar sus proyectos a
 [*(English version)*](https://somosnlp.org/blog/en/latinx-in-ai-at-naacl-2024)
 
 <div class="flex justify-center">
-    <img src="https://somosnlp.github.io/assets/images/blog/latinx_in_ai_naacl_2024.jpg"
+    <img src="/images/blog/latinx_in_ai_naacl_2024.jpg"
     alt="LatinX in NLP NAACL 2024" width="300"/>
 </div>
 

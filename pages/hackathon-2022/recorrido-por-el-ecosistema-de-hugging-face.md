@@ -2,7 +2,7 @@
 title: "Taller Práctico: Recorrido por el ecosistema de Hugging Face"
 speaker: Manuel Romero
 speaker_bio: Ingeniero de NLP/NLG @Narrativa.AI | Head Collaborator @HuggingFace
-speaker_pic: https://somosnlp.github.io/assets/images/core_team_manuel_romero.jpg
+speaker_pic: /images/core_team_manuel_romero.jpg
 date: 2022-03-14T18:00:00.000+00:00
 lang: es
 time: 18h CET
@@ -10,7 +10,7 @@ time: 18h CET
 
 <EventSummary
     description="En este taller Manuel Romero nos mostrará todos las herramientas que Hugging Face provee para colaborar a la democratización de la IA: Tokenizers, Datasets, Model Hub y Spaces. Además, nos enseñará cómo aprovechar todas esas herramientas para crear nuestro modelo (y base de datos) desde cero y ponerlo en producción."
-    poster="https://somosnlp.github.io/assets/images/evento_manu.png"
+    poster="/images/evento_manu.png"
     video="https://www.youtube.com/embed/_TbNgSodiPY"
     name="Manuel Romero"
     website="https://hf.co/mrm8488"

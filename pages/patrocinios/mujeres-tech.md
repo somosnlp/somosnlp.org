@@ -1,7 +1,7 @@
 ---
 title: Mujeres Tech
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png
+cover: /images/patrocinios/MujeresTech.png
 twitter: 
 linkedin:
 website: https://www.mujerestech.com/
@@ -21,7 +21,7 @@ Mujeres Tech es una asociación sin ánimo de lucro que nace a principios de 201
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/evento_23_03_encrucijada.png"
+    poster="/images/evento_23_03_encrucijada.png"
     video="https://www.youtube.com/embed/GX4l3WhOy4o"
     name=""
     twitter=""
@@ -31,5 +31,5 @@ Mujeres Tech es una asociación sin ánimo de lucro que nace a principios de 201
 
 <div class="flex justify-center">
     <img alt="MujeresTech" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/MujeresTech.png" />
+    src="/images/patrocinios/MujeresTech.png" />
 </div>

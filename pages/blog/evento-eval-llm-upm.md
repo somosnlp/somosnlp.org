@@ -4,7 +4,7 @@ description: Te invitamos a asistir al evento de evaluación de LLM en la Univer
 date: 2024-12-16T10:00:00.000+00:00
 lang: es
 duration: 2min
-cover: "https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png"
+cover: "/images/eventos/20241217_evaluacion_llm_upm.png"
 author: María Grandury, Gonzalo Martínez, Miguel González
 bio: Investigadora de NLP en UPM y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -20,7 +20,7 @@ Lanzamos una serie de eventos presenciales en Madrid en colaboración con el gru
 ---
 
 <div class="flex justify-center">
-    <img src="https://github.com/somosnlp/assets/raw/main/images/eventos/20241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="300"/>
+    <img src="/images/eventos/20241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="300"/>
 </div>
 
 📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, ENTAINA, IEEE Sección España y SomosNLP 🤗 

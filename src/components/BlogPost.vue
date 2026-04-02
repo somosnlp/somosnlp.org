@@ -33,7 +33,7 @@ useHead({
             content: computed(
                 () => frontmatter.cover
                     ? frontmatter.cover
-                    : 'https://somosnlp.github.io/assets/logo.png')
+                    : '/logo.png')
         },
         { name: 'twitter:image:alt', content: 'Logo de la comunidad SomosNLP' }
     ]

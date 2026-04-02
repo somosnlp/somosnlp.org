@@ -1,7 +1,7 @@
 ---
 title: UNED NLP
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png
+cover: /images/patrocinios/UNEDNLP.png
 twitter: https://twitter.com/UNEDNLP
 linkedin:
 website: https://sites.google.com/view/nlp-uned/home
@@ -17,5 +17,5 @@ UNED Research Group in NLP & IR
 
 <div class="flex justify-center">
     <img alt="UNEDNLP" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/UNEDNLP.png" />
+    src="/images/patrocinios/UNEDNLP.png" />
 </div>

@@ -1,7 +1,7 @@
 ---
 title: WomenTech Global Conference
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png
+cover: /images/patrocinios/WomenTechNetwork.png
 twitter: 
 linkedin:
 website: 
@@ -17,7 +17,7 @@ years: 2025, 2024, 2023, 2022
 
 <div class="flex justify-center">
     <img alt="WomenTechNetwork" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/WomenTechNetwork.png" />
+    src="/images/patrocinios/WomenTechNetwork.png" />
 </div>
 
 <!-- TODO -->

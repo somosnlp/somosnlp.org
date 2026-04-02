@@ -1,7 +1,7 @@
 ---
 title: Danae Sánchez, PhD
 description: Investigadora Postdoctoral PLN @University of Copenhagen
-cover: https://somosnlp.github.io/assets/images/comunidad/danae_sanchez.jpeg
+cover: /images/comunidad/danae_sanchez.jpeg
 website: 
 twitter: 
 linkedin: 

@@ -2,7 +2,7 @@
 title: "Retos #HackathonSomosNLP 2025"
 description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 <script setup>
@@ -16,7 +16,7 @@ const miniChallenges = [
     points: "1 pto",
     requirements: "Saber buscar en internet",
     link: "https://somosnlp.org/hackathon/retos/include",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "Estereotipos",
@@ -25,7 +25,7 @@ const miniChallenges = [
     points: "1 pto",
     requirements: "Haber vivido en sociedad",
     link: "https://somosnlp.org/hackathon/retos/estereotipos",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "Preguntas culturales (BLEND)",
@@ -34,7 +34,7 @@ const miniChallenges = [
     points: "2 ptos",
     requirements: "Haber vivido en sociedad",
     link: "https://somosnlp.org/hackathon/retos/blend",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
 
@@ -46,7 +46,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural",
     link: "https://somosnlp.org/hackathon/retos/preferencias",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "2.A. Alinea un modelo textual (LLM)",
@@ -55,7 +55,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Saber programar",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "2.B. Alinea un modelo multimodal",
@@ -64,7 +64,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Tener experiencia en PLN",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
 
@@ -76,7 +76,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "4. Graba un vídeo",
@@ -85,7 +85,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
     title: "5. (Opcional) Escribe un paper",
@@ -94,7 +94,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
 </script>
@@ -311,7 +311,7 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 [¡Grabación ya disponible!](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI&index=3)
 
-![alt text](https://somosnlp.github.io/assets/images/eventos/250415_alfonso_amayuelas.png)
+![alt text](/images/eventos/250415_alfonso_amayuelas.png)
 
 
 #### Confidently wrong: expresando incertidumbre en tareas multilinguales | Selene Baez, Postdoc @ University of Zurich
@@ -320,7 +320,7 @@ Si bien la fluidez y la coherencia de los Modelos de Lenguaje (LLM) en la genera
 
 [¡Grabación disponible!](https://www.youtube.com/watch?v=TC9tOEyPqy8&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
-![alt text](https://somosnlp.github.io/assets/images/eventos/250410_selene_baez.png)
+![alt text](/images/eventos/250410_selene_baez.png)
 
 #### Red Teaming para Modelos de Lenguaje | Luis Vasquez, Research Engineer @Barcelona Supercomputing Center
 
@@ -328,4 +328,4 @@ Breve introducción al Red Teaming para Modelos de Lenguaje: definición, estrat
 
 [¡Grabación disponible!](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
-![alt text](https://somosnlp.github.io/assets/images/eventos/250410_luis_vasquez.png) -->
+![alt text](/images/eventos/250410_luis_vasquez.png) -->

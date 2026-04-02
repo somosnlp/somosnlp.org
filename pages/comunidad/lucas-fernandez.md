@@ -1,7 +1,7 @@
 ---
 title: Lucas Fernández 
 description: Ingeniero Industrial, MBA | Fundador @AgilMentor 
-cover: https://somosnlp.github.io/assets/images/comunidad/lucas_fernandez.jpg
+cover: /images/comunidad/lucas_fernandez.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/lucas-g-fernandez/
 website: 
@@ -14,7 +14,7 @@ community: Ponente
 
 <EventSummary
     description="En la charla abordaremos cual es el camino que recorre un proyecto en estadio idea hasta convertirse en una startup con alcance global. En este camino veremos específicamente cómo financiarse para crecer y qué puntos son relevantes para un inversor. No te pierdas los consejos que vamos a darte!"
-    poster="https://somosnlp.github.io/assets/images/eventos/230329_de_la_idea_a_la_startup.jpg"
+    poster="/images/eventos/230329_de_la_idea_a_la_startup.jpg"
     video="https://www.youtube.com/embed/oQnu5aE4_8M"
     name=""
     website=""

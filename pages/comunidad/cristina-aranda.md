@@ -1,7 +1,7 @@
 ---
 title: Cristina Aranda, PhD
 description: Cofundadora @Mujeres Tech y @Big Onion
-cover: https://somosnlp.github.io/assets/images/comunidad/cristina_aranda.jpg
+cover: /images/comunidad/cristina_aranda.jpg
 twitter: https://twitter.com/cris_aranda_
 linkedin: https://www.linkedin.com/in/cristinaaranda
 website: 
@@ -14,7 +14,7 @@ community: Patrocinio
 
 <EventSummary
     description=""
-    poster="https://somosnlp.github.io/assets/images/evento_23_03_encrucijada.png"
+    poster="/images/evento_23_03_encrucijada.png"
     video="https://www.youtube.com/embed/GX4l3WhOy4o"
     name="Cristina Aranda Gutiérrez"
     twitter="https://twitter.com/cris_aranda_"

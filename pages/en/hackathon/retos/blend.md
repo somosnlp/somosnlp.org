@@ -2,7 +2,7 @@
 title: "Challenge #HackathonSomosNLP 2025: BLEND"
 description: How to participate in this challenge and help improve the cultural knowledge of language models
 lang: en
-cover: https://somosnlp.github.io/assets/images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 We're only collecting question answers in Spanish and Portuguese. If you are from or have lived a long time in LATAM or the Iberian Peninsula, you can check the guidelines in [Spanish](https://somosnlp.org/hackathon/retos/blend) and [Portuguese](https://somosnlp.org/pt/hackathon/retos/blend).

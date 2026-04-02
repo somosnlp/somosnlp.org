@@ -1,7 +1,7 @@
 ---
 title:
 description:
-cover: https://somosnlp.github.io/assets/images/patrocinios/
+cover: /images/patrocinios/
 cover_dark:
 twitter: 
 linkedin:
@@ -26,7 +26,7 @@ Descripción.
 
 <div class="flex justify-center">
     <img alt="Nombre" width="250" height="140" 
-    src="https://somosnlp.github.io/assets/images/patrocinios/" />
+    src="/images/patrocinios/" />
 </div>
 
 *Última actualización: 1 de julio de 2023*
