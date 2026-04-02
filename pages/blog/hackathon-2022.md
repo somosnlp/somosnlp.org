@@ -4,7 +4,7 @@ description: El mayor hackathon open-source de PLN en español con más de 500 p
 date: 2022-05-03T18:00:00.000+00:00
 lang: es
 duration: 6min
-cover: /images/hackathon_pln_es_3.png
+cover: /images/eventos/220314_hackathon_pln_es_3.png
 author: María Grandury
 bio: ML Research Engineer y fundadora de SomosNLP
 website: https://mariagrandury.com
@@ -26,7 +26,7 @@ Como ya sabéis, la democratización del PLN en español es el objetivo principa
 Antes de nada, un aplauso para [TODOS los equipos participantes](https://hf.co/hackathon-pln-es) por vuestro esfuerzo y dedicación. La verdad es que nos lo pusisteis muy complicado a los miembros del jurado y, en nombre de todo el equipo de SomosNLP quiero decir que estamos muy orgullosxs y esperamos que hayáis aprendido mucho y os animéis a participar en las siguientes ediciones.
 
 <div class="flex justify-center">
-    <img src="/images/jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315"/>
+    <img src="/images/eventos/220314_jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315"/>
 </div> 
 
 A continuación, los proyectos ganadores de la primera edición del hackathon de PLN en español de SomosNLP:
@@ -48,7 +48,7 @@ A continuación, los proyectos ganadores de la primera edición del hackathon de
 Además de la creación de bases de datos y de modelos open-source, durante el hackathon también invitamos a expertxs del mundo del PLN para que compartieran su conocimiento y experiencia con toda la comunidad. 
 
 <div class="flex justify-center">
-    <img src="/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="560" height="315"  />
+    <img src="/images/eventos/220314_hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="560" height="315"  />
 </div>
 
 A continuación la lista de charlas y talleres y lxs grandes profesionales que las impartieron (por fecha):

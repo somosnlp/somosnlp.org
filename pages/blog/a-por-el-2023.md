@@ -31,7 +31,7 @@ Además, durante los días que se celebró el hackathon tuvimos la suerte de con
 
 <div class="flex justify-center">
     <a href="https://www.youtube.com/@somosnlp" target="_blank">
-        <img src="/images/hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="560" height="315"  />
+        <img src="/images/eventos/220314_hackathon_eventos.gif" alt="Charlas y talleres del hackathon" width="560" height="315"  />
     </a>
 </div>
 

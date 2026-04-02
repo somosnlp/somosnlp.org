@@ -33,7 +33,7 @@ community: Ponente
 
 <div class="flex justify-center">
     <a href="https://somosnlp.org/blog/hackathon-2022" target="_blank">
-        <img src="/images/jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315" />
+        <img src="/images/eventos/220314_jurado_hackathon.png" alt="Jurado del Hackathon 2022" width="560" height="315" />
     </a>
 </div>
 
