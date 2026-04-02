@@ -272,47 +272,47 @@ useHead({
             <h3>🥇 Patrocinadores de oro</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="Paperspace" url="https://www.paperspace.com/"
-                    logo="/images/logo_paperspace.svg"
-                    logo_dark="/images/logo_paperspace_dark.svg" />
+                    logo="/images/patrocinios/paperspace.svg"
+                    logo_dark="/images/patrocinios/paperspace_dark.svg" />
                 <SponsorInfo sponsor="Platzi" url="https://platzi.com/"
-                    logo="/images/logo_platzi.png"
-                    logo_dark="/images/logo_platzi_dark.png" />
+                    logo="/images/patrocinios/platzi.png"
+                    logo_dark="/images/patrocinios/platzi_dark.png" />
                 <SponsorInfo sponsor="Hugging Face" url="https://huggingface.co/"
-                    logo="/images/logo_HuggingFace.svg"
-                    logo_dark="/images/logo_HuggingFace.svg" />
+                    logo="/images/patrocinios/HuggingFace.svg"
+                    logo_dark="/images/patrocinios/HuggingFace.svg" />
             </div>
             <h3>🥈 Patrocinadores de plata</h3>
             <div class="auto-rows-fr grid gap-x-16 place-items-center lg:grid-cols-3">
                 <SponsorInfo sponsor="BSC" url="https://www.bsc.es/"
-                    logo="/images/logo_BSC.png"
-                    logo_dark="/images/logo_BSC_dark.png" />
+                    logo="/images/patrocinios/BSC.png"
+                    logo_dark="/images/patrocinios/BSC_dark.png" />
                 <SponsorInfo sponsor="DiverTLes" url="https://gplsi.dlsi.ua.es/pln/divertles"
-                    logo="/images/logo_DiverTLes.png"
-                    logo_dark="/images/logo_DiverTLes_dark.png" />
+                    logo="/images/patrocinios/DiverTLes.png"
+                    logo_dark="/images/patrocinios/DiverTLes_dark.png" />
                 <SponsorInfo sponsor="IBiDat" url="https://ibidat.es/"
-                    logo="/images/logo_IBiDat.png"
-                    logo_dark="/images/logo_IBiDat_dark.png" />
+                    logo="/images/patrocinios/IBiDat.png"
+                    logo_dark="/images/patrocinios/IBiDat_dark.png" />
                 <SponsorInfo sponsor="Narrativa" url="https://www.narrativa.com/"
-                    logo="/images/logo_Narrativa.png"
-                    logo_dark="/images/logo_Narrativa_dark.png" />
+                    logo="/images/patrocinios/Narrativa.png"
+                    logo_dark="/images/patrocinios/Narrativa_dark.png" />
                 <SponsorInfo sponsor="Plan TL" url="https://plantl.mineco.gob.es/"
-                    logo="/images/logo_PlanTL.png"
-                    logo_dark="/images/logo_PlanTL_dark.png" />
+                    logo="/images/patrocinios/PlanTL.png"
+                    logo_dark="/images/patrocinios/PlanTL_dark.png" />
                 <SponsorInfo sponsor="PLNnet" url="https://gplsi.dlsi.ua.es/pln/"
-                    logo="/images/logo_PLNnet.svg"
-                    logo_dark="/images/logo_PLNnet.svg" />
+                    logo="/images/patrocinios/PLNnet.svg"
+                    logo_dark="/images/patrocinios/PLNnet.svg" />
                 <SponsorInfo sponsor="Saturdays AI" url="https://saturdays.ai/"
-                    logo="/images/logo_SaturdaysAI.png"
-                    logo_dark="/images/logo_SaturdaysAI.png" />
+                    logo="/images/patrocinios/SaturdaysAI.png"
+                    logo_dark="/images/patrocinios/SaturdaysAI.png" />
                 <SponsorInfo sponsor="Spain AI" url="https://www.spain-ai.com/"
-                    logo="/images/logo_SpainAI.png"
-                    logo_dark="/images/logo_SpainAI_dark.png" />
+                    logo="/images/patrocinios/SpainAI.png"
+                    logo_dark="/images/patrocinios/SpainAI_dark.png" />
                 <SponsorInfo sponsor="UNAM" url="https://www.unam.mx/"
-                    logo="/images/logo_UNAM.png"
-                    logo_dark="/images/logo_UNAM_dark.png" />
+                    logo="/images/patrocinios/UNAM.png"
+                    logo_dark="/images/patrocinios/UNAM_dark.png" />
                 <SponsorInfo sponsor="UNL" url="https://www.unl.edu.ec/"
-                    logo="/images/logo_UNL_square.png"
-                    logo_dark="/images/logo_UNL_square.png" />
+                    logo="/images/patrocinios/UNL_square.png"
+                    logo_dark="/images/patrocinios/UNL_square.png" />
             </div>
         </article>
     </Container>

@@ -17,7 +17,7 @@ community: Ponente 2025
 
 <EventSummary
     description="Charla sobre diferentes desafíos éticos y metodologías sociotécnicas para enfrentarlos. Habrá preguntas interactivas."
-    poster="/logo_somosnlp.png"
+    poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />
 

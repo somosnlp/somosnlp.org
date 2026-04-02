@@ -30,7 +30,7 @@ import yaml
 EVENT_NAME = "Hackathon SomosNLP"
 EVENT_YEAR = "2025"
 EVENT_DIR = "hackathon"
-DEFAULT_POSTER = "/logo_somosnlp.png"
+DEFAULT_POSTER = "/images/patrocinios/somosnlp.png"
 DEFAULT_YOUTUBE = "https://www.youtube.com/@SomosNLP"
 COMMUNITY_PHOTOS_BASE_URL = "/images/comunidad"
 FILE_PATH = "ponencias.csv"

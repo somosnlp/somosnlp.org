@@ -22,7 +22,7 @@ Para fomentar distintas habilidades de nuestra comunidad, este año queremos dar
 - Fecha: 17 marzo al 13 de abril de 2025
 - Página web: somosnlp.org/hackathon
 - #HackathonSomosNLP
-- [Logo de SomosNLP](/logo_somos_nlp.png)
+- [Logo de SomosNLP](/images/patrocinios/somos_nlp.png)
 
 ## 📝 Notas
 

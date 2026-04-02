@@ -17,7 +17,7 @@ community: Ponente 2025
 
 <EventSummary
     description="Una vista general a los Transformers: sus conceptos básicos, lo que hubo antes de ellos, y cómo cambió el paradigma del procesamiento de lenguaje natural"
-    poster="/logo_somosnlp.png"
+    poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />
 

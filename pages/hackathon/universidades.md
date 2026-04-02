@@ -61,8 +61,8 @@ logo="/images/patrocinios/UNEDNLP.png"
 logo_dark="/images/patrocinios/UNEDNLP.png" />
 
 <SponsorInfo sponsor="UNAM" url="https://www.unam.mx/"
-logo="/images/logo_UNAM.png"
-logo_dark="/images/logo_UNAM_dark.png" />
+logo="/images/patrocinios/UNAM.png"
+logo_dark="/images/patrocinios/UNAM_dark.png" />
 
 <SponsorInfo sponsor="MCD UNISON" url="https://mcd.unison.mx"
 logo="/images/patrocinios/MCDUnisonMX.png"

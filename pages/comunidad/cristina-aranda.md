@@ -14,7 +14,7 @@ community: Patrocinio
 
 <EventSummary
     description=""
-    poster="/images/evento_23_03_encrucijada.png"
+    poster="/images/eventos/220323_encrucijada.png"
     video="https://www.youtube.com/embed/GX4l3WhOy4o"
     name="Cristina Aranda Gutiérrez"
     twitter="https://twitter.com/cris_aranda_"

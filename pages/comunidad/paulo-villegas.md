@@ -30,7 +30,7 @@ community: Ponente
 
 <EventSummary
     description="Los modelos NLP modernos con arquitectura tipo Transformer son increíblemente efectivos, pero también necesitan una increíble cantidad de datos para entrenar bien. En esta charla comentaré procedimientos para filtrar adecuadamente esos datasets de entrenamiento, especialmente el muestreo basado en perplejidad."
-    poster="/images/evento_paulo.png"
+    poster="/images/eventos/220323_paulo.png"
     video="https://www.youtube.com/embed/UQwWTykNFW0"
     bio="Experto tecnológico senior en Chief Digital Office de Telefónica. Profesor asociado en la Universidad Autónoma de Madrid. Interesado en ciencia de datos, Machine Learning, NLP e impacto de las tecnologías."
     hide_personal_info

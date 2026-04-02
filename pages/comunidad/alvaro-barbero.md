@@ -23,7 +23,7 @@ community: Ponente
 
 <EventSummary
     description="En esta charla hablaremos sobre RigoBERTa, el modelo de lenguaje del español que hemos construido en el IIC, y con el que hemos logrado superar el estado del arte en un benchmark de tareas diversas de PLN. Comentaremos algunos de los detalles de tratamiento de corpus y de entrenamiento del modelo que fueron necesarios para conseguir este hito, y presentaremos una comparativa contra los modelos del lenguaje español más exitosos hasta la fecha."
-    poster="/images/evento_iic.png"
+    poster="/images/eventos/220321_iic.png"
     video="https://www.youtube.com/embed/3OhArr1R2Lw"
 />
 

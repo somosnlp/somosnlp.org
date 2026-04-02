@@ -2,7 +2,7 @@
 title: Infiriendo Topics con clustering no-supervisado usando Graphext
 speaker: Victoriano Izquierdo
 speaker_bio: Co-Fundador y CEO @Graphext
-speaker_pic: /images/ponente_victoriano_izquierdo.jpg
+speaker_pic: /images/comunidad/victoriano_izquierdo.jpg
 date: 2022-03-31T13:00:00.000+00:00
 lang: es
 time: 13h CET
@@ -10,7 +10,7 @@ time: 13h CET
 
 <EventSummary
     description="Veremos cómo inferir topics de tweets, noticias o cualquier tipo de textos a partir de embeddings usando models alojados en HuggingFace y sin escribir una línea de código con Graphext."
-    poster="/images/evento_victoriano.png"
+    poster="/images/eventos/220331_victoriano.png"
     video="https://www.youtube.com/embed/7ckg10QUHLw"
     name="Victoriano Izquierdo"
     twitter="https://twitter.com/victorianoi"

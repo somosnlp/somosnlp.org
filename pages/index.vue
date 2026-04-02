@@ -259,21 +259,21 @@ const showPastEvents = ref(true);
             src="/images/eventos/221213_neutralizacion_de_genero.jpg" />
         </a>
         <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
-          <img alt="Evento 03" width="650" height="365" src="/images/evento_iic.png" />
+          <img alt="Evento 03" width="650" height="365" src="/images/eventos/220321_iic.png" />
         </a>
 
         <!-- HACKATHON 2022 -->
         <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 04" width="650" height="365"
-            src="/images/evento_cristina.png" />
+            src="/images/eventos/220323_cristina.png" />
         </a>
         <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 05" width="650" height="365"
-            src="/images/evento_paulo.png" />
+            src="/images/eventos/220323_paulo.png" />
         </a>
         <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
           <img alt="Evento 06" width="650" height="365"
-            src="/images/evento_ximena.png" />
+            src="/images/eventos/220330_ximena.png" />
         </a>
       </div>
       <router-link to="/eventos" class="button-accent max-w-100 mx-auto">

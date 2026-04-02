@@ -97,8 +97,8 @@ Thank you very much for your time and for supporting us so that our initiative c
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
-logo="/logo_somosnlp_nobg.png"
-logo_dark="/logo_somosnlp_nobg.png" />
+logo="/images/patrocinios/somosnlp_nobg.png"
+logo_dark="/images/patrocinios/somosnlp_nobg.png" />
 
 <SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
 logo="/images/patrocinios/CENIA.jpeg"

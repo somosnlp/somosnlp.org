@@ -17,7 +17,7 @@ community: Ponente 2025
 
 <EventSummary
     description="One of the first issues in alignment of NLPs is to know exactly what an NLP should align to. With so many aspects of language and interaction to consider, how can we identify which language is the right language to use? Cultural scripts, from the natural semantic metalanguage approach to linguistic semantics and pragmatics provide a way of describing and unpacking what people do with interaction, why they do it, and how it can be interpreted across different contexts. This talk will give an introduction to the NSM theory, an overview of how interaction can be described using cultural scripts, and show examples of how they can be used to describe fine-grained differences between language varieties."
-    poster="/logo_somosnlp.png"
+    poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />
 
