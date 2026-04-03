@@ -3,12 +3,13 @@ import fs from 'fs-extra'
 import { defineConfig } from 'vite'
 import Vue from '@vitejs/plugin-vue'
 import Pages from 'vite-plugin-pages'
-import ViteIcons, { ViteIconsResolver } from 'vite-plugin-icons'
-import ViteComponents from 'vite-plugin-components'
-import Markdown from 'vite-plugin-md'
+import Icons from 'unplugin-icons/vite'
+import IconsResolver from 'unplugin-icons/resolver'
+import Components from 'unplugin-vue-components/vite'
+import Markdown from 'vite-plugin-vue-markdown'
 import WindiCSS from 'vite-plugin-windicss'
-import VueI18n from '@intlify/vite-plugin-vue-i18n'
 import Prism from 'markdown-it-prism'
+import yaml from 'js-yaml'
 import matter from 'gray-matter'
 // @ts-expect-error missing types
 import LinkAttributes from 'markdown-it-link-attributes'
@@ -30,7 +31,7 @@ export default defineConfig({
     // https://github.com/hannoeru/vite-plugin-pages
     Pages({
       extensions: ['vue', 'md'],
-      pagesDir: 'pages',
+      dirs: 'pages',
       extendRoute(route) {
         const path_ = path.resolve(__dirname, route.component.slice(1))
 
@@ -44,10 +45,10 @@ export default defineConfig({
       },
     }),
 
-    // https://github.com/antfu/vite-plugin-md
+    // https://github.com/antfu/vite-plugin-vue-markdown
     Markdown({
       wrapperComponent: 'BlogPost',
-      headEnabled: true,
+      headEnabled: false,
       markdownItSetup(md) {
         // https://prismjs.com/
         md.use(Prism)
@@ -61,39 +62,46 @@ export default defineConfig({
       },
     }),
 
-    // https://github.com/antfu/vite-plugin-components
-    ViteComponents({
+    // https://github.com/antfu/unplugin-vue-components
+    Components({
       // allow auto load markdown components under `./src/components/`
       extensions: ['vue', 'md'],
 
       // allow auto import and register components used in markdown
-      customLoaderMatcher: id => id.endsWith('.md'),
+      include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
 
-      globalComponentsDeclaration: true,
+      dts: 'components.d.ts',
 
       // auto import icons
-      customComponentResolvers: [
-        // https://github.com/antfu/vite-plugin-icons
-        ViteIconsResolver({
-          componentPrefix: '',
+      resolvers: [
+        // https://github.com/antfu/unplugin-icons
+        IconsResolver({
+          prefix: '',
           // enabledCollections: ['carbon']
         }),
       ],
     }),
 
-    // https://github.com/antfu/vite-plugin-icons
-    ViteIcons({ scale: 1.25 }),
+    // https://github.com/antfu/unplugin-icons
+    Icons({ scale: 1.25 }),
 
     // https://github.com/antfu/vite-plugin-windicss
     WindiCSS({
       safelist: 'prose prose-sm m-auto text-left',
     }),
 
-    // https://github.com/intlify/vite-plugin-vue-i18n
-    // TODO: Deprecated, move to https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n
-    VueI18n({
-      include: [path.resolve(__dirname, 'locales/**')],
-    }),
+    // Inline YAML loader for i18n locale files
+    {
+      name: 'yaml-loader',
+      transform(code, id) {
+        if (!/\.ya?ml$/.test(id)) return
+        const data = yaml.load(code)
+        return {
+          code: `export default ${JSON.stringify(data)}`,
+          map: null,
+        }
+      },
+    },
   ],
   // https://github.com/antfu/vite-ssg
   ssgOptions: {

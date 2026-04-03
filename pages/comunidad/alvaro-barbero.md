@@ -13,8 +13,7 @@ community: Ponente
 - BiomedIA: 1er puesto Hackathon SomosNLP 2022
 
 <EventSummary
-    description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible.
-    BiomedIA genera, con gran precisión, respuestas a preguntas abiertas sobre biomedicina, formuladas tanto de manera escrita como oral."
+    description="BiomedIA fue el proyecto ganador de nuestro hackathon de PLN en español orientado a los Objetivos de Desarrollo Sostenible. BiomedIA genera, con gran precisión, respuestas a preguntas abiertas sobre biomedicina, formuladas tanto de manera escrita como oral."
     poster=""
     video="https://www.youtube.com/embed/fOQLPuXewzE"
 />

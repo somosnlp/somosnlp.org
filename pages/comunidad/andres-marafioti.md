@@ -16,11 +16,7 @@ community: Ponente 2025
 - Cómo hacer un Modelos Visión-Lenguaje eficiente? | Hackathon SomosNLP 2025
 
 <EventSummary
-    description="Los Modelos de Lenguaje de Gran Escala (LLMs) han transformado la manera en que las máquinas entienden y generan texto. Pero, ¿qué sucede cuando les enseñamos a ver?
-
-Los Modelos Visión-Lenguaje (VLMs) combinan el poder del entendimiento visual y textual, permitiendo que las máquinas interpreten y razonen sobre el mundo de forma multimodal. En esta charla, exploraremos cómo funcionan los VLMs, desmitificaremos la mecánica detrás de sus capacidades visuales y discutiremos por qué es importante hacerlos eficientes. En el camino, presentaré SmolVLM, nuestro modelo VLM compacto de última generación, y compartiré ideas sobre cómo lo optimizamos para funcionar directamente en dispositivos sin comprometer el rendimiento.
-
-Tanto si eres nuevo en la inteligencia artificial multimodal como si ya eres un experto, te llevarás una comprensión más profunda de cómo ven las máquinas —y de cómo pueden hacerlo de forma más inteligente."
+    description="Los Modelos de Lenguaje de Gran Escala (LLMs) han transformado la manera en que las máquinas entienden y generan texto. Pero, ¿qué sucede cuando les enseñamos a ver? Los Modelos Visión-Lenguaje (VLMs) combinan el poder del entendimiento visual y textual, permitiendo que las máquinas interpreten y razonen sobre el mundo de forma multimodal. En esta charla, exploraremos cómo funcionan los VLMs, desmitificaremos la mecánica detrás de sus capacidades visuales y discutiremos por qué es importante hacerlos eficientes. En el camino, presentaré SmolVLM, nuestro modelo VLM compacto de última generación, y compartiré ideas sobre cómo lo optimizamos para funcionar directamente en dispositivos sin comprometer el rendimiento. Tanto si eres nuevo en la inteligencia artificial multimodal como si ya eres un experto, te llevarás una comprensión más profunda de cómo ven las máquinas —y de cómo pueden hacerlo de forma más inteligente."
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />

@@ -17,6 +17,6 @@ export const createApp = ViteSSG(
   { routes, scrollBehavior },
   (ctx) => {
     // install all modules under `modules/`
-    Object.values(import.meta.globEager('./modules/*.ts')).map(i => i.install?.(ctx))
+    Object.values(import.meta.glob('./modules/*.ts', { eager: true })).map((i: any) => i.install?.(ctx))
   },
 )
