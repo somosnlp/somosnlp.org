@@ -2,8 +2,10 @@
 title: Talent Arena 2026
 description: Tenemos entradas gratis para asistir a este maravilloso evento
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250728_bof_es.png
+cover: https://somosnlp.github.io/assets/images/eventos/260302_talent_arena.jpg
 ---
+
+![Talent Arena 2026](/images/eventos/260302_talent_arena.jpg)
 
 ## 🔥 ¡Nos vemos en Talent Arena 2026!
 
@@ -11,7 +13,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250728_bof_es.png
 
 ## 🎟️ Entradas para la comunidad
 
-Nuestros amigos del Talent Arena nos han regalado entradas XPro. ¡Escríbenos si quieres asistir!
+El equipo del Talent Arena nos han regalado entradas XPro. ¡Escríbenos si quieres asistir!
 
 Más info sobre lo que incluye la entrada en [talentarena.tech/es/entrada-xpro](https://talentarena.tech/es/entrada-xpro).
 

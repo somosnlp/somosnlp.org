@@ -7,13 +7,10 @@ duration: 3min
 cover: "/images/blog/la-leaderboard.png"
 ---
 
-16 May 2026, Palma de Mallorca, Spain
-
-https://sites.google.com/view/lanlp2026/home
-
-Co-located Networking Symposium @ LREC 2026
-
-https://lrec2026.info/
+- Co-located Networking Symposium @ LREC 2026
+- 16 May 2026, Palma de Mallorca, Spain
+- LANLP: https://sites.google.com/view/lanlp2026/home
+- LREC: https://lrec2026.info
 
 ## Description and Goals
 

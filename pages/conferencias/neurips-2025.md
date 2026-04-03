@@ -1,9 +1,11 @@
 ---
-title: NeurIPS 2025
-description: ¡Nos vemos en Ciudad de México para NeurIPS 2025!
+title: Birds-of-a-Feather @NeurIPS CDMX 2025
+description: Join the debate around benchmarks, biases and strategies to advance multilingual NLP
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250728_bof_es.png
+cover: https://somosnlp.github.io/assets/images/eventos/251201_neurips.png
 ---
+
+![NeurIPS 2025](/images/eventos/251201_neurips.png)
 
 ## 🔥 Let's enjoy the conference together!
 
@@ -17,7 +19,7 @@ The Thirty-Ninth Annual Conference on Neural Information Processing Systems (Neu
 
 This social aims to create a space for academic and technical reflection on the challenges of developing Natural Language Processing (NLP) for languages beyond English, with a special focus on Spanish and Portuguese. 
 
-They propose a forum to debate methodological, conceptual, and practical tensions, specifically:
+We propose a forum to debate methodological, conceptual, and practical tensions, specifically:
 - How benchmarks and datasets shape progress in non-English NLP.
 - What biases and omissions today’s AI ecosystem imposes.
 - What strategies can advance inclusive, multilingual NLP.
@@ -26,7 +28,12 @@ They propose a forum to debate methodological, conceptual, and practical tension
 Join us!
 - 📍 Hotel Hilton Reforma, Ciudad de México
 - 📅 Wednesday, December 1st
-- 🕡 18:30 hrs
+- 🕡 18:30h (local time)
+
+<!-- #TODO
+Thanks for joining, it was a pleasure having lunch with you!
+![Attendees NeurIPS 2025](/images/eventos/260325_eacl_bof.jpg)
+-->
 
 ## 🔗 Useful links
 
