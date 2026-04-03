@@ -5,11 +5,11 @@ lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/260302_talent_arena.jpg
 ---
 
-![Talent Arena 2026](/images/eventos/260302_talent_arena.jpg)
-
 ## 🔥 ¡Nos vemos en Talent Arena 2026!
 
 [Talent Arena](https://talentarena.tech) es el mayor evento de tecnología y empleo de España, donde empresas top del sector se conectan con talento tech.
+
+![Talent Arena 2026](/images/eventos/260302_talent_arena.jpg)
 
 ## 🎟️ Entradas para la comunidad
 

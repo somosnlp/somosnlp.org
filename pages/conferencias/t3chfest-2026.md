@@ -2,10 +2,8 @@
 title: T3chFest 2026
 description: Tenemos entradas gratis para asistir a este maravilloso evento
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/280312_t3chfest.jpeg
+cover: https://somosnlp.github.io/assets/images/eventos/260312_t3chfest.jpeg
 ---
-
-![T3chFest 2026](/images/eventos/280312_t3chfest.jpeg)
 
 ## 🔥 ¡Nos vemos en T3chFest 2026!
 
@@ -13,6 +11,9 @@ cover: https://somosnlp.github.io/assets/images/eventos/280312_t3chfest.jpeg
 
 - 🗓️ 12–13 de marzo de 2026
 - 📍️ Auditorio UC3M, Leganés (Madrid)
+
+![T3chFest 2026](/images/eventos/260312_t3chfest.jpeg)
+
 
 ## 🎟️ Entradas para la comunidad
 
