@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [comunidad]
 ---
 
 Hoy en Discord un miembro muy activo de la comunidad me ha preguntado cuáles eran los objetivos de la comunidad para 2024, así que aquí van un par de ideas. ¡Se aceptan sugerencias!

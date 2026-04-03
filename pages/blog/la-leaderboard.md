@@ -7,6 +7,7 @@ duration: 3min
 cover: "/images/blog/la-leaderboard.png"
 author: Maria Sayavera
 bio: Project Management, Innovation and Dissemination @BSC-CNS
+tags: [recursos]
 ---
 
 **Nace "La Leaderboard", la primera tabla de clasificación para modelos de lenguaje generativos abiertos en español y las lenguas oficiales.**

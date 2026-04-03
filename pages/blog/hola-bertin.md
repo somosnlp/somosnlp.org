@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+tags: [recursos]
 ---
 
 El equipo de BERTIN ha lanzado un nuevo modelo de lenguaje en español. Es abierto y está disponible en el Hub de Hugging Face, [¡pruébalo ya!](https://huggingface.co/bertin-project/bertin-roberta-base-spanish).

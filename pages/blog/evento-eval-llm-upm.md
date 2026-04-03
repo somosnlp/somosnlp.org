@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [charlas]
 ---
 
 Lanzamos una serie de eventos presenciales en Madrid en colaboración con el grupo GING de la Universidad Politécnica de Madrid, ENTAINA e IEEE Sección España. Presta atención a nuestra página de [eventos](/eventos) y nuestras redes sociales ✨

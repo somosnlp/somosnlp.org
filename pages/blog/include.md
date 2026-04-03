@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+tags: [recursos]
 ---
 
 Buscamos exámenes tipo test en cualquier idioma para añadirlos al benchmark multicultural INCLUDE. ¡Rellena ya el [formulario](https://forms.gle/7qfV6wJE4mZxfGFb7)!

@@ -8,6 +8,7 @@ cover: /images/patrocinios/omdena_mexico_portada.png
 author: Mario Rodriguez
 bio: Mexico Chapter Lead & Partnerships Manager at Omdena
 linkedin: https://www.linkedin.com/in/emmanuel-rotm/
+tags: [charlas]
 ---
 
 El próximo [lunes 28 de noviembre a las 8h CDMX](https://news_veracity_validator_latam.eventbrite.com), un equipo de Omdena México va a presentar su proyecto "Validador de Veracidad de Noticias". Aquí te contamos un poquito más sobre Omdena, los capítulos locales, el proyecto y el equipo.

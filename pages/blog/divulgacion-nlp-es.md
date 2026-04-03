@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [recursos]
 ---
 
 > Tenemos que dar visibilidad a iniciativas existentes, ofrecer formación de calidad y al alcance de todo el mundo, y crear bases de datos y modelos libres. Lo más importante es fomentar la colaboración entre todas las personas hispanohablantes que estamos interesadas en el PLN porque, al fin y al cabo, tenemos un objetivo común.

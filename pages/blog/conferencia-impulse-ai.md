@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [conferencias]
 ---
 
 🇲🇽 Si estás en México no te puedes perder el evento IMPULSE Data & AI

@@ -8,6 +8,7 @@ cover: /images/blog/WTGC_banner.jpg
 author: Laura Segura
 bio: Graduate Innovation Developer @Vodafone
 linkedin: https://www.linkedin.com/in/laura-segura-mayordomo
+tags: [conferencias]
 ---
 
 ¡Tenemos tickets para la WomenTech Global Conference 2023! Todas las personas que entreguen un proyecto completo al [hackathon](https://somosnlp.org/blog/hackathon-2023) podrán disfrutar de un 20% de descuento en los tickets. Además, al unirte al hackathon tendrás la oportunidad de participar en el sorteo de 3 tickets completamente gratis.

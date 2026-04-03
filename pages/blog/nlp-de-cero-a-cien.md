@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [recursos, charlas]
 ---
 
 Comprende todos los conceptos y arquitecturas clave del estado del arte del NLP y aplícalos a casos prácticos utilizando una de las bibliotecas más populares en este campo: [Hugging Face](https://github.com/huggingface). Independientemente de tus conocimientos actuales, terminarás el curso hablando tranquilamente de Word Embeddings, Modelos Secuenciales, Mecanismos de Atención, Transformers y Modelado del Lenguaje.

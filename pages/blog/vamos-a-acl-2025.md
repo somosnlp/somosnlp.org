@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+tags: [conferencias]
 ---
 
 ![ACL 2025](/images/eventos/250727_acl_banner.png)

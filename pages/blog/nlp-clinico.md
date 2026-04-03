@@ -8,6 +8,7 @@ cover: "/images/blog/distemist.png"
 author: Antonio Miranda-Escalada
 bio: NLP Engineer at Barcelona Supercomputing Center
 linkedin: https://www.linkedin.com/in/antonio-miranda-bme
+tags: [recursos, cfp]
 ---
 
 Cada día, médicos, enfermeras, fisioterapeutas, psicólogos, nutricionistas, etc. describen el estado de sus pacientes en forma de notas clínicas que se guardan en bases de datos de hospitales, consultorios y de atención primaria. Esta *información almacenada en forma de texto* (información NO estructurada) representa el <ins>80 % de los datos</ins> de salud de los pacientes. Esto hace de los sistemas NLP una piedra angular en el aprovechamiento de los datos clínicos. 

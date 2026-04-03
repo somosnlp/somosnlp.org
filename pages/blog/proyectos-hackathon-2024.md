@@ -7,6 +7,7 @@ duration: 3min
 cover: "/images/eventos/240411_presentaciones.jpg"
 author: María Grandury
 bio: Fundadora de SomosNLP
+tags: [hackathon]
 ---
 
 ¿Tienes curiosidad por ver los proyectos que se han desarrollado durante el Hackathon #Somos600M? ¡Aquí están!

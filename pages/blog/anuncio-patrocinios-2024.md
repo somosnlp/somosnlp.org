@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [hackathon]
 ---
 
 Presentamos las organizaciones que patrocinan los beneficios y premios del Hackathon SomosNLP 2024:

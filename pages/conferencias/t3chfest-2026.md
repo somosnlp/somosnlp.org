@@ -3,6 +3,8 @@ title: T3chFest 2026
 description: Tenemos entradas gratis para asistir a este maravilloso evento
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/260312_t3chfest.jpeg
+tags: [conferencias]
+date: 2026-03-12T00:00:00.000+00:00
 ---
 
 ## 🔥 ¡Nos vemos en T3chFest 2026!

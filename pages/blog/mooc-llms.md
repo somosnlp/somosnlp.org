@@ -7,6 +7,7 @@ duration: 3min
 cover: "/images/blog/mooc_upm_llms.png"
 author: Javier Conde
 bio: Profesor Ayudante Doctor @Universidad Politécnica de Madrid
+tags: [recursos]
 ---
 
 <iframe class="mx-auto my-8" width="560" height="315" src="https://www.youtube.com/embed/GjiHdSp4svI" title="MOOC Introducción" frameborder="0"

@@ -7,6 +7,7 @@ duration: 3min
 cover: "/images/blog/latinx_in_ai_naacl_2024.jpg"
 author: María Grandury
 bio: Fundadora @SomosNLP
+tags: [conferencias]
 ---
 
 El equipo de LatinX in AI invita a toda la comunidad a presentar sus proyectos al Workshop LatinX in NLP de la conferencia NAACL 2024. Desde SomosNLP os queremos animar a aprovechar esta oportunidad y colaboraremos con LatinX in AI para que vuestros proyectos tengan mayor alcance.
