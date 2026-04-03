@@ -8,6 +8,7 @@ cover: /images/blog/seleccion_articulos.png
 author: Gonzalo Martínez, PhD
 bio: Investigador de PLN @UC3M
 scholar: https://scholar.google.com/citations?user=FF6Yw5QAAAAJ
+tags: [recursos, papers]
 ---
 
 ¡Hola de nuevo, bienvenidos a la segunda edición de resúmenes de artículos de SomosNLP! 

@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [comunidad]
 ---
 
 Hace casi dos años buscaba recursos para realizar un proyecto de PLN en español y no encontré nada. Entonces creé un grupo en Slack con un par de personas que se habían topado con el mismo problema; nunca imaginé que ese grupo llegaría a convertirse en lo que es hoy SomosNLP. 

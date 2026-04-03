@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+tags: [recursos]
 ---
 
 El equipo de la Universidad de Chile ha lanzado BETO, el primer modelo de lenguaje pre-entrenado en español. Es abierto y está disponible en el Hub de Hugging Face, [¡pruébalo ya!](https://huggingface.co/dccuchile/bert-base-spanish-wwm-uncased).

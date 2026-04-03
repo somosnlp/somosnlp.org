@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [comunidad]
 ---
 
 Uno de [nuestros objetivos para 2024](https://somosnlp.org/blog/nuestros-objetivos-para-2024) es darle más visibilidad a los proyectos que desarrollen los miembros de la comunidad. Aquí os explico las diferentes maneras en que os podemos apoyar, ¡no dudes en contactarme y proponerme otras!

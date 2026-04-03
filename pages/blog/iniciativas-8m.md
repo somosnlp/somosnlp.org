@@ -6,6 +6,7 @@ date: 2023-02-28T09:00:00.000+00:00
 lang: es
 duration: 2min
 author: María Grandury
+tags: [comunidad, charlas]
 ---
 
 Con motivo del 8M queremos dar visibilidad a mujeres trabajando e investigando en PLN y también a proyectos que aplican el PLN para luchar contra el sexismo.

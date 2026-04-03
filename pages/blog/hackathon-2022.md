@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [hackathon]
 ---
 
 Ha finalizado el [primer hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia! Es todo un placer haber organizado un evento que haya conseguido reunir a más de 500 participantes de 29 países.

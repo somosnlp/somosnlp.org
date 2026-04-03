@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [recursos]
 ---
 
 TL;DR: Anota de 1 a 5 la calidad educativa de textos en tu idioma aquí: [FineWeb2](https://data-is-better-together-fineweb-c.hf.space/)

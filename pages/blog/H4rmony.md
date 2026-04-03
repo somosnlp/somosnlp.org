@@ -9,6 +9,7 @@ author: Jorge Vallego
 bio: Consultor en Ingenieria de Datos y AI - Investigador Independiente
 HuggingFace: https://huggingface.co/datasets/neovalle/H4rmony
 linkedin: linkedin.com/in/jorge-vallego-391838a6
+tags: [recursos]
 ---
 
 Durante una de las [keynotes del Hackathon #Somos600M](https://www.youtube.com/watch?v=MJLdrXz6bSE&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J), hablamos de la importancia del lenguaje en nuestra relación con el medioambiente y de cómo podemos hacer que las narrativas y discursos de los grandes modelos de lenguaje mejoren en ese sentido.

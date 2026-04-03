@@ -6,6 +6,7 @@ date: 2024-03-04T12:00:00.000+00:00
 lang: es
 duration: 1min
 author: María Grandury
+tags: [recursos]
 ---
 
 ¿Te gustaría participar en la creación de la primera leaderboard abierta de LLMs en español y lenguas cooficiales?

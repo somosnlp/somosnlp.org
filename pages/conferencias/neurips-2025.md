@@ -3,6 +3,8 @@ title: Birds-of-a-Feather @NeurIPS CDMX 2025
 description: Join the debate around benchmarks, biases and strategies to advance multilingual NLP
 lang: es
 cover: https://somosnlp.github.io/assets/images/eventos/251201_neurips.png
+tags: [conferencias]
+date: 2025-12-01T00:00:00.000+00:00
 ---
 
 ![NeurIPS 2025](/images/eventos/251201_neurips.png)

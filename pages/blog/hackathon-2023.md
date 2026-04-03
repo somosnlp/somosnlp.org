@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [hackathon]
 ---
 
 Ha finalizado la segunda edición del [hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia!

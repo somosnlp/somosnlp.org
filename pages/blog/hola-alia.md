@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 huggingface: https://huggingface.co/mariagrandury
+tags: [recursos]
 ---
 
 Esta semana se ha lanzado ALIA, la primera infraestructura pública, abierta y multilingüe de IA en Europa.

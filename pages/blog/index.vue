@@ -1,40 +1,39 @@
+<script setup lang="ts">
+import { ref } from 'vue'
+
+const TAGS = ['comunidad', 'charlas', 'recursos', 'hackathon', 'conferencias']
+const selectedTag = ref<string | null>(null)
+
+function toggleTag(tag: string) {
+    selectedTag.value = selectedTag.value === tag ? null : tag
+}
+</script>
+
 <template>
     <Container class="my-12">
         <header class="m-auto text-center prose">
             <h1>Blog #NLP</h1>
-            <a class="text-md" target="_blank" href="https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md">
-                ¿Qué quieres compartir con la comunidad?
-            </a>
+            <p>Colección de anuncios, proyectos, recursos y eventos relevantes para la comunidad. ¿Te gustaría compartir
+                algo?
+                <a class="text-md" target="_blank"
+                    href="https://github.com/somosnlp/somosnlp.org/blob/main/CONTRIBUTING.md">
+                    ¡Publica en el blog!
+                </a>
+            </p>
         </header>
-        <!-- <hr class="mx-auto mt-8 mb-12 prose" /> -->
 
-        <!-- <div class="mx-auto mt-8 mb-12 prose italic">
-            <ol>
-                <li>
-                    Crear un corpus de instrucciones de calidad que represente las variedades del español habladas por 600M
-                    de personas, así como las lenguas cooficiales 💛
-                </li>
-                <li>
-                    Estandarizar la evaluación de LLMs en estas ricas lenguas, permitiendo analizar el progreso y comparar
-                    los modelos disponibles ✅
-                </li>
-                <li>
-                    Ofreceros mayor soporte y visibilidad (¡porque estáis creando proyectos increíbles!) 🚀
-                </li>
-            </ol>
+        <hr class="mx-auto mt-8 mb-8 prose" />
 
-            <p>¿Quién se apunta? <a href="https://somosnlp.org/hackathon">somosnlp.org/hackathon</a></p>
+        <div class="flex flex-wrap gap-2 justify-center mb-8">
+            <button v-for="tag in TAGS" :key="tag" @click="toggleTag(tag)"
+                class="px-4 py-1 rounded-full text-sm border transition-colors" :class="selectedTag === tag
+                    ? 'bg-yellow-400 border-yellow-400 text-white font-semibold'
+                    : 'border-gray-300 dark:border-gray-600 hover:border-yellow-400 dark:hover:border-yellow-400'">#{{
+        tag }}</button>
         </div>
-        <div class="mx-auto mt-8 mb-12 prose">
-            <center>
-                <a href="https://somosnlp.org/blog/nuestros-objetivos-para-2024" target="_blank"
-                    style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Lee
-                    más!</a>
-            </center>
-        </div> -->
 
-        <hr class="mx-auto mt-8 mb-12 prose" />
-        <BlogList />
+        <BlogList :tag="selectedTag ?? undefined" />
+
         <hr class="mx-auto mt-8 mb-12 prose" />
         <footer class="m-auto text-center prose">
             <p>¿Te gustaría compartir algo con la comunidad?</p>

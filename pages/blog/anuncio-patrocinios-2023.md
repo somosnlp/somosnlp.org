@@ -11,6 +11,7 @@ website: https://mariagrandury.com
 twitter: https://twitter.com/mariagrandury
 linkedin: https://www.linkedin.com/in/mariagrandury
 github: https://github.com/mariagrandury
+tags: [hackathon]
 ---
 
 Presentamos las empresas patrocinadores de oro del Hackathon SomosNLP 2023:

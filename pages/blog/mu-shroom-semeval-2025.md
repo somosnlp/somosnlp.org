@@ -6,6 +6,7 @@ date: 2024-10-22T15:00:00.000+00:00
 lang: es
 duration: 1min
 author: Raúl Vazquez y Timothee Mickus
+tags: [recursos, cfp]
 ---
 
 ## Si tienes mucha prisa (TL;DR)

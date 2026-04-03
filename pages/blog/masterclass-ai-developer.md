@@ -6,6 +6,7 @@ date: 2024-03-04T12:00:00.000+00:00
 lang: es
 duration: 1min
 author: María Grandury
+tags: [charlas]
 ---
 
 ¿Quieres entender el nuevo rol del Software Developer y aprender a integrar la IA en tu día a día? 🤔

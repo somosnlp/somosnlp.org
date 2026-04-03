@@ -10,6 +10,7 @@ bio: PhD Candidate at EPFL (École Polytechnique Fédérale de Lausanne)
 website: https://agromanou.github.io/
 twitter: https://x.com/agromanou
 linkedin: https://www.linkedin.com/in/angelika-romanou-67067057/
+tags: [recursos]
 ---
 
 TL;DR: We are looking for multiple-choice tests in any language to add to the multicultural INCLUDE benchmark. Fill out the [form](https://forms.gle/9VbDMSHvhqSQbtL56) now!
