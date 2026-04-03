@@ -2,8 +2,10 @@
 title: T3chFest 2026
 description: Tenemos entradas gratis para asistir a este maravilloso evento
 lang: es
-cover: https://somosnlp.github.io/assets/images/eventos/250728_bof_es.png
+cover: https://somosnlp.github.io/assets/images/eventos/280312_t3chfest.jpeg
 ---
+
+![T3chFest 2026](/images/eventos/280312_t3chfest.jpeg)
 
 ## 🔥 ¡Nos vemos en T3chFest 2026!
 
@@ -14,7 +16,7 @@ cover: https://somosnlp.github.io/assets/images/eventos/250728_bof_es.png
 
 ## 🎟️ Entradas para la comunidad
 
-Nuestros amigos de T3chFest nos han regalado entradas. ¡Escríbenos por Discord si quieres asistir!
+El equipo de T3chFest nos han regalado entradas. ¡Escríbenos si quieres asistir!
 
 ## 🔗 Useful links
 
