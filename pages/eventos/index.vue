@@ -55,7 +55,7 @@ const { t } = useI18n()
                         src="/images/eventos/250401_hackathon_sinfecha.jpg" />
                 </a>
                 <!-- 
-                <a href="/hackathon/ponencias" target="_blank">
+                <a href="/hackathon-2025/ponencias" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
                         src="/images/eventos/250401_hackathon_callfortalks.jpg" />
                 </a> -->
