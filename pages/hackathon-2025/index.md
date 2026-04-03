@@ -10,9 +10,14 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
+<<<<<<<< HEAD:pages/hackathon-2025/index.md
   <!-- <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya (cerrado)</a> -->
   <a href="https://somosnlp.org/blog/hackathon-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
   <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a>
+========
+  <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
+  <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
+>>>>>>>> fb6d090 (refactor: rename hackathon dir to hackathon-2025):pages/hackathon-2025.md
   <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
 </div>
 
@@ -57,7 +62,11 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
     <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <div class="text-center">
+<<<<<<<< HEAD:pages/hackathon-2025/index.md
     <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
+========
+    <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Retos del hackathon</a>
+>>>>>>>> fb6d090 (refactor: rename hackathon dir to hackathon-2025):pages/hackathon-2025.md
   </div>
 </div>
 
