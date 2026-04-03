@@ -2,11 +2,11 @@
 title: Estrella Vallecillo
 description: Investigadora @NLP_SINAI (Universidad de Jaén)
 cover: /images/comunidad/estrella_vallecillo.jpg
-website: 
+website: ''
 twitter: https://twitter.com/EstrellaVR15
 linkedin: https://www.linkedin.com/in/estrella-vallecillo-rodr%C3%ADguez-b94752281/
-github: ""
-huggingface: ""
+github: ''
+huggingface: ''
 community: Ponente
 ---
 

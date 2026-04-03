@@ -1,12 +1,13 @@
 ---
 title: Marta Guerrero Nieto
-description: Directora técnica en Business and Language Analytics @Instituto de Ingeniería del Conocimiento
+description: Directora técnica en Business and Language Analytics @Instituto de Ingeniería
+  del Conocimiento
 cover: /images/comunidad/marta_guerrero.png
-website: 
+website: ''
 twitter: https://www.twitter.com/marta_mgn
 linkedin: https://www.linkedin.com/in/marta-guerrero-nieto-b69176b3/
-github: ""
-huggingface: ""
+github: ''
+huggingface: ''
 community: Ponente
 ---
 

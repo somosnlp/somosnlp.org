@@ -2,11 +2,11 @@
 title: Cristina Vila Carreira
 description: Asesora empresarial independiente
 cover: /images/comunidad/cristina_vila.jpeg
-website: 
-twitter: 
+website: ''
+twitter: ''
 linkedin: https://www.linkedin.com/in/cristinavila-futuro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-github: ""
-huggingface: ""
+github: ''
+huggingface: ''
 community: Ponente
 ---
 

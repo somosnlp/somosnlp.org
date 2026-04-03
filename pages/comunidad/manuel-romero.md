@@ -2,7 +2,7 @@
 title: Manuel Romero
 description: CSO @MAISA AI
 cover: /images/comunidad/manuel_romero.jpg
-website: https://hf.co/mrm8488
+website: ''
 twitter: https://twitter.com/mrm8488
 linkedin: https://www.linkedin.com/in/manuel-romero-cs
 github: https://github.com/mrm8488
@@ -13,21 +13,12 @@ community: AA
 
 ## Ponencias
 
-- Entrenamiento de LLMs: Impacto de la calidad de los datos | Hackathon SomosNLP 2024
+- Relevancia de la calidad de los datos a la hora e hacer un FT | Hackathon SomosNLP 2024
 
 <EventSummary
     description="En este taller comentamos cómo es posible ajustar (hacer fine-tuning) a LLMs con una configuración de hardware humilde gracias a las últimas técnicas de PEFT como QLoRA y librerías de optimización."
     poster="/images/eventos/240311_manu_romero.jpg"
     video="https://www.youtube.com/embed/hPq5NG8kA8w"
-    slides="https://drive.google.com/open?id=1KSTcLzOJvGp3b5cxMk5b14QbiV_rUGdZ"
-    notebook=""
-    name="Manu Romero"
-    website=""
-    twitter="https://twitter.com/mrm8488"
-    linkedin="https://www.linkedin.com/in/manuel-romero-cs"
-    github=""
-    bio="MLE/CSO @maisaAI_. Head Contrib/ Ambassador🤗 @huggingface. Research 🌸@bigsciencew/@BigCodeProject"
-    hide_personal_info
 />
 
 - Fine-tuning de grandes modelos de lenguaje (LLMs) | Hackathon SomosNLP 2023

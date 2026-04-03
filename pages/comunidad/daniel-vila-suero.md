@@ -1,10 +1,12 @@
 ---
 title: Daniel Vila Suero
-description: Co-fundador y CEO @Argilla
+description: Co-fundador y CEO de Argilla
 cover: /images/comunidad/daniel_vila_suero.jpg
+website: https://argilla.io
 twitter: https://twitter.com/dvilasuero
 linkedin: https://www.linkedin.com/in/daniel-vila-suero-484b6b45/
-website: https://argilla.io
+github: ''
+huggingface: ''
 community: Activo
 ---
 
@@ -33,6 +35,13 @@ community: Activo
     video="https://www.youtube.com/embed/UR6MHBbPA3g"
 />
 
+- Introducción a Argilla | Hackathon SomosNLP 2023
+
+<EventSummary
+    description="En este taller, usaremos Argilla para sacar el máximo provecho a todas las innovaciones recientes en el mundo del PLN. En particular, intentaremos responder a la siguiente pregunta: ¿cómo evaluar, adaptar y crear modelos incorporando feedback humano en tus proyectos de PLN?"
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
+/>
 ## Colaboración
 
 - Co-organización del esfuerzo colaborativo de [validación de la traducción al español de los datasets de la Open LLM Leaderboard](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard)

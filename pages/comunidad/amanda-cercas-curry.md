@@ -1,6 +1,6 @@
 ---
 title: Amanda Cercas Curry, PhD
-description: Postdoc @MilaNLP
+description: Postdoc@MilaNLP
 cover: /images/comunidad/amanda_curry.jpg
 website: ''
 twitter: https://twitter.com/CurriedAmanda

@@ -1,11 +1,12 @@
 ---
 title: Omar Sanseviero
-description: Lead de ML, Dev Advocacy y Moonshot @HuggingFace
+description: Lead de ML, Dev Advocacy y Moonshot @ Hugging Face
 cover: /images/comunidad/omar_sanseviero.jpeg
 website: https://osanseviero.github.io/hackerllama/
 twitter: https://twitter.com/osanseviero
 linkedin: https://www.linkedin.com/in/omarsanseviero
 github: https://github.com/osanseviero
+huggingface: ''
 community: Activo
 ---
 
@@ -44,6 +45,13 @@ community: Activo
     </a>
 </div>
 
+- Mentoría con Omar Sanseviero | Hackathon SomosNLP 2023
+
+<EventSummary
+    description=""
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
+/>
 ## Colaboración
 
 - Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2024

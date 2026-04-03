@@ -1,8 +1,8 @@
 ---
 title: Alejandro Vaca
-description: Fundador @LenguajeNatural.AI | Profesor @IEUniversity
+description: Data Scientist @ IIC | Profesor NLP @ IE University
 cover: /images/comunidad/alejandro_vaca.jpg
-website: https://lenguajenatural.ai
+website: ''
 twitter: ''
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
 github: ''
@@ -22,18 +22,12 @@ community: Ponente
     video="https://www.youtube.com/embed/458UWBlBdtI"
 />
 
-- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback | Hackathon SomosNLP 2023
+- Mentoría con Alejandro Vaca | Hackathon SomosNLP 2023
 
 <EventSummary
-    description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
-    poster="/images/eventos/230328_tecnologias_clave_de_chatgpt.jpg"
-    video="https://www.youtube.com/embed/Ujn379UCHBg"
-    name=""
-    website=""
-    twitter=""
-    linkedin=""
-    github=""
-    bio=""
+    description=""
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
 />
 
 - Ask Me Anything con Alejandro Vaca | Hackathon SomosNLP 2023
@@ -67,7 +61,13 @@ community: Ponente
     video="https://www.youtube.com/embed/3OhArr1R2Lw"
 />
 
+- Tecnologías clave de ChatGPT: Reinforcement Learning from Human Feedback | Hackathon SomosNLP 2023
 
+<EventSummary
+    description="Charla sobre las técnicas de Reinforcement Learning from Human Feedback (RLHF), qué podemos aprender de ellas y qué aplicaciones prácticas en la industria pueden venir de la mano de esta tecnología."
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
+/>
 ## Biografía
 
 Ganador del Cajamar UniversityHack 2020; galardonado en 2021 con el Premio a Mejor Data Scientist del Hackaton de SpainAI, al obtener 2 primeros puestos (análisis preescriptivo con series temporales & Computer Vision) y un tercero (NLP). Desarrollador principal de RigoBERTa: un modelo de lenguaje del Estado del Arte en español. Ganador del primer premio del Hackaton SomosNLP 2022 por BioMedIA, proyecto que posteriormente fue presentado en el NAACL 2022, obteniendo el Premio a la Mejor Presentación de Póster. 

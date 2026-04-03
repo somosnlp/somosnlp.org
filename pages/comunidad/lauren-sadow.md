@@ -1,6 +1,6 @@
 ---
 title: Lauren Sadow
-description: Postdoc, Aarhus University
+description: Postdoc @Aarhus University
 cover: /images/comunidad/lauren_sadow.jpg
 website: https://pure.au.dk/portal/da/persons/l.sadow%40cc.au.dk
 twitter: ''
@@ -9,6 +9,7 @@ github: ''
 huggingface: ''
 community: Ponente 2025
 ---
+
 
 
 ## Ponencias

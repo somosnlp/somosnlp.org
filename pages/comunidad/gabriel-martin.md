@@ -2,11 +2,11 @@
 title: Gabriel Martín
 description: Ingeniero de ML @Argilla
 cover: /images/comunidad/gabriel_martin.png
-website: 
+website: ''
 twitter: https://twitter.com/gabrielmbmb_
 linkedin: https://www.linkedin.com/in/gabrielmbmb/
-github: ""
-huggingface: ""
+github: ''
+huggingface: ''
 community: Ponente
 ---
 

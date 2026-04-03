@@ -1,29 +1,24 @@
 ---
 title: Paulo Villegas
-description: Experto tecnológico @Chief Digital Office de Telefónica | Cofundador @BERTIN
+description: Experto tecnológico en Telefónica Chief Digital Office
 cover: /images/comunidad/paulo_villegas.jpg
-twitter: 
-linkedin: https://www.linkedin.com/in/paulovn/ 
-website: 
+website: ''
+twitter: ''
+linkedin: https://es.linkedin.com/in/paulovn
+github: ''
+huggingface: ''
 community: Ponente
 ---
 
 ## Ponencias
 
-- Estrategias de simplificación para LLMs | Hackathon SomosNLP 2023
+- Estrategias de simplificación para modelos grandes de lenguaje | Hackathon SomosNLP 2023
 
 <EventSummary
     description="Los modelos grandes de lenguaje (LLM) tienen capacidades impresionantes para el análisis y la generación de lenguaje. Pero son cada vez más grandes, y eso demanda cada vez más recursos de computación, con costes económicos, ecológicos y de accesibilidad.
-    En esta charla se describirán las tendencias actuales más relevantes de modificación de LLMs tales como adaptación o cuantificación, que permiten utilizarlos de forma que exijan menos capacidades de computación, minimizando la distorsión respecto al modelo original."
-    poster="/images/eventos/230403_estrategias_de_simplificacion.jpg"
-    video="https://www.youtube.com/embed/28uvnApwRpA"
-    name=""
-    website=""
-    twitter=""
-    linkedin="https://www.linkedin.com/in/paulovn/"
-    github=""
-    bio="Paulo Villegas trabaja de experto tecnológico en la Chief Digital Office de Telefónica, en el área de prototipado de soluciones y servicios sobre Inteligencia Artificial y Data Science. También es profesor asociado en la Universidad Autónoma de Madrid, y profesor colaborador en la UNED y en CESTE."
-    hide_personal_info
+En esta charla se describirán las tendencias actuales más relevantes de modificación de LLMs tales como adaptación o cuantificación, que permiten utilizarlos de forma que exijan menos capacidades de computación, minimizando la distorsión respecto al modelo original."
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
 />
 
 - Muestreo de datos para entrenamiento de modelos | Hackathon SomosNLP 2022

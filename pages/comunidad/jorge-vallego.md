@@ -3,10 +3,10 @@ title: Jorge Vallego
 description: Consultor en Ingeniería de Datos e IA / Investigador Independiente
 cover: /images/comunidad/jorge_vallego.png
 website: https://huggingface.co/datasets/neovalle/H4rmony
-twitter: 
+twitter: ''
 linkedin: linkedin.com/in/jorge-vallego-391838a6
-github: ""
-huggingface: ""
+github: ''
+huggingface: ''
 community: Ponente
 ---
 

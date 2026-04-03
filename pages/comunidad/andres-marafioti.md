@@ -11,9 +11,9 @@ community: Ponente 2025
 ---
 
 
-## Ponencias
 
-- Cómo hacer un Modelos Visión-Lenguaje eficiente? | Hackathon SomosNLP 2025
+## Ponencias
+- Cómo hacer un Modelo Visión-Lenguaje eficiente | Hackathon SomosNLP 2025
 
 <EventSummary
     description="Los Modelos de Lenguaje de Gran Escala (LLMs) han transformado la manera en que las máquinas entienden y generan texto. Pero, ¿qué sucede cuando les enseñamos a ver?

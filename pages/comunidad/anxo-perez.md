@@ -4,9 +4,9 @@ description: Investigador @IRLab de la @UDC
 cover: /images/comunidad/anxo_perez.jpg
 website: https://pdi.udc.es/es/File/Pdi/UK44K
 twitter: twitter.com/anxo6ila
-linkedin: 
-github: ""
-huggingface: ""
+linkedin: ''
+github: ''
+huggingface: ''
 community: Ponente
 ---
 

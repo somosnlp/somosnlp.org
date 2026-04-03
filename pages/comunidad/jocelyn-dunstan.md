@@ -1,28 +1,23 @@
 ---
 title: Jocelyn Dunstan, PhD
-description: Académica @Universidad Católica de Chile | Investigadora @IMFD
+description: Académica Universidad Católica de Chile
 cover: /images/comunidad/jocelyn_dunstan.jpg
-twitter: https://twitter.com/jocelyndunstane 
+website: pln.cmm.uchile.cl
+twitter: https://twitter.com/jocelyndunstane
 linkedin: https://www.linkedin.com/in/jocelyn-dunstan-bb92858b/
-website: 
+github: ''
+huggingface: ''
 community: Ponente
 ---
 
 ## Ponencias
 
-- NLP Clínico | Hackathon SomosNLP 2023
+- NLP clínico en español | Hackathon SomosNLP 2023
 
 <EventSummary
-    description="La idea es explicar por qué es un dominio interesante y sus desafíos actuales. Al asistir a esta charla aprenderás sobre las tareas clásicas de NLP en medicina y los avances en NLP clínico en Chile."
-    poster="/images/eventos/230404_nlp_clinico.png"
-    video="https://www.youtube.com/embed/GQbF1MypKIg"
-    name=""
-    website=""
-    twitter="https://twitter.com/jocelyndunstane"
-    linkedin="https://www.linkedin.com/in/jocelyn-dunstan-bb92858b/"
-    github=""
-    bio="Jocelyn Dunstan es académica de la Universidad Católica de Chile en vacante compartida entre el Departamento de Computación y el Instituto de Matemática Computacional. Investigadora del Instituto Milenio Fundamento de los Datos del Centro de Modelamiento Matemático. PhD en Matemáticas Aplicada Universidad de Cambridge en el Reino Unido. Magíster y Licenciada en Física de la Universidad de Chile."
-    hide_personal_info
+    description="La idea es explicar por qué es un dominio interesante y sus desafíos actuales."
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
 />
 
 ## Colaboración
