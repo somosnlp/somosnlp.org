@@ -223,7 +223,7 @@ def generate_retos_md():
 
     # Write the content to the file
     try:
-        with open("pages/hackathon/retos/index.md", "w", encoding="utf-8") as f:
+        with open("pages/hackathon-2025/retos/index.md", "w", encoding="utf-8") as f:
             f.write("\n".join([line for line in content if line is not None]))
         print("Successfully generated retos/index.md")
     except Exception as e:

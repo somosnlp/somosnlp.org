@@ -5,14 +5,18 @@ lang: es
 cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Somos 600M de hispanohablantes y 265M de lusófonos en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
+> ¡El hackathon ha terminado! Peeero las iniciativas de los mini retos siguen abiertas para seguir recolectando datos y mejorar la representación de todos los países iberoamericanos, [¡únete!](https://somosnlp.org/hackathon-2025/retos)
+
+Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
-  <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
-  <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
+  <!-- <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya (cerrado)</a> -->
+  <a href="https://somosnlp.org/blog/hackathon-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
+  <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a>
   <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
 </div>
 
+*([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
 
 En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
@@ -31,7 +35,6 @@ Aquí tienes los enlaces a todos los formularios, sigue leyendo para más inform
 
 ![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
 
-*([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
 
 
 ## 🚀 Cómo puedes colaborar
@@ -54,7 +57,7 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
     <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <div class="text-center">
-    <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Retos del hackathon</a>
+    <a href="https://somosnlp.org/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
   </div>
 </div>
 
@@ -205,15 +208,27 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 ### 🥈 Plata
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
 logo="/images/patrocinios/UPM_eunomia.png"
 logo_dark="/images/patrocinios/UPM_eunomia_dark.png" />
 
+<SponsorInfo sponsor="UPM - Eunomia & CO" url="http://somosnlp.org/patrocinios/upm"
+logo="/images/patrocinios/UPM_eunomia&co.png"
+logo_dark="/images/patrocinios/UPM_eunomia&co.png" />
+
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
 <SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
 logo="/images/patrocinios/MistralAI.png"
 logo_dark="/images/patrocinios/MistralAI.png" />
+
+<SponsorInfo sponsor="SaturdaysAI" url="http://somosnlp.org/patrocinios/saturdays-ai"
+logo="/images/patrocinios/SaturdaysAI.png"
+logo_dark="/images/patrocinios/SaturdaysAI.png" />
 
 </div>
 
