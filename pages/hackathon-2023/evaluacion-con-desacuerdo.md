@@ -14,7 +14,7 @@ bio: Julio Gonzalo es director del grupo UNED de investigación en Procesamiento
 ---
 
 <EventSummary
-    description="Cuando existe desacuerdo entre anotadores, el procedimiento habitual es resolverlo de alguna manera: buscando consenso, quedándose con la opción mayoritaria, etc. Pero, al menos cuando la tarea es subjetiva, el desacuerdo puede ser una señal para los sistemas. En la charla estudiaremos cómo abordarlo desde la perspectiva de EXIST, una tarea bilingüe de detección de sexismo en redes sociales. "
+    description="Cuando existe desacuerdo entre anotadores, el procedimiento habitual es resolverlo de alguna manera: buscando consenso, quedándose con la opción mayoritaria, etc. Pero, al menos cuando la tarea es subjetiva, el desacuerdo puede ser una señal para los sistemas. En la charla estudiaremos cómo abordarlo desde la perspectiva de EXIST, una tarea bilingüe de detección de sexismo en redes sociales."
     poster="/images/eventos/230404_evaluacion_con_desacuerdo.jpg"
     video="https://www.youtube.com/embed/2rE0Cp45RUM"
     name=""

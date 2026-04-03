@@ -13,8 +13,7 @@ bio: I'm a tech entrepreneur with over 5 years of experience in building scalabl
 ---
 
 <EventSummary
-    description="What is Q Blocks: The potential benefits of using Q Blocks computing platform for AI/ML workloads and how to get started with it.
-    Taller en el que el fundador de Q Blocks, empresa patrocinadora de las GPU VMs del hackathon, nos explicará cómo hacer uso de estas GPUs para entrenar LLMs. El taller estará en inglés."
+    description="What is Q Blocks: The potential benefits of using Q Blocks computing platform for AI/ML workloads and how to get started with it. Taller en el que el fundador de Q Blocks, empresa patrocinadora de las GPU VMs del hackathon, nos explicará cómo hacer uso de estas GPUs para entrenar LLMs. El taller estará en inglés."
     poster="/images/eventos/230403_what_is_q_blocks.jpg"
     video="https://www.youtube.com/embed/n7uaOppo9x0"
     name=""

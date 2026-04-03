@@ -13,9 +13,7 @@ bio: Paulo Villegas trabaja de experto tecnológico en la Chief Digital Office d
 ---
 
 <EventSummary
-    description="Los modelos grandes de lenguaje (LLM) tienen capacidades impresionantes para el análisis y la generación de lenguaje. Pero son cada vez más grandes, y eso demanda cada vez más recursos de computación, con costes económicos, ecológicos y de accesibilidad.
-    En esta charla se describirán las tendencias actuales más relevantes de modificación de LLMs tales como adaptación o cuantificación, que permiten utilizarlos de forma que exijan menos capacidades de computación, minimizando la distorsión respecto al modelo original.
-    "
+    description="Los modelos grandes de lenguaje (LLM) tienen capacidades impresionantes para el análisis y la generación de lenguaje. Pero son cada vez más grandes, y eso demanda cada vez más recursos de computación, con costes económicos, ecológicos y de accesibilidad. En esta charla se describirán las tendencias actuales más relevantes de modificación de LLMs tales como adaptación o cuantificación, que permiten utilizarlos de forma que exijan menos capacidades de computación, minimizando la distorsión respecto al modelo original."
     poster="/images/eventos/230403_estrategias_de_simplificacion.jpg"
     video="https://www.youtube.com/embed/28uvnApwRpA"
     name=""

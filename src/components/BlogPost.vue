@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed } from 'vue';
-import { useHead } from '@vueuse/head'
+import { useHead } from '@unhead/vue'
 import { useRoute } from 'vue-router';
 
 import { useI18n } from 'vue-i18n';
