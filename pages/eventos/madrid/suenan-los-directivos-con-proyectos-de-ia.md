@@ -3,7 +3,7 @@ title: ¿Sueñan los directivos con proyectos de IA?
 date: 2025-01-08T18:30:00.000+00:00
 time: 18:30 CET
 duration: 1 hora
-cover: /images/eventos/20250115_entaina_directivos_ia.png
+cover: /images/eventos/250115_entaina_directivos_ia.png
 author: Agustín Cuenca, Javier Lafora y José Miguel Díez
 twitter: 
 linkedin:
@@ -22,7 +22,7 @@ El miércoles 15 de enero a las 18:30 tendremos la segunda charla de IA generati
 - 🧃 Bebidas post-charla cortesía de ENTAINA
 
 <div class="flex justify-center">
-    <img src="/images/eventos/20250115_entaina_directivos_ia.png" alt="ETSIT" width="300"/>
+    <img src="/images/eventos/250115_entaina_directivos_ia.png" alt="ETSIT" width="300"/>
 </div>
 
 Añade el evento a tu calendario:

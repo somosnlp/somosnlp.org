@@ -44,11 +44,12 @@ const { t } = useI18n()
             </div>
 
             <hr class="mx-auto mt-8 mb-12 prose" />
-            <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">Únete
+            <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">
+                Únete
                 al Hackathon #Somos600M</div>
 
             <div class="mt-10 grid gap-4 lg:grid-cols-1">
-                
+
                 <a href="/hackathon" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
                         src="/images/eventos/250401_hackathon_sinfecha.jpg" />
@@ -61,8 +62,8 @@ const { t } = useI18n()
             </div>
 
             <div class="m-12">
-                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase"
-                    dark="text-accent-400">{{ t('events.sections.recordings') }}</span>
+                <span class="font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">{{
+                    t('events.sections.recordings') }}</span>
                 <ul>
                     <li>
                         <a href="#hackathon-2024">{{ t('events.sections.hackathon-2024') }}</a>
@@ -84,22 +85,20 @@ const { t } = useI18n()
 
             <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3>
             <div class="mx-auto my-8 text-center">
-            <div class="grid grid-cols-2 gap-8 my-1">
-                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                    <img alt="Alfonso Amayuelas" width="650" height="365"
-                        src="/images/eventos/250415_alfonso_amayuelas.png" />
-                </a>
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                        <img alt="Alfonso Amayuelas" width="650" height="365"
+                            src="/images/eventos/250415_alfonso_amayuelas.png" />
+                    </a>
 
-                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                    <img alt="Selene Baez" width="650" height="365"
-                        src="/images/eventos/250410_selene_baez.png" />
-                </a>
+                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                        <img alt="Selene Baez" width="650" height="365" src="/images/eventos/250410_selene_baez.png" />
+                    </a>
 
-                <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                    <img alt="Luis Vasquez" width="650" height="365"
-                        src="/images/eventos/250410_luis_vasquez.png" />
-                </a>
-            </div>
+                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                        <img alt="Luis Vasquez" width="650" height="365" src="/images/eventos/250410_luis_vasquez.png" />
+                    </a>
+                </div>
             </div>
 
             <h3 id="eventos-madrid">{{ t('events.sections.madrid') }}</h3>
@@ -108,12 +107,12 @@ const { t } = useI18n()
                 <div class="grid grid-cols-2 gap-8 my-1">
                     <a href="/eventos/madrid/evaluacion-de-llms" target="_blank">
                         <img alt="Evaluación de LLMs" width="650" height="365"
-                            src="/images/eventos/20241217_evaluacion_llm_upm.png" />
+                            src="/images/eventos/241217_evaluacion_llm_upm.png" />
                     </a>
 
                     <a href="/eventos/madrid/suenan-los-directivos-con-proyectos-de-ia" target="_blank">
                         <img alt="Sueñan los directivos con proyectos de IA" width="650" height="365"
-                            src="/images/eventos/20250115_entaina_directivos_ia.png" />
+                            src="/images/eventos/250115_entaina_directivos_ia.png" />
                     </a>
                 </div>
 
@@ -228,8 +227,7 @@ const { t } = useI18n()
                     </a>
 
                     <a href="hackathon-2023/aymurai" target="_blank">
-                        <img alt="AymurAI" width="650" height="365"
-                            src="/images/eventos/230328_aymurai.jpg" />
+                        <img alt="AymurAI" width="650" height="365" src="/images/eventos/230328_aymurai.jpg" />
                     </a>
 
                     <a href="/hackathon-2023/de-la-idea-a-la-startup" target="_blank">
@@ -263,8 +261,7 @@ const { t } = useI18n()
                     </a>
 
                     <a href="/hackathon-2023/nlp-clinico" target="_blank">
-                        <img alt="NLP Clínico" width="650" height="365"
-                            src="/images/eventos/230404_nlp_clinico.png" />
+                        <img alt="NLP Clínico" width="650" height="365" src="/images/eventos/230404_nlp_clinico.png" />
                     </a>
 
                     <a href="/hackathon-2023/pln-en-el-sector-legal" target="_blank">
@@ -286,8 +283,7 @@ const { t } = useI18n()
                 <div class="grid grid-cols-2 gap-8 my-1">
                     <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
-                        <img alt="RigoBERTa" width="650" height="365"
-                            src="/images/eventos/220321_iic.png" />
+                        <img alt="RigoBERTa" width="650" height="365" src="/images/eventos/220321_iic.png" />
                     </a>
                     <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
@@ -311,13 +307,11 @@ const { t } = useI18n()
                     </a>
                     <a href="https://www.youtube.com/watch?v=jvhEra9mdPw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
-                        <img alt="Análisis del error" width="650" height="365"
-                            src="/images/eventos/220316_errores.png" />
+                        <img alt="Análisis del error" width="650" height="365" src="/images/eventos/220316_errores.png" />
                     </a>
                     <a href="https://www.youtube.com/watch?v=_f3eLbrFiCc&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
-                        <img alt="AMA I" width="650" height="365"
-                            src="/images/eventos/220317_ama.png" />
+                        <img alt="AMA I" width="650" height="365" src="/images/eventos/220317_ama.png" />
                     </a>
                     <a href="https://www.youtube.com/watch?v=UR6MHBbPA3g&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
@@ -331,13 +325,11 @@ const { t } = useI18n()
                     </a>
                     <a href="https://www.youtube.com/watch?v=RWIZj9puFX0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
-                        <img alt="AMA II" width="650" height="365"
-                            src="/images/eventos/220324_ama_lewis.png" />
+                        <img alt="AMA II" width="650" height="365" src="/images/eventos/220324_ama_lewis.png" />
                     </a>
                     <a href="https://www.youtube.com/watch?v=U8fig2fqrl8&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
-                        <img alt="Traducción Automática" width="650" height="365"
-                            src="/images/eventos/220328_eva.png" />
+                        <img alt="Traducción Automática" width="650" height="365" src="/images/eventos/220328_eva.png" />
                     </a>
                     <a href="https://www.youtube.com/watch?v=7ckg10QUHLw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
                         target="_blank">
@@ -367,8 +359,7 @@ const { t } = useI18n()
                     </a>
                     <a href="https://www.youtube.com/watch?v=ZLd85RiLViQ&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
                         target="_blank">
-                        <img alt="Somos Mujeres NLP" width="650" height="365"
-                            src="/images/eventos/230308_video_8m.jpg" />
+                        <img alt="Somos Mujeres NLP" width="650" height="365" src="/images/eventos/230308_video_8m.jpg" />
                     </a>
                 </div>
             </div>
@@ -381,17 +372,15 @@ const { t } = useI18n()
             </p>
             <p>
                 {{ t('events.sections.community-description-2') }}
-                <a
-                    href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f"
-                    target="_blank">{{ t('events.sections.community-description-3') }}</a>💡
+                <a href="https://kq8ietkql1m.typeform.com/to/BYH9KG3f" target="_blank">{{
+                    t('events.sections.community-description-3') }}</a>💡
             </p>
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
                     <a href="https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
                         target="_blank">
-                        <img alt="BiomedIA" width="650" height="365"
-                            src="/images/eventos/230112_biomedia.jpg" />
+                        <img alt="BiomedIA" width="650" height="365" src="/images/eventos/230112_biomedia.jpg" />
                     </a>
                     <a href="https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M"
                         target="_blank">

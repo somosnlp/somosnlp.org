@@ -3,7 +3,7 @@ title: Evaluación de Grandes Modelos de Lenguaje (LLMs)
 date: 2024-12-17T18:30:00.000+00:00
 time: 18:30 CET
 duration: 1 hora
-cover: /images/eventos/20241217_evaluacion_llm_upm.png 
+cover: /images/eventos/241217_evaluacion_llm_upm.png 
 author: María Grandury, Gonzalo Martínez, Miguel González
 twitter: 
 linkedin:
@@ -15,7 +15,7 @@ bio: Investigadores de NLP en la Universidad Politécnica de Madrid (UPM).
 📣 ¿Te interesa la evaluación de LLM y estás en Madrid? Ven mañana día 17 al taller organizado por el grupo GING de la Universidad Politécnica de Madrid, Entaina, IEEE Sección España y SomosNLP 🤗 
 
 <div class="flex justify-center">
-    <img src="/images/eventos/20241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="300"/>
+    <img src="/images/eventos/241217_evaluacion_llm_upm.png" alt="evaluacion-llm-upm" width="300"/>
 </div>
 
 La evaluación de los LLMs es fundamental para entender sus capacidades, si son adecuados para una tarea dada y también para mejorar su rendimiento. La evaluación de LLMs es un tema muy complejo que debe medir su rendimiento en un gran número de tareas, además existen diferentes métodos de evaluación, tablas de clasificación de modelos y librerías para automatizar el proceso.

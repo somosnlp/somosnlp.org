@@ -27,7 +27,7 @@ Muchas sois las personas que ya me habéis preguntado por el #HackathonSomosNLP 
 - 🇪🇸 Madrid, 15 de enero: [¿Sueñan los directivos con proyectos de IA?](https://somosnlp.org/eventos/madrid/suenan-los-directivos-con-proyectos-de-ia), organizado en colaboración con ENTAINA, la Universidad Politécnica de Madrid e IEEE Sección España.
 
 <div class="flex justify-center">
-    <img src="/images/eventos/20250115_entaina_directivos_ia.png" alt="ETSIT" width="300">
+    <img src="/images/eventos/250115_entaina_directivos_ia.png" alt="ETSIT" width="300">
 </div>
 
 - 🌐 Online, 23 de enero: [Impacto energético del uso de LLMs: Retos y oportunidades](https://algoritmosverdes.gob.es/es/eventos/impacto-energetico-del-uso-de-llms-retos-y-oportunidades), organizado por el Programa Nacional de Algoritmos Verdes.
