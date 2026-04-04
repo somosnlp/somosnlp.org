@@ -81,7 +81,7 @@ Para consideraros patrocinio de Comunidad 🤗 os pedimos:
 - Publicar posts / blog anunciando los resultados del hackathon
 - RT / comentar las publicaciones en las que os mencionemos
 
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
+<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Rellena el formulario</a></center>
 
 </details>
 
