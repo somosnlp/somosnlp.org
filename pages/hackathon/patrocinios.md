@@ -83,7 +83,7 @@ Enlaces útiles:
 - [🎨 Material de difusión](https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2025)
 - [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
-<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Rellena el formulario de difusión</a></center>
+<center><a href="https://forms.gle/FUQPYBsqtmwKM3Vo6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Rellena el formulario de difusión</a></center>
 
 </details>
 
