@@ -12,8 +12,8 @@ years: 2025, 2024, 2023
 
 ## Colaboración
 
-- [Donación de corpus de evaluación](https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d) para la leaderboard abierta de LLMs generativos
-
+- Instituto patrocinador de comunidad del [Hackathon SomosNLP 2025: Cultural NLP](https://somosnlp.org/hackathon)
+- [Donación de corpus de evaluación](https://huggingface.co/collections/somosnlp/corpus-donados-campana-de-recoleccion-somos600m-65eb2dbaa69aaabb43d3da5d) para la leaderboard abierta de LLMs generativos [Hackathon SomosNLP 2024: #Somos600M](https://somosnlp.org/blog/hackathon-2024)
 - Instituto patrocinador expert del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo del IIC
