@@ -13,6 +13,7 @@ Somos un grupo de investigación de la UNAM especializado en el Procesamiento de
 
 ## Colaboración
 
+- Patrocinador de comunidad del [Hackathon SomosNLP 2025: Cultural NLP](https://somosnlp.org/hackathon)
 - Patrocinador de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 <div class="flex justify-center">
