@@ -158,7 +158,7 @@ logo_dark="/images/patrocinios/LXAI.png" />
 
 ### ¿Cómo nos apoyan?
 
-🎟️ Todas las personas que entreguen un proyecto completo al hackathon tendrán un **20% de descuento** en los tickets de la WomenTech Network Global Conference 2024. Además, al participar en el hackathon tendrás la oportunidad de participar en el **sorteo de 3 tickets** (cada uno por un valor de 137,95€). #TODO
+🎟️ Todas las personas que entreguen un proyecto completo al hackathon tendrán un **20% de descuento** en los tickets de la WomenTech Network Global Conference 2024. Además, al participar en el hackathon tendrás la oportunidad de participar en el **sorteo de 3 tickets** (cada uno por un valor de 137,95€).
 
 <div class="flex justify-center mx-auto" style="width: 280px">
 <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/comunidad"

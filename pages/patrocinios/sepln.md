@@ -1,6 +1,6 @@
 ---
 title: Sociedad Española de Procesamiento de Lenguaje Natural (SEPLN)
-description: Sociedad científica sin ánimo de lucro dedicada a promover la investigación y desarrollo en PLN
+description: Sociedad científica sin ánimo de lucro dedicada a promover la investigación y desarrollo del PLN en España
 cover: /images/patrocinios/SEPLN.png
 twitter: https://x.com/sepln
 linkedin:
@@ -13,7 +13,7 @@ La Sociedad Española de Procesamiento de Lenguaje Natural (SEPLN) es una socied
 
 ## Colaboración
 
-- Patrocinio de comunidad [Hackathon SomosNLP 2025](https://somosnlp.org/blog/hackathon-2025)
+- Patrocinio de comunidad [Hackathon SomosNLP 2025: Cultural NLP](https://somosnlp.org/hackathon-2025)
 - Patrocinio de comunidad [Hackathon SomosNLP 2024: #Somos600M](https://somosnlp.org/blog/hackathon-2024)
 
 <div class="flex justify-center">

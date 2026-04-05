@@ -7,6 +7,7 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
+    'Academicons:googleScholar': typeof import('~icons/academicons/google-scholar')['default']
     BlogItem: typeof import('./src/components/BlogItem.vue')['default']
     BlogList: typeof import('./src/components/BlogList.vue')['default']
     BlogPost: typeof import('./src/components/BlogPost.vue')['default']
@@ -59,7 +60,6 @@ declare module 'vue' {
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    'SimpleIcons:googlescholar': typeof import('~icons/simple-icons/googlescholar')['default']
     SocialMediaButtons: typeof import('./src/components/SocialMediaButtons.vue')['default']
     SocialMediaButtonsAll: typeof import('./src/components/SocialMediaButtonsAll.vue')['default']
     SpeakerList: typeof import('./src/components/SpeakerList.vue')['default']

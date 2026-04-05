@@ -117,8 +117,7 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
                     🤗
                 </IconButtonLink>
                 <IconButtonLink v-if="frontmatter.scholar" :url="frontmatter.scholar" class="contents">
-                    <simple-icons:googlescholar />
-                    <!-- <academicons:google-scholar /> #TODO: Add dependencies -->
+                    <academicons:google-scholar />
                 </IconButtonLink>
             </div>
             <div v-if="$route.path.startsWith('/blog')" class="text-md text-center">

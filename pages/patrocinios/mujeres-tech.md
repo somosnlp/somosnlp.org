@@ -13,6 +13,8 @@ Mujeres Tech es una asociación sin ánimo de lucro que nace a principios de 201
 
 ## Colaboración
 
+- Asociación patrocinadora de comunidad del [Hackathon SomosNLP 2025: Cultural NLP](https://somosnlp.org/hackathon)
+- Asociación patrocinadora de comunidad del [Hackathon SomosNLP 2024: #Somos600M](https://somosnlp.org/blog/hackathon-2024)
 - Asociación patrocinadora de comunidad del [Hackathon SomosNLP 2023: Los LLMs hablan Español](https://somosnlp.org/blog/hackathon-2023)
 
 ## Eventos con el equipo de MujeresTech
