@@ -14,6 +14,8 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
 
 ## Colaboración
 
+- Patrocinador de oro del [Hackathon SomosNLP 2025: Cultural NLP](https://somosnlp.org/hackathon)
+- Patrocinador de oro del [Hackathon SomosNLP 2024: #Somos600M](https://somosnlp.org/blog/hackathon-2024)
 - Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 - Patrocinador de oro del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
