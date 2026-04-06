@@ -1,8 +1,8 @@
 ---
 title: Alejandro Vaca
-description: Data Scientist @ IIC | Profesor NLP @ IE University
+description: Fundador @LenguajeNatural.AI | Profesor @IEUniversity
 cover: /images/comunidad/alejandro_vaca.jpg
-website: ''
+website: https://lenguajenatural.ai
 twitter: ''
 linkedin: https://www.linkedin.com/in/alejandro-vaca-serrano/
 github: ''
@@ -25,7 +25,7 @@ community: Ponente
 - Mentoría con Alejandro Vaca | Hackathon SomosNLP 2023
 
 <EventSummary
-    description=""
+    description="Pregúntame lo que quieras de Procesamiento del Lenguaje Natural!"
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />

@@ -15,7 +15,7 @@ community: Ponente 2023
 - Mentoría con Álvaro Romo Herrero | Hackathon SomosNLP 2023
 
 <EventSummary
-    description=""
+    description="Ecosistema de HF, spark-nlp de jonh snow labs"
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />

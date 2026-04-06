@@ -84,22 +84,83 @@ const { t } = useI18n()
             </div>
 
             <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3>
+            <!-- BEGIN:ponencias-2025 -->
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                        <img alt="Alfonso Amayuelas" width="650" height="365"
+                    <a href="/hackathon-2025/confidently_wrong_expresando_incertidumbre_en_tareas_multilingues" target="_blank">
+                        <img alt="Charla de Selene Báez Santamaría" width="650" height="365"
+                            src="/images/eventos/250410_selene_baez.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/red_teaming_para_modelos_de_lenguaje" target="_blank">
+                        <img alt="Charla de Luis Antonio Vasquez" width="650" height="365"
+                            src="/images/eventos/250410_luis_vasquez.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/automatizando_extraccion_de_corpus_desde_pdfs" target="_blank">
+                        <img alt="Charla de Alfonso Amayuelas" width="650" height="365"
                             src="/images/eventos/250415_alfonso_amayuelas.png" />
                     </a>
 
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                        <img alt="Selene Baez" width="650" height="365" src="/images/eventos/250410_selene_baez.png" />
+                    <a href="/hackathon-2025/como_hacer_un_modelo_vision_lenguaje_eficiente" target="_blank">
+                        <img alt="Charla de Andrés Marafioti" width="650" height="365"
+                            src="/images/eventos/250422_andres_marafioti.png" />
                     </a>
 
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                        <img alt="Luis Vasquez" width="650" height="365" src="/images/eventos/250410_luis_vasquez.png" />
+                    <a href="/hackathon-2025/desafios_eticos_del_pln" target="_blank">
+                        <img alt="Charla de Gabriela Arriagada-Bruneau" width="650" height="365"
+                            src="/images/eventos/250423_gabriela_arriagada_bruneau.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/de_rnns_a_transfomers_como_cambio_el_paradigma" target="_blank">
+                        <img alt="Charla de Dr. Manuel Medina González" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/describing_and_interpreting_interaction_using_cultural_scripts" target="_blank">
+                        <img alt="Charla de Lauren Sadow" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/instruction_tuning_para_razonamiento_secuencial_multimodal" target="_blank">
+                        <img alt="Charla de Danae Sanchez" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/mused_un_corpus_multimodal_en_espanol_para_la_deteccion_de_sexismo_en_videos_de_redes_sociales" target="_blank">
+                        <img alt="Charla de Laura De Grazia" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/cuales_humanos_inteligencia_artificial_y_diversidad_cultural" target="_blank">
+                        <img alt="Charla de Thomas Wachter" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
                     </a>
                 </div>
             </div>
+            <!-- END:ponencias-2025 -->
+
+            <!-- BEGIN:mentorias-2025 -->
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="/hackathon-2025/mentoria_con_angel_daza" target="_blank">
+                        <img alt="Mentoría de Angel Daza" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/mentoria_con_alfonso_amayuelas_fernandez" target="_blank">
+                        <img alt="Mentoría de Alfonso Amayuelas Fernández" width="650" height="365"
+                            src="/images/eventos/250415_alfonso_amayuelas.png" />
+                    </a>
+
+                    <a href="/hackathon-2025/mentoria_con_noemi_crosby_conget" target="_blank">
+                        <img alt="Mentoría de Noemí Crosby Conget" width="650" height="365"
+                            src="/images/patrocinios/somosnlp.png" />
+                    </a>
+                </div>
+            </div>
+            <!-- END:mentorias-2025 -->
+            
 
             <h3 id="eventos-madrid">{{ t('events.sections.madrid') }}</h3>
 
@@ -120,8 +181,7 @@ const { t } = useI18n()
             </div>
 
             <h3 id="hackathon-2024">{{ t('events.sections.hackathon-2024') }}</h3>
-
-            <!-- BEGIN:hackathon-2024 -->
+            <!-- BEGIN:ponencias-2024 -->
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
                     <a href="/hackathon-2024/ia_y_modelos_del_lenguaje_retos_y_oportunidades" target="_blank">
@@ -180,7 +240,9 @@ const { t } = useI18n()
                     </a>
                 </div>
             </div>
-            <!-- END:hackathon-2024 -->
+            <!-- END:ponencias-2024 -->
+
+            
 
 
             <h3 id="hackathon-2023">{{ t('events.sections.hackathon-2023') }}</h3>

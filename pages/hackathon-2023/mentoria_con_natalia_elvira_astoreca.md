@@ -12,7 +12,7 @@ bio: "Tras terminar su doctorado en lingüística griega, Natalia descubrió Pyt
 ---
 
 <EventSummary
-    description=""
+    description="Puedo resolver preguntas sobre el etiquetado de datos y la organización de proyectos de anotación"
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
     tema="AMA: evento en directo"
@@ -23,7 +23,3 @@ bio: "Tras terminar su doctorado en lingüística griega, Natalia descubrió Pyt
     linkedin="https://www.linkedin.com/in/neastoreca/"
     bio="Tras terminar su doctorado en lingüística griega, Natalia descubrió Python y el NLP. Desde entonces ha trabajado como lingüista computacional y cuenta con experiencia en el diseño de tareas y guías de anotación, además de gestión de proyectos y equipos de anotación. Su obsesión por las anotaciones de calidad la llevó a descubrir Argilla, donde se ha incorporado recientemente como Product Manager."
 />
-
-## Enlaces útiles
-
-## Charlas relacionadas

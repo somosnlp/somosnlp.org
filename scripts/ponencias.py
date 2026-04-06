@@ -32,62 +32,88 @@ CSV_FILE_PATH = "ponencias-2025.csv"
 EVENT_NAME = "Hackathon SomosNLP"
 DEFAULT_POSTER = "/images/patrocinios/somosnlp.png"
 DEFAULT_YOUTUBE = "https://www.youtube.com/@SomosNLP"
+YEAR_PLAYLISTS = {
+    "2022": "https://www.youtube.com/playlist?list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG",
+    "2023": "https://www.youtube.com/playlist?list=PLTA-KAy8nxaCDc0IJpLac-3csiAepV546",
+    "2024": "https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J",
+    "2025": "https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6",
+}
 COMMUNITY_PHOTOS_BASE_URL = "/images/comunidad"
 GITHUB_ASSETS_BASE = "https://somosnlp.github.io/assets"
 
 # Column name candidates per file type (tried in order; first match wins).
 COLUMNS = {
     "ponencias": {
-        "name":            ["Nombre"],
-        "occupation":      ["Ocupación"],
-        "title":           ["Título del evento"],
-        "description":     ["Descripción del evento"],
-        "learning_points": ["¿Qué aprenderán las personas que asistan a tu evento? Escribe 3-5 puntos clave."],
-        "bio":             ["Breve biografía"],
-        "website":         ["Página web"],
-        "twitter":         ["Twitter"],
-        "linkedin":        ["LinkedIn"],
-        "photo":           ["Foto de perfil"],
-        "level":           ["Nivel técnico"],
-        "topic":           ["¿Cuál es la temática?"],
-        "cartel":          ["Cartel"],
-        "youtube":         ["YouTube"],
-        "fecha":           ["Fecha"],
+        "name": ["Nombre"],
+        "occupation": ["Ocupación"],
+        "title": ["Título del evento"],
+        "description": ["Descripción del evento"],
+        "learning_points": [
+            "¿Qué aprenderán las personas que asistan a tu evento? Escribe 3-5 puntos clave."
+        ],
+        "bio": ["Breve biografía"],
+        "website": ["Página web"],
+        "twitter": ["Twitter"],
+        "linkedin": ["LinkedIn"],
+        "photo": ["Foto de perfil"],
+        "level": ["Nivel técnico"],
+        "topic": ["¿Cuál es la temática?"],
+        "cartel": ["Cartel"],
+        "youtube": ["YouTube"],
+        "fecha": ["Fecha"],
     },
     "mentorias": {
-        "name":            ["Nombre completo", "Nombre"],
-        "occupation":      ["Ocupación y afiliación", "Ocupación"],
-        "title":           [],   # synthesized as "Mentoría con {name}"
-        "description":     ["Descripción de la mentoría"],
+        "name": ["Nombre completo", "Nombre"],
+        "occupation": ["Ocupación y afiliación", "Ocupación"],
+        "title": [],  # synthesized as "Mentoría con {name}"
+        # 2025: "Descripción de la mentoría"
+        # 2023: very long question starting with "¿Cuál es tu especialidad?"
+        "description": ["Descripción de la mentoría", "¿Cuál es tu especialidad?"],
         "learning_points": [],
-        "bio":             ["Breve biografía"],
-        "website":         ["Página web"],
-        "twitter":         ["Twitter"],
-        "linkedin":        ["LinkedIn"],
-        "photo":           ["Foto de perfil"],
-        "level":           [],
-        "topic":           ["Formato de mentoría", "Tipo de mentoring"],
-        "cartel":          ["Cartel"],
-        "youtube":         ["YouTube"],
-        "fecha":           ["Fecha"],
+        "bio": ["Breve biografía"],
+        "website": ["Página web"],
+        "twitter": ["Twitter"],
+        "linkedin": ["LinkedIn"],
+        "photo": ["Foto de perfil"],
+        "level": [],
+        "topic": ["Formato de mentoría", "Tipo de mentoring"],
+        "cartel": ["Cartel"],
+        "youtube": ["YouTube"],
+        "fecha": ["Fecha"],
     },
 }
 
 # Canonical frontmatter key order for speaker profiles
-SPEAKER_FM_KEYS = ["title", "description", "cover", "website", "twitter", "linkedin",
-                   "github", "huggingface", "community"]
+SPEAKER_FM_KEYS = [
+    "title",
+    "description",
+    "cover",
+    "website",
+    "twitter",
+    "linkedin",
+    "github",
+    "huggingface",
+    "community",
+]
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 
 # ─── Filename helpers ────────────────────────────────────────────────────────
+
 
 def clean_filename(text):
     """Convert text to a lowercase underscore-separated filename slug."""
     text = text.lower()
     for pattern, repl in [
-        (r"[áàäâ]", "a"), (r"[éèëê]", "e"), (r"[íìïî]", "i"),
-        (r"[óòöô]", "o"), (r"[úùüû]", "u"), (r"[ñ]", "n"),
+        (r"[áàäâ]", "a"),
+        (r"[éèëê]", "e"),
+        (r"[íìïî]", "i"),
+        (r"[óòöô]", "o"),
+        (r"[úùüû]", "u"),
+        (r"[ñ]", "n"),
     ]:
         text = re.sub(pattern, repl, text)
     text = re.sub(r"[^a-z0-9\s\-]", "", text)
@@ -102,13 +128,26 @@ def format_speaker_filename(name):
 
 # ─── Field helpers ───────────────────────────────────────────────────────────
 
+
 def get_field(row, candidates, default=""):
-    """Return the first non-empty value found among the column name candidates."""
+    """Return the first non-empty value found among the column name candidates.
+
+    First tries exact column name matches, then falls back to prefix matching
+    to handle long column names (e.g. 2023 mentorias CSV where the description
+    column name is the full question text starting with "¿Cuál es tu especialidad?").
+    """
     for col in candidates:
         if col in row.index:
             val = row[col]
             if not pd.isna(val):
                 return str(val).strip()
+    # Prefix fallback: match any column whose name starts with a candidate
+    for col in candidates:
+        for actual_col in row.index:
+            if str(actual_col).startswith(col):
+                val = row[actual_col]
+                if not pd.isna(val):
+                    return str(val).strip()
     return default
 
 
@@ -124,6 +163,7 @@ def normalize_row(row, file_type):
 
 # ─── URL / photo helpers ─────────────────────────────────────────────────────
 
+
 def format_cartel_url(url):
     """Return a usable local path for a cartel (poster) image.
 
@@ -137,7 +177,7 @@ def format_cartel_url(url):
     if url.startswith("/"):
         return url
     if url.startswith(GITHUB_ASSETS_BASE):
-        return url[len(GITHUB_ASSETS_BASE):]
+        return url[len(GITHUB_ASSETS_BASE) :]
     return DEFAULT_POSTER
 
 
@@ -164,18 +204,23 @@ def get_community_photo_url(name):
 def format_photo_url(url, is_speaker=False, speaker_name=None):
     """Return a photo URL suitable for a speaker profile."""
     if not url or pd.isna(url):
-        return get_community_photo_url(speaker_name) if (is_speaker and speaker_name) else DEFAULT_POSTER
+        return (
+            get_community_photo_url(speaker_name)
+            if (is_speaker and speaker_name)
+            else DEFAULT_POSTER
+        )
     url = str(url).strip()
     if url.startswith("/"):
         return url
     if url.startswith(GITHUB_ASSETS_BASE):
-        return url[len(GITHUB_ASSETS_BASE):]
+        return url[len(GITHUB_ASSETS_BASE) :]
     if is_speaker and speaker_name:
         return get_community_photo_url(speaker_name)
     return DEFAULT_POSTER
 
 
 # ─── Content helpers ─────────────────────────────────────────────────────────
+
 
 def format_learning_points(points_str):
     """Format a string of learning points into a markdown bullet list.
@@ -205,10 +250,18 @@ def format_learning_points(points_str):
 def format_date(date):
     """Format a datetime as 'dd de mes de yyyy' in Spanish."""
     months = {
-        "January": "enero", "February": "febrero", "March": "marzo",
-        "April": "abril",   "May": "mayo",          "June": "junio",
-        "July": "julio",    "August": "agosto",      "September": "septiembre",
-        "October": "octubre", "November": "noviembre", "December": "diciembre",
+        "January": "enero",
+        "February": "febrero",
+        "March": "marzo",
+        "April": "abril",
+        "May": "mayo",
+        "June": "junio",
+        "July": "julio",
+        "August": "agosto",
+        "September": "septiembre",
+        "October": "octubre",
+        "November": "noviembre",
+        "December": "diciembre",
     }
     text = date.strftime("%d de %B de %Y")
     for en, es in months.items():
@@ -232,6 +285,7 @@ def parse_frontmatter(content):
 
 # ─── Talk / mentoria page generator ──────────────────────────────────────────
 
+
 def _sanitize_for_frontmatter(text):
     """Prepare a text field for safe embedding as a YAML double-quoted scalar.
 
@@ -241,32 +295,32 @@ def _sanitize_for_frontmatter(text):
     """
     if not text:
         return ""
-    text = " ".join(text.split())   # collapse all whitespace and newlines
-    text = text.replace('"', '\\"') # escape embedded double-quotes
+    text = " ".join(text.split())  # collapse all whitespace and newlines
+    text = text.replace('"', '\\"')  # escape embedded double-quotes
     return text
 
 
 def create_talk_content(fields, year):
     """Return markdown content for a talk or mentoria event page."""
     poster = format_cartel_url(fields["cartel"])
-    video  = format_video_url(fields["youtube"])
+    video = format_video_url(fields["youtube"])
     learning_points = format_learning_points(fields["learning_points"])
     bio_fm = _sanitize_for_frontmatter(fields["bio"])
 
     content = (
-        f'---\n'
+        f"---\n"
         f'title: "{fields["title"]}"\n'
-        f'date: {year}-01-01T00:00:00.000+00:00\n'
-        f'time:\n'
-        f'duration: 30 mins\n'
-        f'cover: {poster}\n'
+        f"date: {year}-01-01T00:00:00.000+00:00\n"
+        f"time:\n"
+        f"duration: 30 mins\n"
+        f"cover: {poster}\n"
         f'author: {fields["name"]}\n'
         f'twitter: {fields["twitter"]}\n'
         f'linkedin: {fields["linkedin"]}\n'
         f'website: {fields["website"]}\n'
         f'bio: "{bio_fm}"\n'
-        f'---\n\n'
-        f'<EventSummary\n'
+        f"---\n\n"
+        f"<EventSummary\n"
         f'    description="{fields["description"]}"\n'
         f'    poster="{poster}"\n'
         f'    video="{video}"\n'
@@ -277,27 +331,30 @@ def create_talk_content(fields, year):
         f'    twitter="{fields["twitter"]}"\n'
         f'    linkedin="{fields["linkedin"]}"\n'
         f'    bio="{fields["bio"]}"\n'
-        f'/>\n'
+        f"/>\n"
     )
     if learning_points:
-        content += f'\n## ¿Qué vas a aprender al asistir a esta charla?\n\n{learning_points}\n'
-    content += '\n## Enlaces útiles\n\n## Charlas relacionadas\n'
+        content += (
+            f"\n## ¿Qué vas a aprender al asistir a esta charla?\n\n{learning_points}\n"
+        )
+    content += "\n## Enlaces útiles\n\n## Charlas relacionadas\n"
     return content
 
 
 # ─── Speaker profile generator ───────────────────────────────────────────────
 
+
 def _build_event_entry(fields, event_name):
     """Return the markdown block for one event entry in a speaker's Ponencias section."""
     poster = format_cartel_url(fields["cartel"])
-    video  = format_video_url(fields["youtube"])
+    video = format_video_url(fields["youtube"])
     return (
         f'- {fields["title"]} | {event_name}\n\n'
-        f'<EventSummary\n'
+        f"<EventSummary\n"
         f'    description="{fields["description"]}"\n'
         f'    poster="{poster}"\n'
         f'    video="{video}"\n'
-        f'/>'
+        f"/>"
     )
 
 
@@ -316,23 +373,33 @@ def _update_ponencias_section(body, event_entry, event_name, bio=""):
         re.MULTILINE,
     )
 
-    ponencias_match = re.search(r'(?m)^## Ponencias[ \t]*\n', body)
+    ponencias_match = re.search(r"(?m)^## Ponencias[ \t]*\n", body)
 
     if not ponencias_match:
         # No Ponencias section at all – create one
         ponencias_block = f"## Ponencias\n\n{event_entry}\n\n"
-        first_section = re.search(r'(?m)^## ', body)
+        first_section = re.search(r"(?m)^## ", body)
         if first_section:
-            return body[:first_section.start()] + ponencias_block + body[first_section.start():]
+            return (
+                body[: first_section.start()]
+                + ponencias_block
+                + body[first_section.start() :]
+            )
         # Body has no sections at all: append Ponencias (+ Biografía if body was empty)
-        result = (body.rstrip("\n") + "\n\n" + ponencias_block) if body.strip() else ponencias_block
+        result = (
+            (body.rstrip("\n") + "\n\n" + ponencias_block)
+            if body.strip()
+            else ponencias_block
+        )
         if bio and "## Biografía" not in body:
             result += f"## Biografía\n\n{bio}\n\n*Última actualización: {format_date(datetime.now())}*\n"
         return result
 
     ponencias_start = ponencias_match.end()
-    next_section = re.search(r'(?m)^## ', body[ponencias_start:])
-    ponencias_end = ponencias_start + next_section.start() if next_section else len(body)
+    next_section = re.search(r"(?m)^## ", body[ponencias_start:])
+    ponencias_end = (
+        ponencias_start + next_section.start() if next_section else len(body)
+    )
     ponencias_body = body[ponencias_start:ponencias_end]
 
     existing_entry = entry_pattern.search(ponencias_body)
@@ -340,9 +407,9 @@ def _update_ponencias_section(body, event_entry, event_name, bio=""):
     if existing_entry:
         # Replace existing entry (same event, possibly updated poster/video)
         new_ponencias = (
-            ponencias_body[:existing_entry.start()]
+            ponencias_body[: existing_entry.start()]
             + event_entry
-            + ponencias_body[existing_entry.end():]
+            + ponencias_body[existing_entry.end() :]
         )
     else:
         # Append new entry for this event
@@ -361,10 +428,10 @@ def create_speaker_content(fields, year, event_name, existing_content=None):
       - Inserts or updates the event entry in ## Ponencias (never duplicates).
       - Leaves ## Biografía and any other sections untouched.
     """
-    name       = fields["name"]
+    name = fields["name"]
     occupation = fields["occupation"]
-    bio        = fields["bio"]
-    photo      = format_photo_url(fields["photo"], is_speaker=True, speaker_name=name)
+    bio = fields["bio"]
+    photo = format_photo_url(fields["photo"], is_speaker=True, speaker_name=name)
     event_entry = _build_event_entry(fields, event_name)
 
     # ── New file ──────────────────────────────────────────────────────────────
@@ -392,9 +459,9 @@ def create_speaker_content(fields, year, event_name, existing_content=None):
 
     # Update fields that should reflect the latest CSV data
     fm["description"] = occupation
-    fm["website"]     = fields["website"]
-    fm["twitter"]     = fields["twitter"]
-    fm["linkedin"]    = fields["linkedin"]
+    fm["website"] = fields["website"]
+    fm["twitter"] = fields["twitter"]
+    fm["linkedin"] = fields["linkedin"]
     # Preserve manually-set fields; only set defaults when missing
     if not fm.get("title"):
         fm["title"] = name
@@ -412,7 +479,9 @@ def create_speaker_content(fields, year, event_name, existing_content=None):
         if k not in ordered_fm:
             ordered_fm[k] = v
 
-    fm_block = "---\n" + yaml.dump(ordered_fm, allow_unicode=True, sort_keys=False) + "---\n"
+    fm_block = (
+        "---\n" + yaml.dump(ordered_fm, allow_unicode=True, sort_keys=False) + "---\n"
+    )
 
     updated_body = _update_ponencias_section(body, event_entry, event_name, bio)
     return fm_block + updated_body
@@ -420,15 +489,16 @@ def create_speaker_content(fields, year, event_name, existing_content=None):
 
 # ─── eventos/index.vue update ────────────────────────────────────────────────
 
+
 def _find_div_end(content, start):
     """Return the index just after the </div> that closes the <div> opened at *start*."""
     depth = 0
     i = start
     while i < len(content):
-        if content[i:i+4] == "<div":
+        if content[i : i + 4] == "<div":
             depth += 1
             i += 4
-        elif content[i:i+6] == "</div>":
+        elif content[i : i + 6] == "</div>":
             depth -= 1
             if depth == 0:
                 return i + 6
@@ -443,39 +513,79 @@ def _is_valid_cartel(url):
     return bool(url) and url.startswith("/") and url != DEFAULT_POSTER
 
 
-def _generate_grid_entries(data, year, file_type):
-    """Yield indented <a><img /></a> HTML strings for entries with valid cartels.
+def find_speaker_image(name, year, project_root):
+    """Find a local event poster image by matching speaker name parts against filenames.
 
-    Links always point to the event page (not YouTube).
+    Image files follow YYMMDD_name_parts.ext; all image stem words must be a
+    subset of the speaker name words (after cleaning).
+    Returns a path like '/images/eventos/250415_alfonso_amayuelas.png' or None.
+    """
+    images_dir = os.path.join(project_root, "public", "images", "eventos")
+    year_prefix = str(year)[-2:]
+    try:
+        candidates = sorted(
+            [
+                f
+                for f in os.listdir(images_dir)
+                if f.startswith(year_prefix)
+                and f.lower().endswith((".png", ".jpg", ".jpeg"))
+            ]
+        )
+    except FileNotFoundError:
+        return None
+    name_parts = set(clean_filename(name).split("_"))
+    for img_file in candidates:
+        stem = re.sub(r"^\d{6}_", "", os.path.splitext(img_file)[0])
+        img_parts = set(stem.split("_"))
+        if img_parts and img_parts.issubset(name_parts):
+            return f"/images/eventos/{img_file}"
+    return None
+
+
+def _generate_grid_entries(data, year, file_type, project_root=None):
+    """Yield indented <a><img /></a> HTML strings for all accepted entries.
+
+    Image priority: CSV cartel → auto-detected filesystem image → DEFAULT_POSTER.
+    Link: event page → CSV youtube → year playlist.
     """
     event_dir = f"hackathon-{year}"
+    playlist = YEAR_PLAYLISTS.get(str(year), DEFAULT_YOUTUBE)
+
     for _, row in data.iterrows():
         fields = normalize_row(row, file_type)
+
+        # ── Poster image ──────────────────────────────────────────────────────
         cartel = format_cartel_url(fields["cartel"])
+        if not _is_valid_cartel(cartel) and project_root:
+            cartel = find_speaker_image(fields["name"], year, project_root) or ""
         if not _is_valid_cartel(cartel):
-            continue
+            cartel = DEFAULT_POSTER
 
-        if file_type == "ponencias":
-            slug = clean_filename(fields["title"])
-            alt  = f"Charla de {fields['name']}"
-        else:
-            slug = f"mentoria_{format_speaker_filename(fields['name'])}"
-            alt  = f"Mentoría de {fields['name']}"
+        # ── Slug and alt text ─────────────────────────────────────────────────
+        slug = clean_filename(fields["title"])  # works for both types
+        alt = (
+            f"Mentoría de {fields['name']}"
+            if file_type == "mentorias"
+            else f"Charla de {fields['name']}"
+        )
 
-        href = f"/{event_dir}/{slug}"
+        # ── href: event page → CSV youtube → year playlist ────────────────────
+        youtube = fields.get("youtube", "") or ""
+        fallback = youtube if (youtube and youtube != DEFAULT_YOUTUBE) else playlist
+        href = f"/{event_dir}/{slug}" if slug else fallback
 
         yield (
             f'                    <a href="{href}" target="_blank">\n'
             f'                        <img alt="{alt}" width="650" height="365"\n'
             f'                            src="{cartel}" />\n'
-            f'                    </a>'
+            f"                    </a>"
         )
 
 
-def _build_grid_block(year, entries_html):
-    """Return the full HTML block (with sentinel markers) for a hackathon-YYYY section."""
-    begin = f"<!-- BEGIN:hackathon-{year} -->"
-    end   = f"<!-- END:hackathon-{year} -->"
+def _build_grid_block(marker_key, entries_html):
+    """Return the full HTML block (with sentinel markers) for a file_type-YYYY section."""
+    begin = f"<!-- BEGIN:{marker_key} -->"
+    end = f"<!-- END:{marker_key} -->"
     return (
         f"{begin}\n"
         f'            <div class="mx-auto my-8 text-center">\n'
@@ -487,65 +597,96 @@ def _build_grid_block(year, entries_html):
     )
 
 
-def update_eventos_index(vue_path, year, file_type, data):
-    """Insert or refresh the hackathon-YYYY grid in pages/eventos/index.vue.
+def update_eventos_index(vue_path, year, file_type, data, project_root=None):
+    """Insert or refresh the file_type-YYYY grid in pages/eventos/index.vue.
+
+    Each file_type (ponencias/mentorias) gets its own sentinel markers so that
+    running multiple CSVs for the same year doesn't overwrite each other.
 
     Strategy (in priority order):
-        1. Sentinel markers exist  → replace content between them.
-        2. <h3> exists, no markers → find div block after h3, wrap in markers and replace.
-        3. Neither                 → insert new <h3> + grid before the first older hackathon section.
+        1. Typed markers exist (BEGIN:{file_type}-{year}) → replace content between them.
+        2. h3 exists → insert new block after the last existing END:*-{year} marker,
+           or right after the h3 line if none exist yet.
+        3. Neither → insert new <h3> + block before the first older hackathon section.
     """
-    entries = list(_generate_grid_entries(data, year, file_type))
+    entries = list(_generate_grid_entries(data, year, file_type, project_root))
     if not entries:
-        logging.info("No entries with poster images for %s – skipping eventos/index.vue", year)
+        logging.info(
+            "No entries for %s/%s – skipping eventos/index.vue", file_type, year
+        )
         return
 
     entries_html = "\n\n".join(entries)
-    grid_block   = _build_grid_block(year, entries_html)
-    begin_marker = f"<!-- BEGIN:hackathon-{year} -->"
-    end_marker   = f"<!-- END:hackathon-{year} -->"
-    h3_tag       = f'<h3 id="hackathon-{year}">'
+    marker_key = f"{file_type}-{year}"
+    grid_block = _build_grid_block(marker_key, entries_html)
+    begin_marker = f"<!-- BEGIN:{marker_key} -->"
+    end_marker = f"<!-- END:{marker_key} -->"
+    h3_tag = f'<h3 id="hackathon-{year}">'
 
     with open(vue_path, "r", encoding="utf-8") as f:
         content = f.read()
 
-    # ── Case 1: markers already exist ────────────────────────────────────────
-    if begin_marker in content:
-        pattern     = re.escape(begin_marker) + r".*?" + re.escape(end_marker)
-        new_content = re.sub(pattern, grid_block, content, flags=re.DOTALL)
-        logging.info("Updated eventos/index.vue – replaced markers for hackathon-%s", year)
+    # ── Migrate old generic hackathon-YYYY markers (one-time cleanup) ─────────
+    old_begin = f"<!-- BEGIN:hackathon-{year} -->"
+    old_end = f"<!-- END:hackathon-{year} -->"
+    if old_begin in content:
+        old_pattern = re.escape(old_begin) + r".*?" + re.escape(old_end)
+        content = re.sub(old_pattern, "", content, flags=re.DOTALL)
+        logging.info(
+            "Removed old generic hackathon-%s markers (migrating to typed markers)",
+            year,
+        )
 
-    # ── Case 2: <h3> exists, no markers ──────────────────────────────────────
+    # ── Case 1: typed markers exist → replace ────────────────────────────────
+    if begin_marker in content:
+        pattern = re.escape(begin_marker) + r".*?" + re.escape(end_marker)
+        new_content = re.sub(pattern, grid_block, content, flags=re.DOTALL)
+        logging.info("Updated eventos/index.vue – replaced %s markers", marker_key)
+
+    # ── Case 2: h3 exists → insert after last END:*-{year} or after h3 line ──
     elif h3_tag in content:
-        h3_pos   = content.find(h3_tag)
-        after_h3 = content[h3_pos + len(h3_tag):]
-        div_rel  = after_h3.find('<div class="mx-auto my-8 text-center">')
-        if div_rel == -1:
-            logging.warning("Found h3 for hackathon-%s but no div block after it – skipping", year)
-            return
-        div_abs = h3_pos + len(h3_tag) + div_rel
-        div_end = _find_div_end(content, div_abs)
-        if div_end == -1:
-            logging.warning("Could not find end of div block for hackathon-%s – skipping", year)
-            return
-        new_content = content[:div_abs] + grid_block + content[div_end:]
-        logging.info("Updated eventos/index.vue – replaced div block for hackathon-%s", year)
+        any_end_re = re.compile(r"<!-- END:[\w]+-" + re.escape(str(year)) + r" -->")
+        last_end = None
+        for m in any_end_re.finditer(content):
+            last_end = m
+
+        if last_end:
+            ins = last_end.end()
+            new_content = (
+                content[:ins] + "\n\n            " + grid_block + content[ins:]
+            )
+        else:
+            h3_pos = content.find(h3_tag)
+            h3_line_end = content.find("\n", h3_pos) + 1
+            new_content = (
+                content[:h3_line_end]
+                + "            "
+                + grid_block
+                + "\n"
+                + content[h3_line_end:]
+            )
+        logging.info(
+            "Updated eventos/index.vue – inserted %s block under h3", marker_key
+        )
 
     # ── Case 3: no section for this year yet ─────────────────────────────────
     else:
         h3_section = (
-            f'{h3_tag}{{{{ t(\'events.sections.hackathon-{year}\') }}}}</h3>\n'
-            f'            {grid_block}\n\n            '
+            f"{h3_tag}{{{{ t('events.sections.hackathon-{year}') }}}}</h3>\n"
+            f"            {grid_block}\n\n            "
         )
         match = re.search(r'<h3 id="hackathon-(\d{4})">', content)
         if match and int(match.group(1)) < int(year):
-            new_content = content[:match.start()] + h3_section + content[match.start():]
+            new_content = (
+                content[: match.start()] + h3_section + content[match.start() :]
+            )
             logging.info("Inserted new hackathon-%s section in eventos/index.vue", year)
         else:
             logging.warning(
                 "Could not find an insertion point for hackathon-%s in eventos/index.vue. "
                 "Add a '<h3 id=\"hackathon-%s\">' marker manually and re-run.",
-                year, year,
+                year,
+                year,
             )
             return
 
@@ -555,15 +696,16 @@ def update_eventos_index(vue_path, year, file_type, data):
 
 # ─── Main processing ─────────────────────────────────────────────────────────
 
+
 def update_talks_and_speakers(csv_filename):
     """Process the CSV and update event pages, speaker profiles, and eventos/index.vue."""
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
     # Derive file type and year from filename (e.g. "ponencias-2025.csv")
-    stem      = os.path.splitext(csv_filename)[0]
-    parts     = stem.split("-")
-    file_type = parts[0]   # "ponencias" or "mentorias"
-    year      = parts[-1]  # "2025"
+    stem = os.path.splitext(csv_filename)[0]
+    parts = stem.split("-")
+    file_type = parts[0]  # "ponencias" or "mentorias"
+    year = parts[-1]  # "2025"
     event_dir = f"hackathon-{year}"
     full_event_name = f"{EVENT_NAME} {year}"
 
@@ -608,17 +750,21 @@ def update_talks_and_speakers(csv_filename):
         fields = normalize_row(row, file_type)
 
         try:
-            talk_slug     = clean_filename(fields["title"])
+            talk_slug = clean_filename(fields["title"])
             talk_filename = f"{talk_slug}.md"
-            speaker_file  = f"{format_speaker_filename(name)}.md"
+            speaker_file = f"{format_speaker_filename(name)}.md"
 
             if talk_slug in processed_slugs:
                 logging.warning("Duplicate entry – skipping: %s", talk_filename)
                 continue
             processed_slugs.add(talk_slug)
 
-            talk_path    = os.path.join(script_dir, "..", "pages", event_dir, talk_filename)
-            speaker_path = os.path.join(script_dir, "..", "pages", "comunidad", speaker_file)
+            talk_path = os.path.join(
+                script_dir, "..", "pages", event_dir, talk_filename
+            )
+            speaker_path = os.path.join(
+                script_dir, "..", "pages", "comunidad", speaker_file
+            )
 
             # ── Event page (always overwrite – canonical source is the CSV) ──
             with open(talk_path, "w", encoding="utf-8") as f:
@@ -638,9 +784,16 @@ def update_talks_and_speakers(csv_filename):
             logging.error("Error processing '%s': %s", fields.get("title", name), e)
 
     # ── eventos/index.vue ────────────────────────────────────────────────────
+    # Only auto-manage the grid for 2024+; older years have manually curated
+    # entries with custom images that should not be overwritten by the script.
     vue_path = os.path.join(script_dir, "..", "pages", "eventos", "index.vue")
-    if os.path.exists(vue_path):
-        update_eventos_index(vue_path, year, file_type, df)
+    project_root = os.path.normpath(os.path.join(script_dir, ".."))
+    if int(year) < 2024:
+        logging.info(
+            "Skipping eventos/index.vue update for %s (manually curated)", year
+        )
+    elif os.path.exists(vue_path):
+        update_eventos_index(vue_path, year, file_type, df, project_root)
     else:
         logging.warning("eventos/index.vue not found at %s", vue_path)
 

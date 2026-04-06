@@ -12,7 +12,7 @@ bio: "Data Scientist con experiencia en investigación, consultoría y sector se
 ---
 
 <EventSummary
-    description=""
+    description="Ecosistema de HF, spark-nlp de jonh snow labs"
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
     tema="AMA: evento en directo"
@@ -23,7 +23,3 @@ bio: "Data Scientist con experiencia en investigación, consultoría y sector se
     linkedin="https://www.linkedin.com/in/%C3%A1lvaro-romo-herrero-270809bb/"
     bio="Data Scientist con experiencia en investigación, consultoría y sector seguros. Ha liderado y desarrollado distintos proyectos en el ámbito de NLP como clasificación y detección de entidades en documentos legales, tendencias en ofertas de empleo y monitorización de llamadas en contact centers."
 />
-
-## Enlaces útiles
-
-## Charlas relacionadas

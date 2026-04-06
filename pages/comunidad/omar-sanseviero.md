@@ -14,6 +14,12 @@ community: Activo
 
 - Ask Me Anything con Omar Sanseviero | Hackathon SomosNLP 2023
 
+<EventSummary
+    description="Pregúntale a Omar lo que quieras sobre Hugging Face en general (plataforma, herramientas, etc), Spaces y Gradio y el ecosistema de ML."
+    poster="/images/patrocinios/somosnlp.png"
+    video="https://www.youtube.com/@SomosNLP"
+/>
+
 - Análisis de error en modelos de PLN | Hackathon SomosNLP 2022
 
 <EventSummary
@@ -45,13 +51,7 @@ community: Activo
     </a>
 </div>
 
-- Mentoría con Omar Sanseviero | Hackathon SomosNLP 2023
 
-<EventSummary
-    description=""
-    poster="/images/patrocinios/somosnlp.png"
-    video="https://www.youtube.com/@SomosNLP"
-/>
 ## Colaboración
 
 - Gestión del patrocinio de Hugging Face durante el Hackathon SomosNLP 2024

@@ -12,7 +12,7 @@ bio: "Omar Sanseviero es un lead Machine Learning Engineer en Hugging Face, dond
 ---
 
 <EventSummary
-    description=""
+    description="AMA sobre Hugging Face (plataforma, herramientas, etc), Spaces y Gradio y el ecosistema de ML en general"
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
     tema="Foro de Discord"
@@ -23,7 +23,3 @@ bio: "Omar Sanseviero es un lead Machine Learning Engineer en Hugging Face, dond
     linkedin="https://www.linkedin.com/in/omarsanseviero"
     bio="Omar Sanseviero es un lead Machine Learning Engineer en Hugging Face, donde trabaja en la intersección de open-source, comunidad y producto. Previamente, Omar trabajó en Google en los equipos de Assistant y TensorFlow."
 />
-
-## Enlaces útiles
-
-## Charlas relacionadas

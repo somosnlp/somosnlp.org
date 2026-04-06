@@ -8,7 +8,7 @@ author: Ivana Feldfeber
 twitter: https://www.twitter.com/datagenero
 linkedin: https://www.linkedin.com/company/datagenero
 website: https://www.datagenero.org
-bio: "Ivana Feldfeber es especialista en Ciencia de Datos con perspectiva de género. Es cofundadora y directora ejecutiva del primer Observatorio de Datos de Género de América Latina, 'DataGénero'. Es integrante de la Red Latinoamericana de Investigación en Inteligencia Artificial Feminista. Fue becaria en el Centro de Inteligencia Artificial y Política Digital (CAIDP) para el análisis de políticas públicas de IA en América Latina. Ivana es diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Universidad de Córdoba, Argentina."
+bio: "Ivana Feldfeber es especialista en Ciencia de Datos con perspectiva de género. Es cofundadora y directora ejecutiva del primer Observatorio de Datos de Género de América Latina, \"DataGénero\". Es integrante de la Red Latinoamericana de Investigación en Inteligencia Artificial Feminista. Fue becaria en el Centro de Inteligencia Artificial y Política Digital (CAIDP) para el análisis de políticas públicas de IA en América Latina. Ivana es diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Universidad de Córdoba, Argentina."
 ---
 
 <EventSummary
@@ -25,7 +25,3 @@ bio: "Ivana Feldfeber es especialista en Ciencia de Datos con perspectiva de gé
 
 Ivana es diplomada en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Universidad de Córdoba, Argentina."
 />
-
-## Enlaces útiles
-
-## Charlas relacionadas

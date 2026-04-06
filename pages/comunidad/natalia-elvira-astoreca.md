@@ -15,7 +15,7 @@ community: Ponente 2023
 - Mentoría con Natalia Elvira Astoreca | Hackathon SomosNLP 2023
 
 <EventSummary
-    description=""
+    description="Puedo resolver preguntas sobre el etiquetado de datos y la organización de proyectos de anotación"
     poster="/images/patrocinios/somosnlp.png"
     video="https://www.youtube.com/@SomosNLP"
 />
