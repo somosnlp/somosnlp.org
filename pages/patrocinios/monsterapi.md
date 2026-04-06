@@ -20,4 +20,6 @@ logo="/images/patrocinios/MonsterAPI.jpeg"
 logo_dark="/images/patrocinios/MonsterAPI.jpeg" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
