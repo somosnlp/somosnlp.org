@@ -57,11 +57,13 @@ export function useLanguage() {
     const targetPath = buildLocalizedPath(basePath, lang)
 
     if (targetPath !== route.path) {
-      // Check if a real route exists for the target (not just the catch-all)
-      const resolved = router.resolve(targetPath)
-      const isCatchAll = resolved.matched.some(m => m.path === '/:all(.*)')
+      // Only navigate if a real page route exists for the target locale.
+      // Check that a route with matching locale metadata exists (not the catch-all).
+      const hasPageRoute = router.getRoutes().some(
+        r => r.path === targetPath && r.meta?.locale === lang
+      )
 
-      if (!isCatchAll) {
+      if (hasPageRoute) {
         await router.push(targetPath)
       }
     }
