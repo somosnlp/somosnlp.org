@@ -119,7 +119,7 @@ En esta página encontrarás información sobre:
 Antes de comenzar, todas las personas tienen que:
 - ✅ Unirse al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
 - ✅ Crear una cuenta en [Hugging Face](https://huggingface.co/join)
-- ✅ Rellenar el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
+- ✅ Rellenar el [formulario de registro](https://forms.gle/d1WBoTNuNEyzHNi86)
 - ✅ Unirse a la [organización de Hugging Face del hackathon](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), donde se compartirán los datasets, modelos y demos
 
 Para crear un equipo:
