@@ -15,7 +15,7 @@ const miniChallenges = [
     dates: "9 de abril - 31 de mayo ",
     points: "1 pto",
     requirements: "Saber buscar en internet",
-    link: "https://somosnlp.org/hackathon-2026/retos/include",
+    link: "https://somosnlp.org/hackathon/retos/include",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -24,7 +24,7 @@ const miniChallenges = [
     dates: "9 de abril - 21 de mayo ",
     points: "1 pto",
     requirements: "Haber vivido en sociedad",
-    link: "https://somosnlp.org/hackathon-2026/retos/estereotipos",
+    link: "https://somosnlp.org/hackathon/retos/estereotipos",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -33,7 +33,7 @@ const miniChallenges = [
     dates: "14 de abril - 31 de mayo ",
     points: "2 ptos",
     requirements: "Haber vivido en sociedad",
-    link: "https://somosnlp.org/hackathon-2026/retos/blend",
+    link: "https://somosnlp.org/hackathon/retos/blend",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
@@ -45,7 +45,7 @@ const mainChallenges = [
     dates: "14 de abril - 21 de mayo ",
     points: "3 ptos",
     requirements: "Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural",
-    link: "https://somosnlp.org/hackathon-2026/retos/preferencias",
+    link: "https://somosnlp.org/hackathon/retos/preferencias",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -54,7 +54,7 @@ const mainChallenges = [
     dates: "21 de abril - 31 de mayo (Máx. 2 semanas)",
     points: "3 ptos",
     requirements: "Saber programar",
-    link: "https://somosnlp.org/hackathon-2026/retos/alineamiento",
+    link: "https://somosnlp.org/hackathon/retos/alineamiento",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -63,7 +63,7 @@ const mainChallenges = [
     dates: "21 de abril - 31 de mayo (Máx. 2 semanas)",
     points: "3 ptos",
     requirements: "Tener experiencia en PLN",
-    link: "https://somosnlp.org/hackathon-2026/retos/alineamiento",
+    link: "https://somosnlp.org/hackathon/retos/alineamiento",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
@@ -75,7 +75,7 @@ const finalChallenges = [
     dates: "Hasta el 31 de mayo ",
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
-    link: "https://somosnlp.org/hackathon-2026/retos/presentacion",
+    link: "https://somosnlp.org/hackathon/retos/presentacion",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -84,7 +84,7 @@ const finalChallenges = [
     dates: "Envío hasta el 1 de junio ",
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
-    link: "https://somosnlp.org/hackathon-2026/retos/presentacion",
+    link: "https://somosnlp.org/hackathon/retos/presentacion",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -93,7 +93,7 @@ const finalChallenges = [
     dates: "A partir de junio",
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
-    link: "https://somosnlp.org/hackathon-2026/retos/presentacion",
+    link: "https://somosnlp.org/hackathon/retos/presentacion",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
@@ -120,7 +120,7 @@ Antes de comenzar, todas las personas tienen que:
 - ✅ Unirse al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
 - ✅ Crear una cuenta en [Hugging Face](https://huggingface.co/join)
 - ✅ Rellenar el [formulario de registro](https://forms.gle/d1WBoTNuNEyzHNi86)
-- ✅ Unirse a la [organización de Hugging Face del hackathon](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), donde se compartirán los datasets, modelos y demos
+- ✅ Unirse a la [organización de Hugging Face del hackathon](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), donde se compartirán los datasets, modelos y demos
 
 Para crear un equipo:
 - Puedes apuntarte con gente que ya conozcas (por ejemplo, tu grupo de clase o del trabajo) o conocer a gente de la comunidad de SomosNLP de otros países, universidades y empresas. Si quieres conocer a gente, revisa el [canal #encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611)
@@ -294,7 +294,7 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 - Comparte los posts de las cuentas de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_)), ¡invita a tus colegas del trabajo, compañeros y compañeras de clase a crear un equipo!
 <!-- - ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A). -->
-- ¿Estás en la uni? [Comparte esta info con tu profe](https://somosnlp.org/hackathon-2026/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
+- ¿Estás en la uni? [Comparte esta info con tu profe](https://somosnlp.org/hackathon/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
 <!-- - ¿Te gustaría compartir tu conocimiento con la comunidad? Propón una [ponencia](https://forms.gle/YpUvifDNLG6E56Cy9) o una [mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9). 
 - ¿Formas parte de un grupo de investigación? Igual os interesa [colaborar donando un corpus](https://somosnlp.org/donatucorpus).-->
 - ¿Quieres apoyar la iniciativa dando visibilidad, patrocinando vales o con una donación económica? ¡[Patrocina el hackathon](https://forms.gle/sEkxstwbJSRYpgDa8)!

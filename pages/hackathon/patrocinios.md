@@ -82,7 +82,7 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 
 Enlaces útiles:
 - [🎨 Material de difusión](https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2026)
-- [🎓 Info para universidades](https://somosnlp.org/hackathon-2026/universidades)
+- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
 <center><a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Rellena el formulario de difusión</a></center>
 

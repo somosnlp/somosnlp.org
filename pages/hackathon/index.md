@@ -9,8 +9,9 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
   <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
-  <!-- <a href="https://somosnlp.org/blog/hackathon-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
-  <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a> -->
+  <!-- Ediciones anteriores -->
+  <!-- <a href="https://somosnlp.org/blog/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
+  <a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a> -->
   <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
 </div>
 
@@ -55,12 +56,12 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
     <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <!-- <div class="text-center">
-    <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
+    <a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
   </div> -->
 </div>
 
 <!--
-<center><a href="https://somosnlp.org/hackathon-2026/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
+<center><a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
 -->
 
 </details>
@@ -118,7 +119,7 @@ Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances. ¡Lee los temas sugeridos y mándanos tu propuesta!
 
-<center><a href="https://somosnlp.org/hackathon-2026/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
+<center><a href="https://somosnlp.org/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
 
 </details>
 
@@ -138,7 +139,7 @@ Comparte tu experiencia y conocimiento apoyando a los equipos participantes a cr
 
 SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y acercar los modelos de lenguaje al mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo **visibilidad, vales y donaciones**. ¡Contamos contigo!
 
-<center><a href="https://somosnlp.org/hackathon-2026/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
+<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
 
 </details>
 
@@ -147,7 +148,7 @@ SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y vi
 
 Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más personas, ¡todo el apoyo es bienvenido! Además, a partir de 4 publicaciones añadiremos vuestro logo a la página web en la sección de "Patrocinios de Comunidad".
 
-<center><a href="https://somosnlp.org/hackathon-2026/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a></center>
+<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a></center>
 
 </details>
 
@@ -165,7 +166,6 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 Tendrás la oportunidad de aprender de líderes de la academia y la industria, ¡iremos anunciando nuevas ponencias y mentorías!
 
 <SpeakerList :year="2026" :cols="3" />
-
 
 ## 👏 Agradecimientos 
 

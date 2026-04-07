@@ -23,7 +23,7 @@ Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo p
 *Hasta el 31 de mayo | máx 0.5 ptos*
 
 - Si es tu primera demo, te recomendamos utilizar Gradio ya que es más sencillo.
-- Crea la demo directamente en un Space en hf.co/somosnlp-hackathon-2026 e itera ahí.
+- Crea la demo directamente en un Space en hf.co/somosnlp-hackathon e itera ahí.
 <!-- - Puedes utilizar GPUs `Nvidia T4 - small` patrocinadas por Hugging Face. -->
 - Qué incluir en la demo: motivación del proyecto, impacto, ideas futuras, número de Objetivo de Desarrollo Sostenible si procede, enlace al dataset y modelo utilizados, miembros del equipo, todo lo que consideres necesario para promocionar tu proyecto 🤗
 - Crea una demo clara e intuitiva.
@@ -121,4 +121,4 @@ Contactaremos a los equipos que nos comuniquen su interés para organizar mentor
 No más commits (ni en las docs) hasta que se anuncien los resultados por favor! No queremos descalificar a nadie 🙏
 - Ayúdanos en 2 mins a mejorar para el año que viene puntuando con estrellas diferentes aspectos en [este mini formulario](https://forms.gle/wi5T49UiJEUGjGJd8). ¡Gracias! -->
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
