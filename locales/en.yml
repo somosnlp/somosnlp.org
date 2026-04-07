@@ -88,9 +88,9 @@ landing-page:
   events:
     all-events: See all the events
     event-description: >-
-      Vuelve el #HackathonSomosNLP, en la próxima edición de marzo de 2024, nos
-      centraremos en generar bases de datos diversas y de calidad para el
-      entrenamiento de LLMs que se expresen con propiedad en español.
+      The #HackathonSomosNLP is back! In the upcoming March 2024 edition, we
+      will focus on generating diverse, high-quality datasets for training LLMs
+      that speak proper Spanish.
     join-event: Join the event!
     more-events: Recorded events
     recorded-events: Recorded events
@@ -104,7 +104,7 @@ landing-page:
   introducing: Introducing
   join-now: Join now!
   join-us-discord: Join us on Discord
-  know-more: Know more
+  know-more: Learn more
   learn-with-us: Learn with us!
   projects:
     current-projects: Current projects
@@ -115,8 +115,8 @@ landing-page:
       Building the largest international network of Spanish-speaking NLP
       students, professionals and researchers. We are 2000!
     education: >-
-      Creating tutorials, organize talks & workshops and discuss the state of
-      the art of NLP in Spanish.
+      Creating tutorials, organizing talks & workshops, and discussing the
+      state of the art of NLP in Spanish.
     heading: We are 600M Spanish speakers
     jobs: Providing a marketplace for NLP jobs in Spanish.
     new-job-board: Job Board
