@@ -32,6 +32,15 @@ function buildLocalizedPath(basePath: string, lang: Language): string {
   return `/${lang}${basePath === '/' ? '' : basePath}`
 }
 
+/**
+ * Returns the localized path for a given base path using the current language.
+ * Useful in templates: :to="localePath('/hackathon')"
+ */
+export function localePath(path: string): string {
+  const normalizedPath = path.startsWith('/') ? path : `/${path}`
+  return buildLocalizedPath(normalizedPath, currentLanguage.value)
+}
+
 export function useLanguage() {
   const router = useRouter()
   const route = useRoute()

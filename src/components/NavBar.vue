@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
+import { localePath } from '~/composables/useLanguage'
 
 const { t } = useI18n()
 </script>
@@ -8,16 +9,16 @@ const { t } = useI18n()
     <nav class="flex gap-4 items-center justify-between select-none">
         <div class="flex gap-8 items-center">
             <Logo />
-            <router-link to="/hackathon" class="whitespace-nowrap text-accent-500">Hackathon
+            <router-link :to="localePath('/hackathon')" class="whitespace-nowrap text-accent-500">Hackathon
             </router-link>
-            <router-link to="/recursos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.resources') }}
+            <router-link :to="localePath('/recursos')" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.resources') }}
             </router-link>
-            <router-link to="/eventos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.events') }}
+            <router-link :to="localePath('/eventos')" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.events') }}
             </router-link>
-            <router-link to="/blog" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.blog') }}</router-link>
-            <!-- <router-link to="/empleo" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.jobs') }}
+            <router-link :to="localePath('/blog')" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.blog') }}</router-link>
+            <!-- <router-link :to="localePath('/empleo')" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.jobs') }}
             </router-link> -->
-            <router-link to="/comunidad" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.team') }}
+            <router-link :to="localePath('/comunidad')" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.team') }}
             </router-link>
         </div>
         <div class="flex gap-4 items-center">
