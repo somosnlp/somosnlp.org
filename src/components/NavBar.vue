@@ -8,7 +8,12 @@ const { t } = useI18n()
     <nav class="flex gap-4 items-center justify-between select-none">
         <div class="flex gap-8 items-center">
             <Logo />
-            <router-link to="/hackathon" class="whitespace-nowrap text-accent-500">Hackathon
+            <router-link to="/hackathon" class="whitespace-nowrap hover:text-accent-500 flex items-center gap-1.5">
+                <span class="relative flex h-2.5 w-2.5">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-red-500"></span>
+                </span>
+                Hackathon
             </router-link>
             <router-link to="/recursos" class="whitespace-nowrap hover:text-accent-500">{{ t('navbar.resources') }}
             </router-link>
