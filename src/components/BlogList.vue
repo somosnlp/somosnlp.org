@@ -13,21 +13,22 @@ const routes = computed(() => {
     const allRoutes = router.getRoutes()
 
     const blogRoutes = allRoutes.filter(i => {
-        // Blog post filters
-        const isBlogPost = i.path.startsWith('/blog/')
+        // Blog post filters: match both /blog/ and /en/blog/ or /pt/blog/
+        const basePath = (i.meta as any).basePath || i.path
+        const isBlogPost = basePath.startsWith('/blog/')
         const hasDate = (i.meta as any).frontmatter?.date
-        const notExample = !isProduction || !i.path.startsWith('/blog/examples')
+        const notExample = !isProduction || !basePath.startsWith('/blog/examples')
 
-        // Filter out English translations in Spanish mode
-        // and Spanish versions in English mode
-        const isEnglishPost = i.path.endsWith('.en')
-        const matchesLanguage = language.value === 'en' ? isEnglishPost : !isEnglishPost
+        // Filter by locale using route metadata
+        const routeLocale = (i.meta as any).locale || 'es'
+        const matchesLanguage = routeLocale === language.value
         return isBlogPost && hasDate && notExample && matchesLanguage
     })
 
-    const conferenciaRoutes = allRoutes.filter(i =>
-        i.path.startsWith('/conferencias/') && (i.meta as any).frontmatter?.title
-    )
+    const conferenciaRoutes = allRoutes.filter(i => {
+        const basePath = (i.meta as any).basePath || i.path
+        return basePath.startsWith('/conferencias/') && (i.meta as any).frontmatter?.title
+    })
 
     const combined = [...blogRoutes, ...conferenciaRoutes]
 
