@@ -16,6 +16,10 @@ La Sociedad Española de Procesamiento de Lenguaje Natural (SEPLN) es una socied
 - Patrocinio de comunidad [Hackathon SomosNLP 2025: Cultural NLP](https://somosnlp.org/hackathon-2025)
 - Patrocinio de comunidad [Hackathon SomosNLP 2024: #Somos600M](https://somosnlp.org/blog/hackathon-2024)
 
+## Menciones en nuestro blog
+
+- [LANLP: Bridging Ibero and Latin American NLP communities](https://somosnlp.org/blog/lanlp-at-lrec-2026)
+
 <div class="flex justify-center">
     <img alt="SEPLN" width="250" height="140" 
     src="/images/patrocinios/SEPLN.png" />

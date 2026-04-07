@@ -39,6 +39,10 @@ years: 2023, 2022
     hide_personal_info
 />
 
+## Menciones en nuestro blog
+
+- [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury
+
 <div class="flex justify-center">
     <img alt="platzi" width="250" height="140" 
     src="/images/patrocinios/platzi.png" />

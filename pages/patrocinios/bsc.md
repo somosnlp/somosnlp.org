@@ -21,4 +21,12 @@ El Barcelona Supercomputing Center-Centro Nacional de Supercomputación (BSC-CNS
     src="/images/patrocinios/BSC.png" />
 </div>
 
+## Menciones en nuestro blog
+
+- [¡Hola MarIA!](https://somosnlp.org/blog/hola-maria), María Grandury
+- [¡Hola ALIA!](https://somosnlp.org/blog/hola-alia), María Grandury
+- [Campañas de evaluación de NLP Clínico](https://somosnlp.org/blog/nlp-clinico), Antonio Miranda-Escalada
+- [FineWeb2](https://somosnlp.org/blog/fineweb-2), María Grandury
+- [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera
+
 *Última actualización: 14 de mayo de 2024*

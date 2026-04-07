@@ -85,6 +85,15 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
     </a>
 </div>
 
+## Menciones en nuestro blog
+
+- [Presentamos: NLP de 0 a 100 con 🤗](https://somosnlp.org/blog/nlp-de-cero-a-cien), María Grandury
+- [Validación de benchmarks con Argilla](https://somosnlp.org/blog/validacion-benchmarks-argilla), María Grandury
+- [FineWeb2](https://somosnlp.org/blog/fineweb-2), María Grandury
+- [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury
+- [Anunciamos los patrocinios de oro del Hackathon 2023](https://somosnlp.org/blog/anuncio-patrocinios-2023), María Grandury
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
+
 <div class="flex justify-center">
     <img alt="HuggingFace" width="250" height="140" 
     src="/images/patrocinios/HuggingFace.svg" />

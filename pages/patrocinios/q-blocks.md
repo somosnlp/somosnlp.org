@@ -33,6 +33,10 @@ Disponemos de instancias de GPU Nvidia de última generación en configuraciones
 
 - Empresa [patrocinadora de oro](https://somosnlp.org/blog/anuncio-patrocinios-2023) del Hackathon SomosNLP 2023
 
+## Menciones en nuestro blog
+
+- [Anunciamos los patrocinios de oro del Hackathon 2023](https://somosnlp.org/blog/anuncio-patrocinios-2023), María Grandury
+
 <div class="flex justify-center">
     <img alt="" width="250" height="140" 
     src="/images/patrocinios/QBlocks.png" />
