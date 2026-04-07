@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2026"
 description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
@@ -33,7 +33,7 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 - 🤗 [Únete al equipo que lo organiza](https://forms.gle/vjkLRQVnGF5eVgqq5)
 <!-- - 🔊 [Propón una ponencia](https://forms.gle/LEMe61A91WTfiYH28) -->
 
-![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
+![GIF Hackathon #Somos600M](/images/eventos/260401_hackathon.gif)
 
 
 ## 🚀 Cómo puedes colaborar

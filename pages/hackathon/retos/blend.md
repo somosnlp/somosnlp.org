@@ -2,7 +2,7 @@
 title: "Reto #HackathonSomosNLP 2026: BLEND"
 description: Cómo participar en este reto y ayudar a mejorar el conocimiento cultural de los modelos de lenguaje
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.
