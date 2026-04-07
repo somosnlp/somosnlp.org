@@ -3,15 +3,18 @@ import { useRouter, useRoute } from 'vue-router'
 import { LOCALES, DEFAULT_LOCALE, type Language } from './useLanguage'
 
 /**
- * Returns the list of available locales for the current page.
- * Uses route metadata (basePath, locale) set by vite-plugin-pages extendRoute
- * to find all locale variants of the current page.
+ * Returns translation availability info for the current page.
+ * Uses route metadata (basePath, locale) set by vite-plugin-pages extendRoute.
+ *
+ * Two translation mechanisms coexist:
+ * 1. YAML locale files (locales/*.yml) → UI strings via t() — always available
+ * 2. Co-located page files (page.en.md) → full page translations — detected here
  */
 export function usePageTranslations() {
   const router = useRouter()
   const route = useRoute()
 
-  const availableLocales = computed<Language[]>(() => {
+  const pageLocales = computed<Language[]>(() => {
     const basePath = route.meta.basePath as string | undefined
     if (!basePath) return [DEFAULT_LOCALE]
 
@@ -29,8 +32,16 @@ export function usePageTranslations() {
     return (route.meta.locale as Language) || DEFAULT_LOCALE
   })
 
+  /**
+   * Check if a co-located page translation exists for the given locale.
+   */
+  function hasPageTranslation(lang: Language): boolean {
+    return pageLocales.value.includes(lang)
+  }
+
   return {
-    availableLocales,
+    pageLocales,
     currentLocale,
+    hasPageTranslation,
   }
 }

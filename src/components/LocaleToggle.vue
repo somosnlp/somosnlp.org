@@ -3,7 +3,7 @@ import { useLanguage } from '~/composables/useLanguage'
 import { usePageTranslations } from '~/composables/usePageTranslations'
 
 const { language, setLanguage } = useLanguage()
-const { availableLocales } = usePageTranslations()
+const { hasPageTranslation } = usePageTranslations()
 </script>
 
 <template>
@@ -11,10 +11,7 @@ const { availableLocales } = usePageTranslations()
         <IconButton
             @click="setLanguage('es')"
             class="flex gap-2 items-center"
-            :class="{
-                'opacity-50': language !== 'es',
-                'opacity-20 pointer-events-none': !availableLocales.includes('es'),
-            }"
+            :class="{ 'opacity-50': language !== 'es' }"
         >
             <twemoji:flag-for-flag-spain />
             <span class="font-medium text-sm">ES</span>
@@ -22,10 +19,8 @@ const { availableLocales } = usePageTranslations()
         <IconButton
             @click="setLanguage('en')"
             class="flex gap-2 items-center"
-            :class="{
-                'opacity-50': language !== 'en',
-                'opacity-20 pointer-events-none': !availableLocales.includes('en'),
-            }"
+            :class="{ 'opacity-50': language !== 'en' }"
+            :title="hasPageTranslation('en') ? '' : 'UI only'"
         >
             <twemoji:flag-for-flag-united-kingdom />
             <span class="font-medium text-sm">EN</span>
@@ -33,10 +28,8 @@ const { availableLocales } = usePageTranslations()
         <IconButton
             @click="setLanguage('pt')"
             class="flex gap-2 items-center"
-            :class="{
-                'opacity-50': language !== 'pt',
-                'opacity-20 pointer-events-none': !availableLocales.includes('pt'),
-            }"
+            :class="{ 'opacity-50': language !== 'pt' }"
+            :title="hasPageTranslation('pt') ? '' : 'UI only'"
         >
             <twemoji:flag-for-flag-brazil />
             <span class="font-medium text-sm">PT</span>
