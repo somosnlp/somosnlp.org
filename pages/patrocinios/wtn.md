@@ -1,13 +1,15 @@
 ---
 title: WomenTech Global Conference
-description:
+description: Una de las principales comunidades del mundo para mujeres en tecnología
 cover: /images/patrocinios/WomenTechNetwork.png
-twitter: 
-linkedin:
-website: 
+twitter: https://twitter.com/WomenTechNet
+linkedin: https://www.linkedin.com/company/womentech-network/
+website: https://www.womentech.net
 type: 3. Bronce 2025, Bronce 2024, Bronce 2023, Bronce 2022
 years: 2025, 2024, 2023, 2022
 ---
+
+WomenTech Network es una de las principales comunidades del mundo para mujeres en tecnología, con más de 7.000 Embajadoras Globales representando 172 países. WomenTech Network se esfuerza por empoderar a las mujeres en tecnología a través del desarrollo de liderazgo, crecimiento profesional y programas de mentoría. WomenTech Network organiza regularmente eventos de networking de carrera y una conferencia tecnológica global para que los miembros conecten con profesionales afines.
 
 ## Colaboración
 
@@ -21,4 +23,8 @@ years: 2025, 2024, 2023, 2022
     src="/images/patrocinios/WomenTechNetwork.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [WomenTech Global Conference](https://somosnlp.org/blog/womentech-global-conference-2023), Laura Segura
+- [Anunciamos los patrocinios de oro del Hackathon 2023](https://somosnlp.org/blog/anuncio-patrocinios-2023), María Grandury
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury

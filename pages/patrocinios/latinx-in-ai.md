@@ -21,4 +21,8 @@ Nuestra misión es aumentar la visibilidad de investigadores de Latinoamérica. 
     src="/images/patrocinios/LXAI.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [LatinX in NLP Workshop @ NAACL 2024](https://somosnlp.org/blog/latinx-in-ai-at-naacl-2024), María Grandury
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
+- [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury

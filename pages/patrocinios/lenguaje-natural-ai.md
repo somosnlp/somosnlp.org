@@ -21,6 +21,9 @@ Nuestra misión es generar un impacto social positivo mediante el uso de Intelig
     src="/images/patrocinios/LenguajeNaturalAI.jpeg" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
+- [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera
 
 *Última actualización: 14 de mayo de 2024*

@@ -28,6 +28,7 @@ years: 2023
 ## Menciones en nuestro blog
 
 - [Validador de Veracidad de Noticias](https://somosnlp.org/blog/validador-veracidad-noticias)
+- [¡A por el 2023!](https://somosnlp.org/blog/a-por-el-2023), María Grandury
 
 <div class="flex justify-center">
     <img alt="Omdena Mexico" width="250" height="140" 
