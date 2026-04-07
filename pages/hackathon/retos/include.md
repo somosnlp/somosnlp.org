@@ -98,7 +98,7 @@ Una vez que has encontrado un examen:
 - Extrae las preguntas y respuestas y crea un archivo final en formato **JSON** (ejemplo a continuación).
     - Te recomendamos el [taller de Alfonso Amayuelas](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6&index=1)
     - Repo de GitHub con el código del taller: [amayuelas/corpus-automation](https://github.com/amayuelas/corpus-automation)
-- Sube el archivo final a un dataset **PRIVADO** en [huggingface.co/somosnlp-hackathon-2026](https://huggingface.co/somosnlp-hackathon-2026) con el nombre del examen. Si no formas parte de la organización, únete con esta [invitación](https://huggingface.co/somosnlp-hackathon-2026).
+- Sube el archivo final a un dataset **PRIVADO** en [huggingface.co/somosnlp-hackathon](https://huggingface.co/somosnlp-hackathon) con el nombre del examen. Si no formas parte de la organización, únete con esta [invitación](https://huggingface.co/somosnlp-hackathon).
 - En el canal de Discord [#examenes-include](https://discord.com/channels/938134488670675055/1326890438782750852), menciona a @mariagrandury y comparte el enlace al dataset creado.
 - Verificaremos el contenido y te informaremos si se necesita hacer algún cambio.
 
@@ -129,4 +129,4 @@ Muchísimas gracias a:
 
 <center style="margin-top:40px;"><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>

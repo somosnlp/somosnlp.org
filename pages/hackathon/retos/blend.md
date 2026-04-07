@@ -113,4 +113,4 @@ Como puedes ver en la imagen de ejemplo, el formulario de anotación contiene va
 
 <center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participa ya!</a></center>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>

@@ -12,9 +12,9 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
     - B. Adapta un **modelo multimodal visión-lenguaje** (VLLM) para generar descripciones de imágenes teniendo en cuenta el contexto cultural
 - En español, portugués o cualquier lengua de la Península Ibérica o LATAM
 - Adapta de un modelo ya existente (no pre-entrenes uno desde cero), recomendamos tomar de base modelos en torno a 7B (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) y [Gemma](https://huggingface.co/google/gemma-3-4b-it))
-- ¡Genera el dataset con ayuda de 500 USD en créditos de la API de Cohere! Recomendamos filtrar y extender el dataset de preferencias v0 generado en común en la Arena: [somosnlp-hackathon-2026/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2026/dataset-preferencias-dpo-v0)
+- ¡Genera el dataset con ayuda de 500 USD en créditos de la API de Cohere! Recomendamos filtrar y extender el dataset de preferencias v0 generado en común en la Arena: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
 - Entrena tu modelo directamente en JupyterLab en el hub de Hugging Face, ¡tenemos GPUs patrocinadas por 🤗! 
-- Sube el modelo(s) junto con todos los notebooks utilizados a hf.co/somosnlp-hackathon-2026
+- Sube el modelo(s) junto con todos los notebooks utilizados a hf.co/somosnlp-hackathon
 - Escribe la [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), incluye enlaces al dataset y los notebooks utilizados (e.g. preprocesamiento, entrenamiento)
 
 ---
@@ -26,10 +26,10 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 <details>
 <summary>Requisitos por equipo</summary>
 
-1. Contribuir 100 prompts **de calidad** al dataset de [preferencias](https://somosnlp.org/hackathon-2026/retos/preferencias)
-2. Responder 200 preguntas del dataset de evaluación ([BLEND](https://somosnlp.org/hackathon-2026/retos/blend))
+1. Contribuir 100 prompts **de calidad** al dataset de [preferencias](https://somosnlp.org/hackathon/retos/preferencias)
+2. Responder 200 preguntas del dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
 3. Pedir los 500 USD créditos de la API de Cohere (tras completar los puntos 1 y 2, mencionar a @mariagrandury en el canal de vuestro equipo para instrucciones)
-4. Crear en la organización hf.co/somosnlp-hackathon-2026 un Space con la plantilla de [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
+4. Crear en la organización hf.co/somosnlp-hackathon un Space con la plantilla de [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
 5. Completar el [formulario de registro](https://forms.gle/mLKEURUXGiNhq31T9)
 
 </details>
@@ -39,10 +39,10 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 Los datos son lo más importante en el desarrollo de un modelo y también le daremos mayor importancia a la hora de evaluar los proyectos 👀
 
 - Genera un dataset para tu proyecto:
-    - Toma como versión inicial para tu dataset el generado en común en la Arena: [somosnlp-hackathon-2026/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2026/dataset-preferencias-dpo-v0)
+    - Toma como versión inicial para tu dataset el generado en común en la Arena: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
     - Aprovecha los 500 USD de créditos de la API de Cohere que tiene cada equipo para filtrarlo, mejorarlo y extenderlo con más prompts y respuestas específicamente diseñados para tu caso de uso
     - Ten en cuenta que tratándose de temas culturales, es muy importante que todo lo que se genere sintéticamente sea revisado por una persona (podéis utilizar [Argilla](https://huggingface.co/docs/hub/en/datasets-argilla))
-- Sube el dataset a hf.co/somosnlp-hackathon-2026 e itera
+- Sube el dataset a hf.co/somosnlp-hackathon e itera
 - Sube al repo del dataset todos los notebooks y scripts utilizados para generar el dataset y procesarlo
     - Si prefieres crear un repo en GitHub con todo el código, puedes hacerlo, no olvides de incluir un enlace en la Dataset Card
 - Cumplimenta **bien** la Dataset Card
@@ -60,11 +60,11 @@ Cómo nombrar los datasets:
 
 ### ⚙️ Modelo
 
-1. Crear en la organización hf.co/somosnlp-hackathon-2026 un Space con la plantilla de [JupyterLab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
+1. Crear en la organización hf.co/somosnlp-hackathon un Space con la plantilla de [JupyterLab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
 2. El equipo de Hugging Face le asignará un grant de una *L40S* al Space
     - Configura el tiempo de "auto-sleep" a 5 minutos para asegurar un uso responsable 🌱 
 3. Diseña el notebook de entrenamiento
-    - Guarda el modelo resultante directamente en hf.co/somosnlp-hackathon-2026
+    - Guarda el modelo resultante directamente en hf.co/somosnlp-hackathon
     - Utiliza la librería CodeCarbon para evaluar el impacto climático
 4. Haz pruebas con modelos pequeños y subconjuntos del dataset para verificar que el código es correcto y no encontrar bugs después de varias horas de entrenamiento.
 5. Lanza el entrenamiento, revisa los resultados e itera
@@ -138,4 +138,4 @@ Impacto climático:
 - [Space: Model Card Creator](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), Space que os guía en la creación de vuestra model card.
 - [Detección y mitigación de sesgos en modelos de lenguaje](https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos), charla impartida por María Grandury, fundadora de SomosNLP.
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
