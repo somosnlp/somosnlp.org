@@ -6,7 +6,7 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
 <script setup>
-import ChallengesGrid from '../../../../src/components/ChallengesGrid.vue'
+import ChallengesGrid from '../../../src/components/ChallengesGrid.vue'
 
 const miniChallenges = [
   {

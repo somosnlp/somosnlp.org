@@ -72,6 +72,7 @@ declare module 'vue' {
     TableJobs: typeof import('./src/components/TableJobs.vue')['default']
     TableModels: typeof import('./src/components/TableModels.vue')['default']
     'Tabler:externalLink': typeof import('~icons/tabler/external-link')['default']
+    'Twemoji:flagForFlagBrazil': typeof import('~icons/twemoji/flag-for-flag-brazil')['default']
     'Twemoji:flagForFlagSpain': typeof import('~icons/twemoji/flag-for-flag-spain')['default']
     'Twemoji:flagForFlagUnitedKingdom': typeof import('~icons/twemoji/flag-for-flag-united-kingdom')['default']
   }
