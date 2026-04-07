@@ -21,6 +21,7 @@ Nuestra misión es hacer la IA accesible a cualquier persona, realizando proyect
 ## Menciones en nuestro blog
 
 - [Divulgación de NLP en español](https://somosnlp.org/blog/divulgacion-nlp-es), María Grandury
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
 
 <div class="flex justify-center">
     <img alt="Saturdays AI" width="250" height="140" 

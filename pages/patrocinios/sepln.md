@@ -19,6 +19,7 @@ La Sociedad Española de Procesamiento de Lenguaje Natural (SEPLN) es una socied
 ## Menciones en nuestro blog
 
 - [LANLP: Bridging Ibero and Latin American NLP communities](https://somosnlp.org/blog/lanlp-at-lrec-2026)
+- [Iniciativas 8M](https://somosnlp.org/blog/iniciativas-8m), María Grandury
 
 <div class="flex justify-center">
     <img alt="SEPLN" width="250" height="140" 

@@ -42,6 +42,7 @@ years: 2023, 2022
 ## Menciones en nuestro blog
 
 - [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury
+- [Conferencia Impulse AI](https://somosnlp.org/blog/conferencia-impulse-ai), María Grandury
 
 <div class="flex justify-center">
     <img alt="platzi" width="250" height="140" 

@@ -40,6 +40,11 @@ DiverTLes es una comunidad de mujeres que trabajan e investigan en Tecnologías 
 - [Divulgación de NLP en español](https://somosnlp.org/blog/divulgacion-nlp-es), artículo de María Grandury
 - [Somos Mujeres NLP](https://www.youtube.com/playlist?list=PLTA-KAy8nxaCIWrABV_JOJbriszTKIRXC), playlist de YouTube en la que están incluidas las mesas redondas organizadas por DiverTLes
 
+
+## Menciones en nuestro blog
+
+- [Iniciativas 8M](https://somosnlp.org/blog/iniciativas-8m), María Grandury
+
 <div class="flex justify-center">
     <img alt="DiverTLes" width="250" height="140" 
     src="/images/patrocinios/DiverTLes.png" />

@@ -93,6 +93,23 @@ Hugging Face es una plataforma colaborativa y open-source de Machine Learning en
 - [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury
 - [Anunciamos los patrocinios de oro del Hackathon 2023](https://somosnlp.org/blog/anuncio-patrocinios-2023), María Grandury
 - [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
+- [Creando Narrativas Sostenibles en Español](https://somosnlp.org/blog/H4rmony), Jorge Vallego
+- [¡A por el 2023!](https://somosnlp.org/blog/a-por-el-2023), María Grandury
+- [Cómo contribuir 🚀](https://somosnlp.org/blog/como-contribuir), María Grandury
+- [Conferencia Impulse AI](https://somosnlp.org/blog/conferencia-impulse-ai), María Grandury
+- [Divulgación de PLN en español](https://somosnlp.org/blog/divulgacion-nlp-es), María Grandury
+- [Evento Evaluación de LLM](https://somosnlp.org/blog/evento-eval-llm-upm), María Grandury, Gonzalo Martínez, Miguel González
+- [Finaliza nuestro hackathon 2025](https://somosnlp.org/blog/hackathon-2025), María Grandury
+- [¡Hola ALIA!](https://somosnlp.org/blog/hola-alia), María Grandury
+- [¡Hola BERTIN!](https://somosnlp.org/blog/hola-bertin), María Grandury
+- [¡Hola BETO!](https://somosnlp.org/blog/hola-beto), María Grandury
+- [¡Hola LINCE!](https://somosnlp.org/blog/hola-lince), María Grandury
+- [¡Hola MarIA!](https://somosnlp.org/blog/hola-maria), María Grandury
+- [Contribuye al benchmark INCLUDE](https://somosnlp.org/blog/include), María Grandury
+- [Nuestras iniciativas para 2025](https://somosnlp.org/blog/iniciativas-2025), María Grandury
+- [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera
+- [Proyectos del Hackathon #Somos600M](https://somosnlp.org/blog/proyectos-hackathon-2024), María Grandury
+- [Visibilidad para los proyectos de la comunidad](https://somosnlp.org/blog/visibilidad-proyectos-comunidad), María Grandury
 
 <div class="flex justify-center">
     <img alt="HuggingFace" width="250" height="140" 

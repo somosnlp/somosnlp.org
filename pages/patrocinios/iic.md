@@ -58,5 +58,7 @@ years: 2025, 2024, 2023
 - [¡Hola RigoBERTa!](https://somosnlp.org/blog/hola-rigoberta), María Grandury
 - [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury
 - [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury
+- [Divulgación de PLN en español](https://somosnlp.org/blog/divulgacion-nlp-es), María Grandury
 
 *Última actualización: 14 de mayo de 2024*
