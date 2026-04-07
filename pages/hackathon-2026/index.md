@@ -8,7 +8,7 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
-  <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
+  <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
   <!-- <a href="https://somosnlp.org/blog/hackathon-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
   <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a> -->
   <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
@@ -22,15 +22,15 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-- 💻 [¡Regístrate ya!](https://forms.gle/bDaBC7XV3iu2trj59)
+- 💻 [¡Regístrate ya!](https://forms.gle/d1WBoTNuNEyzHNi86)
 
 ¿Quieres apoyar el evento?
 
-- 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/izE8j4nW2JsWcQT26)
-- 🙌 [Patrocina este maravilloso evento](https://forms.gle/DmKCzhvSf7dCeLzJA)
-- 📣 [Ayúdanos a difundir el evento](https://forms.gle/FUQPYBsqtmwKM3Vo6)
-- 🤗 [Únete al equipo que lo organiza](https://forms.gle/N5qtmZRuwobKTkjn7)
-<!-- - 🔊 [Propón una ponencia](https://forms.gle/n6DsNF5RwerA4oPf6) -->
+- 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/Cq7CfgxaLTrthZU37)
+- 🙌 [Patrocina este maravilloso evento](https://forms.gle/YREnJ3p9dNpQRYEg6)
+- 📣 [Ayúdanos a difundir el evento](https://forms.gle/i1MG2F1BGZSg2CpR6)
+- 🤗 [Únete al equipo que lo organiza](https://forms.gle/vjkLRQVnGF5eVgqq5)
+<!-- - 🔊 [Propón una ponencia](https://forms.gle/LEMe61A91WTfiYH28) -->
 
 ![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
 
@@ -52,7 +52,7 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
 
 <div class="grid grid-cols-2">
   <div class="text-center">
-    <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
+    <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
   <!-- <div class="text-center">
     <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
@@ -77,7 +77,7 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 También te invitamos a seguir las charlas de la conferencia KHIPU.AI
 
-<center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+<center><a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 
 <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center>
 
@@ -129,7 +129,7 @@ Invitamos a personas del ámbito académico o industrial, expertas y apasionadas
 
 Comparte tu experiencia y conocimiento apoyando a los equipos participantes a crear bases de datos de calidad y entrenar un buen LLM. Puedes impartir una mentoría puntual o continua. ¡Piensa en tus puntos fuertes y ofrece una mentoría!
 
-<center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
+<center><a href="https://forms.gle/Cq7CfgxaLTrthZU37" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
 
 </details>
 
@@ -156,7 +156,7 @@ Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más 
 
 Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre *Cultural NLP*.
 
-<center><a href="https://forms.gle/N5qtmZRuwobKTkjn7" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
+<center><a href="https://forms.gle/vjkLRQVnGF5eVgqq5" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
 
 </details>
 

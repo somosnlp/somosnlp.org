@@ -8,8 +8,8 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon SomosNLP.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a>
-  <a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a>
+  <a href="https://forms.gle/Cq7CfgxaLTrthZU37" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a>
+  <a href="https://forms.gle/LEMe61A91WTfiYH28" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a>
 </div>
 
 ![Call for talks](/images/eventos/250401_hackathon_callfortalks.jpg)
@@ -38,7 +38,7 @@ Además de las preguntas que les surjan a los equipos mientras desarrollan sus p
 
 Las sesiones de AMA pueden comenzar con una pequeña presentación para introducir el tema y luego dar paso a las preguntas.
 
-<center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
+<center><a href="https://forms.gle/Cq7CfgxaLTrthZU37" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
 
 
 ## Ponencias
@@ -70,5 +70,5 @@ A continuación, presentamos una lista de temas sugeridos para las ponencias que
 
 ¡Esperamos con interés tu participación!
 
-<center><a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
+<center><a href="https://forms.gle/LEMe61A91WTfiYH28" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
 
