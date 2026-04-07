@@ -5,7 +5,9 @@ lang: es
 cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
+Somos 600M de personas hispanohablantes y 265M lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales?
+
+Participa en el #HackathonSomosNLP, una competición internacional online cuyo principal objetivo es **crear recursos diversos y abiertos de PLN las lenguas de Iberoamérica** 🚀
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 
 
@@ -13,9 +15,16 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ## Ediciones anteriores
 
-Este año celebramos la cuarta edición, ¿tienes curiosidad por los resultados de los años anteriores?
+Este año celebramos la quinta edición, ¿tienes curiosidad por los resultados de los años anteriores?
 
 ### Proyectos ganadores
+
+<!-- #TODO Claude
+ 
+#### Hackathon SomosNLP 2025: Adecuación Cultural
+
+ -->
+
 
 #### Hackathon SomosNLP 2024: #Somos600M
 
@@ -43,6 +52,9 @@ Y a los corpus:
 ### Charlas y talleres
 
 <div class="grid grid-cols-3 gap-8 my-12">
+    <!-- HACKATHON 2025 -->
+    <!-- #TODO Claude -->
+ 
     <!-- HACKATHON 2024 -->
     <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
         <img alt="Charla de Elena González-Blanco" width="650" height="365"
