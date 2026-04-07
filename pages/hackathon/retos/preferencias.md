@@ -41,11 +41,11 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 1. Diseñar prompts siguiendo la guía a continuación
 2. Mandar sus prompts a un LLM Arena y elegir la mejor respuesta
 3. Simultáneamente, ir validando los prompts y respuestas de otros equipos
-4. El día 21 de abril publicaremos el conjunto de prompts y respuestas: [somosnlp-hackathon-2026/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2026/dataset-preferencias-dpo-v0)
+4. El día 21 de abril publicaremos el conjunto de prompts y respuestas: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
 5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
 
 Para acceder a los créditos API y GPUs:
-- El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon-2026/retos/blend))
+- El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
 - La(s) persona(s) que mande(n) los prompts al Arena tienen que haber completado el [test de comprensión de la guía](https://forms.gle/itbDvVxD2iG5nzsC6)
 - Hay que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
 
@@ -192,7 +192,7 @@ Los prompts deben ser:
 - **No triviales**: evitar preguntas factual simples (e.g. “¿Cuál es la capital de Colombia?”).
 - **Culturalmente situados**: tocan temas comunes en una región específica. **Utiliza** **roles para contextualizar tu pregunta**.
 - **Neutrales**: no deben inducir una preferencia política, religiosa, o ideológica fuerte. Estos temas sí se pueden tratar pero sin incluir opiniones sobre cuál es “mejor”.
-- No incluyas estereotipos: para tratar este tema participa en el reto del [Validador de estereotipos](https://somosnlp.org/hackathon-2026/retos/estereotipos).
+- No incluyas estereotipos: para tratar este tema participa en el reto del [Validador de estereotipos](https://somosnlp.org/hackathon/retos/estereotipos).
 
 <details>
 <summary>💡 ¿Qué es un rol?</summary>
@@ -362,7 +362,7 @@ opciones para comer y divertirse al aire libre.
 - Columnas:
     - necesarias: `prompt` y `pais`
     - opcional: añade las columnas que necesites, por ejemplo si has creado una plantilla con diferentes características sociales (e.g. `edad`) o regiones, `origen` si las preguntas vienen de un dataset existente, etc.
-- Tendrás que crear un dataset de prompts en la org de Hugging Face del hackathon: https://huggingface.co/somosnlp-hackathon-2026 (si todavía no te has unido, utiliza esta [invitación](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD))
+- Tendrás que crear un dataset de prompts en la org de Hugging Face del hackathon: https://huggingface.co/somosnlp-hackathon (si todavía no te has unido, utiliza esta [invitación](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD))
 
 ### 2.4. Recursos
 
@@ -434,11 +434,11 @@ opciones para comer y divertirse al aire libre.
 
 ## 🌍 5. Más retos
 
-- El lunes 21 publicaremos el conjunto de preguntas y respuestas para que lo podáis utilizar para alinear vuestros LLMs. También incluiremos los datos del mini reto “[Validador de estereotipos](https://somosnlp.org/hackathon-2026/retos/estereotipos)”.
+- El lunes 21 publicaremos el conjunto de preguntas y respuestas para que lo podáis utilizar para alinear vuestros LLMs. También incluiremos los datos del mini reto “[Validador de estereotipos](https://somosnlp.org/hackathon/retos/estereotipos)”.
 - A partir del lunes 21, daremos acceso a los créditos de Cohere y las GPUs de Hugging Face a los equipos cuando alcancen el mínimo de prompts, menciona a @mariagrandury en el hilo de tu equipo del canal #encuentra-equipo
 - Recuerda que también puedes participar en los mini retos para conseguir más puntos
-    - [INCLUDE](https://somosnlp.org/hackathon-2026/retos/include) - Recolección de exámenes (hasta el 30 de abril, habrá premios y paper)
-    - [BLEND](https://somosnlp.org/hackathon-2026/retos/blend) - Preguntas de conocimiento cultural (hasta el final del hackathon, habrá paper)
+    - [INCLUDE](https://somosnlp.org/hackathon/retos/include) - Recolección de exámenes (hasta el 30 de abril, habrá premios y paper)
+    - [BLEND](https://somosnlp.org/hackathon/retos/blend) - Preguntas de conocimiento cultural (hasta el final del hackathon, habrá paper)
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -447,4 +447,4 @@ opciones para comer y divertirse al aire libre.
   <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Manda tus prompts a la Arena</a>
 </div>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
