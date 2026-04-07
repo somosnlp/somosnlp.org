@@ -2,7 +2,7 @@
 title: "Reto #HackathonSomosNLP 2026: Preferencias"
 description: Cómo participar en este reto y ayudar a alinear modelos de lenguaje con tu cultura
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
