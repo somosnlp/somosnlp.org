@@ -5,14 +5,12 @@ lang: es
 cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-> ¡El hackathon ha terminado! Peeero las iniciativas de los mini retos siguen abiertas para seguir recolectando datos y mejorar la representación de todos los países iberoamericanos, [¡únete!](https://somosnlp.org/hackathon-2026/retos)
-
 Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
-  <!-- <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya (cerrado)</a> -->
-  <a href="https://somosnlp.org/blog/hackathon-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
-  <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a>
+  <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
+  <!-- <a href="https://somosnlp.org/blog/hackathon-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
+  <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a> -->
   <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
 </div>
 
@@ -20,13 +18,14 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
-En esta cuarta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica**.
+En esta quinta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica**.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-Aquí tienes los enlaces a todos los formularios, sigue leyendo para más información.
+- 💻 [¡Regístrate ya!](https://forms.gle/bDaBC7XV3iu2trj59)
 
-- 💻 [Participa en el hackathon y/o asiste a las charlas](https://forms.gle/bDaBC7XV3iu2trj59)
+¿Quieres apoyar el evento?
+
 - 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/izE8j4nW2JsWcQT26)
 - 🙌 [Patrocina este maravilloso evento](https://forms.gle/DmKCzhvSf7dCeLzJA)
 - 📣 [Ayúdanos a difundir el evento](https://forms.gle/FUQPYBsqtmwKM3Vo6)
@@ -34,7 +33,6 @@ Aquí tienes los enlaces a todos los formularios, sigue leyendo para más inform
 <!-- - 🔊 [Propón una ponencia](https://forms.gle/n6DsNF5RwerA4oPf6) -->
 
 ![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
-
 
 
 ## 🚀 Cómo puedes colaborar
@@ -56,9 +54,9 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
   <div class="text-center">
     <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
   </div>
-  <div class="text-center">
+  <!-- <div class="text-center">
     <a href="https://somosnlp.org/hackathon-2026/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
-  </div>
+  </div> -->
 </div>
 
 <!--
@@ -67,6 +65,9 @@ Desde SomosNLP queremos animarte a participar independientemente de tus conocimi
 
 </details>
 
+
+<!--
+
 <details  style="margin-bottom: 20px;">
 <summary>💡 Asiste a las charlas de especialistas</summary>
 
@@ -74,13 +75,15 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 ¿Y hasta que llegue abril? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 
-<!-- TODO: También te invitamos a seguir las charlas de la conferencia KHIPU.AI -->
+También te invitamos a seguir las charlas de la conferencia KHIPU.AI
 
 <center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 
-<!-- <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center> -->
+<center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center>
 
 </details>
+-->
+
 
 <!--
 <details  style="margin-bottom: 20px;">
@@ -180,12 +183,9 @@ logo_dark="/images/patrocinios/somosnlp_nobg.png" />
 logo="/images/patrocinios/CENIA.jpeg"
 logo_dark="/images/patrocinios/CENIA.jpeg" />
 
-<SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
-logo="/images/patrocinios/UPM.jpeg"
-logo_dark="/images/patrocinios/UPM.jpeg" />
-
 </div>
 
+<!--
 ### 💎 Platino
 
 <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
@@ -195,6 +195,7 @@ logo="/images/patrocinios/cohere.svg"
 logo_dark="/images/patrocinios/cohere.svg" />
 
 </div>
+-->
 
 ### 🥇 Oro
 
@@ -210,17 +211,13 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
-<SponsorInfo sponsor="UPM - Eunomia" url="http://somosnlp.org/patrocinios/upm"
-logo="/images/patrocinios/UPM_eunomia.png"
-logo_dark="/images/patrocinios/UPM_eunomia_dark.png" />
-
-<SponsorInfo sponsor="UPM - Eunomia & CO" url="http://somosnlp.org/patrocinios/upm"
-logo="/images/patrocinios/UPM_eunomia&co.png"
-logo_dark="/images/patrocinios/UPM_eunomia&co.png" />
+<SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
+logo="/images/patrocinios/UPM.jpeg"
+logo_dark="/images/patrocinios/UPM.jpeg" />
 
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
 logo="/images/patrocinios/MistralAI.png"
@@ -230,12 +227,14 @@ logo_dark="/images/patrocinios/MistralAI.png" />
 logo="/images/patrocinios/SaturdaysAI.png"
 logo_dark="/images/patrocinios/SaturdaysAI.png" />
 
-</div>
+</div> -->
 
 
+<!--
 ### 🌟 Comunidad
 
 <SponsorList type="Comunidad 2026" cols="4" />
+-->
 
 ---
 
