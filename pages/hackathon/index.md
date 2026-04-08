@@ -233,6 +233,14 @@ Los proyectos del hackathon generan impacto real:
 
 </div>
 
+Los proyectos del hackathon generan impacto real. Estos son algunos ejemplos destacados:
+
+- **Paper en NAACL 2022**: El proyecto BiomedIA (1er premio 2022) dio lugar al paper ["A Complete Voice-to-Voice Generative QA System"](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf), ganador del Premio a la Mejor Presentación de Póster en NAACL 2022.
+- **Modelo Jurídico Mexicano** (2do premio 2022): El modelo desarrollado durante el hackathon es **utilizado por la Suprema Corte de Justicia de la Nación de México**.
+- **INCLUDE** (2025): Se recolectaron más de **38.000 preguntas de exámenes de 23 países**, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.
+- **NoticIA** (1er premio 2024): Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital.
+- **AsistenciaRefugiados** (2do premio 2024): Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.
+
 <center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Ver todas las ediciones anteriores</a></center>
 
 ## 💡 Ponencias y mentorías
