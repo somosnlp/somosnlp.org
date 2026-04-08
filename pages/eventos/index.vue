@@ -75,9 +75,6 @@ const { t } = useI18n()
                         <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
                     </li>
                     <li>
-                        <a href="#taller-abstracts">{{ t('events.sections.taller-abstracts') }}</a>
-                    </li>
-                    <li>
                         <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
                     </li>
                     <li>
@@ -329,26 +326,6 @@ const { t } = useI18n()
                     </a>
                     <a href="/hackathon-2022/taller-de-escritura-de-abstracts-con-latinx-in-ai">
                         <img alt="Taller de escritura de abstracts" width="650" height="365"
-                            src="/images/eventos/220407_abstracts.png" />
-                    </a>
-                </div>
-            </div>
-
-            <hr class="mx-auto mt-8 mb-12 prose" />
-
-            <h3 id="taller-abstracts">{{ t('events.sections.taller-abstracts') }}</h3>
-            <p>
-                {{ t('events.sections.taller-abstracts-description') }}
-            </p>
-            <div class="mx-auto my-8 text-center">
-                <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="/hackathon-2022/taller-de-escritura-de-abstracts-con-latinx-in-ai">
-                        <img alt="Taller de escritura de abstracts (2022)" width="650" height="365"
-                            src="/images/eventos/220407_abstracts.png" />
-                    </a>
-                    <a href="https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J"
-                        target="_blank">
-                        <img alt="Taller de escritura de abstracts (2024)" width="650" height="365"
                             src="/images/eventos/220407_abstracts.png" />
                     </a>
                 </div>
