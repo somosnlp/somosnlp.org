@@ -45,6 +45,7 @@ declare module 'vue' {
     EventSummary: typeof import('./src/components/EventSummary.vue')['default']
     Footer: typeof import('./src/components/Footer.vue')['default']
     'Gg:eventbrite': typeof import('~icons/gg/eventbrite')['default']
+    GradioDemo: typeof import('./src/components/GradioDemo.vue')['default']
     IconButton: typeof import('./src/components/IconButton.vue')['default']
     IconButtonLink: typeof import('./src/components/IconButtonLink.vue')['default']
     LocaleToggle: typeof import('./src/components/LocaleToggle.vue')['default']
