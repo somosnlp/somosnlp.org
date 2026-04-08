@@ -12,7 +12,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
   <!-- Ediciones anteriores -->
   <!-- <a href="https://somosnlp.org/blog/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
   <a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a> -->
-  <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2026" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
 </div>
 
 *([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
@@ -33,8 +33,8 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 - 🤗 [Únete al equipo que lo organiza](https://forms.gle/vjkLRQVnGF5eVgqq5)
 <!-- - 🔊 [Propón una ponencia](https://forms.gle/LEMe61A91WTfiYH28) -->
 
-![GIF Hackathon #Somos600M](/images/eventos/260401_hackathon.gif)
-
+![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
+<!-- Actualizar al GIF de este año -->
 
 ## 🚀 Cómo puedes colaborar
 
