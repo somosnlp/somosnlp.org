@@ -2,6 +2,8 @@
 import { ref, computed } from 'vue';
 
 const searchQuery = ref('');
+const sortKey = ref('');
+const sortOrder = ref(1);
 
 const props = defineProps({
     resourceItems: {
@@ -10,12 +12,29 @@ const props = defineProps({
     }
 });
 
+function sortBy(key: string) {
+    if (sortKey.value === key) {
+        sortOrder.value *= -1;
+    } else {
+        sortKey.value = key;
+        sortOrder.value = 1;
+    }
+}
+
 const filteredItems = computed(() => {
-    return props.resourceItems.filter(item =>
+    let items = props.resourceItems.filter(item =>
         item.name.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
         item.description.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
         item.tags.some(tag => tag.toLowerCase().includes(searchQuery.value.toLowerCase()))
     );
+    if (sortKey.value) {
+        items = items.slice().sort((a, b) => {
+            const aVal = String(a[sortKey.value] || '').toLowerCase();
+            const bVal = String(b[sortKey.value] || '').toLowerCase();
+            return (aVal === bVal ? 0 : aVal > bVal ? 1 : -1) * sortOrder.value;
+        });
+    }
+    return items;
 });
 </script>
 
@@ -30,16 +49,26 @@ const filteredItems = computed(() => {
             <table class="table border-solid border-1 rounded-3px">
                 <thead>
                     <tr>
-                        <th class="centered-header">Nombre</th>
+                        <th class="centered-header sortable" @click="sortBy('name')" :class="{ active: sortKey === 'name' }">
+                            Nombre <span class="arrow" :class="sortKey === 'name' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+                        </th>
                         <th class="centered-header">Tareas</th>
-                        <th class="centered-header">Dominio</th>
-                        <th class="centered-header">Idiomas</th>
-                        <th class="centered-header">Países</th>
+                        <th class="centered-header sortable" @click="sortBy('domain')" :class="{ active: sortKey === 'domain' }">
+                            Dominio <span class="arrow" :class="sortKey === 'domain' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+                        </th>
+                        <th class="centered-header sortable" @click="sortBy('languages')" :class="{ active: sortKey === 'languages' }">
+                            Idiomas <span class="arrow" :class="sortKey === 'languages' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+                        </th>
+                        <th class="centered-header sortable" @click="sortBy('countries')" :class="{ active: sortKey === 'countries' }">
+                            Países <span class="arrow" :class="sortKey === 'countries' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+                        </th>
                         <th class="centered-header">Página Web</th>
                         <th class="centered-header">GitHub</th>
                         <th class="centered-header">Paper</th>
                         <th class="centered-header">Hugging Face Hub</th>
-                        <th class="centered-header">Gracias A</th>
+                        <th class="centered-header sortable" @click="sortBy('contributor')" :class="{ active: sortKey === 'contributor' }">
+                            Gracias A <span class="arrow" :class="sortKey === 'contributor' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+                        </th>
                     </tr>
                 </thead>
                 <tbody>
@@ -226,5 +255,39 @@ th.centered-header {
     width: 300px !important;
     min-width: 300px !important;
     max-width: 300px !important;
+}
+
+.sortable {
+    cursor: pointer;
+    user-select: none;
+}
+
+.sortable:hover {
+    opacity: 0.85;
+}
+
+th.active {
+    font-weight: bold;
+}
+
+.arrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 0;
+    margin-left: 5px;
+    opacity: 0.66;
+}
+
+.arrow.asc {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-bottom: 4px solid #000;
+}
+
+.arrow.dsc {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid #000;
 }
 </style>
