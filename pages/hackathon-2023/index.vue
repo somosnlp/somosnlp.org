@@ -427,7 +427,7 @@ useHead({
 
                 <SponsorInfo sponsor="AgilMentor" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="/images/patrocinios/AgilMentor.png"
-                    logo_dark="/images/patrocinios/AgilMentor.png" />
+                    logo_dark="/images/patrocinios/AgilMentor_dark.png" />
 
                 <SponsorInfo sponsor="Women Tech Global Conference" url="http://somosnlp.org/blog/anuncio-patrocinios-2023"
                     logo="/images/patrocinios/WomenTechNetwork.png"

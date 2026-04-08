@@ -75,6 +75,9 @@ const { t } = useI18n()
                         <a href="#hackathon-2022">{{ t('events.sections.hackathon-2022') }}</a>
                     </li>
                     <li>
+                        <a href="#taller-abstracts">{{ t('events.sections.taller-abstracts') }}</a>
+                    </li>
+                    <li>
                         <a href="#somos-mujeres-nlp">{{ t('events.sections.somos-mujeres-nlp') }}</a>
                     </li>
                     <li>
@@ -281,64 +284,71 @@ const { t } = useI18n()
 
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="https://www.youtube.com/watch?v=3OhArr1R2Lw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/entrenando-un-modelo-de-lenguaje-del-es-del-estado-del-arte">
                         <img alt="RigoBERTa" width="650" height="365" src="/images/eventos/220321_iic.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/ia-y-pln-una-apasionante-encrucijada">
                         <img alt="IA y NLP, una apasionante encrucijada" width="650" height="365"
                             src="/images/eventos/220323_cristina.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=UQwWTykNFW0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/muestreo-de-datos-para-entrenamiento-de-modelos-nlp">
                         <img alt="Muestreo de datos BERTIN" width="650" height="365"
                             src="/images/eventos/220323_paulo.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=aNR7UM-E6vA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/consideraciones-de-nlp-para-lenguas-minorizadas">
                         <img alt="Lenguas Minorizadas - MX" width="650" height="365"
                             src="/images/eventos/220330_ximena.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=_TbNgSodiPY&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/recorrido-por-el-ecosistema-de-hugging-face">
                         <img alt="El ecosistema de Hugging Face" width="650" height="365"
                             src="/images/eventos/220314_ecosistema_hf.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=jvhEra9mdPw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/analisis-de-error-en-modelos-de-pln">
                         <img alt="Análisis del error" width="650" height="365" src="/images/eventos/220316_errores.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=_f3eLbrFiCc&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/ask-me-anything-manuel">
                         <img alt="AMA I" width="650" height="365" src="/images/eventos/220317_ama.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=UR6MHBbPA3g&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/etiquetado-de-datos-para-pln">
                         <img alt="Etiquetado de datos" width="650" height="365"
                             src="/images/eventos/220329_anotacion.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=j4qfRljYNYI&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/modelos-del-lenguaje-para-redes-sociales">
                         <img alt="Modelos del Lenguaje para RRSS" width="650" height="365"
                             src="/images/eventos/220322_cardiff.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=RWIZj9puFX0&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/ask-me-anything-lewis">
                         <img alt="AMA II" width="650" height="365" src="/images/eventos/220324_ama_lewis.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=U8fig2fqrl8&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/traduccion-automatica-introduccion-y-retos-actuales">
                         <img alt="Traducción Automática" width="650" height="365" src="/images/eventos/220328_eva.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=7ckg10QUHLw&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/infiriendo-topics-con-clustering-no-supervisado">
                         <img alt="Topics con clustering no-supervisado" width="650" height="365"
                             src="/images/eventos/220331_topics.png" />
                     </a>
-                    <a href="https://www.youtube.com/watch?v=QziYfITvGrA&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG"
-                        target="_blank">
+                    <a href="/hackathon-2022/taller-de-escritura-de-abstracts-con-latinx-in-ai">
                         <img alt="Taller de escritura de abstracts" width="650" height="365"
+                            src="/images/eventos/220407_abstracts.png" />
+                    </a>
+                </div>
+            </div>
+
+            <hr class="mx-auto mt-8 mb-12 prose" />
+
+            <h3 id="taller-abstracts">{{ t('events.sections.taller-abstracts') }}</h3>
+            <p>
+                {{ t('events.sections.taller-abstracts-description') }}
+            </p>
+            <div class="mx-auto my-8 text-center">
+                <div class="grid grid-cols-2 gap-8 my-1">
+                    <a href="/hackathon-2022/taller-de-escritura-de-abstracts-con-latinx-in-ai">
+                        <img alt="Taller de escritura de abstracts (2022)" width="650" height="365"
+                            src="/images/eventos/220407_abstracts.png" />
+                    </a>
+                    <a href="https://www.youtube.com/watch?v=0f-wLobIOps&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J"
+                        target="_blank">
+                        <img alt="Taller de escritura de abstracts (2024)" width="650" height="365"
                             src="/images/eventos/220407_abstracts.png" />
                     </a>
                 </div>

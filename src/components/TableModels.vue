@@ -14,13 +14,15 @@
         <table class="table border-solid border-1 rounded-3px ">
           <thead >
             <tr>
-              <th class="centered-header">Nombre</th>
+              <th class="centered-header sortable" @click="sortBy('name')" :class="{ active: sortKey === 'name' }">
+                Nombre <span class="arrow" :class="sortKey === 'name' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+              </th>
               <th class="centered-header">Etiquetas</th>
               <th class="centered-header">Página Web</th>
               <th class="centered-header">GitHub</th>
               <th class="centered-header">Paper</th>
               <th class="centered-header">Modelo HF</th>
-              <th class="centered-header">Usuario HF </th>
+              <th class="centered-header">Usuario HF</th>
             </tr>
           </thead>
           <tbody>
@@ -125,6 +127,8 @@
 import { ref, computed } from 'vue';
 
 const searchQuery = ref('');
+const sortKey = ref('');
+const sortOrder = ref(1);
 
 const props = defineProps({
   resourceItems: {
@@ -133,12 +137,29 @@ const props = defineProps({
   }
 });
 
+function sortBy(key: string) {
+  if (sortKey.value === key) {
+    sortOrder.value *= -1;
+  } else {
+    sortKey.value = key;
+    sortOrder.value = 1;
+  }
+}
+
 const filteredItems = computed(() => {
-  return props.resourceItems.filter(item =>
+  let items = props.resourceItems.filter(item =>
     item.name.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
     item.description.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
     item.tags.some(tag => tag.toLowerCase().includes(searchQuery.value.toLowerCase()))
   );
+  if (sortKey.value) {
+    items = items.slice().sort((a, b) => {
+      const aVal = String(a[sortKey.value] || '').toLowerCase();
+      const bVal = String(b[sortKey.value] || '').toLowerCase();
+      return (aVal === bVal ? 0 : aVal > bVal ? 1 : -1) * sortOrder.value;
+    });
+  }
+  return items;
 });
 </script>
  
@@ -196,4 +217,38 @@ th.centered-header {
 .tag-cell{
   width: 300px;
   }
+
+.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.sortable:hover {
+  opacity: 0.85;
+}
+
+th.active {
+  font-weight: bold;
+}
+
+.arrow {
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  margin-left: 5px;
+  opacity: 0.66;
+}
+
+.arrow.asc {
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid #000;
+}
+
+.arrow.dsc {
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid #000;
+}
 </style>

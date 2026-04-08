@@ -3,6 +3,8 @@ import { ref, computed, onMounted } from 'vue';
 
 const searchQuery = ref('');
 const csvData = ref([]);
+const sortKey = ref('');
+const sortOrder = ref(1);
 
 const props = defineProps({
   csvFileUrl: {
@@ -15,7 +17,7 @@ onMounted(async () => {
   try {
     const response = await fetch(props.csvFileUrl);
     const text = await response.text();
-    const rows = text.trim().split('\n'); // trim() to remove leading/trailing whitespace
+    const rows = text.trim().split('\n');
     const header = rows[0].split(',');
 
     const data = [];
@@ -34,12 +36,29 @@ onMounted(async () => {
   }
 });
 
+function sortBy(key: string) {
+  if (sortKey.value === key) {
+    sortOrder.value *= -1;
+  } else {
+    sortKey.value = key;
+    sortOrder.value = 1;
+  }
+}
+
 const filteredItems = computed(() => {
-  return csvData.value.filter(item =>
+  let items = csvData.value.filter(item =>
     item.nombre.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
     item.tareas.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
     item.dominio.toLowerCase().includes(searchQuery.value.toLowerCase())
   );
+  if (sortKey.value) {
+    items = items.slice().sort((a, b) => {
+      const aVal = String(a[sortKey.value] || '').toLowerCase();
+      const bVal = String(b[sortKey.value] || '').toLowerCase();
+      return (aVal === bVal ? 0 : aVal > bVal ? 1 : -1) * sortOrder.value;
+    });
+  }
+  return items;
 });
 </script>
 
@@ -54,16 +73,26 @@ const filteredItems = computed(() => {
       <table class="table border-solid border-1 rounded-3px">
         <thead>
           <tr>
-            <th class="centered-header">Nombre</th>
+            <th class="centered-header sortable" @click="sortBy('nombre')" :class="{ active: sortKey === 'nombre' }">
+              Nombre <span class="arrow" :class="sortKey === 'nombre' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+            </th>
             <th class="centered-header">Tareas</th>
-            <th class="centered-header">Dominio</th>
-            <th class="centered-header">Idiomas</th>
-            <th class="centered-header">Países</th>
+            <th class="centered-header sortable" @click="sortBy('dominio')" :class="{ active: sortKey === 'dominio' }">
+              Dominio <span class="arrow" :class="sortKey === 'dominio' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+            </th>
+            <th class="centered-header sortable" @click="sortBy('idioma')" :class="{ active: sortKey === 'idioma' }">
+              Idiomas <span class="arrow" :class="sortKey === 'idioma' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+            </th>
+            <th class="centered-header sortable" @click="sortBy('pais')" :class="{ active: sortKey === 'pais' }">
+              Países <span class="arrow" :class="sortKey === 'pais' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+            </th>
             <th class="centered-header">Página Web</th>
             <th class="centered-header">GitHub</th>
             <th class="centered-header">Paper</th>
             <th class="centered-header">Hugging Face Hub</th>
-            <th class="centered-header">Gracias A</th>
+            <th class="centered-header sortable" @click="sortBy('contributor')" :class="{ active: sortKey === 'contributor' }">
+              Gracias A <span class="arrow" :class="sortKey === 'contributor' ? (sortOrder > 0 ? 'asc' : 'dsc') : ''"></span>
+            </th>
           </tr>
         </thead>
         <tbody>
@@ -254,6 +283,40 @@ th.centered-header {
   width: 300px !important;
   min-width: 300px !important;
   max-width: 300px !important;
+}
+
+.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.sortable:hover {
+  opacity: 0.85;
+}
+
+th.active {
+  font-weight: bold;
+}
+
+.arrow {
+  display: inline-block;
+  vertical-align: middle;
+  width: 0;
+  height: 0;
+  margin-left: 5px;
+  opacity: 0.66;
+}
+
+.arrow.asc {
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid #000;
+}
+
+.arrow.dsc {
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 4px solid #000;
 }
 </style>
   
