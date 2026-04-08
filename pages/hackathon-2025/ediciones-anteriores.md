@@ -11,7 +11,7 @@ Participa en el #HackathonSomosNLP, una competición internacional online cuyo p
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 
 
-<center><a href="/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2026</a></center>
+<center><a href="/hackathon-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2025</a></center>
 
 ## Ediciones anteriores
 
