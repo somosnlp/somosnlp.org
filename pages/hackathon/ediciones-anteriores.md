@@ -19,11 +19,27 @@ Este año celebramos la quinta edición, ¿tienes curiosidad por los resultados 
 
 ### Proyectos ganadores
 
-<!-- #TODO Claude
- 
 #### Hackathon SomosNLP 2025: Adecuación Cultural
 
- -->
+Los tres mejores corpus son:
+- 🥇 TralaleloTralala-MemeAlign
+- 🥈 IberoTales
+- 🥉 HoCV-COL
+
+Felicidades a los equipos finalistas (por orden alfabético):
+- 👏 Comida Colombia + Ecuador
+- 👏 Cresia
+- 👏 Equipo LeIA
+- 👏 Falsos Amigos
+- 👏 Refranero Afro-Cubano
+- 👏 Sabiduría Popular Castellana
+- 👏 Think Paraguayo
+
+Y a todos los que contribuyeron a los mini retos:
+- 📚 INCLUDE: Benchmark de conocimiento cultural con más de 38.000 preguntas de 23 países
+- 📚 BLEND: Extensión del benchmark de conocimiento cultural abierto
+- 📚 Validación de estereotipos: Casi 1.000 estereotipos para mitigar sesgos en LLMs
+- 📚 Dataset de preferencias: Prompts de evaluación de adecuación cultural en formato DPO
 
 
 #### Hackathon SomosNLP 2024: #Somos600M
@@ -53,7 +69,18 @@ Y a los corpus:
 
 <div class="grid grid-cols-3 gap-8 my-12">
     <!-- HACKATHON 2025 -->
-    <!-- #TODO Claude -->
+    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+        <img alt="Charla de Luis Vasquez" width="650" height="365"
+        src="/images/eventos/250410_luis_vasquez.png" />
+    </a>
+    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+        <img alt="Charla de Selene Báez" width="650" height="365"
+        src="/images/eventos/250410_selene_baez.png" />
+    </a>
+    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+        <img alt="Charla de Alfonso Amayuelas" width="650" height="365"
+        src="/images/eventos/250415_alfonso_amayuelas.png" />
+    </a>
  
     <!-- HACKATHON 2024 -->
     <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
