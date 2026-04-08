@@ -17,7 +17,26 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 *([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
 
-En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">1500+</div>
+    <div class="text-sm opacity-80 mt-1">Participantes</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">30</div>
+    <div class="text-sm opacity-80 mt-1">Países</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">50+</div>
+    <div class="text-sm opacity-80 mt-1">Proyectos</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">20k+</div>
+    <div class="text-sm opacity-80 mt-1">Visualizaciones</div>
+  </div>
+</div>
+
+En las ediciones anteriores demostramos el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
 En esta quinta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica**.
 
@@ -163,13 +182,56 @@ Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escrib
 
 ## 🏆 Casos de éxito de ediciones anteriores
 
-Los proyectos del hackathon generan impacto real. Estos son algunos ejemplos destacados:
+Los proyectos del hackathon generan impacto real:
 
-- **Paper en NAACL 2022**: El proyecto BiomedIA (1er premio 2022) dio lugar al paper ["A Complete Voice-to-Voice Generative QA System"](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf), ganador del Premio a la Mejor Presentación de Póster en NAACL 2022.
-- **Modelo Jurídico Mexicano** (2do premio 2022): El modelo desarrollado durante el hackathon es **utilizado por la Suprema Corte de Justicia de la Nación de México**.
-- **INCLUDE** (2025): Se recolectaron más de **38.000 preguntas de exámenes de 23 países**, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.
-- **NoticIA** (1er premio 2024): Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital.
-- **AsistenciaRefugiados** (2do premio 2024): Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.
+<div class="grid gap-5 md:grid-cols-2 my-8">
+
+<div class="border-l-4 border-yellow-400 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-yellow-400 text-white px-2 py-0.5 rounded">2022</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🏅 BiomedIA</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Sistema voz-a-voz de Q&A biomédico. Dio lugar a un <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper en NAACL 2022</a> con el Premio a la Mejor Presentación de Póster.</p>
+</div>
+
+<div class="border-l-4 border-yellow-400 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-yellow-400 text-white px-2 py-0.5 rounded">2022</span>
+    <span class="text-xs text-gray-500">2do Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">⚖️ Modelo Jurídico Mexicano</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.</p>
+</div>
+
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📰 NoticIA</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital.</p>
+</div>
+
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">2do Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 AsistenciaRefugiados</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.</p>
+</div>
+
+<div class="border-l-4 border-green-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-green-500 text-white px-2 py-0.5 rounded">2025</span>
+    <span class="text-xs text-gray-500">Logro colectivo</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📚 INCLUDE: Benchmark de conocimiento cultural</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</strong>, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.</p>
+</div>
+
+</div>
 
 <center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Ver todas las ediciones anteriores</a></center>
 
@@ -252,10 +314,25 @@ logo_dark="/images/patrocinios/SaturdaysAI.png" />
 
 ## 🤗 ¡Conecta!
 
-Para estar al día de todos los eventos y avances:
-- Únete a la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR)
-- Presta atención a los canales de Discord [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115) y [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
-- Síguenos en [X (Twitter)](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
-- Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
-- Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-<!-- TODO Newsletter -->
+<div class="grid grid-cols-2 md:grid-cols-5 gap-3 my-8">
+  <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition-shadow text-center no-underline">
+    <span class="text-2xl">💬</span>
+    <span class="text-sm font-semibold">Discord</span>
+  </a>
+  <a href="https://twitter.com/somosnlp_" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition-shadow text-center no-underline">
+    <span class="text-2xl">𝕏</span>
+    <span class="text-sm font-semibold">Twitter</span>
+  </a>
+  <a href="https://www.linkedin.com/company/somosnlp" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition-shadow text-center no-underline">
+    <span class="text-2xl">💼</span>
+    <span class="text-sm font-semibold">LinkedIn</span>
+  </a>
+  <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition-shadow text-center no-underline">
+    <span class="text-2xl">🎬</span>
+    <span class="text-sm font-semibold">YouTube</span>
+  </a>
+  <a href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md transition-shadow text-center no-underline">
+    <span class="text-2xl">📅</span>
+    <span class="text-sm font-semibold">Calendario</span>
+  </a>
+</div>
