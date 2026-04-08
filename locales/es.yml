@@ -91,9 +91,9 @@ landing-page:
   events:
     all-events: Ver todos los eventos
     event-description: >-
-      Vuelve el #HackathonSomosNLP, en la próxima edición de marzo de 2024, nos
-      centraremos en generar bases de datos diversas y de calidad para el
-      entrenamiento de LLMs que se expresen con propiedad en español.
+      ¡Vuelve el #HackathonSomosNLP! En esta edición, nos centramos en la
+      creación de recursos para evaluar y mejorar la adecuación cultural de los
+      LLMs respecto a los países de LATAM y la Península Ibérica.
     join-event: ¡Quiero saber más!
     more-events: Grabaciones de eventos
     recorded-events: Eventos anteriores
