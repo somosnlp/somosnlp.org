@@ -38,7 +38,7 @@ Desde 2022, sumamos...
     <div class="text-sm opacity-80 mt-1">Países</div>
   </div>
   <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
-    <div class="text-3xl font-bold">50+</div>
+    <div class="text-3xl font-bold">100+</div>
     <div class="text-sm opacity-80 mt-1">Proyectos</div>
   </div>
   <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
@@ -58,7 +58,15 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 ## 🚀 Cómo puedes colaborar
 
-<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3 my-8">
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
+
+<HackathonCard
+  icon="📚"
+  title="Manda preguntas sobre tu cultura a LLMs"
+  description="Haz preguntas a LLMs y elige cuáles están más alineados con tu cultura."
+  linkText="Regístrate ya"
+  linkUrl="https://forms.gle/d1WBoTNuNEyzHNi86"
+/>
 
 <HackathonCard
   icon="💻"
@@ -66,22 +74,6 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
   description="Desarrolla un LLM alineado con tu cultura. Equipos de 1-5 personas: genera un dataset, alinea un modelo y crea una demo."
   linkText="Regístrate ya"
   linkUrl="https://forms.gle/d1WBoTNuNEyzHNi86"
-/>
-
-<HackathonCard
-  icon="🧑‍🏫"
-  title="Ofrece una mentoría"
-  description="Comparte tu experiencia apoyando a los equipos a crear datasets de calidad y entrenar buenos LLMs. Mentorías puntuales o continuas."
-  linkText="Ofrece mentoría"
-  linkUrl="https://forms.gle/Cq7CfgxaLTrthZU37"
-/>
-
-<HackathonCard
-  icon="🙌"
-  title="Patrocina el evento"
-  description="Apoya nuestra misión ofreciendo visibilidad, vales o donaciones. SomosNLP es una comunidad sin ánimo de lucro."
-  linkText="Ver opciones"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
 />
 
 <HackathonCard
@@ -100,32 +92,68 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
   linkUrl="https://forms.gle/vjkLRQVnGF5eVgqq5"
 />
 
+<HackathonCard
+  icon="🧑‍🏫"
+  title="Ofrece una mentoría"
+  description="Comparte tu experiencia apoyando a los equipos a crear datasets de calidad y entrenar buenos LLMs. Mentorías puntuales o continuas."
+  linkText="Ofrece mentoría"
+  linkUrl="https://forms.gle/Cq7CfgxaLTrthZU37"
+/>
+
+<HackathonCard
+  icon="🙌"
+  title="Patrocina el evento"
+  description="Apoya nuestra misión ofreciendo visibilidad, vales o donaciones. SomosNLP es una comunidad sin ánimo de lucro."
+  linkText="Ver opciones"
+  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+/>
+
 </div>
 
 ---
 
-## 🏆 Casos de éxito de ediciones anteriores
+## 🏆 Casos de éxito
 
 Los proyectos del hackathon generan impacto real:
 
 <div class="grid gap-5 md:grid-cols-2 my-8">
 
-<div class="border-l-4 border-yellow-400 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
   <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-yellow-400 text-white px-2 py-0.5 rounded">2022</span>
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2022</span>
     <span class="text-xs text-gray-500">1er Premio</span>
   </div>
   <h4 class="font-bold text-base mb-1">🏅 BiomedIA</h4>
   <p class="text-sm text-gray-600 dark:text-gray-400">Sistema voz-a-voz de Q&A biomédico. Dio lugar a un <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper en NAACL 2022</a> con el Premio a la Mejor Presentación de Póster.</p>
 </div>
 
-<div class="border-l-4 border-yellow-400 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
   <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-yellow-400 text-white px-2 py-0.5 rounded">2022</span>
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2022</span>
     <span class="text-xs text-gray-500">2do Premio</span>
   </div>
   <h4 class="font-bold text-base mb-1">⚖️ Modelo Jurídico Mexicano</h4>
   <p class="text-sm text-gray-600 dark:text-gray-400">Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.</p>
+</div>
+
+<!-- #TODO Actualizar highlights de 2023 -->
+
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2023</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 BERT Sostenible</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Best paper en KHIPU 2025.</p>
+</div>
+
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2023</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 BERT Sostenible</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Best paper en KHIPU 2025.</p>
 </div>
 
 <div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
@@ -134,7 +162,7 @@ Los proyectos del hackathon generan impacto real:
     <span class="text-xs text-gray-500">1er Premio</span>
   </div>
   <h4 class="font-bold text-base mb-1">📰 NoticIA</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital.</p>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Publicado en SEPLN 2024.</p>
 </div>
 
 <div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
@@ -146,9 +174,18 @@ Los proyectos del hackathon generan impacto real:
   <p class="text-sm text-gray-600 dark:text-gray-400">Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.</p>
 </div>
 
-<div class="border-l-4 border-green-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
+<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
   <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-green-500 text-white px-2 py-0.5 rounded">2025</span>
+    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">Logro colectivo</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📚 Dataset de instrucciones</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Se generaron más de <strong>1M</strong> instrucciones, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués. Paper #Somos600M publicado en el workshop LatinX in NLP @NAACL 2024.</p>
+</div>
+
+<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2025</span>
     <span class="text-xs text-gray-500">Logro colectivo</span>
   </div>
   <h4 class="font-bold text-base mb-1">📚 INCLUDE: Benchmark de conocimiento cultural</h4>
