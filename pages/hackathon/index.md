@@ -136,25 +136,7 @@ Los proyectos del hackathon generan impacto real:
   <p class="text-sm text-gray-600 dark:text-gray-400">Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.</p>
 </div>
 
-<!-- #TODO Actualizar highlights de 2023 -->
-
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2023</span>
-    <span class="text-xs text-gray-500">1er Premio</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">🤝 BERT Sostenible</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Best paper en KHIPU 2025.</p>
-</div>
-
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2023</span>
-    <span class="text-xs text-gray-500">1er Premio</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">🤝 BERT Sostenible</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Best paper en KHIPU 2025.</p>
-</div>
+<!-- #TODO Añadir highlights de 2023 -->
 
 <div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
   <div class="flex items-center gap-2 mb-2">
@@ -174,13 +156,31 @@ Los proyectos del hackathon generan impacto real:
   <p class="text-sm text-gray-600 dark:text-gray-400">Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.</p>
 </div>
 
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 BERT Sostenible</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Identificación de textos relacionados al cambio climático y sustentabilidad utilizando modelos de lenguaje preentrenados en español. LatinX in AI (LXAI) Research Workshop @NAACL 2024. Best paper en KHIPU 2025.</p>
+</div>
+
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 Cocina saludable</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024.</p>
+</div>
+
 <div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
   <div class="flex items-center gap-2 mb-2">
     <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2024</span>
     <span class="text-xs text-gray-500">Logro colectivo</span>
   </div>
   <h4 class="font-bold text-base mb-1">📚 Dataset de instrucciones</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Se generaron más de <strong>1M</strong> instrucciones, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués. Paper #Somos600M publicado en el workshop LatinX in NLP @NAACL 2024.</p>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. Paper #Somos600M publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico El País.</p>
 </div>
 
 <div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
