@@ -1,0 +1,507 @@
+{
+  "resumen_general": {
+    "total_registros": 2136,
+    "paises": 9,
+    "usuarios_unicos": 27,
+    "modelos": [
+      "claude-3-5-sonnet@20240620",
+      "gemini-2.0-flash-exp",
+      "gpt-4o-mini",
+      "llama-3.2-90b-vision-instruct-maas",
+      "mistral-large-2411"
+    ]
+  },
+  "por_pais": {
+    "Cuba": 636,
+    "España": 513,
+    "Colombia": 324,
+    "Paraguay": 195,
+    "Ecuador": 153,
+    "Chile": 121,
+    "Perú": 118,
+    "México": 41,
+    "Nicaragua": 35
+  },
+  "por_modelo": {
+    "claude-3-5-sonnet@20240620": {
+      "victorias": 358,
+      "derrotas": 180,
+      "total_apariciones": 538,
+      "win_rate": 0.665
+    },
+    "gemini-2.0-flash-exp": {
+      "victorias": 298,
+      "derrotas": 236,
+      "total_apariciones": 534,
+      "win_rate": 0.558
+    },
+    "gpt-4o-mini": {
+      "victorias": 246,
+      "derrotas": 283,
+      "total_apariciones": 529,
+      "win_rate": 0.465
+    },
+    "llama-3.2-90b-vision-instruct-maas": {
+      "victorias": 173,
+      "derrotas": 366,
+      "total_apariciones": 539,
+      "win_rate": 0.321
+    },
+    "mistral-large-2411": {
+      "victorias": 253,
+      "derrotas": 263,
+      "total_apariciones": 516,
+      "win_rate": 0.49
+    }
+  },
+  "por_usuario": {
+    "roverico.aillm@gmail.com": {
+      "n_prompts": 77,
+      "paises": [
+        "España"
+      ],
+      "ties": 8,
+      "both_bad": 1
+    },
+    "esparcia.beatriz@gmail.com": {
+      "n_prompts": 80,
+      "paises": [
+        "España"
+      ],
+      "ties": 18,
+      "both_bad": 4
+    },
+    "adriansaezmartinez@gmail.com": {
+      "n_prompts": 22,
+      "paises": [
+        "España"
+      ],
+      "ties": 6,
+      "both_bad": 2
+    },
+    "alvaro8gb@gmail.com": {
+      "n_prompts": 42,
+      "paises": [
+        "España"
+      ],
+      "ties": 5,
+      "both_bad": 6
+    },
+    "gnieto@cires21.com": {
+      "n_prompts": 8,
+      "paises": [
+        "España"
+      ],
+      "ties": 3,
+      "both_bad": 1
+    },
+    "lauuramasa@gmail.com": {
+      "n_prompts": 63,
+      "paises": [
+        "España"
+      ],
+      "ties": 4,
+      "both_bad": 0
+    },
+    "daniel.cavillamolina@alum.uca.es": {
+      "n_prompts": 19,
+      "paises": [
+        "España"
+      ],
+      "ties": 6,
+      "both_bad": 0
+    },
+    "mariagrandury@gmail.com": {
+      "n_prompts": 1,
+      "paises": [
+        "España"
+      ],
+      "ties": 0,
+      "both_bad": 0
+    },
+    "susanazhouyin@gmail.com": {
+      "n_prompts": 111,
+      "paises": [
+        "España"
+      ],
+      "ties": 6,
+      "both_bad": 2
+    },
+    "constanzapjeldres@gmail.com": {
+      "n_prompts": 90,
+      "paises": [
+        "España"
+      ],
+      "ties": 34,
+      "both_bad": 5
+    },
+    "andres.seba.ai@gmail.com": {
+      "n_prompts": 120,
+      "paises": [
+        "Chile"
+      ],
+      "ties": 0,
+      "both_bad": 28
+    },
+    "gonzalo.fuentes@cenia.cl": {
+      "n_prompts": 1,
+      "paises": [
+        "Chile"
+      ],
+      "ties": 0,
+      "both_bad": 0
+    },
+    "gfuentes2000@gmail.com": {
+      "n_prompts": 1,
+      "paises": [
+        "México"
+      ],
+      "ties": 0,
+      "both_bad": 0
+    },
+    "helena.adorno@gmail.com": {
+      "n_prompts": 19,
+      "paises": [
+        "México"
+      ],
+      "ties": 2,
+      "both_bad": 12
+    },
+    "diegohernandez969@aragon.unam.mx": {
+      "n_prompts": 21,
+      "paises": [
+        "México"
+      ],
+      "ties": 4,
+      "both_bad": 10
+    },
+    "nelsonfabiancs8@gmail.com": {
+      "n_prompts": 50,
+      "paises": [
+        "Colombia"
+      ],
+      "ties": 11,
+      "both_bad": 5
+    },
+    "ajpa2212@gmail.com": {
+      "n_prompts": 133,
+      "paises": [
+        "Colombia"
+      ],
+      "ties": 46,
+      "both_bad": 21
+    },
+    "dario30agosto@gmail.com": {
+      "n_prompts": 58,
+      "paises": [
+        "Colombia"
+      ],
+      "ties": 14,
+      "both_bad": 2
+    },
+    "jotajota15236@gmail.com": {
+      "n_prompts": 83,
+      "paises": [
+        "Colombia"
+      ],
+      "ties": 45,
+      "both_bad": 3
+    },
+    "gerardohuerta1705@gmail.com": {
+      "n_prompts": 35,
+      "paises": [
+        "Nicaragua"
+      ],
+      "ties": 2,
+      "both_bad": 3
+    },
+    "da.quicast@gmail.com": {
+      "n_prompts": 118,
+      "paises": [
+        "Perú"
+      ],
+      "ties": 47,
+      "both_bad": 3
+    },
+    "enpaiva93@gmail.com": {
+      "n_prompts": 107,
+      "paises": [
+        "Paraguay"
+      ],
+      "ties": 10,
+      "both_bad": 10
+    },
+    "luceldasilva987@gmail.com": {
+      "n_prompts": 58,
+      "paises": [
+        "Paraguay"
+      ],
+      "ties": 13,
+      "both_bad": 10
+    },
+    "edmenciab@gmail.com": {
+      "n_prompts": 30,
+      "paises": [
+        "Paraguay"
+      ],
+      "ties": 10,
+      "both_bad": 5
+    },
+    "raselaguerofernandez599@gmail.com": {
+      "n_prompts": 430,
+      "paises": [
+        "Cuba"
+      ],
+      "ties": 127,
+      "both_bad": 33
+    },
+    "bel21093@gmail.com": {
+      "n_prompts": 206,
+      "paises": [
+        "Cuba"
+      ],
+      "ties": 70,
+      "both_bad": 40
+    },
+    "pablocarrera3@gmail.com": {
+      "n_prompts": 153,
+      "paises": [
+        "Ecuador"
+      ],
+      "ties": 98,
+      "both_bad": 13
+    }
+  },
+  "por_longitud": {
+    "prompts": {
+      "media": 237.2,
+      "mediana": 135.0,
+      "min": 7,
+      "max": 2600,
+      "std": 249.7,
+      "p25": 85.0,
+      "p75": 375.0
+    },
+    "respuestas_aceptadas": {
+      "media": 1254.0,
+      "mediana": 1184.5,
+      "min": 6,
+      "max": 7419,
+      "std": 728.3,
+      "p25": 765.8,
+      "p75": 1609.0
+    },
+    "respuestas_rechazadas": {
+      "media": 1143.1,
+      "mediana": 1106.5,
+      "min": 7,
+      "max": 7176,
+      "std": 731.6,
+      "p25": 570.5,
+      "p75": 1561.5
+    }
+  },
+  "categorias": {
+    "totales": {
+      "Lenguaje y expresiones": 902,
+      "Otro / Sin categoría clara": 341,
+      "Gastronomía y alimentación": 214,
+      "Identidad y valores": 135,
+      "Arte y entretenimiento": 101,
+      "Normas sociales y convivencia": 97,
+      "Geografía y medio ambiente": 94,
+      "Historia y política": 80,
+      "Tradiciones y celebraciones": 76,
+      "Educación y trabajo": 55,
+      "Vida cotidiana": 41
+    },
+    "por_pais": {
+      "España": {
+        "Otro / Sin categoría clara": 173,
+        "Lenguaje y expresiones": 115,
+        "Gastronomía y alimentación": 63,
+        "Arte y entretenimiento": 27,
+        "Normas sociales y convivencia": 27,
+        "Identidad y valores": 26,
+        "Educación y trabajo": 26,
+        "Geografía y medio ambiente": 23,
+        "Tradiciones y celebraciones": 18,
+        "Vida cotidiana": 12,
+        "Historia y política": 3
+      },
+      "Chile": {
+        "Gastronomía y alimentación": 29,
+        "Normas sociales y convivencia": 18,
+        "Geografía y medio ambiente": 14,
+        "Otro / Sin categoría clara": 13,
+        "Lenguaje y expresiones": 12,
+        "Vida cotidiana": 8,
+        "Identidad y valores": 8,
+        "Arte y entretenimiento": 7,
+        "Historia y política": 7,
+        "Educación y trabajo": 4,
+        "Tradiciones y celebraciones": 1
+      },
+      "México": {
+        "Lenguaje y expresiones": 40,
+        "Otro / Sin categoría clara": 1
+      },
+      "Colombia": {
+        "Lenguaje y expresiones": 69,
+        "Otro / Sin categoría clara": 46,
+        "Identidad y valores": 45,
+        "Gastronomía y alimentación": 40,
+        "Tradiciones y celebraciones": 26,
+        "Geografía y medio ambiente": 26,
+        "Historia y política": 23,
+        "Arte y entretenimiento": 21,
+        "Normas sociales y convivencia": 15,
+        "Vida cotidiana": 8,
+        "Educación y trabajo": 5
+      },
+      "Nicaragua": {
+        "Otro / Sin categoría clara": 11,
+        "Gastronomía y alimentación": 7,
+        "Geografía y medio ambiente": 5,
+        "Arte y entretenimiento": 4,
+        "Identidad y valores": 3,
+        "Vida cotidiana": 2,
+        "Educación y trabajo": 1,
+        "Lenguaje y expresiones": 1,
+        "Normas sociales y convivencia": 1
+      },
+      "Perú": {
+        "Gastronomía y alimentación": 26,
+        "Otro / Sin categoría clara": 17,
+        "Arte y entretenimiento": 14,
+        "Identidad y valores": 14,
+        "Lenguaje y expresiones": 11,
+        "Educación y trabajo": 10,
+        "Tradiciones y celebraciones": 9,
+        "Normas sociales y convivencia": 7,
+        "Historia y política": 7,
+        "Geografía y medio ambiente": 3
+      },
+      "Paraguay": {
+        "Otro / Sin categoría clara": 62,
+        "Historia y política": 27,
+        "Arte y entretenimiento": 25,
+        "Gastronomía y alimentación": 18,
+        "Identidad y valores": 13,
+        "Geografía y medio ambiente": 13,
+        "Lenguaje y expresiones": 12,
+        "Tradiciones y celebraciones": 8,
+        "Normas sociales y convivencia": 8,
+        "Vida cotidiana": 6,
+        "Educación y trabajo": 3
+      },
+      "Cuba": {
+        "Lenguaje y expresiones": 618,
+        "Identidad y valores": 9,
+        "Historia y política": 3,
+        "Normas sociales y convivencia": 2,
+        "Otro / Sin categoría clara": 2,
+        "Geografía y medio ambiente": 1,
+        "Gastronomía y alimentación": 1
+      },
+      "Ecuador": {
+        "Gastronomía y alimentación": 30,
+        "Lenguaje y expresiones": 24,
+        "Normas sociales y convivencia": 19,
+        "Identidad y valores": 17,
+        "Otro / Sin categoría clara": 16,
+        "Tradiciones y celebraciones": 14,
+        "Historia y política": 10,
+        "Geografía y medio ambiente": 9,
+        "Educación y trabajo": 6,
+        "Vida cotidiana": 5,
+        "Arte y entretenimiento": 3
+      }
+    }
+  },
+  "ties_bothbad": {
+    "global": {
+      "total": 2136,
+      "ties": 589,
+      "both_bad": 219,
+      "clear_pref": 1328,
+      "pct_ties": 27.6,
+      "pct_both_bad": 10.3
+    },
+    "por_pais": {
+      "España": {
+        "total": 513,
+        "tie": 90,
+        "both_bad": 21,
+        "clear": 402
+      },
+      "Chile": {
+        "total": 121,
+        "tie": 0,
+        "both_bad": 28,
+        "clear": 93
+      },
+      "México": {
+        "total": 41,
+        "tie": 6,
+        "both_bad": 22,
+        "clear": 13
+      },
+      "Colombia": {
+        "total": 324,
+        "tie": 116,
+        "both_bad": 31,
+        "clear": 177
+      },
+      "Nicaragua": {
+        "total": 35,
+        "tie": 2,
+        "both_bad": 3,
+        "clear": 30
+      },
+      "Perú": {
+        "total": 118,
+        "tie": 47,
+        "both_bad": 3,
+        "clear": 68
+      },
+      "Paraguay": {
+        "total": 195,
+        "tie": 33,
+        "both_bad": 25,
+        "clear": 137
+      },
+      "Cuba": {
+        "total": 636,
+        "tie": 197,
+        "both_bad": 73,
+        "clear": 366
+      },
+      "Ecuador": {
+        "total": 153,
+        "tie": 98,
+        "both_bad": 13,
+        "clear": 42
+      }
+    }
+  },
+  "calidad": {
+    "score_medio_global": 0.889,
+    "score_mediano_global": 1.0,
+    "prompts_triviales": 1,
+    "prompts_sin_anclaje_cultural": 721,
+    "prompts_sin_system_prompt": 37,
+    "pct_triviales": 0.0,
+    "score_por_pais": {
+      "España": 0.746,
+      "Chile": 0.904,
+      "México": 0.991,
+      "Colombia": 0.914,
+      "Nicaragua": 0.829,
+      "Perú": 0.857,
+      "Paraguay": 0.868,
+      "Cuba": 0.998,
+      "Ecuador": 0.891
+    }
+  }
+}
