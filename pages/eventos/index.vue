@@ -66,6 +66,9 @@ const { t } = useI18n()
                     t('events.sections.recordings') }}</span>
                 <ul>
                     <li>
+                        <a href="#hackathon-2025">{{ t('events.sections.hackathon-2025') }}</a>
+                    </li>
+                    <li>
                         <a href="#hackathon-2024">{{ t('events.sections.hackathon-2024') }}</a>
                     </li>
                     <li>
@@ -97,6 +100,18 @@ const { t } = useI18n()
 
                     <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
                         <img alt="Luis Vasquez" width="650" height="365" src="/images/eventos/250410_luis_vasquez.png" />
+                    </a>
+
+                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                        <img alt="Luis Vasquez" width="650" height="365" src="/images/eventos/250421_luis_vasquez.png" />
+                    </a>
+
+                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                        <img alt="Andrés Marafioti" width="650" height="365" src="/images/eventos/250422_andres_marafioti.png" />
+                    </a>
+
+                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                        <img alt="Gabriela Arriagada Bruneau" width="650" height="365" src="/images/eventos/250423_gabriela_arriagada_bruneau.png" />
                     </a>
                 </div>
             </div>
