@@ -20,9 +20,15 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 ---
 
-## 📊 Hackathon en cifras
+## 📊 ¡Lanzamos la quinta edición!
 
-<div class="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
+Desde 2022, sumamos...
+
+<div class="grid grid-cols-2 md:grid-cols-5 gap-4 my-8">
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">4</div>
+    <div class="text-sm opacity-80 mt-1">Ediciones</div>
+  </div>
   <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
     <div class="text-3xl font-bold">1500+</div>
     <div class="text-sm opacity-80 mt-1">Participantes</div>
@@ -36,8 +42,8 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
     <div class="text-sm opacity-80 mt-1">Proyectos</div>
   </div>
   <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
-    <div class="text-3xl font-bold">20k+</div>
-    <div class="text-sm opacity-80 mt-1">Visualizaciones</div>
+    <div class="text-3xl font-bold">60</div>
+    <div class="text-sm opacity-80 mt-1">Eventos</div>
   </div>
 </div>
 
@@ -175,9 +181,14 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 logo="/images/patrocinios/somosnlp_nobg.png"
 logo_dark="/images/patrocinios/somosnlp_nobg.png" />
 
-<SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
+<SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/uned-nlp"
+logo="/images/patrocinios/UNEDNLP.png"
+logo_dark="/images/patrocinios/UNEDNLP.png" />
+
+
+<!-- <SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
 logo="/images/patrocinios/CENIA.jpeg"
-logo_dark="/images/patrocinios/CENIA.jpeg" />
+logo_dark="/images/patrocinios/CENIA.jpeg" /> -->
 
 </div>
 
@@ -205,7 +216,7 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 ### 🥈 Plata
 
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
 logo="/images/patrocinios/UPM.jpeg"
@@ -223,25 +234,10 @@ logo_dark="/images/patrocinios/UPM.jpeg" />
 
 ## 🤗 ¡Conecta!
 
-<div class="grid grid-cols-2 md:grid-cols-5 gap-3 my-8">
-  <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md hover:border-yellow-400 transition-all text-center no-underline">
-    <span class="text-2xl">💬</span>
-    <span class="text-sm font-semibold">Discord</span>
-  </a>
-  <a href="https://twitter.com/somosnlp_" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md hover:border-yellow-400 transition-all text-center no-underline">
-    <span class="text-2xl">𝕏</span>
-    <span class="text-sm font-semibold">Twitter</span>
-  </a>
-  <a href="https://www.linkedin.com/company/somosnlp" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md hover:border-yellow-400 transition-all text-center no-underline">
-    <span class="text-2xl">💼</span>
-    <span class="text-sm font-semibold">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/c/somosnlp?sub_confirmation=1" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md hover:border-yellow-400 transition-all text-center no-underline">
-    <span class="text-2xl">🎬</span>
-    <span class="text-sm font-semibold">YouTube</span>
-  </a>
-  <a href="https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" class="flex flex-col items-center gap-2 border border-gray-200 dark:border-gray-700 rounded-lg p-4 hover:shadow-md hover:border-yellow-400 transition-all text-center no-underline">
-    <span class="text-2xl">📅</span>
-    <span class="text-sm font-semibold">Calendario</span>
-  </a>
-</div>
+Para estar al día de todos los eventos y avances:
+- Únete a la comunidad de +2000 personas en [Discord](https://discord.com/invite/my8w7JUxZR) (¡es gratis!)
+- Presta atención a los canales de Discord [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115) y [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
+- Síguenos en [X](https://x.com/somosnlp_) y [LinkedIn](https://linkedin.com/company/somosnlp)
+- Suscríbete a nuestro canal de [YouTube](https://youtube.com/c/somosnlp?sub_confirmation=1)
+- Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+<!-- TODO Newsletter -->
