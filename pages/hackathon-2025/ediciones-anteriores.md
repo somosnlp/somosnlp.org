@@ -5,7 +5,9 @@ lang: es
 cover: /images/eventos/250401_hackathon_sinfecha.jpg
 ---
 
-Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan extendido y rico una representación justa en el ámbito del PLN. Participa en el Hackathon SomosNLP, una competición internacional online cuyo objetivo principal es **crear recursos diversos y abiertos de PLN en español y lenguas cooficiales**.
+Somos 600M de personas hispanohablantes y 265M lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales?
+
+Participa en el #HackathonSomosNLP, una competición internacional online cuyo principal objetivo es **crear recursos diversos y abiertos de PLN las lenguas de Iberoamérica** 🚀
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 
 
@@ -13,9 +15,32 @@ Somos 600M de personas hispanohablantes, vamos a darle a nuestro idioma tan exte
 
 ## Ediciones anteriores
 
-Este año celebramos la cuarta edición, ¿tienes curiosidad por los resultados de los años anteriores?
+Este año celebramos la quinta edición, ¿tienes curiosidad por los resultados de los años anteriores?
 
 ### Proyectos ganadores
+
+#### Hackathon SomosNLP 2025: Adecuación Cultural
+
+Los tres mejores corpus del reto de preferencias son:
+- 🥇 TralaleloTralala-MemeAlign
+- 🥈 IberoTales
+- 🥉 HoCV-COL
+
+Equipos finalistas:
+- 👏 Comida Colombia + Ecuador
+- 👏 Cresia
+- 👏 Equipo LeIA
+- 👏 Falsos Amigos
+- 👏 Refranero Afro-Cubano
+- 👏 Sabiduría Popular Castellana
+- 👏 Think Paraguayo
+
+Logros colectivos destacados:
+- 📚 INCLUDE: +38.000 preguntas de exámenes de 23 países
+- 📚 BLEND: extensión del benchmark de conocimiento cultural
+- 📚 ~1.000 estereotipos recolectados y validados
+
+[Más información sobre los proyectos del Hackathon 2025](/blog/hackathon-2025)
 
 #### Hackathon SomosNLP 2024: #Somos600M
 
@@ -40,9 +65,38 @@ Y a los corpus:
 - 📚 Identificación de provincias y resúmenes del Corpus Oral y Sonoro del Español Rural
 
 
+#### Hackathon SomosNLP 2023: LLMs en español
+
+En esta segunda edición participaron más de 500 personas de 30 países que desarrollaron 22 proyectos y 3 papers publicados.
+
+[Más información sobre el Hackathon 2023](/blog/hackathon-2023)
+
+#### Hackathon SomosNLP 2022: PLN en español
+
+En la primera edición participaron más de 500 personas de 29 países. Proyectos destacados:
+- 🥇 [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): sistema voz-a-voz de Q&A biomédico, que dio lugar a un [paper presentado en NAACL 2022](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) con el Premio a la Mejor Presentación de Póster
+- 🥈 [Modelo Jurídico Mexicano](https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): modelo utilizado por la **Suprema Corte de Justicia de la Nación de México**
+- 🥉 [Neutralización de género](https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): reescritura de textos de manera inclusiva
+- 💜 [Detector de Sexismo](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): contribución a la eliminación de comentarios sexistas
+
+[Más información sobre el Hackathon 2022](/blog/hackathon-2022)
+
 ### Charlas y talleres
 
 <div class="grid grid-cols-3 gap-8 my-12">
+    <!-- HACKATHON 2025 -->
+    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+        <img alt="Charla de Selene Baez" width="650" height="365"
+        src="/images/eventos/250410_selene_baez.png" />
+    </a>
+    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+        <img alt="Charla de Alfonso Amayuelas" width="650" height="365"
+        src="/images/eventos/250415_alfonso_amayuelas.png" />
+    </a>
+    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+        <img alt="Charla de Andrés Marafioti" width="650" height="365"
+        src="/images/eventos/250422_andres_marafioti.png" />
+    </a>
     <!-- HACKATHON 2024 -->
     <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
         <img alt="Charla de Elena González-Blanco" width="650" height="365"

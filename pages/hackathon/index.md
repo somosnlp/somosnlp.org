@@ -5,179 +5,206 @@ lang: es
 cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
+<script setup>
+import HackathonCard from '../../src/components/HackathonCard.vue'
+</script>
+
 Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
-  <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a>
-  <!-- Ediciones anteriores -->
-  <!-- <a href="https://somosnlp.org/blog/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Resumen</a>
-  <a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Participa en los retos</a> -->
-  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
+  <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Difunde el evento</a>
 </div>
 
 *([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
 
-En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
+---
+
+## 📊 ¡Lanzamos la quinta edición!
+
+Desde 2022, sumamos...
+
+<div class="grid grid-cols-2 md:grid-cols-5 gap-4 my-8">
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">4</div>
+    <div class="text-sm opacity-80 mt-1">Ediciones</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">1500+</div>
+    <div class="text-sm opacity-80 mt-1">Participantes</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">30</div>
+    <div class="text-sm opacity-80 mt-1">Países</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">100+</div>
+    <div class="text-sm opacity-80 mt-1">Proyectos</div>
+  </div>
+  <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
+    <div class="text-3xl font-bold">60</div>
+    <div class="text-sm opacity-80 mt-1">Eventos</div>
+  </div>
+</div>
 
 En esta quinta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica**.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-- 💻 [¡Regístrate ya!](https://forms.gle/d1WBoTNuNEyzHNi86)
-
-¿Quieres apoyar el evento?
-
-- 🧑‍🏫 [Ofrece una mentoría](https://forms.gle/Cq7CfgxaLTrthZU37)
-- 🙌 [Patrocina este maravilloso evento](https://forms.gle/YREnJ3p9dNpQRYEg6)
-- 📣 [Ayúdanos a difundir el evento](https://forms.gle/i1MG2F1BGZSg2CpR6)
-- 🤗 [Únete al equipo que lo organiza](https://forms.gle/vjkLRQVnGF5eVgqq5)
-<!-- - 🔊 [Propón una ponencia](https://forms.gle/LEMe61A91WTfiYH28) -->
-
 ![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
 <!-- Actualizar al GIF de este año -->
 
+---
+
 ## 🚀 Cómo puedes colaborar
 
-Haz click en cada uno de las opciones siguientes para obtener más información:
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
-<details  style="margin-bottom: 20px;">
-<summary>💻 Crea un modelo de lenguaje alineado con tu cultura</summary>
+<HackathonCard
+  icon="📚"
+  title="Manda preguntas sobre tu cultura a LLMs"
+  description="Haz preguntas a LLMs y elige cuáles están más alineados con tu cultura."
+  linkText="Regístrate ya"
+  linkUrl="https://forms.gle/d1WBoTNuNEyzHNi86"
+/>
 
-Al unirte a este hackathon tendrás la oportunidad de desarrollar y aplicar tus conocimientos de entrenamiento de LLMs para la creación de modelos de calidad e inclusivos en tu lengua. Tendrás acceso a APIs de modelos del estado del arte, la posibilidad de ganar premios, participar en sorteos, asistir a charlas, talleres y mentorías, publicar un paper... ¡Apúntate ya!
+<HackathonCard
+  icon="💻"
+  title="Crea un modelo de lenguaje"
+  description="Desarrolla un LLM alineado con tu cultura. Equipos de 1-5 personas: genera un dataset, alinea un modelo y crea una demo."
+  linkText="Regístrate ya"
+  linkUrl="https://forms.gle/d1WBoTNuNEyzHNi86"
+/>
 
-**Cada equipo participante (1-5 personas) generará un dataset, alineará un LLM y creará una demo para compartir su gran trabajo con la comunidad.** También es posible contribuir únicamente al dataset.
+<HackathonCard
+  icon="📣"
+  title="Difunde el evento"
+  description="Ayúdanos a que esta iniciativa llegue a más personas. A partir de 4 publicaciones añadiremos vuestro logo a la web."
+  linkText="Difunde"
+  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+/>
 
-Desde SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. Organizaremos talleres prácticos y sesiones de mentoría para que puedan participar tanto grupos de institutos de investigación como grupos de estudiantes de grado, ¡todos los proyectos suman!
+<HackathonCard
+  icon="🤗"
+  title="Únete al equipo"
+  description="Colabora creando contenido, recursos de apoyo, tutoriales, artículos o investigando sobre Cultural NLP."
+  linkText="Únete"
+  linkUrl="https://forms.gle/vjkLRQVnGF5eVgqq5"
+/>
 
-<!-- Para que todo el mundo comience con las mismas condiciones, haremos las bases públicas el día 1 de abril.  -->
+<HackathonCard
+  icon="🧑‍🏫"
+  title="Ofrece una mentoría"
+  description="Comparte tu experiencia apoyando a los equipos a crear datasets de calidad y entrenar buenos LLMs. Mentorías puntuales o continuas."
+  linkText="Ofrece mentoría"
+  linkUrl="https://forms.gle/Cq7CfgxaLTrthZU37"
+/>
 
-<div class="grid grid-cols-2">
-  <div class="text-center">
-    <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a>
-  </div>
-  <!-- <div class="text-center">
-    <a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubre los retos</a>
-  </div> -->
+<HackathonCard
+  icon="🙌"
+  title="Patrocina el evento"
+  description="Apoya nuestra misión ofreciendo visibilidad, vales o donaciones. SomosNLP es una comunidad sin ánimo de lucro."
+  linkText="Ver opciones"
+  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+/>
+
 </div>
 
-<!--
-<center><a href="https://somosnlp.org/hackathon/bases" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Proyectos finales!</a></center>
--->
+---
 
-</details>
+## 🏆 Casos de éxito
 
+Los proyectos del hackathon generan impacto real:
 
-<!--
+<div class="grid gap-5 md:grid-cols-2 my-8">
 
-<details  style="margin-bottom: 20px;">
-<summary>💡 Asiste a las charlas de especialistas</summary>
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2022</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🏅 BiomedIA</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Sistema voz-a-voz de Q&A biomédico. Dio lugar a un <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper en NAACL 2022</a> con el Premio a la Mejor Presentación de Póster.</p>
+</div>
 
-En SomosNLP creemos que formarte también es una manera de colaborar con el futuro del PLN en español. Durante los martes del mes de abril tendrán lugar diversas keynotes impartidas por profesionales del mundo del Procesamiento del Lenguaje Natural. Estos eventos son gratuitos y están abiertos a todas las personas.
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2022</span>
+    <span class="text-xs text-gray-500">2do Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">⚖️ Modelo Jurídico Mexicano</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.</p>
+</div>
 
-¿Y hasta que llegue abril? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
+<!-- #TODO Añadir highlights de 2023 -->
 
-También te invitamos a seguir las charlas de la conferencia KHIPU.AI
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📰 NoticIA</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Publicado en SEPLN 2024.</p>
+</div>
 
-<center><a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">2do Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 AsistenciaRefugiados</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.</p>
+</div>
 
-<center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎉 ¡Grabaciones ya disponibles!</a></center>
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 BERT Sostenible</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Identificación de textos relacionados al cambio climático y sustentabilidad utilizando modelos de lenguaje preentrenados en español. LatinX in AI (LXAI) Research Workshop @NAACL 2024. Best paper en KHIPU 2025.</p>
+</div>
 
-</details>
--->
+<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">1er Premio</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">🤝 Cocina saludable</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024.</p>
+</div>
 
+<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2024</span>
+    <span class="text-xs text-gray-500">Logro colectivo</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📚 Dataset de instrucciones</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. Paper #Somos600M publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico El País.</p>
+</div>
 
-<!--
-<details  style="margin-bottom: 20px;">
-<summary>🔍 Valida traducciones del inglés al español </summary>
+<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2025</span>
+    <span class="text-xs text-gray-500">Logro colectivo</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📚 INCLUDE: Benchmark de conocimiento cultural</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</strong>, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.</p>
+</div>
 
-¿Hablas español e inglés? Independiente de si sabes de IA nos puedes ayudar a crear el primer ranking público de LLMs en español 🔥
-
-En comunidad vamos a validar las traducciones hechas por la Universidad de Oregón de las bases de datos utilizadas en la famosa Open LLM Leaderboard de Hugging Face. Gracias al apoyo de Argilla y Hugging Face, colaborar es muy sencillo:
-
-1. Crea una cuenta en [Hugging Face](http://hf.co/join) 
-2. Entra en el [espacio de anotación](https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla)
-3. Valida la traducción de un párrafo del inglés al español
-4. Repite el paso 3 cuantas veces quieras y mira cómo subes en el ranking de [colaboraciones]((https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla-dashboard))
-5. Tu nombre aparecerá como parte del equipo que creó las bases de datos
-
-<center><a href="https://huggingface.co/spaces/somosnlp/benchmark-annotation-argilla" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔍 Comienza a validar</a></center>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
-<summary>📚 Dona una base de datos</summary>
-
-Como sabes, la clave de la IA reside en los datos. Como has visto, la iniciativa #Somos600M está centrada principalmente en la creación y recolección de bases de datos. Así que **tanto si tienes un maravilloso corpus como si tienes un montón de documentos, ¡seguro que puedes colaborar!**
-
-<center><a href="https://somosnlp.org/donatucorpus" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📚 Lee más</a></center>
-
-</details>
-
-
-<details  style="margin-bottom: 20px;">
-<summary>🔊 Propón una ponencia</summary>
-
-Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances. ¡Lee los temas sugeridos y mándanos tu propuesta!
-
-<center><a href="https://somosnlp.org/hackathon/ponencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔊 Propón una ponencia</a></center>
-
-</details>
-
--->
-
-<details  style="margin-bottom: 20px;">
-<summary>🧑‍🏫 Ofrece una mentoría</summary>
-
-Comparte tu experiencia y conocimiento apoyando a los equipos participantes a crear bases de datos de calidad y entrenar un buen LLM. Puedes impartir una mentoría puntual o continua. ¡Piensa en tus puntos fuertes y ofrece una mentoría!
-
-<center><a href="https://forms.gle/Cq7CfgxaLTrthZU37" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🧑‍🏫 Ofrece una mentoría</a></center>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
-<summary>🙌 Patrocina este maravilloso evento</summary>
-
-SomosNLP es una comunidad sin ánimo de lucro, buscamos donaciones, premios y visibilidad para conseguir nuestros ambiciosos objetivos y acercar los modelos de lenguaje al mundo hispanohablante. Toda la ayuda es bienvenida, descubre cómo puedes apoyar nuestra misión ofreciendo **visibilidad, vales y donaciones**. ¡Contamos contigo!
-
-<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
-<summary>📣 Ayúdanos a difundir el evento</summary>
-
-Ayúdanos a difundir el evento en tu red para que esta iniciativa llegue a más personas, ¡todo el apoyo es bienvenido! Además, a partir de 4 publicaciones añadiremos vuestro logo a la página web en la sección de "Patrocinios de Comunidad".
-
-<center><a href="https://somosnlp.org/hackathon/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a></center>
-
-</details>
-
-<details  style="margin-bottom: 20px;">
-<summary>🤗 Únete al equipo</summary>
-
-Puedes colaborar creando contenido, recursos de apoyo (e.g., tutoriales), escribiendo artículos o investigando sobre *Cultural NLP*.
-
-<center><a href="https://forms.gle/vjkLRQVnGF5eVgqq5" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🤗 Únete al equipo</a></center>
-
-</details>
-
-## 🏆 Casos de éxito de ediciones anteriores
-
-Los proyectos del hackathon generan impacto real. Estos son algunos ejemplos destacados:
-
-- **Paper en NAACL 2022**: El proyecto BiomedIA (1er premio 2022) dio lugar al paper ["A Complete Voice-to-Voice Generative QA System"](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf), ganador del Premio a la Mejor Presentación de Póster en NAACL 2022.
-- **Modelo Jurídico Mexicano** (2do premio 2022): El modelo desarrollado durante el hackathon es **utilizado por la Suprema Corte de Justicia de la Nación de México**.
-- **INCLUDE** (2025): Se recolectaron más de **38.000 preguntas de exámenes de 23 países**, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.
-- **NoticIA** (1er premio 2024): Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital.
-- **AsistenciaRefugiados** (2do premio 2024): Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España.
+</div>
 
 <center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Ver todas las ediciones anteriores</a></center>
+
+---
 
 ## 💡 Ponencias y mentorías
 
 Tendrás la oportunidad de aprender de líderes de la academia y la industria, ¡iremos anunciando nuevas ponencias y mentorías!
 
 <SpeakerList :year="2026" :cols="3" />
+
+---
 
 ## 👏 Agradecimientos 
 
@@ -191,9 +218,14 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 logo="/images/patrocinios/somosnlp_nobg.png"
 logo_dark="/images/patrocinios/somosnlp_nobg.png" />
 
-<SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
+<SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/uned-nlp"
+logo="/images/patrocinios/UNEDNLP.png"
+logo_dark="/images/patrocinios/UNEDNLP.png" />
+
+
+<!-- <SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
 logo="/images/patrocinios/CENIA.jpeg"
-logo_dark="/images/patrocinios/CENIA.jpeg" />
+logo_dark="/images/patrocinios/CENIA.jpeg" /> -->
 
 </div>
 
@@ -221,26 +253,13 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 ### 🥈 Plata
 
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
 <SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
 logo="/images/patrocinios/UPM.jpeg"
 logo_dark="/images/patrocinios/UPM.jpeg" />
 
 </div>
-
-<!-- <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
-
-<SponsorInfo sponsor="MistralAI" url="http://somosnlp.org/patrocinios/mistralai"
-logo="/images/patrocinios/MistralAI.png"
-logo_dark="/images/patrocinios/MistralAI.png" />
-
-<SponsorInfo sponsor="SaturdaysAI" url="http://somosnlp.org/patrocinios/saturdays-ai"
-logo="/images/patrocinios/SaturdaysAI.png"
-logo_dark="/images/patrocinios/SaturdaysAI.png" />
-
-</div> -->
-
 
 <!--
 ### 🌟 Comunidad
@@ -253,9 +272,9 @@ logo_dark="/images/patrocinios/SaturdaysAI.png" />
 ## 🤗 ¡Conecta!
 
 Para estar al día de todos los eventos y avances:
-- Únete a la comunidad en [Discord](https://discord.com/invite/my8w7JUxZR)
+- Únete a la comunidad de +2000 personas en [Discord](https://discord.com/invite/my8w7JUxZR) (¡es gratis!)
 - Presta atención a los canales de Discord [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115) y [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
-- Síguenos en [X (Twitter)](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
-- Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
+- Síguenos en [X](https://x.com/somosnlp_) y [LinkedIn](https://linkedin.com/company/somosnlp)
+- Suscríbete a nuestro canal de [YouTube](https://youtube.com/c/somosnlp?sub_confirmation=1)
 - Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 <!-- TODO Newsletter -->
