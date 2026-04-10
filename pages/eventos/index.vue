@@ -66,6 +66,12 @@ const { t } = useI18n()
                     t('events.sections.recordings') }}</span>
                 <ul>
                     <li>
+                        <a href="#hackathon-2025">{{ t('events.sections.hackathon-2025') }}</a>
+                    </li>
+                    <li>
+                        <a href="#eventos-madrid">{{ t('events.sections.madrid') }}</a>
+                    </li>
+                    <li>
                         <a href="#hackathon-2024">{{ t('events.sections.hackathon-2024') }}</a>
                     </li>
                     <li>
