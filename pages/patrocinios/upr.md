@@ -18,4 +18,6 @@ years: 2024
     src="/images/patrocinios/UPR.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Finaliza nuestro hackathon 2024](https://somosnlp.org/blog/hackathon-2024), María Grandury

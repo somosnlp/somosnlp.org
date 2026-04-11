@@ -5,7 +5,7 @@ cover: /images/patrocinios/YAMATO.png
 cover_dark: /images/patrocinios/YAMATO_dark.png
 twitter: 
 linkedin:
-website: 
+website: https://yamato.digital
 type: 1. Oro
 years: 2024
 ---
@@ -19,4 +19,6 @@ years: 2024
     src="/images/patrocinios/YAMATO.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Finaliza nuestro hackathon 2024](https://somosnlp.org/blog/hackathon-2024), María Grandury
