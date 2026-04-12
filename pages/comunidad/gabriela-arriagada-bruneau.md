@@ -13,11 +13,11 @@ community: Ponente 2025
 
 ## Ponencias
 
-- Desafíos éticos del NLP | Hackathon SomosNLP 2025
+- [Desafíos éticos del NLP](/hackathon-2025/desafios_eticos_del_nlp) | Hackathon SomosNLP 2025
 
 <EventSummary
     description="Charla sobre diferentes desafíos éticos y metodologías sociotécnicas para enfrentarlos. Habrá preguntas interactivas."
-    poster="/images/patrocinios/somosnlp.png"
+    poster="/images/eventos/250423_gabriela_arriagada_bruneau.png"
     video="https://www.youtube.com/@SomosNLP"
 />
 

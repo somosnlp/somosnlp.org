@@ -85,16 +85,16 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
 
 <div class="grid grid-cols-3 gap-8 my-12">
     <!-- HACKATHON 2025 -->
-    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-        <img alt="Charla de Selene Baez" width="650" height="365"
+    <a href="/hackathon-2025/expresando_incertidumbre_en_tareas_multilingues" target="_blank">
+        <img alt="Expresando incertidumbre en tareas multilingües - Selene Báez" width="650" height="365"
         src="/images/eventos/250410_selene_baez.png" />
     </a>
-    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-        <img alt="Charla de Alfonso Amayuelas" width="650" height="365"
+    <a href="/hackathon-2025/automatizando_extraccion_de_corpus_desde_pdfs" target="_blank">
+        <img alt="Automatizando extracción de corpus desde PDFs - Alfonso Amayuelas" width="650" height="365"
         src="/images/eventos/250415_alfonso_amayuelas.png" />
     </a>
-    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-        <img alt="Charla de Andrés Marafioti" width="650" height="365"
+    <a href="/hackathon-2025/como_hacer_un_modelo_vision_lenguaje_eficiente" target="_blank">
+        <img alt="¿Cómo hacer un Modelo Visión-Lenguaje eficiente? - Andrés Marafioti" width="650" height="365"
         src="/images/eventos/250422_andres_marafioti.png" />
     </a>
     <!-- HACKATHON 2024 -->
