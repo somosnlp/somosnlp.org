@@ -222,10 +222,9 @@ logo_dark="/images/patrocinios/somosnlp_nobg.png" />
 logo="/images/patrocinios/UNEDNLP.png"
 logo_dark="/images/patrocinios/UNEDNLP.png" />
 
-
-<!-- <SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
+<SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
 logo="/images/patrocinios/CENIA.jpeg"
-logo_dark="/images/patrocinios/CENIA.jpeg" /> -->
+logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 </div>
 
@@ -241,7 +240,32 @@ logo_dark="/images/patrocinios/cohere.svg" />
 </div>
 -->
 
-### 🥇 Oro
+### 🥇 Patrocinios Oro
+
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="NextGenerationEU" url="http://somosnlp.org/patrocinios/NextGenerationEU"
+logo="/images/patrocinios/NextGenerationEU.png"
+logo_dark="/images/patrocinios/NextGenerationEU.png" />
+
+<SponsorInfo sponsor="SEDIA" url="http://somosnlp.org/patrocinios/SEDIA"
+logo="/images/patrocinios/SEDIA.png"
+logo_dark="/images/patrocinios/SEDIA.png" />
+
+<SponsorInfo sponsor="redes" url="http://somosnlp.org/patrocinios/redes"
+logo="/images/patrocinios/redes.png"
+logo_dark="/images/patrocinios/redes.png" />
+
+<SponsorInfo sponsor="PERTE" url="http://somosnlp.org/patrocinios/PERTE"
+logo="/images/patrocinios/PERTE.png"
+logo_dark="/images/patrocinios/PERTE.png" />
+
+<SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/UNED"
+logo="/images/patrocinios/UNED.png"
+logo_dark="/images/patrocinios/UNED.png" />
+
+</div>
+
 
 <div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
@@ -251,7 +275,7 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 </div>
 
-### 🥈 Plata
+### 🥈 Patrocinios Plata
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
 
@@ -262,7 +286,7 @@ logo_dark="/images/patrocinios/UPM.jpeg" />
 </div>
 
 <!--
-### 🌟 Comunidad
+### 🌟 Apoyo Comunidad
 
 <SponsorList type="Comunidad 2026" cols="4" />
 -->
