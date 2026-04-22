@@ -25,7 +25,6 @@ PT: O Hub do Hugging Face é um repositório web colaborativo onde é possível 
 EN: The Hugging Face Hub is a collaborative web repository where open Machine Learning datasets and models can be shared and discovered. Everything we create during the hackathon will be published here. If you don't yet have a Hub account, create one at hf.co/join before submitting the form.
 -->
 
-
 <EventbriteCheckout
   eventId="1987992570293"
   :height="600"
@@ -34,11 +33,11 @@ EN: The Hugging Face Hub is a collaborative web repository where open Machine Le
 
 ---
 
-### ℹ️ ¿Problemas con el registro?
+### 👀 ¿Problemas con el registro?
 
 Si el widget no carga correctamente, puedes registrarte directamente en [Eventbrite](https://hackathon-somosnlp-2026.eventbrite.com).
 
-### 🤔 ¿Por qué recogemos información demográfica?
+### 🌎 ¿Por qué recogemos información demográfica?
 
 El objetivo del hackathon es generar recursos que representen la mayor diversidad de perfiles posible. Recopilar información demográfica nos permite buscar más participantes que contribuyan a ese equilibrio. Además, dado que los resultados darán lugar a publicaciones científicas (en las que puedes participar si te interesa), necesitamos recopilar datos demográficos para realizar un análisis de calidad.
 
