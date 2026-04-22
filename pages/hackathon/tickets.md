@@ -1,22 +1,27 @@
 ---
-title: "Hackathon SomosNLP 2026: Entradas"
-description: Consigue tu entrada para el Hackathon SomosNLP 2026 directamente desde aquí con el checkout embebido de Eventbrite.
+title: "Hackathon SomosNLP 2026: Registro"
+description: "¡Regístrate ya para participar el mayor hackathon open-source de PLN en español y portugués!"
+
 lang: es
 cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
-# 🎟️ Entradas del #HackathonSomosNLP 2026
-
-¡Reserva tu entrada para el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués! Puedes completar el registro sin salir de esta página gracias al checkout embebido de Eventbrite.
-
 <EventbriteCheckout
   eventId="1987992570293"
   :height="600"
-  fallbackUrl="https://www.eventbrite.com/e/1987992570293"
+  fallbackUrl="https://hackathon-somosnlp-2026.eventbrite.com"
 />
 
 ---
 
-## ℹ️ ¿Problemas con el checkout?
+### ℹ️ ¿Problemas con el checkout?
 
-Si el widget no carga correctamente, puedes registrarte directamente en [Eventbrite](https://somosnlp.eventbrite.com) o volver a la [página principal del hackathon](/hackathon) para conocer todos los detalles.
+Si el widget no carga correctamente, puedes registrarte directamente en [Eventbrite](https://hackathon-somosnlp-2026.eventbrite.com).
+
+### 🤔 ¿Por qué recogemos información demográfica?
+
+El objetivo del hackathon es generar recursos que representen la mayor diversidad de perfiles posible. Recopilar información demográfica nos permite buscar más participantes que contribuyan a ese equilibrio. Además, dado que los resultados darán lugar a publicaciones científicas (en las que puedes participar si te interesa), necesitamos recopilar datos demográficos para realizar un análisis de calidad.
+
+Para respetar tu privacidad, esta información solo se publicará de manera agregada, es decir, con estadísticas (e.g., "el 30% de las personas participantes son ..."). Igualmente, todos estos campos son opcionales.
+
+Si tienes cualquier comentario o sugerencia de mejora sobre el proceso de registro no dudes en contactarnos.
