@@ -56,25 +56,51 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 ---
 
-## 🚀 Cómo puedes colaborar
+## 🚀 Cómo participar
 
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
 <HackathonCard
   icon="📚"
   title="Manda preguntas sobre tu cultura a LLMs"
-  description="Haz preguntas a LLMs y elige cuáles están más alineados con tu cultura."
-  linkText="Regístrate ya"
-  linkUrl="https://forms.gle/d1WBoTNuNEyzHNi86"
+  description="Haz preguntas a LLMs y elige cuáles están más alineados con tu cultura. ¡Apto para todos los públicos!"
+  linkText=""
+  linkUrl=""
 />
 
 <HackathonCard
   icon="💻"
   title="Crea un modelo de lenguaje"
   description="Desarrolla un LLM alineado con tu cultura. Equipos de 1-5 personas: genera un dataset, alinea un modelo y crea una demo."
-  linkText="Regístrate ya"
-  linkUrl="https://forms.gle/d1WBoTNuNEyzHNi86"
+  linkText=""
+  linkUrl=""
 />
+
+<!-- #TODO: button with "Regístrate ya" and link to http://localhost:4000/hackathon/registro -->
+
+</div>
+
+
+Al participar tendrás la oportunidad de:
+- ✨ Aprender con talleres y charlas en directo
+- ✨ Acceder a cientos de USD en créditos GPU y API para desarrollar tu proyecto
+- ✨ Ganar premios valorados 1500, 1000 o 500 USD (1er, 2o y 3er premio)
+- ✨ Ganar entradas a conferencias y nominaciones a la red de talento Nova
+- ✨ Ganar mentorías con personas muy relevantes del campo del PLN
+- ✨ Co-publicar papers en conferencias de PLN internacionales
+- ✨ Conseguir un certificado de participación (o equipo ganador) del hackathon
+
+<!-- - ✨ Ganar acceso a un Máster online de IA -->
+
+¡A por ello! 
+
+*¿Tienes dudas? Revisa las preguntas frecuentes e información de contacto al final.*
+
+---
+
+## 🚀 Cómo apoyar más
+
+<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
 <HackathonCard
   icon="📣"
@@ -290,6 +316,124 @@ logo_dark="/images/patrocinios/UPM.jpeg" />
 
 <SponsorList type="Comunidad 2026" cols="4" />
 -->
+
+---
+
+## ❓ Preguntas frecuentes
+
+<details>
+<summary>¿Por qué debería participar?</summary>
+
+Al unirte a este hackathon tendrás la oportunidad de:
+
+- ✅ Comprender cómo funcionan los grandes modelos del lenguaje, tanto textuales (LLMs) como multimodales (VLLMs) y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
+- ✅ Participar en la creación del primer corpus de preferencias de calidad y diverso para alinear LLMs con la cultura de los países de LATAM y la Península Ibérica (top como experiencia y top para el CV)
+- ✅ Ser parte del equipo que cree algunas de las bases de datos de la primera leaderboard abierta de LLMs en español: La Leaderboard
+- ✅ Resolver todas tus dudas sobre PLN durante sesiones de mentoría "Ask My Anything"
+- ✅ Recibir apoyo para presentar tu trabajo en un paper
+- ✅ Ganar premios para seguir creciendo como profesional y conseguir un certificado que poder compartir en LinkedIn
+- ✅ Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
+
+</details>
+
+<details>
+<summary>¿Cuál es el nivel necesario?</summary>
+
+Desde el equipo de SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. En ediciones anteriores hemos contado con grupos de institutos de investigación y grupos de estudiantes de grado, ¡todos los proyectos suman!
+
+- 📖 Impartiremos una serie de **talleres prácticos** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia.
+
+<!-- Para calentar puedes visualizar los de la edición anterior:
+
+  - [Fine-tuning LLMs (Manu Romero)](https://somosnlp.org/hackathon-2023/fine-tuning-llms)
+  - [Etiquetado de datos con Argilla (Daniel Vila)](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) -->
+
+- ❓ Organizaremos **AMAs** (del inglés, Ask Me Anything) con expertas y mentores para que puedan solucionar tus dudas.
+
+</details>
+
+<details>
+<summary>¿De qué depende la complejidad de los proyectos?</summary>
+
+Proporcionaremos un ejemplo de cómo crear un dataset, entrenar un modelo y crear una demo. Depende de ti y tu equipo elegir cuánto investigar y trabajar para mejorar la versión base. La dificultad también depende del caso de uso, el origen de los datos, el tiempo que dediquéis a su curación, la técnica de entrenamiento, las iteraciones que hagáis y lo elaborada que queráis que sea vuestra demo. ¡Sois libres de elegir todo!
+
+</details>
+
+<!-- <details>
+<summary>¿Cómo se elige la temática de las bases de datos/modelos?</summary>
+
+La temática de los proyectos es siempre libre. Este año el enfoque es representar la riqueza del español, por lo que os animamos a crear proyectos relacionados con vuestro país (leyes, manera de hablar, cultura, ...). Además, como es habitual, os animamos a que los proyectos tengan impacto social y estén relacionados con alguno de los Objetivos de Desarrollo Sostenibles de la ONU. Si buscas inspiración, en el canal #encuentra-equipo de Discord puedes encontrar temas propuestos.
+
+</details> -->
+
+<details>
+<summary>¿De verdad se necesitan 4 semanas?</summary>
+
+No, depende de tu disponibilidad, puedes desarrollar un buen proyecto en una semana. Tenemos en cuenta que las personas estudian y trabajan, por lo que dejamos más tiempo del necesario para que todo el mundo pueda participar. También queremos daros tiempo extra para que disfrutéis la oportunidad de asistir en directo a las ponencias y mentorías celebradas durante el hackathon.
+
+</details>
+
+<details>
+<summary>¿Hasta cuándo puedo crear un equipo?</summary>
+
+EDITADO: Damos la bienvenida a nuevos equipos hasta el 23 de mayo. El día final para entregar proyectos es el 31 de mayo.
+
+</details>
+
+<details>
+<summary>¿Cómo me uno a un equipo?</summary>
+
+Lee la sección "Para crear un equipo:" al comienzo de esta página y el README en el canal #encuentra-equipo de nuestro servidor de Discord :)
+
+</details>
+
+<details>
+<summary>¿Puede haber equipos de 1 persona?</summary>
+
+Sí, aceptamos equipos de 1 a 5 personas.
+
+</details>
+
+<details>
+<summary>¿Cómo nos recomendáis organizarnos?</summary>
+
+- Utilizar el canal de vuestro proyecto en Discord para comunicaros y organizaros.
+- Dado que es un hackathon internacional recomendamos una comunicación asíncrona o que os repartáis el trabajo y hagáis reuniones de menos personas
+- Fijar reuniones o hablar espontáneamente utilizando los nuevos canales de voz de la categoría "SALAS DE REUNIÓN" de Discord
+- Fijar en el canal del proyecto los mensajes importantes, e.g.: repartición de tareas, día de la próxima reunión, ... Para fijar un mensaje haz click en los tres puntitos y selecciona "Fijar mensaje"
+- Para mayor claridad también podéis crear un documento compartido con las personas del equipo en el que escribir el objetivo del proyecto, repartir tareas y demás (y fijar el enlace en el chat)
+
+</details>
+
+<details>
+<summary>No entiendo Discord, ¿cuáles son los canales más importantes?</summary>
+
+- Revisa el canal [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115), recomendamos activar las notificaciones del canal, publicamos 2/3 veces a la semana
+- Pregunta tus dudas en el canal [#pide-ayuda](https://discord.com/channels/938134488670675055/1051997272356966430) de Discord para que todo el mundo pueda beneficiarse de la respuesta
+- Los eventos los anunciamos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) y los añadimos al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+</details>
+
+<details>
+<summary>¿Cómo me puedo enterar de los eventos?</summary>
+
+- Anunciamos los eventos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
+- Los añadimos al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Los anunciamos en redes sociales ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_))
+- [Síguenos en YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) y guarda la [playlist del hackathon 2026](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
+
+</details>
+
+<details>
+<summary>¿Cómo puedo dar feedback del evento?</summary>
+
+- Nos puedes dar feedback para mejorar las guías de los retos con este [formulario](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
+- Compartiremos también un formulario de feedback general al final del evento
+
+</details>
+
+
+*Si te hemos dicho que en esta página hay info que no encuentras, borra las cookies y recarga la página.*
 
 ---
 
