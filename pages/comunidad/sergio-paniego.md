@@ -1,7 +1,7 @@
 ---
 title: Sergio Paniego
 description: Ingeniero de ML @HuggingFace
-cover: /images/comunidad/sergio_paniego.jpg
+cover: /images/comunidad/sergio_paniego.png
 website: 
 twitter: 
 linkedin: 
