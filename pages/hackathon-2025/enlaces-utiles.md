@@ -1,7 +1,7 @@
 Enlaces útiles (ESPAÑOL)
 
 - Página web: https://somosnlp.org/hackathon
-- Form inscripción: https://forms.gle/d1WBoTNuNEyzHNi86
+- Form inscripción: http://somosnlp.org/hackathon/registro
 - Form equipo: https://forms.gle/vjkLRQVnGF5eVgqq5
 - Patrocinios:
     - Info: https://somosnlp.org/hackathon/patrocinios
