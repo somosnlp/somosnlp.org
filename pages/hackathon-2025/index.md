@@ -74,7 +74,7 @@ En SomosNLP creemos que formarte también es una manera de colaborar con el futu
 
 ¿Y hasta que llegue abril? [¡Están disponibles las grabaciones de las charlas anteriores!](https://www.youtube.com/watch?v=JzpvHRrqtSU&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J)
 
-<!-- TODO: También te invitamos a seguir las charlas de la conferencia KHIPU.AI -->
+También te invitamos a seguir las charlas de la conferencia [KHIPU.AI](https://khipu.ai/).
 
 <center><a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Regístrate ya</a></center>
 
@@ -247,4 +247,3 @@ Para estar al día de todos los eventos y avances:
 - Síguenos en [X (Twitter)](https://twitter.com/somosnlp_) y [LinkedIn](https://www.linkedin.com/company/somosnlp)
 - Suscríbete a nuestro canal de [YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1)
 - Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-<!-- TODO Newsletter -->

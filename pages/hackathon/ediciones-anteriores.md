@@ -79,22 +79,29 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
 
 [Más información sobre el Hackathon 2022](/blog/hackathon-2022)
 
-<!--
+---
 
 # Papers publicados
 
-#TODO: Add the published papers (hackathon/papers-comunidad.md)
+Los proyectos del hackathon y los logros colectivos de la comunidad han dado lugar a los siguientes papers:
 
--->
+- Grandury, M., Aula-Blasco, J., Falcão, J., Fourrier, C., González, M., Martínez, G. & Santamaría, G., ... (2025). *La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America*, ACL Main.
+- Salazar, I., Fernández Burda, M., Bin Islam, S., Soltani Moakhar, A., Singh, S., Farestam, F., Romanou, A., ... Grandury, M. ... (2025). *Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation*, ICLR.
+- Grandury, M. (2024). *The #Somos600M Project: Generating NLP resources that represent the diversity of the languages from LATAM, the Caribbean, and Spain*. LatinX in AI (LXAI) Research Workshop @NAACL 2024.
+- Mayor-Rocher, M., Melero, N., Merino-Gómez, E., Grandury, M., Conde, J., & Reviriego, P. (2024). *Evaluating large language models with tests of Spanish as a foreign language: Pass or fail?*
+- Plaza, I., Melero, N., del Pozo, C., Conde, J., Reviriego, P., Mayor-Rocher, M., & Grandury, M. (2024). *Spanish and LLM Benchmarks: Is MMLU lost in translation?*
+- García-Ferrero, I., & Altuna, B. (2024). *NoticIA: A Clickbait Article Summarization Dataset in Spanish*. Procesamiento del Lenguaje Natural, 73, 191-207.
+- Huerta, G. & Zuñiga Rojas, G. (2024). *Identificación de textos relacionados al cambio climático y sustentabilidad utilizando modelos de lenguaje preentrenados en español*. LatinX in AI (LXAI) Research Workshop @NAACL 2024.
+- Morales-Garzón, A., Benel Ramirez, S., Tuco Casquino, G., A. Rocha, O., & Medina, A. (2024). *Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation*. LatinX in AI (LXAI) Research Workshop @NAACL 2024.
+- Jair Bejarano Sepulveda, E., Nicolai Potes Patiño, H., Pineda Montoya, S., Ivan Rodriguez, F., Enrique Orduy, J., Stevens Traslaviña, D., Mauricio Rosales, A. & Nicolás Madrid, S. (2024). *Towards Improved RAC Accessibility: Dataset and LLMs, approach to enhancing RAC accessibility*. LatinX in AI (LXAI) Research Workshop @NAACL 2024.
 
 ---
 
 # Charlas y talleres
 
-<!-- #TODO: Add all the events per year, organized in 3 columns -->
+## Hackathon 2025
 
-<div class="grid grid-cols-3 gap-8 my-12">
-    <!-- HACKATHON 2025 -->
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
         <img alt="Charla de Selene Baez" width="650" height="365"
         src="/images/eventos/250410_selene_baez.png" />
@@ -107,7 +114,11 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
         <img alt="Charla de Andrés Marafioti" width="650" height="365"
         src="/images/eventos/250422_andres_marafioti.png" />
     </a>
-    <!-- HACKATHON 2024 -->
+</div>
+
+## Hackathon 2024
+
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
         <img alt="Charla de Elena González-Blanco" width="650" height="365"
         src="/images/eventos/240307_elena_gonzalez_blanco.png" />
@@ -120,7 +131,11 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
         <img alt="Charla de Amanda Curry" width="650" height="365"
         src="/images/eventos/240326_amanda_curry.jpg" />
     </a>
-    <!-- HACKATHON 2023 -->
+</div>
+
+## Hackathon 2023
+
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="/hackathon-2023/fine-tuning-llms" target="_blank">
         <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
         src="/images/eventos/230320_fine_tuning_llms.jpg" />
@@ -133,7 +148,11 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
         <img alt="Evaluación con desacuerdo" width="650" height="365"
         src="/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
     </a>
-    <!-- HACKATHON 2022 -->
+</div>
+
+## Hackathon 2022
+
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 04" width="650" height="365"
         src="/images/eventos/220323_cristina.png" />
