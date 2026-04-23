@@ -13,7 +13,7 @@ import ProjectCard from '../../src/components/ProjectCard.vue'
 Somos 600M de hispanofalantes e 265M de pessoas lusófonas no mundo. O espanhol e o português são os idiomas principais em 29 países, cada um deles com uma grande riqueza cultural. Embora os modelos de linguagem mostrem capacidades multilíngues cada vez maiores, são eles realmente multiculturais? Junte-se já ao #HackathonSomosNLP, o maior hackathon open-source de Processamento de Linguagem Natural em espanhol e português 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
-  <a href="http://somosnlp.org/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscreva-se já</a>
+  <a href="https://somosnlp.org/pt/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscreva-se já</a>
   <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Divulgue o evento</a>
 </div>
 
@@ -80,7 +80,7 @@ O melhor? TODO MUNDO pode colaborar! 🎉
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
-<a href="http://somosnlp.org/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscreva-se já</a>
+<a href="https://somosnlp.org/pt/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscreva-se já</a>
 
 </div>
 
@@ -113,7 +113,7 @@ Apoie a organização deste evento gratuito e sem fins lucrativos!
   title="Divulgue o evento"
   description="Ajude-nos a fazer com que esta iniciativa chegue a mais pessoas. Com 4 publicações, adicionamos o logo de vocês ao site."
   linkText="Divulgue"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+  linkUrl="https://somosnlp.org/pt/hackathon/patrocinios"
 />
 
 <HackathonCard
@@ -137,7 +137,7 @@ Apoie a organização deste evento gratuito e sem fins lucrativos!
   title="Patrocine o evento"
   description="Apoie nossa missão oferecendo visibilidade, vales ou doações. A SomosNLP é uma comunidade sem fins lucrativos."
   linkText="Ver opções"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+  linkUrl="https://somosnlp.org/pt/hackathon/patrocinios"
 />
 
 </div>
@@ -176,7 +176,7 @@ Foram coletadas mais de <strong>38.000 perguntas de exames de 23 países</strong
 
 </div>
 
-<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Mais exemplos</a></center>
+<center><a href="/pt/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Mais exemplos</a></center>
 
 ---
 
