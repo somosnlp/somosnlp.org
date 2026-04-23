@@ -100,10 +100,9 @@ Los proyectos del hackathon y los logros colectivos de la comunidad han dado lug
 
 # Charlas y talleres
 
-<!-- #TODO: Add all the events per year, organized in 3 columns -->
+## Hackathon 2025
 
-<div class="grid grid-cols-3 gap-8 my-12">
-    <!-- HACKATHON 2025 -->
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
         <img alt="Charla de Selene Baez" width="650" height="365"
         src="/images/eventos/250410_selene_baez.png" />
@@ -116,7 +115,11 @@ Los proyectos del hackathon y los logros colectivos de la comunidad han dado lug
         <img alt="Charla de Andrés Marafioti" width="650" height="365"
         src="/images/eventos/250422_andres_marafioti.png" />
     </a>
-    <!-- HACKATHON 2024 -->
+</div>
+
+## Hackathon 2024
+
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
         <img alt="Charla de Elena González-Blanco" width="650" height="365"
         src="/images/eventos/240307_elena_gonzalez_blanco.png" />
@@ -129,7 +132,11 @@ Los proyectos del hackathon y los logros colectivos de la comunidad han dado lug
         <img alt="Charla de Amanda Curry" width="650" height="365"
         src="/images/eventos/240326_amanda_curry.jpg" />
     </a>
-    <!-- HACKATHON 2023 -->
+</div>
+
+## Hackathon 2023
+
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="/hackathon-2023/fine-tuning-llms" target="_blank">
         <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
         src="/images/eventos/230320_fine_tuning_llms.jpg" />
@@ -142,7 +149,11 @@ Los proyectos del hackathon y los logros colectivos de la comunidad han dado lug
         <img alt="Evaluación con desacuerdo" width="650" height="365"
         src="/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
     </a>
-    <!-- HACKATHON 2022 -->
+</div>
+
+## Hackathon 2022
+
+<div class="grid grid-cols-3 gap-8 my-8">
     <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaAbVZ2lVcycHnJ2qEDip7hG" target="_blank">
         <img alt="Evento 04" width="650" height="365"
         src="/images/eventos/220323_cristina.png" />
