@@ -1,5 +1,5 @@
 ---
-title: "Hackathon SomosNLP 2026: Patrocinios"
+title: "Hackathon SomosNLP 2026: Patrocinios y Difusión"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
 cover: /images/eventos/260401_hackathon_sinfecha.jpg
@@ -10,7 +10,7 @@ cover: /images/eventos/260401_hackathon_sinfecha.jpg
 <div class="flex justify-center">
     <figure>
         <img src="/images/eventos/240301_mapa_ciudades_zoom.png" alt="Mapa Hackathon 2024" width="400">
-        <figcaption>Mapa Hackathon 2024</figcaption>
+        <!-- <figcaption>Mapa Hackathon 2024</figcaption> -->
     </figure>
 </div>
 

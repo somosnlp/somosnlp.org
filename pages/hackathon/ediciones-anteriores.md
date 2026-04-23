@@ -9,17 +9,15 @@ Somos 600M de personas hispanohablantes y 265M lusófonas en el mundo. El españ
 
 Participa en el #HackathonSomosNLP, una competición internacional online cuyo principal objetivo es **crear recursos diversos y abiertos de PLN las lenguas de Iberoamérica** 🚀
 
-¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 
-
 <center><a href="/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2026</a></center>
 
-## Ediciones anteriores
+Este año celebramos la quinta edición, ¿tienes curiosidad por los resultados de los años anteriores? ¡Sigue leyendo!
 
-Este año celebramos la quinta edición, ¿tienes curiosidad por los resultados de los años anteriores?
+---
 
-### Proyectos ganadores
+# Proyectos ganadores
 
-#### Hackathon SomosNLP 2025: Adecuación Cultural
+## Hackathon SomosNLP 2025: Adecuación Cultural
 
 Los tres mejores corpus del reto de preferencias son:
 - 🥇 TralaleloTralala-MemeAlign
@@ -42,7 +40,7 @@ Logros colectivos destacados:
 
 [Más información sobre los proyectos del Hackathon 2025](/blog/hackathon-2025)
 
-#### Hackathon SomosNLP 2024: #Somos600M
+## Hackathon SomosNLP 2024: #Somos600M
 
 Los tres proyectos ganadores son:
 - 🥇 NoticIA: Resumen de Noticias Clickbait
@@ -65,13 +63,13 @@ Y a los corpus:
 - 📚 Identificación de provincias y resúmenes del Corpus Oral y Sonoro del Español Rural
 
 
-#### Hackathon SomosNLP 2023: LLMs en español
+## Hackathon SomosNLP 2023: LLMs en español
 
 En esta segunda edición participaron más de 500 personas de 30 países que desarrollaron 22 proyectos y 3 papers publicados.
 
 [Más información sobre el Hackathon 2023](/blog/hackathon-2023)
 
-#### Hackathon SomosNLP 2022: PLN en español
+## Hackathon SomosNLP 2022: PLN en español
 
 En la primera edición participaron más de 500 personas de 29 países. Proyectos destacados:
 - 🥇 [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): sistema voz-a-voz de Q&A biomédico, que dio lugar a un [paper presentado en NAACL 2022](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) con el Premio a la Mejor Presentación de Póster
@@ -81,7 +79,19 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
 
 [Más información sobre el Hackathon 2022](/blog/hackathon-2022)
 
-### Charlas y talleres
+<!--
+
+# Papers publicados
+
+#TODO: Add the published papers (hackathon/papers-comunidad.md)
+
+-->
+
+---
+
+# Charlas y talleres
+
+<!-- #TODO: Add all the events per year, organized in 3 columns -->
 
 <div class="grid grid-cols-3 gap-8 my-12">
     <!-- HACKATHON 2025 -->

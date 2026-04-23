@@ -75,8 +75,11 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
   linkText=""
   linkUrl=""
 />
+</div>
 
-<!-- #TODO: button with "Regístrate ya" and link to http://localhost:4000/hackathon/registro -->
+
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
+<a href="http://somosnlp.org/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
 
 </div>
 
@@ -100,12 +103,14 @@ Al participar tendrás la oportunidad de:
 
 ## 🚀 Cómo apoyar más
 
+¡Apoya la organización de este evento gratuito y sin ánimo de lucro!
+
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
 <HackathonCard
   icon="📣"
   title="Difunde el evento"
-  description="Ayúdanos a que esta iniciativa llegue a más personas. A partir de 4 publicaciones añadiremos vuestro logo a la web."
+  description="Ayúdanos a que esta iniciativa llegue a más personas. Con 4 publicaciones añadimos vuestro logo a la web."
   linkText="Difunde"
   linkUrl="https://somosnlp.org/hackathon/patrocinios"
 />
@@ -143,6 +148,8 @@ Al participar tendrás la oportunidad de:
 Los proyectos del hackathon generan impacto real:
 
 <div class="grid gap-5 md:grid-cols-2 my-8">
+
+<!-- Create a ProjectCard.vue with the year (e.g. "2022"), price (e.g. "1er Premio"), title (e.g., "🏅 BiomedIA") and description and refactor this section. The style should be similar to the HackathonCard (border in color and shadow when hovering) -->
 
 <div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
   <div class="flex items-center gap-2 mb-2">
@@ -220,7 +227,7 @@ Los proyectos del hackathon generan impacto real:
 
 </div>
 
-<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Ver todas las ediciones anteriores</a></center>
+<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más ejemplos</a></center>
 
 ---
 
@@ -247,10 +254,6 @@ logo_dark="/images/patrocinios/somosnlp_nobg.png" />
 <SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/uned-nlp"
 logo="/images/patrocinios/UNEDNLP.png"
 logo_dark="/images/patrocinios/UNEDNLP.png" />
-
-<SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
-logo="/images/patrocinios/CENIA.jpeg"
-logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 </div>
 
@@ -308,6 +311,10 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 <SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
 logo="/images/patrocinios/UPM.jpeg"
 logo_dark="/images/patrocinios/UPM.jpeg" />
+
+<SponsorInfo sponsor="CENIA" url="http://somosnlp.org/patrocinios/cenia"
+logo="/images/patrocinios/CENIA.jpeg"
+logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 </div>
 
