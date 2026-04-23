@@ -58,6 +58,7 @@ declare module 'vue' {
     OrganizersRow: typeof import('./src/components/OrganizersRow.vue')['default']
     ProfileItemProps: typeof import('./src/components/ProfileItemProps.vue')['default']
     ProfileItemRouter: typeof import('./src/components/ProfileItemRouter.vue')['default']
+    ProjectCard: typeof import('./src/components/ProjectCard.vue')['default']
     README: typeof import('./src/components/README.md')['default']
     ResourceItem: typeof import('./src/components/ResourceItem.vue')['default']
     ResourcesList: typeof import('./src/components/ResourcesList.vue')['default']
