@@ -88,9 +88,9 @@ landing-page:
   events:
     all-events: See all the events
     event-description: >-
-      The #HackathonSomosNLP is back! In the upcoming March 2024 edition, we
-      will focus on generating diverse, high-quality datasets for training LLMs
-      that speak proper Spanish.
+      The #HackathonSomosNLP is back! In this edition, we focus on creating
+      resources to evaluate and improve the cultural alignment of LLMs for
+      Latin American and Iberian Peninsula countries.
     join-event: Join the event!
     more-events: Recorded events
     recorded-events: Recorded events

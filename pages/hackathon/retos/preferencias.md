@@ -1,13 +1,13 @@
 ---
-title: "Reto #HackathonSomosNLP 2025: Preferencias"
+title: "Reto #HackathonSomosNLP 2026: Preferencias"
 description: Cómo participar en este reto y ayudar a alinear modelos de lenguaje con tu cultura
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
 
-*14 de abril - 21 de mayo (EXTENDIDA) | máx 3 ptos*
+<!-- *14 de abril - 21 de mayo (EXTENDIDA) | máx 3 ptos* -->
 
 1. **Lee la guía a continuación para aprender a diseñar prompts de calidad.**
 
@@ -19,7 +19,7 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 
 🌎 Genera **solo** prompts relacionados con el país o países con los que tengas un vínculo lo suficientemente fuerte como para conocer la cultura local.
 
-✨ Incentivos (los números se refieren a prompts respondidos validados):
+<!-- ✨ Incentivos (los números se refieren a prompts respondidos validados):
 - 100 por equipo = requisito para acceder a los 500 USD de la API de Cohere para el reto principal
 - Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos, el otro punto se obtiene de evaluar cómo utilicéis la API de Cohere para mejorar el dataset)
 - Tendréis acceso a los datos generados por todos los equipos para tomarlos de base para vuestro alineamiento, **una mayor calidad de los datos implica una mayor calidad de vuestro proyecto**
@@ -30,7 +30,7 @@ Diseña prompts que evalúen la adecuación cultural con tu país y elige la mej
 
 Recursos:
 - Definiciones, ejemplos de prompts y datasets de preferencias a continuación
-- [Charla sobre Red Teaming de Luis Vasquez](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
+- [Charla sobre Red Teaming de Luis Vasquez](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) -->
 
 ---
 
@@ -41,13 +41,16 @@ El objetivo de este reto es crear entre todos los equipos un dataset que permita
 1. Diseñar prompts siguiendo la guía a continuación
 2. Mandar sus prompts a un LLM Arena y elegir la mejor respuesta
 3. Simultáneamente, ir validando los prompts y respuestas de otros equipos
-4. El día 21 de abril publicaremos el conjunto de prompts y respuestas: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
-5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros.
+4. Publicaremos el conjunto de prompts y respuestas
+<!-- 
+: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
+5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros. 
 
 Para acceder a los créditos API y GPUs:
 - El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
 - La(s) persona(s) que mande(n) los prompts al Arena tienen que haber completado el [test de comprensión de la guía](https://forms.gle/itbDvVxD2iG5nzsC6)
 - Hay que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
+-->
 
 🚨 **Lee con atención las guías a continuación para más detalles de cada paso.** Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto. No se considerarán prompts y respuestas de equipos que no hayan seguido las instrucciones.
 
@@ -362,7 +365,7 @@ opciones para comer y divertirse al aire libre.
 - Columnas:
     - necesarias: `prompt` y `pais`
     - opcional: añade las columnas que necesites, por ejemplo si has creado una plantilla con diferentes características sociales (e.g. `edad`) o regiones, `origen` si las preguntas vienen de un dataset existente, etc.
-- Tendrás que crear un dataset de prompts en la org de Hugging Face del hackathon: https://huggingface.co/somosnlp-hackathon-2025 (si todavía no te has unido, utiliza esta [invitación](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD))
+- Tendrás que crear un dataset de prompts en la org de Hugging Face del hackathon: https://huggingface.co/somosnlp-hackathon (si todavía no te has unido, utiliza esta [invitación](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD))
 
 ### 2.4. Recursos
 
@@ -431,7 +434,7 @@ opciones para comer y divertirse al aire libre.
 - Consideraciones para la validación:
     - Evita sesgos personales, evalúa desde la perspectiva del rol definido
     - Si el prompt no tiene anclaje cultural o ambas respuestas no se pueden evaluar razonablemente, repórtalo como inválido
-
+<!-- 
 ## 🌍 5. Más retos
 
 - El lunes 21 publicaremos el conjunto de preguntas y respuestas para que lo podáis utilizar para alinear vuestros LLMs. También incluiremos los datos del mini reto “[Validador de estereotipos](https://somosnlp.org/hackathon/retos/estereotipos)”.
@@ -447,4 +450,4 @@ opciones para comer y divertirse al aire libre.
   <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Manda tus prompts a la Arena</a>
 </div>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Volver a los retos</a></center> -->

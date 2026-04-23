@@ -22,4 +22,6 @@ ILENIA tiene por objeto impulsar en España la nueva economía digital basada en
     src="/images/patrocinios/ILENIA.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera

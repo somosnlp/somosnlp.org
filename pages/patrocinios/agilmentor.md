@@ -33,6 +33,10 @@ Somos una incubadora de startups que busca potenciar emprendedores hispanohablan
     hide_personal_info
 />
 
+## Menciones en nuestro blog
+
+- [Anunciamos los patrocinios de oro del Hackathon 2023](https://somosnlp.org/blog/anuncio-patrocinios-2023), María Grandury
+
 <div class="flex justify-center">
     <img alt="AgilMentor" width="250" height="140" 
     src="/images/patrocinios/AgilMentor.png" />

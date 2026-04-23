@@ -1,8 +1,8 @@
 ---
-title: "Presentación proyectos #HackathonSomosNLP 2025: Demo, vídeo y paper"
+title: "Presentación proyectos #HackathonSomosNLP 2026: Demo, vídeo y paper"
 description: Cómo presentar el proyecto que hayas creado durante el hackathon.
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 ¡Enhorabuena por llegar hasta aquí, ya solo queda presentar al mundo tu gran proyecto!
@@ -23,7 +23,7 @@ Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo p
 *Hasta el 31 de mayo | máx 0.5 ptos*
 
 - Si es tu primera demo, te recomendamos utilizar Gradio ya que es más sencillo.
-- Crea la demo directamente en un Space en hf.co/somosnlp-hackathon-2025 e itera ahí.
+- Crea la demo directamente en un Space en hf.co/somosnlp-hackathon e itera ahí.
 <!-- - Puedes utilizar GPUs `Nvidia T4 - small` patrocinadas por Hugging Face. -->
 - Qué incluir en la demo: motivación del proyecto, impacto, ideas futuras, número de Objetivo de Desarrollo Sostenible si procede, enlace al dataset y modelo utilizados, miembros del equipo, todo lo que consideres necesario para promocionar tu proyecto 🤗
 - Crea una demo clara e intuitiva.

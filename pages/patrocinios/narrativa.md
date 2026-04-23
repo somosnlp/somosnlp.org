@@ -46,6 +46,12 @@ Narrativa crea contenido automático con tecnología NLG/NLP para sectores tan d
     </a>
 </div>
 
+## Menciones en nuestro blog
+
+- [Presentamos: NLP de 0 a 100 con 🤗](https://somosnlp.org/blog/nlp-de-cero-a-cien), María Grandury
+- [Divulgación de PLN en español](https://somosnlp.org/blog/divulgacion-nlp-es), María Grandury
+- [Finaliza nuestro hackathon 2022](https://somosnlp.org/blog/hackathon-2022), María Grandury
+
 <div class="flex justify-center">
     <img alt="Narrativa" width="250" height="140" 
     src="/images/patrocinios/Narrativa.png" />

@@ -17,7 +17,7 @@ tags: [hackathon]
 Ha finalizado la tercera edición del [hackathon de SomosNLP](https://somosnlp.org/hackathon), ¡vaya experiencia!
 
 <div class="flex justify-center">
-    <img src="/images/eventos/230320_hackathon_llms_fecha_extendida.jpg" alt="Cartel Hackathon 2024" width="560" height="315"/>
+    <img src="/images/eventos/240301_hackathon.jpg" alt="Cartel Hackathon 2024" width="560" height="315"/>
 </div>
 
 Es todo un placer haber organizado un evento que haya conseguido reunir una vez más a más de 500 participantes de 30 países.

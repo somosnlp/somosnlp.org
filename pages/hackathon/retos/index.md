@@ -1,8 +1,8 @@
 ---
-title: "Retos #HackathonSomosNLP 2025"
+title: "Retos #HackathonSomosNLP 2026"
 description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 <script setup>
@@ -16,7 +16,7 @@ const miniChallenges = [
     points: "1 pto",
     requirements: "Saber buscar en internet",
     link: "https://somosnlp.org/hackathon/retos/include",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
     title: "Estereotipos",
@@ -25,7 +25,7 @@ const miniChallenges = [
     points: "1 pto",
     requirements: "Haber vivido en sociedad",
     link: "https://somosnlp.org/hackathon/retos/estereotipos",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
     title: "Preguntas culturales (BLEND)",
@@ -34,7 +34,7 @@ const miniChallenges = [
     points: "2 ptos",
     requirements: "Haber vivido en sociedad",
     link: "https://somosnlp.org/hackathon/retos/blend",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   }
 ]
 
@@ -46,7 +46,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural",
     link: "https://somosnlp.org/hackathon/retos/preferencias",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
     title: "2.A. Alinea un modelo textual (LLM)",
@@ -55,7 +55,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Saber programar",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
     title: "2.B. Alinea un modelo multimodal",
@@ -64,7 +64,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Tener experiencia en PLN",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   }
 ]
 
@@ -76,7 +76,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
     title: "4. Graba un vídeo",
@@ -85,7 +85,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
     title: "5. (Opcional) Escribe un paper",
@@ -94,7 +94,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   }
 ]
 </script>
@@ -119,8 +119,8 @@ En esta página encontrarás información sobre:
 Antes de comenzar, todas las personas tienen que:
 - ✅ Unirse al servidor de [Discord de SomosNLP](https://discord.com/invite/my8w7JUxZR)
 - ✅ Crear una cuenta en [Hugging Face](https://huggingface.co/join)
-- ✅ Rellenar el [formulario de registro](https://forms.gle/bDaBC7XV3iu2trj59)
-- ✅ Unirse a la [organización de Hugging Face del hackathon](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), donde se compartirán los datasets, modelos y demos
+- ✅ Rellenar el [formulario de registro](https://forms.gle/d1WBoTNuNEyzHNi86)
+- ✅ Unirse a la [organización de Hugging Face del hackathon](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), donde se compartirán los datasets, modelos y demos
 
 Para crear un equipo:
 - Puedes apuntarte con gente que ya conozcas (por ejemplo, tu grupo de clase o del trabajo) o conocer a gente de la comunidad de SomosNLP de otros países, universidades y empresas. Si quieres conocer a gente, revisa el [canal #encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611)
@@ -270,7 +270,7 @@ Sí, aceptamos equipos de 1 a 5 personas.
 - Anunciamos los eventos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
 - Los añadimos al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 - Los anunciamos en redes sociales ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_))
-- [Síguenos en YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) y guarda la [playlist del hackathon 2025](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
+- [Síguenos en YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) y guarda la [playlist del hackathon 2026](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
 </details>
 
@@ -294,7 +294,7 @@ Sí, aceptamos equipos de 1 a 5 personas.
 
 - Comparte los posts de las cuentas de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_)), ¡invita a tus colegas del trabajo, compañeros y compañeras de clase a crear un equipo!
 <!-- - ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A). -->
-- ¿Estás en la uni? [Comparte esta info con tu profe](https://somosnlp.org/hackathon-2025/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
+- ¿Estás en la uni? [Comparte esta info con tu profe](https://somosnlp.org/hackathon/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
 <!-- - ¿Te gustaría compartir tu conocimiento con la comunidad? Propón una [ponencia](https://forms.gle/YpUvifDNLG6E56Cy9) o una [mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9). 
 - ¿Formas parte de un grupo de investigación? Igual os interesa [colaborar donando un corpus](https://somosnlp.org/donatucorpus).-->
 - ¿Quieres apoyar la iniciativa dando visibilidad, patrocinando vales o con una donación económica? ¡[Patrocina el hackathon](https://forms.gle/sEkxstwbJSRYpgDa8)!

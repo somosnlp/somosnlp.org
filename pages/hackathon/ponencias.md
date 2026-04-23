@@ -1,20 +1,49 @@
 ---
-title: "Hackathon SomosNLP 2025: Call for Talks"
+title: "Hackathon SomosNLP 2026: Call for Talks"
 description: ¡Comparte tu conocimiento con la comunidad!
 lang: es
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260401_hackathon_sinfecha.jpg
 ---
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon SomosNLP.
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a>
-  <a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a>
+  <a href="https://forms.gle/Cq7CfgxaLTrthZU37" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a>
+  <a href="https://forms.gle/LEMe61A91WTfiYH28" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a>
 </div>
 
-![Call for talks](/images/eventos/250401_hackathon_callfortalks.jpg)
+![Call for talks](/images/eventos/260401_hackathon_callfortalks.jpg)
+
+
+## Mentorías grupales
+
+Invitamos a todo el mundo a participar en el hackathon, por lo que el apoyo de las y los mentores es indispensable para que cada persona aprenda y desarrolle un proyecto completo.
+
+### Tipos
+
+- Mentoría continua asíncrona: responder preguntas por Discord (max 1h, 2-3 veces por semana)
+- Sesión de mentoría: responder preguntas por escrito (máx 1h30, 1 vez)
+- Ask Me Anything (AMA): evento en directo (máx 1h)
+
+### Temas sugeridos
+
+Además de las preguntas que les surjan a los equipos mientras desarrollan sus proyectos, se pueden proponer temas específicos para los AMAs. Aquí te dejamos algunos ejemplos:
+
+- Cómo elegir o crear un dataset sintéticamente
+- Cómo encontrar tu primer trabajo en IA
+- Qué necesitas saber antes de empezar un PhD
+- Consejos para desplegar LLMs en producción
+- Cómo escribir un buen paper
+- Cómo hacer un buen pitch para un producto de IA
+
+Las sesiones de AMA pueden comenzar con una pequeña presentación para introducir el tema y luego dar paso a las preguntas.
+
+<center><a href="https://forms.gle/Cq7CfgxaLTrthZU37" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>
+
 
 ## Ponencias
+
+En esta edición, en vez de organizar un montón de charlas durante el hackathon, vamos a lanzar una serie mensual de charlas. ¡Cuéntanos sobre qué te gustaría hablar y qué fecha te viene mejor!
 
 ### Tipos
 
@@ -39,31 +68,7 @@ A continuación, presentamos una lista de temas sugeridos para las ponencias que
 12. **Lingüística:** Nociones fundamentales de lingüística computacional para PLN. La importancia de equipos interdisciplinares y cómo este campo está impulsando la revolución de los modelos de lenguaje.
 13. **Aplicaciones y multidisciplinariedad:** Colaboraciones entre disciplinas, casos de uso y avances en el uso de PLN en el campo médico (radiología, informes médicos, ayuda a la toma de decisiones…), sociológico, psicológico, legal, financiero, etc.
 
-
-Aviso: Se debe contar con un Patrocinio de Oro para impartir una charla promocional, que igualmente debe ser *de interés para la comunidad*.
-
 ¡Esperamos con interés tu participación!
 
-<center><a href="https://forms.gle/n6DsNF5RwerA4oPf6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
+<center><a href="https://forms.gle/LEMe61A91WTfiYH28" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Propón una ponencia</a></center>
 
-## Mentorías grupales
-
-### Tipos
-
-- Mentoría continua asíncrona: responder preguntas por Discord (max 1h, 2/3 veces por semana)
-- Sesión de mentoría: responder preguntas por escrito (máx 1h30, 1 vez)
-- Ask Me Anything (AMA): evento en directo (máx 1h)
-
-### Temas sugeridos
-
-Además de las preguntas que les surjan a los equipos mientras desarrollan sus proyectos, se pueden proponer temas específicos para los AMAs. Aquí te dejamos algunos ejemplos:
-
-- Cómo encontrar tu primer trabajo en IA
-- Qué necesitas saber antes de empezar un PhD
-- Consejos para desplegar LLMs en producción
-- Cómo escribir un buen paper
-- Cómo hacer un buen pitch para un producto de IA
-
-Las sesiones de AMA pueden comenzar con una pequeña presentación para introducir el tema y luego dar paso a las preguntas.
-
-<center><a href="https://forms.gle/izE8j4nW2JsWcQT26" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Ofrece una mentoría</a></center>

@@ -15,6 +15,10 @@ years: 2022
 - Universidad patrocinadora de comunidad del [Hackathon SomosNLP 2022: PLN en Español](https://somosnlp.org/blog/hackathon-2022)
 
 
+## Menciones en nuestro blog
+
+- [Conferencia Impulse AI](https://somosnlp.org/blog/conferencia-impulse-ai), María Grandury
+
 <div class="flex justify-center">
     <img alt="UNAM" width="250" height="140" 
     src="/images/patrocinios/UNAM.png" />

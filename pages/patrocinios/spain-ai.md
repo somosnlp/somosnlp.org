@@ -30,6 +30,8 @@ Entre otras iniciativas
 ## Menciones en nuestro blog
 
 - [Divulgación de NLP en español](https://somosnlp.org/blog/divulgacion-nlp-es), María Grandury
+- [¡A por el 2023!](https://somosnlp.org/blog/a-por-el-2023), María Grandury
+- [Presentamos: NLP de 0 a 100 con 🤗](https://somosnlp.org/blog/nlp-de-cero-a-cien), María Grandury
 
 <div class="flex justify-center">
     <img alt="SpainAI" width="250" height="140" 

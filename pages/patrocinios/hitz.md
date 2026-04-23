@@ -21,4 +21,10 @@ HiTZ es un centro de referencia en Tecnologías del lenguaje. Su objetivo es pro
     src="/images/patrocinios/HiTZ.png" />
 </div>
 
+## Menciones en nuestro blog
+
+- [FineWeb2](https://somosnlp.org/blog/fineweb-2), María Grandury
+- [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera
+- [LANLP: Bridging Ibero and Latin American NLP communities](https://somosnlp.org/blog/lanlp-at-lrec-2026)
+
 *Última actualización: 14 de mayo de 2024*

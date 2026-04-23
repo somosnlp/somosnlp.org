@@ -19,4 +19,6 @@ years: 2024
     src="/images/patrocinios/ImpulseAI.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Conferencia Impulse AI](https://somosnlp.org/blog/conferencia-impulse-ai), María Grandury

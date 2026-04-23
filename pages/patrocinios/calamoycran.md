@@ -21,4 +21,6 @@ Centro de formación de profesionales del lenguaje, la edición y la comunicaci�
     src="/images/patrocinios/Calamo&Cran.png" />
 </div>
 
-<!-- TODO -->
+## Menciones en nuestro blog
+
+- [Beneficios y premios del Hackathon 2024](https://somosnlp.org/blog/anuncio-patrocinios-2024), María Grandury

@@ -20,4 +20,9 @@ years: 2025, 2024
     src="/images/patrocinios/GING_UPM.png" />
 </div>
 
+## Menciones en nuestro blog
+
+- [Evento Evaluación de LLM](https://somosnlp.org/blog/evento-eval-llm-upm), María Grandury, Gonzalo Martínez, Miguel González
+- [Nace "La Leaderboard"](https://somosnlp.org/blog/la-leaderboard), Maria Sayavera
+
 *Última actualización: 14 de mayo de 2024*
