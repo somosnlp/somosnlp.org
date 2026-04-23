@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import { useI18n } from 'vue-i18n'
+import { localePath } from '~/composables/useLanguage'
 
 const { t } = useI18n()
 const showBanner = ref(true);
@@ -13,7 +14,7 @@ const showPastEvents = ref(true);
     border="b-1 t-1 accent-100 dark:accent-600" dark="bg-accent-400 text-accent-900">
     <div @click="showBanner = false"
       class="flex flex-wrap font-semibold text-sm text-center gap-2 items-center justify-center">
-      <a href="hackathon" target="_blank" hover="text-accent-700">
+      <a :href="localePath('/hackathon')" target="_blank" hover="text-accent-700">
         {{ t('landing-page.banner') }}
       </a>
       <carbon:close class="cursor-pointer text-lg ml-2" hover="text-accent-700" />
@@ -35,7 +36,7 @@ const showPastEvents = ref(true);
           <carbon:user-multiple />
           {{ t('landing-page.join-us-discord') }}
         </a>
-        <router-link to="/nuestra-mision" class="button-gray">
+        <router-link :to="localePath('/nuestra-mision')" class="button-gray">
           <carbon:bullhorn />
           {{ t('landing-page.read-the-announcement') }}
         </router-link>
@@ -52,7 +53,7 @@ const showPastEvents = ref(true);
       <img class="mx-auto my-8" alt="Próximos eventos"
         src="/images/eventos/240301_hackathon.jpg" />
       <p class="my-8">{{ t('landing-page.events.event-description') }}</p>
-      <a target="_blank" class="button-accent max-w-100 mx-auto" href="https://somosnlp.org/hackathon">
+      <a target="_blank" class="button-accent max-w-100 mx-auto" :href="localePath('/hackathon')">
         {{ t('landing-page.events.join-event') }}
       </a>
     </div>
@@ -67,7 +68,7 @@ const showPastEvents = ref(true);
       <img class="mx-auto my-8" alt="Próximos eventos"
         src="/images/eventos/250401_hackathon_sinfecha.jpg" />
       <p>El objetivo de este hackathon es crear recursos que nos permitan evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica.</p>
-      <a target="_blank" class="button-accent max-w-100 mx-auto my-8" href="https://somosnlp.org/hackathon">
+      <a target="_blank" class="button-accent max-w-100 mx-auto my-8" :href="localePath('/hackathon')">
         {{ t('landing-page.join-now') }}
       </a>
 
@@ -119,7 +120,7 @@ const showPastEvents = ref(true);
         <div>
           Campaña de recolección de corpus: buscamos especialmente corpus que representen diversas variedades del
           español y lenguas cooficiales,
-          <a href="https://somosnlp.org/donatucorpus" target="_blank">
+          <a :href="localePath('/donatucorpus')" target="_blank">
             <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
               border="2 accent-300">Comparte tu corpus</span>
           </a>
@@ -152,7 +153,7 @@ const showPastEvents = ref(true);
       </div>
 
       <p>Buscamos colaboraciones con grupos de investigación de LATAM, el Caribe y España, ¡contáctanos!</p>
-      <a target="_blank" class="button-accent max-w-100 mx-auto my-8" href="https://somosnlp.org/somos600m">
+      <a target="_blank" class="button-accent max-w-100 mx-auto my-8" :href="localePath('/somos600m')">
         {{ t('landing-page.know-more') }}
       </a>
     </div>
@@ -194,7 +195,7 @@ const showPastEvents = ref(true);
           </div>
           <div>
             {{ t('landing-page.why.jobs') }}
-            <a href="empleo" target="_blank">
+            <a :href="localePath('/empleo')" target="_blank">
               <span text="xs accent-900" class="rounded-md font-medium bg-accent-100 ml-1 p-1 uppercase"
                 border="2 accent-300">{{ t('landing-page.why.job-board') }}</span>
             </a>
@@ -222,29 +223,29 @@ const showPastEvents = ref(true);
       <div class="grid grid-cols-3 gap-8 my-12">
 
         <!-- HACKATHON 2024 -->
-        <a href="/hackathon-2024/ia_y_lms_retos_y_oportunidades" target="_blank">
+        <a :href="localePath('/hackathon-2024/ia_y_lms_retos_y_oportunidades')" target="_blank">
           <img alt="Charla de Elena González-Blanco" width="650" height="365"
             src="/images/eventos/240307_elena_gonzalez_blanco.png" />
         </a>
-        <a href="/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel" target="_blank">
+        <a :href="localePath('/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel')" target="_blank">
           <img alt="Charla de Gabriel Martín" width="650" height="365"
             src="/images/eventos/240311_gabriel_martin_blazquez.jpg" />
         </a>
-        <a href="/hackathon-2024/empatia_y_emociones_en_ia" target="_blank">
+        <a :href="localePath('/hackathon-2024/empatia_y_emociones_en_ia')" target="_blank">
           <img alt="Charla de Amanda Curry" width="650" height="365"
             src="/images/eventos/240326_amanda_curry.jpg" />
         </a>
 
         <!-- HACKATHON 2023 -->
-        <a href="/hackathon-2023/fine-tuning-llms" target="_blank">
+        <a :href="localePath('/hackathon-2023/fine-tuning-llms')" target="_blank">
           <img alt="Fine-tuning de grandes modelos de lenguaje" width="650" height="365"
             src="/images/eventos/230320_fine_tuning_llms.jpg" />
         </a>
-        <a href="/hackathon-2023/deteccion-del-lenguaje-ofensivo" target="_blank">
+        <a :href="localePath('/hackathon-2023/deteccion-del-lenguaje-ofensivo')" target="_blank">
           <img alt="Detección del lenguaje ofensivo" width="650" height="365"
             src="/images/eventos/230404_deteccion_del_lenguaje_ofensivo.jpg" />
         </a>
-        <a href="/hackathon-2023/evaluacion-con-desacuerdo" target="_blank">
+        <a :href="localePath('/hackathon-2023/evaluacion-con-desacuerdo')" target="_blank">
           <img alt="Evaluación con desacuerdo" width="650" height="365"
             src="/images/eventos/230404_evaluacion_con_desacuerdo.jpg" />
         </a>
@@ -276,7 +277,7 @@ const showPastEvents = ref(true);
             src="/images/eventos/220330_ximena.png" />
         </a>
       </div>
-      <router-link to="/eventos" class="button-accent max-w-100 mx-auto">
+      <router-link :to="localePath('/eventos')" class="button-accent max-w-100 mx-auto">
         <Carbon:logoYoutube text="xl" />
         {{ t('landing-page.events.all-events') }}
       </router-link>
@@ -320,7 +321,7 @@ const showPastEvents = ref(true);
             <carbon:logo-linkedin text="xl" />
             <span text="center">{{ t('landing-page.contribute.linkedin') }}</span>
           </a>
-          <router-link to="/nuestra-mision" class="col-span-full button-accent max-w-100 mx-auto">
+          <router-link :to="localePath('/nuestra-mision')" class="col-span-full button-accent max-w-100 mx-auto">
             <carbon:binoculars />
             {{ t('landing-page.contribute.button') }}
           </router-link>

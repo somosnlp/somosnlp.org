@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { useHead } from '@unhead/vue'
 import { useI18n } from 'vue-i18n'
+import { localePath } from '~/composables/useLanguage'
 
 const { t } = useI18n()
 
@@ -42,7 +43,7 @@ useHead({
                     <carbon:user-multiple />
                     {{ t('community.join_discord') }}
                 </a>
-                <router-link to="/nuestra-mision" target="_blank" class="button-gray">
+                <router-link :to="localePath('/nuestra-mision')" target="_blank" class="button-gray">
                     <carbon:bullhorn />
                     {{ t('community.contribute') }}
                 </router-link>
@@ -59,7 +60,7 @@ useHead({
             <br />
             <SpeakerList />
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
-                <router-link to="/eventos" target="_blank" class="button-accent">
+                <router-link :to="localePath('/eventos')" target="_blank" class="button-accent">
                     <carbon:logoYoutube />
                     {{ t('community.speakers.all_events') }}
                 </router-link>
@@ -84,7 +85,7 @@ useHead({
         <div>
             <p class="m-auto text-center prose text-lg">
                 {{ t('community.contact.questions') }}
-                <a class="contents" href="http://somosnlp.org/nuestra-mision" target="_blank">{{ t('community.contact.mission') }}</a>
+                <a class="contents" :href="localePath('/nuestra-mision')" target="_blank">{{ t('community.contact.mission') }}</a>
                 <br /><br />
                 {{ t('community.contact.contact_us') }}
                 <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>

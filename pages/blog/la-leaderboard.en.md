@@ -2,7 +2,7 @@
 title: Say hi to "La Leaderboard"
 description: The first leaderboard to evaluate open-source generative language models in Spanish and official languages
 date: 2024-09-23T18:00:00.000+00:00
-lang: es
+lang: en
 duration: 3min
 cover: "/images/blog/la-leaderboard.png"
 author: Maria Sayavera

@@ -1,0 +1,138 @@
+community:
+  collaborations:
+    subtitle: >-
+      Obrigado também a todas as universidades, centros de pesquisa e empresas
+      que nos apoiaram ao longo do caminho!
+    title: Colaborações
+  contact:
+    closing: Mal podemos esperar para te conhecer! 🚀
+    contact_us: Contate-nos pelo
+    mission: Gostaria de nos apoiar em nossa missão?
+    or_email: ou envie um e-mail para
+    questions: >-
+      Gostaria de fazer parte da equipe? Dar uma palestra? Lançar um projeto?
+      Patrocinar um evento?...
+  contribute: Quero contribuir
+  join_discord: Junte-se ao Discord
+  meta:
+    description: Junte-se à nossa comunidade internacional de pessoas apaixonadas por PLN
+    title: Comunidade SomosNLP
+  speakers:
+    all_events: Todos os eventos
+    become_speaker: Quero ser palestrante
+    subtitle: >-
+      Obrigado a todas as pessoas que compartilharam sua experiência com a
+      comunidade através de mentorias e palestras!
+    title: Palestrantes
+  subtitle: >-
+    Somos uma comunidade internacional onde todas as pessoas interessadas em
+    PLN são bem-vindas, junte-se! 🚀
+  title: Comunidade
+events:
+  all-events: Ver todos os eventos
+  calendar:
+    join: Participar do calendário
+    view: Ver o calendário de eventos
+  sections:
+    community: 🙌 Projetos da comunidade
+    community-description: >-
+      Workshops onde membros da comunidade apresentam seus projetos, ex.:
+      projetos vencedores de hackathons.
+    community-description-2: Gostaria de apresentar seu projeto? Este é o seu espaço!
+    community-description-3: Envie-nos as informações
+    hackathon-2022: 🚀 Palestras e Workshops do Hackathon 2022
+    hackathon-2023: 🚀 Palestras e Workshops do Hackathon 2023
+    hackathon-2024: 🚀 Palestras e Workshops do Hackathon 2024
+    hackathon-2025: 🔥 Palestras e Workshops do Hackathon 2025
+    madrid: ✨ Eventos presenciais em Madrid
+    recordings: Gravações de eventos
+    somos-mujeres-nlp: 💜 Somos Mulheres em PLN
+    somos-mujeres-nlp-description: >-
+      Iniciativas para dar visibilidade a mulheres que trabalham e pesquisam em
+      PLN e a projetos que aplicam PLN para combater o sexismo.
+  subtitle: Palestras e workshops ministrados por especialistas em PLN.
+  title: Eventos
+jobs:
+  and_discord: e o canal \#emprego do
+  disclaimer: >-
+    As entidades são responsáveis por publicar informações corretas e
+    atualizá-las.
+  follow_us: Siga-nos! Anunciamos as vagas em
+  looking_for_job: PROCURO EMPREGO
+  looking_for_talent: PROCURO TALENTO
+  not_found: Ainda não há vagas que correspondam à sua busca.
+  post_job_1: Para que sua vaga de emprego apareça aqui
+  post_job_2: preencha este formulário
+  search: Buscar
+  subtitle: >-
+    Encontre vagas de emprego e pesquisa relacionadas ao Processamento de
+    Linguagem Natural
+  title: Bolsa de Emprego de PLN
+  total: Total de Vagas Publicadas
+landing-page:
+  banner: Participe do nosso hackathon para incluir sua cultura nos LLMs! 🔥
+  contribute:
+    blog: Escreva um artigo ou tutorial
+    button: Mais ideias
+    discord: Junte-se à nossa comunidade no Discord
+    github: Contribua com nossos projetos no GitHub
+    heading: Contribua!
+    linkedin: Siga-nos no LinkedIn
+    speaker: Compartilhe sua experiência dando uma palestra ou workshop
+    text: >-
+      Somos uma comunidade internacional e todos os nossos projetos são open
+      source.
+    twitter: Siga-nos no Twitter
+  events:
+    all-events: Ver todos os eventos
+    join-event: Quero saber mais!
+    more-events: Gravações de eventos
+    recorded-events: Eventos anteriores
+    upcoming-events: Próximo evento
+    watch-recordings: Ver todas as gravações
+  heading: SomosNLP
+  heading-2: >-
+    Somos uma comunidade internacional de pessoas hispanófonas apaixonadas por
+    PLN. Nossa missão é aproximar a IA de 600 milhões de pessoas
+    hispanófonas ao redor do mundo.
+  introducing: Apresentamos
+  join-now: Junte-se agora!
+  join-us-discord: Junte-se ao Discord
+  know-more: Saber mais
+  learn-with-us: Aprenda em comunidade
+  projects:
+    current-projects: Projetos atuais
+  read-the-announcement: Contribua com nossa missão
+  why:
+    coming-soon: Em breve
+    community: >-
+      Criamos a maior rede internacional de hispanófonos que estudam, trabalham
+      e pesquisam em PLN. Já somos 2000!
+    education: >-
+      Organizamos grande variedade de atividades educativas: contamos com +50
+      workshops práticos e palestras de especialistas.
+    heading: Somos 600M de hispanófonos
+    jobs: >-
+      Conectamos talento com empresas e grupos de pesquisa graças à nossa
+    new-job-board: Bolsa de Emprego
+    text: >-
+      Somos 7,5% da população mundial! A pesquisa em PLN está centrada no
+      inglês e negligencia as dificuldades particulares de outros idiomas.
+      Vamos dar ao nosso idioma tão difundido e colorido uma representação
+      justa no âmbito do PLN.
+navbar:
+  about: Sobre
+  blog: Blog
+  course: NLP de 0 a 100
+  events: Eventos
+  hackathon: Hackathon
+  jobs: Bolsa de Emprego
+  resources: Recursos
+  team: Comunidade
+not-found: Não encontrado
+not-found-cache: Tente limpar o cache e recarregar a página
+resources:
+  subtitle: Recursos abertos e gratuitos para toda a comunidade hispanófona
+  title: Recursos Open-Source
+share: Compartilhar
+wip: Este link em breve te redirecionará para onde você queria, estamos trabalhando nisso

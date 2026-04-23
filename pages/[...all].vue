@@ -14,27 +14,38 @@ const path = computed(() => {
   return segments ? segments.join('/') : ''
 })
 
-const isBlogPath = computed(() => {
-  return path.value.startsWith('blog/') || path.value.startsWith('en/blog/')
-})
-
+/**
+ * Attempts to load a markdown page, trying locale-specific variants first.
+ * Lookup order for locale 'en' and path 'blog/post':
+ *   1. blog/post.en.md  (co-located translation)
+ *   2. en/blog/post.md  (legacy directory-based translation)
+ *   3. blog/post.md     (fallback to default locale)
+ */
 async function loadContent() {
   try {
     content.value = null
-    const cleanPath = path.value.replace(/^en\//, '')
-    
-    if (isBlogPath.value && language.value === 'en') {
+    const lang = language.value
+    const cleanPath = path.value.replace(/^(en|pt)\//, '')
+
+    if (lang !== 'es') {
+      // Try co-located locale file first: blog/post.en.md
       try {
-        const module = await import(`../pages/${cleanPath}.en.md`)
+        const module = await import(`../pages/${cleanPath}.${lang}.md`)
         content.value = module.default
-      } catch {
-        const module = await import(`../pages/${cleanPath}.md`)
+        return
+      } catch {}
+
+      // Try legacy directory-based file: en/blog/post.md
+      try {
+        const module = await import(`../pages/${lang}/${cleanPath}.md`)
         content.value = module.default
-      }
-    } else {
-      const module = await import(`../pages/${cleanPath}.md`)
-      content.value = module.default
+        return
+      } catch {}
     }
+
+    // Fallback to default locale file
+    const module = await import(`../pages/${cleanPath}.md`)
+    content.value = module.default
   } catch (e) {
     console.error('Failed to load content:', e)
     content.value = null

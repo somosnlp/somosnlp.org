@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useRouter } from 'vue-router'
+import { localePath } from '~/composables/useLanguage'
 
 const router = useRouter()
 const founder_routes = router.getRoutes()
@@ -52,7 +53,7 @@ const routes = router.getRoutes()
             forman.
             Aquí te
             presentamos a las que colaboran o han colaborado más activamente con
-            <a class="contents" href="http://somosnlp.org/nuestra-mision" target="_blank">nuestra misión</a>,
+            <a class="contents" :href="localePath('/nuestra-mision')" target="_blank">nuestra misión</a>,
             <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">¡únete!</a>
         </p>
         <p class="text-sm">

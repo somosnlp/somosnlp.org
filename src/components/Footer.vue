@@ -1,3 +1,7 @@
+<script setup lang="ts">
+import { localePath } from '~/composables/useLanguage'
+</script>
+
 <template>
   <nav class="my-6 grid gap-6 place-items-center lg:grid-cols-3">
 
@@ -15,12 +19,12 @@
     <div class="text-sm text-center lg:text-left lg:justify-self-start grid grid-rows-2 gap-2">
       © {{ (new Date()).getFullYear() }} SomosNLP.org All Rights Reserved
       <div>
-        <router-link to="/aviso-legal" class="whitespace-nowrap hover:text-accent-500">{{ "Aviso Legal | " }}
+        <router-link :to="localePath('/aviso-legal')" class="whitespace-nowrap hover:text-accent-500">{{ "Aviso Legal | " }}
         </router-link>
-        <router-link to="/politica-privacidad" class="whitespace-nowrap hover:text-accent-500">
+        <router-link :to="localePath('/politica-privacidad')" class="whitespace-nowrap hover:text-accent-500">
           {{ "Política de Privacidad | " }}
         </router-link>
-        <router-link to="/politica-cookies" class="whitespace-nowrap hover:text-accent-500">
+        <router-link :to="localePath('/politica-cookies')" class="whitespace-nowrap hover:text-accent-500">
           {{ "Política de Cookies" }}
         </router-link>
       </div>
