@@ -85,6 +85,10 @@ landing-page:
     twitter: Siga-nos no Twitter
   events:
     all-events: Ver todos os eventos
+    event-description: >-
+      O #HackathonSomosNLP está de volta! Nesta edição, focamos na criação de
+      recursos para avaliar e melhorar a adequação cultural dos LLMs para os
+      países da América Latina e da Península Ibérica.
     join-event: Quero saber mais!
     more-events: Gravações de eventos
     recorded-events: Eventos anteriores
