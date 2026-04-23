@@ -1,5 +1,6 @@
 <script setup lang="ts" >
 import { useHead } from '@unhead/vue'
+import { localePath } from '~/composables/useLanguage'
 
 useHead({
     title: 'Hackathon SomosNLP 2022 - Democratizando el NLP en español',
@@ -37,7 +38,7 @@ useHead({
                 </a>impartidas por especialistas en el campo del PLN.
             </p>
             <p>
-                <a href="https://somosnlp.org/hackathon">
+                <a :href="localePath('/hackathon')">
                     ¡Únete a la nueva edición!
                 </a>
             </p>
@@ -211,7 +212,7 @@ useHead({
             <ul>
                 <li>
                     Hemos creando una nueva sección "Recursos"
-                    <a href="recursos">(somosnlp.org/recursos)</a> con listas de
+                    <a :href="localePath('/recursos')">(somosnlp.org/recursos)</a> con listas de
                     <b>datasets y modelos open-source</b>
                     que puedes utilizar para hacer fine-tuning como te explicamos en nuestros
                     <b>tutoriales</b>.

@@ -1,5 +1,6 @@
 <script setup lang="ts" >
 import { useHead } from '@unhead/vue'
+import { localePath } from '~/composables/useLanguage'
 
 useHead({
     title: 'Hackathon SomosNLP 2023: Los LLMs hablan Español',
@@ -56,7 +57,7 @@ useHead({
             </p>
 
             <p>
-                <a href="https://somosnlp.org/eventos">
+                <a :href="localePath('/eventos')">
                     ¡Únete a nuestros próximos eventos!
                 </a>
             </p>
@@ -133,7 +134,7 @@ useHead({
             <div class="m-12">
                 <ul>
                     <li>
-                        <a href="https://somosnlp.org/hackathon-2023/bases-del-hackathon">Bases del Hackathon</a>
+                        <a :href="localePath('/hackathon-2023/bases-del-hackathon')">Bases del Hackathon</a>
                     </li>
                     <li>
                         <a href="#talleres-y-amas">Talleres y AMAs</a>
@@ -225,7 +226,7 @@ useHead({
             <hr class="mx-auto my-12 prose" />
 
             <h2 id="bases-del-hackathon">💻 Bases del Hackathon</h2>
-            <a href="https://somosnlp.org/hackathon-2023/bases-del-hackathon" target="_blank">
+            <a :href="localePath('/hackathon-2023/bases-del-hackathon')" target="_blank">
                 Todo lo que necesitas saber para desarrollar un
                 buen proyecto para el hackathon está aquí.
             </a>
@@ -242,7 +243,7 @@ useHead({
                 </li>
                 <div class="mx-auto my-8 text-center">
                     <div class="grid grid-cols-2 gap-8 my-1">
-                        <a href="/hackathon-2023/fine-tuning-llms" target="_blank">
+                        <a :href="localePath('/hackathon-2023/fine-tuning-llms')" target="_blank">
                             <img alt="Fine-tuning LLMs" width="650" height="365"
                                 src="/images/eventos/230320_fine_tuning_llms.jpg" />
                         </a>
@@ -260,7 +261,7 @@ useHead({
                 </li>
                 <div class="mx-auto my-8 text-center">
                     <div class="grid grid-cols-2 gap-8 my-1">
-                        <a href="/hackathon-2023/ama-con-omar-sanseviero" target="_blank">
+                        <a :href="localePath('/hackathon-2023/ama-con-omar-sanseviero')" target="_blank">
                             <img alt="AMA con Omar Sanseviero" width="650" height="365"
                                 src="/images/eventos/230322_ama_con_omar_sanseviero.jpg" />
                         </a>
@@ -275,7 +276,7 @@ useHead({
                                 src="/images/eventos/230327_ama_con_manuel_romero.jpg" />
                         </a>
 
-                        <a href="/hackathon-2023/ama-con-alejandro-vaca" target="_blank">
+                        <a :href="localePath('/hackathon-2023/ama-con-alejandro-vaca')" target="_blank">
                             <img alt="AMA con Alejandro Vaca" width="650" height="365"
                                 src="/images/eventos/230330_ama_con_alejandro_vaca.jpg" />
                         </a>
@@ -291,7 +292,7 @@ useHead({
                 valor de las métricas, los criterios de evaluación incluirán el
                 impacto social del proyecto, la originalidad de la idea y la
                 dificultad técnica.
-                <a href="https://somosnlp.org/hackathon-2023/bases-del-hackathon" target="_blank">Más detalles aquí.</a>
+                <a :href="localePath('/hackathon-2023/bases-del-hackathon')" target="_blank">Más detalles aquí.</a>
             </p>
             <ul>
                 TODAS las personas que entreguen un proyecto completo conseguiréis:
@@ -389,7 +390,7 @@ useHead({
                     Discord "🏆Hackathon23"
                 </li>
             </ul>
-            <a href="blog/anuncio-patrocinios-2023" target="_blank">
+            <a :href="localePath('/blog/anuncio-patrocinios-2023')" target="_blank">
                 ¡Más detalles sobre los patrocinios de oro aquí!
             </a>
 

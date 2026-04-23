@@ -34,7 +34,15 @@ export const install: UserModule = ({ app }) => {
         short: {
           year: 'numeric', month: 'short', day: 'numeric'
         },
-      }
+      },
+      'pt': {
+        long: {
+          weekday: "long", year: 'numeric', month: 'long', day: 'numeric',
+        },
+        short: {
+          year: 'numeric', month: 'short', day: 'numeric'
+        },
+      },
     },
   })
 

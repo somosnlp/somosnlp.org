@@ -16,7 +16,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
   <a href="https://somosnlp.notion.site/visibilidad-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunde el evento</a>
 </div>
 
-*([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
+*([In Portuguese](https://somosnlp.org/pt/hackathon-2025), [in English](https://somosnlp.org/en/hackathon-2025))*
 
 En las ediciones anteriores contamos en total con más de 1500 participantes de 30 países distintos, superamos las 20.000 visualizaciones de nuestros eventos, aprendimos de 20 ponentes, y desarrollamos 50 proyectos relacionados con los Objetivos de Desarrollo Sostenibles de la ONU, demostrando el potencial del PLN para abordar desafíos sociales. ¡Volvemos a por eso y mucho más! 💪 
 
