@@ -459,4 +459,3 @@ Para estar al día de todos los eventos y avances:
 - Síguenos en [X](https://x.com/somosnlp_) y [LinkedIn](https://linkedin.com/company/somosnlp)
 - Suscríbete a nuestro canal de [YouTube](https://youtube.com/c/somosnlp?sub_confirmation=1)
 - Únete al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-<!-- TODO Newsletter -->
