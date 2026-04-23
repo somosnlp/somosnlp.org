@@ -195,7 +195,6 @@ Los prompts deben ser:
 - **No triviales**: evitar preguntas factual simples (e.g. “¿Cuál es la capital de Colombia?”).
 - **Culturalmente situados**: tocan temas comunes en una región específica. **Utiliza** **roles para contextualizar tu pregunta**.
 - **Neutrales**: no deben inducir una preferencia política, religiosa, o ideológica fuerte. Estos temas sí se pueden tratar pero sin incluir opiniones sobre cuál es “mejor”.
-- No incluyas estereotipos: para tratar este tema participa en el reto del [Validador de estereotipos](https://somosnlp.org/hackathon/retos/estereotipos).
 
 <details>
 <summary>💡 ¿Qué es un rol?</summary>

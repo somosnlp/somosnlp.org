@@ -19,15 +19,6 @@ const miniChallenges = [
     cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
   },
   {
-    title: "Estereotipos",
-    description: "Comparte y evalúa estereotipos para ayudar a mitigar sesgos de los LLMs.",
-    dates: "9 de abril - 21 de mayo ",
-    points: "1 pto",
-    requirements: "Haber vivido en sociedad",
-    link: "https://somosnlp.org/hackathon/retos/estereotipos",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
-  },
-  {
     title: "Preguntas culturales (BLEND)",
     description: "Responde preguntas sobre tu país para evaluar el conocimiento cultural de LLMs. Utilizaremos estas respuestas para extender el benchmark abierto BLEND.",
     dates: "14 de abril - 31 de mayo ",
