@@ -85,9 +85,8 @@ En la primera edición participaron más de 500 personas de 29 países. Proyecto
 
 Los proyectos del hackathon y los logros colectivos de la comunidad han dado lugar a los siguientes papers:
 
-- Grandury, M., Aula-Blasco, J., Falcão, J., Fourrier, C., González, M., Martínez, G. & Santamaría, G. (2025). *La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America*.
-- Salazar, I., Fernández Burda, M., Bin Islam, S., Soltani Moakhar, A., Singh, S., Farestam, F., Romanou, A., ... Grandury, M. ... (2025). *Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation*.
-- Fu, T., Conde, J., Martínez, G., Grandury, M., & Reviriego, P. (2025). *Multiple Choice Questions: Reasoning makes Large Language Models (LLMs) more self-confident even when they are wrong*.
+- Grandury, M., Aula-Blasco, J., Falcão, J., Fourrier, C., González, M., Martínez, G. & Santamaría, G., ... (2025). *La Leaderboard: A Large Language Model Leaderboard for Spanish Varieties and Languages of Spain and Latin America*, ACL Main.
+- Salazar, I., Fernández Burda, M., Bin Islam, S., Soltani Moakhar, A., Singh, S., Farestam, F., Romanou, A., ... Grandury, M. ... (2025). *Kaleidoscope: In-language Exams for Massively Multilingual Vision Evaluation*, ICLR.
 - Grandury, M. (2024). *The #Somos600M Project: Generating NLP resources that represent the diversity of the languages from LATAM, the Caribbean, and Spain*. LatinX in AI (LXAI) Research Workshop @NAACL 2024.
 - Mayor-Rocher, M., Melero, N., Merino-Gómez, E., Grandury, M., Conde, J., & Reviriego, P. (2024). *Evaluating large language models with tests of Spanish as a foreign language: Pass or fail?*
 - Plaza, I., Melero, N., del Pozo, C., Conde, J., Reviriego, P., Mayor-Rocher, M., & Grandury, M. (2024). *Spanish and LLM Benchmarks: Is MMLU lost in translation?*
