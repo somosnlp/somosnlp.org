@@ -169,7 +169,14 @@ Los proyectos del hackathon generan impacto real:
   <p class="text-sm text-gray-600 dark:text-gray-400">Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.</p>
 </div>
 
-<!-- #TODO Añadir highlights de 2023 -->
+<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
+  <div class="flex items-center gap-2 mb-2">
+    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2023</span>
+    <span class="text-xs text-gray-500">Logro colectivo</span>
+  </div>
+  <h4 class="font-bold text-base mb-1">📚 22 proyectos y 3 papers publicados</h4>
+  <p class="text-sm text-gray-600 dark:text-gray-400">Segunda edición con más de 500 participantes de 30 países. Entre los trabajos destacados se encuentran <em>Spanish and LLM Benchmarks: Is MMLU lost in translation?</em> y <em>Evaluating large language models with tests of Spanish as a foreign language</em>.</p>
+</div>
 
 <div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
   <div class="flex items-center gap-2 mb-2">
