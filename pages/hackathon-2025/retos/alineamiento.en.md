@@ -138,4 +138,4 @@ Climate impact:
 - [Space: Model Card Creator](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), Space that guides you in creating your model card.
 - [Bias detection and mitigation in language models](https://somosnlp.org/hackathon-2023/evaluacion-de-sesgos), talk given by María Grandury, founder of SomosNLP.
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>

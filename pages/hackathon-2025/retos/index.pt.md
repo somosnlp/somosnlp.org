@@ -15,7 +15,7 @@ const miniChallenges = [
     dates: "9 de abril - 31 de maio (PRORROGADO)",
     points: "1 ponto",
     requirements: "Saber pesquisar na internet",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/include",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/include",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -24,7 +24,7 @@ const miniChallenges = [
     dates: "9 de abril - 15 de maio (PRORROGADO)",
     points: "1 ponto",
     requirements: "Ter vivido em sociedade",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/estereotipos",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/estereotipos",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -33,7 +33,7 @@ const miniChallenges = [
     dates: "14 de abril - 31 de maio (PRORROGADO)",
     points: "2 pontos",
     requirements: "Ter vivido em sociedade",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/blend",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/blend",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
@@ -45,7 +45,7 @@ const mainChallenges = [
     dates: "14 de abril - 15 de maio (PRORROGADO)",
     points: "3 pontos",
     requirements: "Ter vivido em sociedade e querer entender bem o conceito de adequação cultural",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/preferencias",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/preferencias",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -54,7 +54,7 @@ const mainChallenges = [
     dates: "21 de abril - 31 de maio (Máx. 2 semanas)",
     points: "3 pontos",
     requirements: "Saber programar",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/preferencias",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/preferencias",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -63,7 +63,7 @@ const mainChallenges = [
     dates: "21 de abril - 31 de maio (Máx. 2 semanas)",
     points: "3 pontos",
     requirements: "Ter experiência em NLP",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/preferencias",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/preferencias",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
@@ -75,7 +75,7 @@ const finalChallenges = [
     dates: "Até 31 de maio (PRORROGADO)",
     points: "0,5 pontos",
     requirements: "Ter completado algum desafio principal",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/presentacion",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/presentacion",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -84,7 +84,7 @@ const finalChallenges = [
     dates: "Envio até 1 de junho (PRORROGADO)",
     points: "0,5 pontos",
     requirements: "Ter completado algum desafio principal",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/presentacion",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/presentacion",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -93,7 +93,7 @@ const finalChallenges = [
     dates: "A partir de junho",
     points: "0,5 pontos",
     requirements: "Ter completado algum desafio principal",
-    link: "https://somosnlp.org/pt/hackathon-2025-2025/retos/presentacion",
+    link: "https://somosnlp.org/pt/hackathon-2025/retos/presentacion",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]

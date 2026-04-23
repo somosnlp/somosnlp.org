@@ -121,4 +121,4 @@ We will contact teams that express their interest to organize mentoring sessions
 No more commits (not even docs) until the results are announced please! We don't want to disqualify anyone 🙏
 - Help us improve for next year by rating different aspects with stars in [this mini form](https://forms.gle/wi5T49UiJEUGjGJd8). Thank you! -->
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>

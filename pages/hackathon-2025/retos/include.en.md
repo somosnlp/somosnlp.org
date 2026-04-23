@@ -106,4 +106,4 @@ Many thanks to:
 
 <center style="margin-top:40px;"><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participate now!</a></center>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>

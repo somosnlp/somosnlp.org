@@ -15,7 +15,7 @@ Este hackathon é uma experiência ideal para que seus alunos melhorem seus conh
 - **Existe um número máximo de equipes por universidade ou professor?** Não, quanto mais, melhor! O número máximo de pessoas por equipe é 5.
 - **Vocês podem fazer uma apresentação sobre a comunidade e o evento para minha universidade ou turma?** Sim, claro, entre em contato o quanto antes para definirmos a data.
 - **Como professor, posso dar uma palestra ou mentoria durante o hackathon?** Claro que sim! Será um prazer contar com seus alunos E professores. Preencha o formulário correspondente para propor uma [palestra](https://forms.gle/n6DsNF5RwerA4oPf6) ou [mentoria](https://forms.gle/izE8j4nW2JsWcQT26).
-- **Alguns dos meus alunos não falam espanhol, isso é um problema?** Não, todos são bem-vindos, nesta edição [as instruções estão traduzidas para o inglês](https://somosnlp.org/en/hackathon-2025-2025/bases).
+- **Alguns dos meus alunos não falam espanhol, isso é um problema?** Não, todos são bem-vindos, nesta edição [as instruções estão traduzidas para o inglês](https://somosnlp.org/en/hackathon-2025/bases).
 - *NOVIDADE!* **Podemos realizar o hackathon presencialmente na universidade?** Sim, as universidades que desejarem podem disponibilizar uma sala para seus alunos (e participantes da mesma cidade) onde possam se reunir e desenvolver seus projetos presencialmente. Avise-nos para que possamos ajudar.
 
 ➡️ Envie-nos um e-mail para info@somosnlp.org, contamos com você e seus alunos!

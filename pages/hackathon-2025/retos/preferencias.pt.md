@@ -182,7 +182,7 @@ Os prompts devem ser:
 - **Não triviais**: evitar perguntas factuais simples (por exemplo, "Qual é a capital do Brasil?").
 - **Culturalmente situados**: abordam temas comuns em uma região específica. **Utilize papéis para contextualizar sua pergunta**.
 - **Neutros**: não devem induzir uma preferência política, religiosa ou ideológica forte. Estes temas podem ser tratados mas sem incluir opiniões sobre qual é "melhor".
-- Não inclua estereótipos: para tratar este tema participe do desafio do [Validador de estereótipos](https://somosnlp.org/pt/hackathon-2025-2025/retos/estereotipos).
+- Não inclua estereótipos: para tratar este tema participe do desafio do [Validador de estereótipos](https://somosnlp.org/pt/hackathon-2025/retos/estereotipos).
 
 <details>
 <summary>💡 O que é um papel?</summary>
@@ -243,4 +243,4 @@ dos assentos se retire.
 
 <center style="margin-top:40px;"><a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participe agora!</a></center>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/pt/hackathon-2025-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Voltar aos desafios</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/pt/hackathon-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Voltar aos desafios</a></center>

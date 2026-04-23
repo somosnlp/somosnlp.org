@@ -36,7 +36,7 @@ Look for multiple-choice exams from your country to evaluate LLMs' knowledge. Pr
 Requirements: Know how to search on the internet
 
 - [Participate now!](https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y)
-- [Guidelines, support material, and incentives](https://somosnlp.org/en/hackathon-2025-2025/retos/include)
+- [Guidelines, support material, and incentives](https://somosnlp.org/en/hackathon-2025/retos/include)
 
 Resources:
 - GitHub repo [amayuelas/corpus-automation](https://github.com/amayuelas/corpus-automation)
@@ -51,7 +51,7 @@ Share and evaluate stereotypes to help mitigate LLMs' biases.
 Requirements: Have lived in society
 
 - [Participate now!](https://ediadev.ngrok.app/)
-- [Guidelines, support material, and incentives](https://somosnlp.org/en/hackathon-2025-2025/retos/estereotipos)
+- [Guidelines, support material, and incentives](https://somosnlp.org/en/hackathon-2025/retos/estereotipos)
 
 
 ## 🔥 Main Challenge

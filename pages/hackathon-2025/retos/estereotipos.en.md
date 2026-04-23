@@ -108,4 +108,4 @@ Many thanks to the team: Luciana Benotti, Marcos Javier Gómez, Guido Ivetta, So
 
 <center style="margin-top:40px;"><a href="https://ediadev.ngrok.app/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">¡Participate now!</a></center>
 
-<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>
+<center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon-2025/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>

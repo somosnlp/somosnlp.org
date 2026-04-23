@@ -81,7 +81,7 @@ Os patrocínios de visibilidade são de suma importância, pois nos permitem alc
 
 Links úteis:
 - [🎨 Material promocional](https://somosnlp.notion.site/visibilidade-hackathon-somosnlp-2025)
-- [🎓 Info para universidades](https://somosnlp.org/pt/hackathon-2025-2025/universidades)
+- [🎓 Info para universidades](https://somosnlp.org/pt/hackathon-2025/universidades)
 
 <center><a href="mailto:info@somosnlp.org" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Promova o hackathon</a></center>
 

@@ -9,7 +9,7 @@ Existem 600M de falantes de espanhol e 265M de falantes de português no mundo. 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 50px;">
     <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscreva-se já!</a>
-    <a href="https://somosnlp.org/pt/hackathon-2025-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubra os desafios</a>
+    <a href="https://somosnlp.org/pt/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubra os desafios</a>
     <a href="https://somosnlp.notion.site/visibilidade-hackathon-somosnlp-2025" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Difunda o evento</a>
 </div>
 
@@ -22,7 +22,7 @@ O melhor? TODO MUNDO pode colaborar! 🎉
 Aqui estão todos os formulários, continue lendo para mais informações.
 
 - 💻 [Participe do hackathon e/ou assista às palestras](https://forms.gle/bDaBC7XV3iu2trj59)
-- 🙌 [Patrocine este evento maravilhoso](https://somosnlp.org/pt/hackathon-2025-2025/patrocinios)
+- 🙌 [Patrocine este evento maravilhoso](https://somosnlp.org/pt/hackathon-2025/patrocinios)
 - 📣 [Ajude-nos a divulgar](https://somosnlp.notion.site/visibilidade-hackathon-somosnlp-2025)
 - 🔊 [Proponha uma palestra (em espanhol)](https://forms.gle/n6DsNF5RwerA4oPf6)
 - 🧑‍🏫 [Ofereça mentoria (em espanhol)](https://forms.gle/izE8j4nW2JsWcQT26)
@@ -47,7 +47,7 @@ Na SomosNLP, queremos incentivar você a participar independentemente de seus co
     <a href="https://forms.gle/bDaBC7XV3iu2trj59" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">💻 Inscreva-se já</a>
   </div>
   <div class="text-center">
-    <a href="https://somosnlp.org/pt/hackathon-2025-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubra os desafios</a>
+    <a href="https://somosnlp.org/pt/hackathon-2025/retos" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🔥 Descubra os desafios</a>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ Compartilhe sua experiência e conhecimento apoiando as equipes participantes na
 
 A SomosNLP é uma comunidade sem fins lucrativos, buscamos doações, prêmios e visibilidade para alcançar nossos objetivos ambiciosos e aproximar os modelos de linguagem do mundo hispânico. Toda ajuda é bem-vinda, descubra como você pode apoiar nossa missão oferecendo **visibilidade, vouchers e doações**. Contamos com você!
 
-<center><a href="https://somosnlp.org/pt/hackathon-2025-2025/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocine o hackathon</a></center>
+<center><a href="https://somosnlp.org/pt/hackathon-2025/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocine o hackathon</a></center>
 </details>
 
 <details  style="margin-bottom: 20px;">
@@ -86,7 +86,7 @@ A SomosNLP é uma comunidade sem fins lucrativos, buscamos doações, prêmios e
 
 Ajude-nos a divulgar o evento em sua rede para que esta iniciativa alcance mais pessoas, todo apoio é bem-vindo! Além disso, após 4 publicações, adicionaremos seu logotipo ao site na seção "Patrocínios da Comunidade".
 
-<center><a href="https://somosnlp.org/pt/hackathon-2025-2025/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Divulgue o evento</a></center>
+<center><a href="https://somosnlp.org/pt/hackathon-2025/patrocinios" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Divulgue o evento</a></center>
 </details>
 
 <details  style="margin-bottom: 20px;">
