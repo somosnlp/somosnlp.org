@@ -45,7 +45,7 @@ const mainChallenges = [
     dates: "21 de abril - 31 de maio (Máx. 2 semanas)",
     points: "3 pontos",
     requirements: "Saber programar",
-    link: "https://somosnlp.org/pt/hackathon/retos/preferencias",
+    link: "https://somosnlp.org/pt/hackathon/retos/alineamiento",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   },
   {
@@ -54,7 +54,7 @@ const mainChallenges = [
     dates: "21 de abril - 31 de maio (Máx. 2 semanas)",
     points: "3 pontos",
     requirements: "Ter experiência em NLP",
-    link: "https://somosnlp.org/pt/hackathon/retos/preferencias",
+    link: "https://somosnlp.org/pt/hackathon/retos/alineamiento",
     cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
   }
 ]
