@@ -27,7 +27,7 @@ EN: The Hugging Face Hub is a collaborative web repository where open Machine Le
 
 <EventbriteCheckout
   eventId="1987992570293"
-  :height="600"
+  :height="1200"
   fallbackUrl="https://hackathon-somosnlp-2026.eventbrite.com"
 />
 
