@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP"
 description: Join the largest open-source Natural Language Processing hackathon in Spanish and Portuguese
 lang: en
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each of them rich in culture. Although language models show ever-growing multilingual capabilities, are they truly multicultural?

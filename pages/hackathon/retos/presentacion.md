@@ -2,7 +2,7 @@
 title: "Presentación proyectos #HackathonSomosNLP 2026: Demo, vídeo y paper"
 description: Cómo presentar el proyecto que hayas creado durante el hackathon.
 lang: es
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 ¡Enhorabuena por llegar hasta aquí, ya solo queda presentar al mundo tu gran proyecto!

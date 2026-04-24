@@ -2,7 +2,7 @@
 title: "Retos #HackathonSomosNLP 2026"
 description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -16,7 +16,7 @@ const miniChallenges = [
     points: "1 pto",
     requirements: "Saber buscar en internet",
     link: "https://somosnlp.org/hackathon/retos/include",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "Preguntas culturales (BLEND)",
@@ -25,7 +25,7 @@ const miniChallenges = [
     points: "2 ptos",
     requirements: "Haber vivido en sociedad",
     link: "https://somosnlp.org/hackathon/retos/blend",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 
@@ -37,7 +37,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Haber vivido en sociedad y querer comprender bien el concepto de adecuación cultural",
     link: "https://somosnlp.org/hackathon/retos/preferencias",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "2.A. Alinea un modelo textual (LLM)",
@@ -46,7 +46,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Saber programar",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "2.B. Alinea un modelo multimodal",
@@ -55,7 +55,7 @@ const mainChallenges = [
     points: "3 ptos",
     requirements: "Tener experiencia en PLN",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 
@@ -67,7 +67,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "4. Graba un vídeo",
@@ -76,7 +76,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "5. (Opcional) Escribe un paper",
@@ -85,7 +85,7 @@ const finalChallenges = [
     points: "0.5 ptos",
     requirements: "Haber completado algún reto principal",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 </script>

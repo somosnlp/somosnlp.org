@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP"
 description: Participe do maior hackathon open-source de Processamento de Linguagem Natural em espanhol e português
 lang: pt
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 Somos 600M de pessoas que falam espanhol e 265M que falam português no mundo. O espanhol e o português são os idiomas principais em 29 países, cada um com uma grande riqueza cultural. Embora os modelos de linguagem apresentem capacidades multilíngues cada vez maiores, eles são realmente multiculturais?

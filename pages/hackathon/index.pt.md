@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2026"
 description: Vamos impulsionar a criação de modelos de linguagem alinhados com a cultura dos países da América Latina e da Península Ibérica.
 lang: pt
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -52,7 +52,7 @@ Nesta quinta edição vamos nos concentrar na criação de recursos que nos perm
 
 O melhor? TODO MUNDO pode colaborar! 🎉
 
-![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
+![GIF Hackathon #Somos600M](/images/eventos/260501_hackathon_video.gif)
 <!-- Atualizar com o GIF deste ano -->
 
 ---
