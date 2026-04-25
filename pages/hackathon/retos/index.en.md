@@ -2,7 +2,7 @@
 title: "Challenges #HackathonSomosNLP 2026"
 description: Let's drive the creation of language models aligned with the culture of LATAM and the Iberian Peninsula.
 lang: en
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -16,7 +16,7 @@ const miniChallenges = [
     points: "1 pt",
     requirements: "Know how to search on the internet",
     link: "https://somosnlp.org/en/hackathon/retos/include",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "Cultural Questions (BLEND)",
@@ -25,7 +25,7 @@ const miniChallenges = [
     points: "2 pts",
     requirements: "Have lived in society",
     link: "https://somosnlp.org/en/hackathon/retos/blend",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 
@@ -37,7 +37,7 @@ const mainChallenges = [
     points: "3 pts",
     requirements: "Have lived in society and want to understand the concept of cultural alignment well",
     link: "https://somosnlp.org/en/hackathon/retos/preferencias",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "2.A. Align a Textual Model (LLM)",
@@ -46,7 +46,7 @@ const mainChallenges = [
     points: "3 pts",
     requirements: "Know how to program",
     link: "https://somosnlp.org/en/hackathon/retos/alineamiento",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "2.B. Align a Multimodal Model",
@@ -55,7 +55,7 @@ const mainChallenges = [
     points: "3 pts",
     requirements: "Have experience in NLP",
     link: "https://somosnlp.org/en/hackathon/retos/alineamiento",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 
@@ -67,7 +67,7 @@ const finalChallenges = [
     points: "0.5 pts",
     requirements: "Have completed a main challenge",
     link: "https://somosnlp.org/en/hackathon/retos/presentacion",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "4. Record a Video",
@@ -76,7 +76,7 @@ const finalChallenges = [
     points: "0.5 pts",
     requirements: "Have completed a main challenge",
     link: "https://somosnlp.org/en/hackathon/retos/presentacion",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
     title: "5. (Optional) Write a Paper",
@@ -85,7 +85,7 @@ const finalChallenges = [
     points: "0.5 pts",
     requirements: "Have completed a main challenge",
     link: "https://somosnlp.org/en/hackathon/retos/presentacion",
-    cover: "/images/eventos/260401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 </script>
@@ -110,7 +110,7 @@ Good luck! 🚀
 Before starting, everyone needs to:
 - ✅ Join the [SomosNLP Discord server](https://discord.com/invite/my8w7JUxZR)
 - ✅ Create a [Hugging Face account](https://huggingface.co/join)
-- ✅ Fill out the [registration form](https://somosnlp.org/en/hackathon/registro)
+- ✅ Fill out the [registration form](https://hackathon-somosnlp-2026.eventbrite.com)
 - ✅ Join the hackathon's [Hugging Face organization](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), where datasets, models, and demos will be shared
 
 To create a team:
