@@ -1,8 +1,8 @@
 ---
-title: "Desafios #HackathonSomosNLP 2025"
-description: Vamos possibilitar a criação de LLMs alinhados com a cultura da LATAM e da Península Ibérica.
+title: "Desafios #HackathonSomosNLP 2026"
+description: Vamos impulsionar a criação de modelos de linguagem alinhados com a cultura dos países da América Latina e da Península Ibérica.
 lang: pt
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -11,167 +11,276 @@ import ChallengesGrid from '../../../src/components/ChallengesGrid.vue'
 const miniChallenges = [
   {
     title: "Exames (INCLUDE)",
-    description: "Procure exames de múltipla escolha do seu país para avaliar o conhecimento dos LLMs. Priorize exames em idiomas diferentes do espanhol e/ou focados em temas culturais (por exemplo, história, literatura).",
-    dates: "9 de abril - 31 de maio (PRORROGADO)",
+    description: "Procure exames de múltipla escolha para avaliar o conhecimento dos LLMs sobre o seu país. Priorize exames em idiomas diferentes do espanhol e/ou focados em temas culturais (por exemplo, história, literatura).",
+    dates: "9 de abril - 31 de maio",
     points: "1 ponto",
     requirements: "Saber pesquisar na internet",
     link: "https://somosnlp.org/pt/hackathon/retos/include",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
-    title: "Perguntas Culturais (BLEND)",
-    description: "Responda perguntas sobre seu país para avaliar o conhecimento cultural dos LLMs. Usaremos essas respostas para estender o benchmark aberto BLEND.",
-    dates: "14 de abril - 31 de maio (PRORROGADO)",
+    title: "Perguntas culturais (BLEND)",
+    description: "Responda a perguntas sobre o seu país para avaliar o conhecimento cultural dos LLMs. Usaremos essas respostas para estender o benchmark aberto BLEND.",
+    dates: "14 de abril - 31 de maio",
     points: "2 pontos",
     requirements: "Ter vivido em sociedade",
     link: "https://somosnlp.org/pt/hackathon/retos/blend",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 
 const mainChallenges = [
   {
-    title: "1. Gere um Dataset de Preferências",
-    description: "Projete prompts que avaliem a adequação cultural com seu país e escolha a melhor resposta em uma LLM Arena. Os prompts e as respostas serão coletados e compartilhados com todas as equipes participantes como dataset de preferências v0 para a fase de alinhamento.",
-    dates: "14 de abril - 15 de maio (PRORROGADO)",
+    title: "1. Gere um dataset de preferências",
+    description: "Desenhe prompts que avaliem a adequação cultural com o seu país e escolha a melhor resposta numa LLM Arena. Os prompts e as respostas serão recolhidos e partilhados com todas as equipas participantes como dataset de preferências v0 para a fase de alinhamento.",
+    dates: "14 de abril - 21 de maio",
     points: "3 pontos",
-    requirements: "Ter vivido em sociedade e querer entender bem o conceito de adequação cultural",
+    requirements: "Ter vivido em sociedade e querer compreender bem o conceito de adequação cultural",
     link: "https://somosnlp.org/pt/hackathon/retos/preferencias",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
-    title: "2.A. Alinhe um Modelo Textual (LLM)",
-    description: "Processe, filtre e estenda o dataset de preferências v0 adaptando-o ao seu caso de uso. Use-o para alinhar um LLM usando técnicas de treinamento otimizado e alinhamento como LoRA, quantização e otimização direta de preferências (DPO).",
+    title: "2.A. Alinhe um modelo textual (LLM)",
+    description: "Processe, filtre e estenda o dataset de preferências v0 adaptando-o ao seu caso de uso. Use-o para alinhar um LLM através de técnicas de treino otimizado e alinhamento como LoRA, quantização e otimização direta de preferências (DPO).",
     dates: "21 de abril - 31 de maio (Máx. 2 semanas)",
     points: "3 pontos",
     requirements: "Saber programar",
     link: "https://somosnlp.org/pt/hackathon/retos/alineamiento",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
-    title: "2.B. Alinhe um Modelo Multimodal",
-    description: "Gere um dataset de imagens e descrições usando a API da Cohere. Use-o para criar um modelo multimodal (VLLM) que gere descrições de imagens levando em conta o contexto usando as últimas técnicas de treinamento otimizado.",
+    title: "2.B. Alinhe um modelo multimodal",
+    description: "Gere um dataset de imagens e descrições utilizando a API da Cohere. Use-o para criar um modelo multimodal (VLLM) que gere descrições de imagens tendo em conta o contexto, usando as últimas técnicas de treino otimizado.",
     dates: "21 de abril - 31 de maio (Máx. 2 semanas)",
     points: "3 pontos",
-    requirements: "Ter experiência em NLP",
+    requirements: "Ter experiência em PLN",
     link: "https://somosnlp.org/pt/hackathon/retos/alineamiento",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 
 const finalChallenges = [
   {
-    title: "3. Crie uma Demo",
-    description: "Crie uma demo do seu projeto em um Space do Hugging Face para que todos possam ver seu trabalho.",
-    dates: "Até 31 de maio (PRORROGADO)",
+    title: "3. Crie uma demo",
+    description: "Crie uma demo do seu projeto num Space do Hugging Face para que toda a gente possa ver o seu trabalho.",
+    dates: "Até 31 de maio",
     points: "0,5 pontos",
-    requirements: "Ter completado algum desafio principal",
+    requirements: "Ter completado um desafio principal",
     link: "https://somosnlp.org/pt/hackathon/retos/presentacion",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
-    title: "4. Grave um Vídeo",
-    description: "Grave um vídeo de 5 minutos apresentando seu projeto para o júri e o resto da comunidade.",
-    dates: "Envio até 1 de junho (PRORROGADO)",
+    title: "4. Grave um vídeo",
+    description: "Grave um vídeo de 5 minutos a apresentar o seu projeto ao júri e ao resto da comunidade.",
+    dates: "Envio até 1 de junho",
     points: "0,5 pontos",
-    requirements: "Ter completado algum desafio principal",
+    requirements: "Ter completado um desafio principal",
     link: "https://somosnlp.org/pt/hackathon/retos/presentacion",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   },
   {
-    title: "5. (Opcional) Escreva um Paper",
-    description: "Escreva um paper descrevendo seu projeto. Se você estiver interessado, podemos orientá-lo e ajudá-lo a enviá-lo para um workshop do LatinX in NLP.",
+    title: "5. (Opcional) Escreva um paper",
+    description: "Escreva um paper a descrever o seu projeto. Se tiver interesse, podemos orientá-lo e ajudá-lo a submetê-lo a um workshop do LatinX in NLP.",
     dates: "A partir de junho",
     points: "0,5 pontos",
-    requirements: "Ter completado algum desafio principal",
+    requirements: "Ter completado um desafio principal",
     link: "https://somosnlp.org/pt/hackathon/retos/presentacion",
-    cover: "/images/eventos/250401_hackathon_sinfecha.jpg"
+    cover: "/images/eventos/260501_hackathon_eventbrite.png"
   }
 ]
 </script>
 
-O hackathon deste ano está focado na criação de recursos que permitam a avaliação e o alinhamento de modelos de linguagem com a cultura dos países da América Latina e da Península Ibérica. O hackathon foi prorrogado **até 31 DE MAIO**.
+O hackathon deste ano centra-se na criação de recursos que permitam a avaliação e o alinhamento de modelos de linguagem com a cultura dos países da América Latina e da Península Ibérica. O hackathon foi prorrogado **até 31 DE MAIO**.
 
-O hackathon consiste em um desafio principal e vários mini desafios com os quais você também pode acumular pontos para os prêmios finais e ganhar prêmios extras. A pontuação máxima total é de 10 pontos.
+O hackathon consiste num desafio principal e em vários mini desafios, com os quais também podem acumular pontos para os prémios finais e ganhar prémios extra. A pontuação máxima total é de 10 pontos.
 
-Antes de começar, todas as pessoas precisam:
-- ✅ Juntar-se ao [servidor Discord da SomosNLP](https://discord.com/invite/my8w7JUxZR)
+Nesta página vais encontrar informação sobre:
+- Primeiros passos
+- Incentivos e prémios
+- Mini desafios
+- Desafio principal
+- Perguntas frequentes
+
+Muito sucesso! 🚀
+
+---
+
+## 👣 Primeiros passos
+
+Antes de começar, todas as pessoas precisam de:
+- ✅ Juntar-se ao [servidor de Discord da SomosNLP](https://discord.com/invite/my8w7JUxZR)
 - ✅ Criar uma conta no [Hugging Face](https://huggingface.co/join)
-- ✅ Preencher o [formulário de inscrição](https://forms.gle/bDaBC7XV3iu2trj59)
-- ✅ Juntar-se à [organização Hugging Face do hackathon](https://huggingface.co/organizations/somosnlp-hackathon-2025/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), onde datasets, modelos e demos serão compartilhados
+- ✅ Preencher o [formulário de inscrição](https://hackathon-somosnlp-2026.eventbrite.com)
+- ✅ Juntar-se à [organização do hackathon no Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD), onde serão partilhados os datasets, modelos e demos
 
-Para criar uma equipe:
-- Você pode se inscrever com pessoas que já conhece (por exemplo, seu grupo de classe ou trabalho) ou conhecer pessoas da comunidade SomosNLP de outros países, universidades e empresas. Se quiser conhecer pessoas, confira o [canal #encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611)
-- Depois de criar a equipe, UMA pessoa deve [registrar a equipe](https://forms.gle/mLKEURUXGiNhq31T9)
+Para criar uma equipa:
+- Podes inscrever-te com pessoas que já conheças (por exemplo, o teu grupo de turma ou de trabalho) ou conhecer pessoas da comunidade SomosNLP de outros países, universidades e empresas. Se quiseres conhecer pessoas, consulta o [canal #encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611)
+- Depois de criada a equipa, UMA pessoa deve [registar a equipa](https://forms.gle/mLKEURUXGiNhq31T9)
 
-## 👏 Incentivos e prêmios
+---
 
-Ao participar, você terá a oportunidade de:
-- ✨ Aprender com workshops e palestras ao vivo
-- ✨ Obter acesso aos 500 USD da API da Cohere
-- ✨ Obter acesso a GPUs L40S da Hugging Face
+## 👏 Incentivos e prémios
+
+Ao participar terás a oportunidade de:
+- ✨ Aprender com workshops e palestras em direto
+- ✨ Conseguir acesso a 500 USD da API da Cohere
+- ✨ Conseguir acesso a uma GPU L40S do Hugging Face
 - ✨ Ganhar 1000 USD em créditos da API da Mistral
 - ✨ Ganhar centenas de USD em créditos GPU e livros de IA e linguagem
 - ✨ Ganhar acesso a um Mestrado online em IA
 - ✨ Ganhar uma entrada para a conferência online da WomenTech Network
-- ✨ Ganhar uma indicação para a rede de talentos Nova
-- ✨ Ganhar mentorias com pessoas relevantes na área de NLP
-- ✨ Co-publicar papers em conferências internacionais de NLP
-- ✨ Obter um certificado de participação (ou equipe vencedora) do hackathon
+- ✨ Ganhar uma nomeação para a rede de talento Nova
+- ✨ Ganhar mentorias com pessoas relevantes na área do PLN
+- ✨ Co-publicar papers em conferências internacionais de PLN
+- ✨ Conseguir um certificado de participação (ou de equipa vencedora) do hackathon
 
-Vamos nessa! 🚀
+Vamos a isso! 🚀
 
+---
 
 ## ✨ Mini desafios
 
-Participe destes mini desafios para contribuir com a criação de bancos de dados que avaliem o conhecimento cultural e estereótipos dos LLMs. Você poderá acumular pontos e ganhar prêmios extras!
+Participa nestes mini desafios para contribuir para a criação de bases de dados que avaliem o conhecimento cultural e os estereótipos dos LLMs. Vais poder acumular pontos e ganhar prémios extra!
 
 <ChallengesGrid :challenges="miniChallenges" />
 
-## 🔥 Desafio Principal
+---
 
-1. Gere um dataset de preferências
-2. Alinhe um modelo textual (opção A) ou multimodal (opção B), à sua escolha
-3. Crie uma demo do seu projeto
-4. Apresente seu projeto em um vídeo de 5 mins
-5. (Opcional) escreva um paper apresentando seu projeto
+## 🔥 Desafio principal
+
+1. Gera um dataset de preferências
+2. Alinha um modelo textual (opção A) ou multimodal (opção B), à tua escolha
+3. Cria uma demo do teu projeto
+4. Apresenta o teu projeto num vídeo de 5 minutos
+5. (Opcional) escreve um paper a apresentar o teu projeto
 
 <ChallengesGrid :challenges="mainChallenges" />
 
 <ChallengesGrid :challenges="finalChallenges" />
 
-## ❓ Ajuda
+---
 
-Se você tiver alguma dúvida:
-- Verifique o canal [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115), recomendamos ativar as notificações do canal, publicamos no máximo 1 vez por dia
-- Faça suas perguntas no canal [#pedir-ajuda](https://discord.com/channels/938134488670675055/1051997272356966430) do Discord para que todos possam se beneficiar da resposta
-- Os eventos são anunciados no canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) e adicionados ao [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- Você pode nos dar feedback para melhorar os guias dos desafios com este [formulário](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anônimo)
+## ❓ Perguntas frequentes
+
+<details>
+<summary>Porque é que devo participar?</summary>
+
+Ao juntares-te a este hackathon terás a oportunidade de:
+
+- ✅ Compreender como funcionam os grandes modelos de linguagem, tanto textuais (LLMs) como multimodais (VLLMs), e descobrir os desafios de cada etapa do seu desenvolvimento: criação do corpus, treino, alinhamento e avaliação
+- ✅ Participar na criação do primeiro corpus de preferências de qualidade e diverso para alinhar LLMs com a cultura dos países da América Latina e da Península Ibérica (top como experiência e top para o CV)
+- ✅ Fazer parte da equipa que cria algumas das bases de dados da primeira leaderboard aberta de LLMs em espanhol: La Leaderboard
+- ✅ Esclarecer todas as tuas dúvidas sobre PLN durante sessões de mentoria "Ask Me Anything"
+- ✅ Receber apoio para apresentar o teu trabalho num paper
+- ✅ Ganhar prémios para continuar a crescer como profissional e conseguir um certificado para partilhar no LinkedIn
+- ✅ Juntar-te à maior comunidade de pessoas lusófonas e hispanofalantes que estudam, trabalham e investigam em PLN
+
+</details>
+
+<details>
+<summary>Qual é o nível necessário?</summary>
+
+A equipa da SomosNLP quer encorajar-te a participar, independentemente dos teus conhecimentos atuais. Em edições anteriores contámos com grupos de institutos de investigação e grupos de estudantes de licenciatura — todos os projetos contam!
+
+- 📖 Vamos dar uma série de **workshops práticos** a mostrar como desenvolver um projeto, para que tenhas um exemplo de referência.
+
+<!-- Para aquecer podes ver os da edição anterior:
+
+  - [Fine-tuning LLMs (Manu Romero)](https://somosnlp.org/hackathon-2023/fine-tuning-llms)
+  - [Etiquetagem de dados com Argilla (Daniel Vila)](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) -->
+
+- ❓ Vamos organizar **AMAs** (do inglês, Ask Me Anything) com especialistas e mentores para esclarecerem as tuas dúvidas.
+
+</details>
+
+<details>
+<summary>De que depende a complexidade dos projetos?</summary>
+
+Vamos disponibilizar um exemplo de como criar um dataset, treinar um modelo e criar uma demo. Cabe a ti e à tua equipa decidir quanto investigar e trabalhar para melhorar a versão base. A dificuldade depende também do caso de uso, da origem dos dados, do tempo que dediquem à curadoria, da técnica de treino, das iterações que façam e de quão elaborada queiram que seja a vossa demo. Têm liberdade para escolher tudo!
+
+</details>
+
+<details>
+<summary>São mesmo necessárias 4 semanas?</summary>
+
+Não, depende da tua disponibilidade — podes desenvolver um bom projeto numa semana. Sabemos que as pessoas estudam e trabalham, por isso damos mais tempo do que o necessário para que toda a gente possa participar. Também queremos dar-te tempo extra para aproveitares a oportunidade de assistir em direto às palestras e mentorias do hackathon.
+
+</details>
+
+<details>
+<summary>Até quando posso criar uma equipa?</summary>
+
+EDITADO: Aceitamos novas equipas até 23 de maio. O dia final para entregar projetos é 31 de maio.
+
+</details>
+
+<details>
+<summary>Como me junto a uma equipa?</summary>
+
+Lê a secção "Para criar uma equipa:" no início desta página e o README no canal #encuentra-equipo do nosso servidor de Discord :)
+
+</details>
+
+<details>
+<summary>Pode haver equipas de 1 pessoa?</summary>
+
+Sim, aceitamos equipas de 1 a 5 pessoas.
+
+</details>
+
+<details>
+<summary>Como nos recomendam que nos organizemos?</summary>
+
+- Usem o canal do vosso projeto no Discord para comunicar e organizar-se.
+- Como é um hackathon internacional, recomendamos comunicação assíncrona ou que dividam o trabalho e façam reuniões com menos pessoas.
+- Marquem reuniões ou conversem espontaneamente usando os novos canais de voz da categoria "SALAS DE REUNIÓN" do Discord.
+- Fixem no canal do projeto as mensagens importantes, por exemplo: divisão de tarefas, dia da próxima reunião, ... Para fixar uma mensagem, clica nos três pontinhos e seleciona "Fixar mensagem".
+- Para maior clareza, podem também criar um documento partilhado entre os membros da equipa para escrever o objetivo do projeto, dividir tarefas e por aí fora (e fixem o link no chat).
+
+</details>
+
+<details>
+<summary>Não percebo o Discord — quais são os canais mais importantes?</summary>
+
+- Vê o canal [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115); recomendamos ativar as notificações do canal — publicamos 2 a 3 vezes por semana.
+- Faz as tuas perguntas no canal [#pide-ayuda](https://discord.com/channels/938134488670675055/1051997272356966430) do Discord para que toda a gente possa beneficiar da resposta.
+- Anunciamos os eventos no canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) e adicionamo-los ao [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+</details>
+
+<details>
+<summary>Como posso ficar a saber dos eventos?</summary>
+
+- Anunciamos os eventos no canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
+- Adicionamo-los ao [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Anunciamo-los nas redes sociais ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_))
+- [Segue-nos no YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) e guarda a [playlist do hackathon 2026](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
+
+</details>
+
+<details>
+<summary>Como posso dar feedback sobre o evento?</summary>
+
+- Podes dar-nos feedback para melhorar os guias dos desafios através deste [formulário](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
+- Vamos também partilhar um formulário de feedback geral no final do evento
+
+</details>
 
 
-## 🗓️ Eventos
+*Se te dissemos que existe nesta página informação que não consegues encontrar, apaga as cookies e recarrega a página.*
 
-#### Automatizando extração de corpus de PDFs | Alfonso Amayuelas, PhD @ Universidade da Califórnia, Santa Barbara
+---
 
-Como usar as últimas ferramentas em LLMs para criar datasets de QA? Neste evento, usaremos um modelo de OCR e LLMs para padronizar exames, questionários, etc.
+## 🙌 Outras formas de apoiar a adequação cultural dos LLMs
 
-[Gravação já disponível!](https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI&index=3)
+<details>
+<summary>Como posso colaborar?</summary>
 
-![alt text](/images/eventos/250415_alfonso_amayuelas.png)
+- Partilha as publicações das contas da @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_)) e convida os teus colegas de trabalho e da turma a formar uma equipa!
+<!-- - Tens 2 horinhas para nos ajudar a organizar este evento incrível? Estamos à tua espera, [junta-te à equipa](https://forms.gle/radg18NMLRZMPu38A). -->
+- Estás na universidade? [Partilha esta informação com o teu professor](https://somosnlp.org/pt/hackathon/universidades) ou com alguém do grupo de IA/informática para que a tua universidade colabore com o evento.
+<!-- - Gostarias de partilhar o teu conhecimento com a comunidade? Propõe uma [palestra](https://forms.gle/YpUvifDNLG6E56Cy9) ou uma [mentoria](https://forms.gle/7UmsVDnFmNo1pCrf9).
+- Fazes parte de um grupo de investigação? Talvez vos interesse [colaborar doando um corpus](https://somosnlp.org/donatucorpus). -->
+- Queres apoiar a iniciativa dando visibilidade, patrocinando vouchers ou com uma doação financeira? [Patrocina o hackathon](https://forms.gle/sEkxstwbJSRYpgDa8)!
 
-
-#### Confidently wrong: expressando incerteza em tarefas multilíngues | Selene Baez, Postdoc @ Universidade de Zurique
-
-Embora a fluência e a coerência dos Modelos de Linguagem (LLM) na geração de texto tenham melhorado significativamente, sua capacidade de gerar expressões adequadas de incerteza ainda é limitada. Por meio de uma tarefa de Q&A multilíngue de livro fechado e GPT-3.5, exploramos a precisão com que os LLMs se calibram e expressam certeza em uma variedade de idiomas, incluindo ambientes com poucos recursos.
-
-[Gravação disponível!](https://www.youtube.com/watch?v=TC9tOEyPqy8&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
-
-![alt text](/images/eventos/250410_selene_baez.png)
-
-#### Red Teaming para Modelos de Linguagem | Luis Vasquez, Research Engineer @Barcelona Supercomputing Center
-
-Breve introdução ao Red Teaming para Modelos de Linguagem: definição, estratégias comuns e recursos.
-
-[Gravação disponível!](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
-
-![alt text](/images/eventos/250410_luis_vasquez.png)
+</details>
