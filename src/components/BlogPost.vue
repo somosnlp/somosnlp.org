@@ -73,6 +73,13 @@ const linkUrl = computed(() => `https://www.linkedin.com/sharing/share-offsite/?
             </div>
         </header>
         <hr class="mx-auto mt-8 mb-12 prose" />
+        <div v-if="$route.path.startsWith('/comunidad/') && frontmatter.cover" class="flex justify-center mb-12">
+            <img
+                :src="frontmatter.cover"
+                :alt="frontmatter.title"
+                class="rounded-2xl object-cover w-64 h-64"
+            />
+        </div>
         <!-- Diferenciación necesaria para la correcta visualización de las tablas en recursos -->
         <article v-if="frontmatter.tablePage">
             <slot />
