@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Registro"
 description: "¡Regístrate ya para participar el mayor hackathon open-source de PLN en español y portugués!"
 lang: es
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 En esta quinta edición de nuestro hackathon nos vamos a centrar en la generación de recursos que nos permitan evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica.
@@ -27,7 +27,7 @@ EN: The Hugging Face Hub is a collaborative web repository where open Machine Le
 
 <EventbriteCheckout
   eventId="1987992570293"
-  :height="600"
+  :height="1200"
   fallbackUrl="https://hackathon-somosnlp-2026.eventbrite.com"
 />
 

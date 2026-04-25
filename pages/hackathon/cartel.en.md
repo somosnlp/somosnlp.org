@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Design the Poster"
 description: "Design the poster for Hackathon SomosNLP 2026!"
 lang: en
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 To foster different skills within our community, this year we want to give you the opportunity to design the hackathon poster. The goals of the hackathon are to create a quality Spanish corpus that captures the varieties of this rich language spoken by 600M people and to build a leaderboard that lets us evaluate LLMs in Spanish. Show us your most artistic side and help us create the poster!

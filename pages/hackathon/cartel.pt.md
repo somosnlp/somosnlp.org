@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Desenhe o Cartaz"
 description: "Desenhe o cartaz do Hackathon SomosNLP 2026!"
 lang: pt
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 Para incentivar diferentes habilidades da nossa comunidade, este ano queremos dar a você a oportunidade de desenhar o cartaz do hackathon. Os objetivos do hackathon são a criação de um corpus em espanhol de qualidade que inclua as variedades desse rico idioma falado por 600M de pessoas e a criação de uma leaderboard que nos permita avaliar os LLMs em espanhol. Mostre seu lado mais artístico e nos ajude a criar o cartaz!

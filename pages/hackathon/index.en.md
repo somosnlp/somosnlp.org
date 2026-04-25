@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2026"
 description: We are going to drive the creation of language models aligned with the culture of LATAM and the Iberian Peninsula.
 lang: en
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -12,7 +12,7 @@ import HackathonCard from '../../src/components/HackathonCard.vue'
 There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each of them rich in culture. Although language models show ever-growing multilingual capabilities, are they truly multicultural? Join the #HackathonSomosNLP now, the largest open-source Natural Language Processing hackathon in Spanish and Portuguese 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
-  <a href="https://somosnlp.org/en/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
+  <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
   <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Spread the word</a>
 </div>
 
@@ -51,7 +51,7 @@ In this fifth edition we will focus on creating resources that let us **evaluate
 
 The best part? EVERYONE can contribute! 🎉
 
-![GIF Hackathon #Somos600M](/images/eventos/250401_hackathon.gif)
+![GIF Hackathon #Somos600M](/images/eventos/260501_hackathon_video.gif)
 <!-- Actualizar al GIF de este año -->
 
 ---
@@ -79,7 +79,7 @@ The best part? EVERYONE can contribute! 🎉
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
-<a href="https://somosnlp.org/en/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
+<a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
 
 </div>
 

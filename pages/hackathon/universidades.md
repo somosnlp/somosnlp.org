@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Info para universidades"
 description: ¡Anima a tu alumnado a participar y aprender con nuestro hackathon!
 lang: es
-cover: /images/eventos/260401_hackathon_sinfecha.jpg
+cover: /images/eventos/260501_hackathon_eventbrite.png
 ---
 
 ¡Hola profe! 👋
