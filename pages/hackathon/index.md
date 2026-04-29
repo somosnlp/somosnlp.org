@@ -14,7 +14,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
   <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
-  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Difunde el evento</a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">🎨 Material de difusión</a>
 </div>
 
 *([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
@@ -112,7 +112,7 @@ Al participar tendrás la oportunidad de:
   title="Difunde el evento"
   description="Ayúdanos a que esta iniciativa llegue a más personas. Con 4 publicaciones añadimos vuestro logo a la web."
   linkText="Difunde"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+  linkUrl="https://somosnlp.org/hackathon/difusion"
 />
 
 <HackathonCard
@@ -281,9 +281,8 @@ logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 Al unirte a este hackathon tendrás la oportunidad de:
 
-- ✅ Comprender cómo funcionan los grandes modelos del lenguaje, tanto textuales (LLMs) como multimodales (VLLMs) y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
+- ✅ Comprender cómo funcionan los grandes modelos del lenguaje y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
 - ✅ Participar en la creación del primer corpus de preferencias de calidad y diverso para alinear LLMs con la cultura de los países de LATAM y la Península Ibérica (top como experiencia y top para el CV)
-- ✅ Ser parte del equipo que cree algunas de las bases de datos de la primera leaderboard abierta de LLMs en español: La Leaderboard
 - ✅ Resolver todas tus dudas sobre PLN durante sesiones de mentoría "Ask My Anything"
 - ✅ Recibir apoyo para presentar tu trabajo en un paper
 - ✅ Ganar premios para seguir creciendo como profesional y conseguir un certificado que poder compartir en LinkedIn
@@ -296,7 +295,7 @@ Al unirte a este hackathon tendrás la oportunidad de:
 
 Desde el equipo de SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. En ediciones anteriores hemos contado con grupos de institutos de investigación y grupos de estudiantes de grado, ¡todos los proyectos suman!
 
-- 📖 Impartiremos una serie de **talleres prácticos** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia.
+- 📖 Impartiremos un **taller** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia.
 
 <!-- Para calentar puedes visualizar los de la edición anterior:
 
@@ -331,14 +330,14 @@ No, depende de tu disponibilidad, puedes desarrollar un buen proyecto en una sem
 <details>
 <summary>¿Hasta cuándo puedo crear un equipo?</summary>
 
-EDITADO: Damos la bienvenida a nuevos equipos hasta el 23 de mayo. El día final para entregar proyectos es el 31 de mayo.
+Damos la bienvenida a nuevos equipos hasta el 15 de mayo. El día final para entregar proyectos es el 29 de mayo.
 
 </details>
 
 <details>
 <summary>¿Cómo me uno a un equipo?</summary>
 
-Lee la sección "Para crear un equipo:" al comienzo de esta página y el README en el canal #encuentra-equipo de nuestro servidor de Discord :)
+Lee la sección "Para crear un equipo:" en la página de "retos" y el README en el canal #encuentra-equipo de nuestro servidor de Discord :)
 
 </details>
 
@@ -382,7 +381,6 @@ Sí, aceptamos equipos de 1 a 5 personas.
 <details>
 <summary>¿Cómo puedo dar feedback del evento?</summary>
 
-- Nos puedes dar feedback para mejorar las guías de los retos con este [formulario](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
 - Compartiremos también un formulario de feedback general al final del evento
 
 </details>
