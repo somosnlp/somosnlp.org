@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2026"
 description: Vamos impulsionar a criação de modelos de linguagem alinhados com a cultura dos países da América Latina e da Península Ibérica.
 lang: pt
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -113,7 +113,7 @@ Apoie a organização deste evento gratuito e sem fins lucrativos!
   title="Divulgue o evento"
   description="Ajude-nos a fazer com que esta iniciativa chegue a mais pessoas. Com 4 publicações, adicionamos o logo de vocês ao site."
   linkText="Divulgue"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+  linkUrl="https://somosnlp.org/pt/hackathon/patrocinios"
 />
 
 <HackathonCard
@@ -137,7 +137,7 @@ Apoie a organização deste evento gratuito e sem fins lucrativos!
   title="Patrocine o evento"
   description="Apoie nossa missão oferecendo visibilidade, vales ou doações. A SomosNLP é uma comunidade sem fins lucrativos."
   linkText="Ver opções"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+  linkUrl="https://somosnlp.org/pt/hackathon/patrocinios"
 />
 
 </div>
@@ -176,7 +176,7 @@ Foram coletadas mais de <strong>38.000 perguntas de exames de 23 países</strong
 
 </div>
 
-<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Mais exemplos</a></center>
+<center><a href="/pt/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Mais exemplos</a></center>
 
 ---
 

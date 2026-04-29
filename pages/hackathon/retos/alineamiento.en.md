@@ -2,7 +2,7 @@
 title: "Main Challenge #HackathonSomosNLP 2026: LLM and VLLM Alignment"
 description: How to participate in this challenge and help improve the cultural knowledge of language and vision-language models
 lang: en
-cover: /images/eventos/250401_hackathon_sinfecha.jpg
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 ## 🎯 Challenge Objective
@@ -14,7 +14,7 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 - Adapt from an existing model (do not pre-train one from scratch), we recommend using models around 7B as a base (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) and [Gemma](https://huggingface.co/google/gemma-3-4b-it))
 - Generate the dataset with the help of 500 USD in Cohere API credits! We recommend filtering and extending the v0 preferences dataset generated collectively in the Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
 - Train your model directly in JupyterLab on the Hugging Face hub — we have GPUs sponsored by 🤗!
-- Upload the model(s) along with all notebooks used to hf.co/somosnlp-hackathon-2025
+- Upload the model(s) along with all notebooks used to hf.co/somosnlp-hackathon-2026
 - Write the [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), include links to the dataset and notebooks used (e.g. preprocessing, training)
 
 ---
@@ -26,10 +26,10 @@ cover: /images/eventos/250401_hackathon_sinfecha.jpg
 <details>
 <summary>Requirements per team</summary>
 
-1. Contribute 100 **quality** prompts to the [preferences](https://somosnlp.org/hackathon/retos/preferencias) dataset
-2. Answer 200 questions from the evaluation dataset ([BLEND](https://somosnlp.org/hackathon/retos/blend))
+1. Contribute 100 **quality** prompts to the [preferences](https://somosnlp.org/en/hackathon/retos/preferencias) dataset
+2. Answer 200 questions from the evaluation dataset ([BLEND](https://somosnlp.org/en/hackathon/retos/blend))
 3. Request the 500 USD Cohere API credits (after completing points 1 and 2, mention @mariagrandury in your team's channel for instructions)
-4. Create a Space in the organization hf.co/somosnlp-hackathon-2025 with the [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter) template
+4. Create a Space in the organization hf.co/somosnlp-hackathon-2026 with the [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter) template
 5. Complete the [registration form](https://forms.gle/mLKEURUXGiNhq31T9)
 
 </details>

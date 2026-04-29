@@ -2,7 +2,7 @@
 title: "Reto #HackathonSomosNLP 2026: Exámenes INCLUDE"
 description: Cómo participar en este reto y ayudar a mejorar el conocimiento cultural de los modelos de lenguaje
 lang: es
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 Busca exámenes de opción múltiple de tu país para evaluar el conocimiento de los LLMs. Prioriza exámenes en lenguas distintas al español y/o centrados en temas culturales (e.g. historia, literatura). Utilizaremos estas preguntas y respuestas para extender el benchmark abierto INCLUDE.

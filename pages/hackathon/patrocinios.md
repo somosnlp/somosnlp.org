@@ -1,11 +1,11 @@
 ---
-title: "Hackathon SomosNLP 2026: Patrocinios y Difusión"
+title: "Hackathon SomosNLP 2026: Patrocinios"
 description: ¡Gracias por ayudarnos a democratizar el PLN en español!
 lang: es
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-¡Muchas gracias por tu interés en apoyarnos a organizar y dar visibilidad a este maravilloso evento! En las ediciones anteriores **contamos cada vez con 500 registros de 30 países distintos y superamos las 5.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear datos que nos permitan crear modelos de lenguaje inclusivos y de calidad, adaptados a las diversas culturas de LATAM y la Península Ibérica.
+¡Muchas gracias por tu interés en apoyarnos en la organización da este maravilloso evento! En las ediciones anteriores **contamos cada vez con 500 registros de 30 países distintos y superamos las 5.000 visualizaciones de nuestros eventos**. Este año nuestros retos son crear datos que nos permitan crear modelos de lenguaje inclusivos y de calidad, adaptados a las diversas culturas de LATAM y la Península Ibérica.
 
 <div class="flex justify-center">
     <figure>
@@ -16,30 +16,23 @@ cover: /images/eventos/260501_hackathon_eventbrite.png
 
 Los tipos de patrocinios están explicados a continuación. En cuanto recibamos el formulario nos pondremos en contacto para fijar los detalles y añadiremos vuestro logo a la página web.
 
-Estamos a tu disposición en info@somosnlp.org, ¡contamos con tu apoyo! 💪
+Estamos a tu disposición en info@somosnlp.org y [Discord](https://discord.com/invite/my8w7JUxZR), ¡contamos con tu apoyo!
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/YREnJ3p9dNpQRYEg6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a>
-  <a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a>
 </div>
 
-## Tipos de patrocinio
+## 🚀 Patrocinios
 
-### 1. 🚀 Donación
+Aceptamos patrocinios económicos y en especie (e.g., créditos para GPUs, formación, libros, suscripciones techies...).
 
-Aceptamos donaciones económicas y en especie (e.g., créditos para GPUs, formación, libros, ...).
+### Categorías de patrocinio y beneficios
 
-<details>
-<summary>Categorías de donación y beneficios</summary>
+- **🥇 Oro**, patrocinio total valorado en **2500€**: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
+- **🥈 Plata**, patrocinio total valorado en **1200€**: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
+- **🥉 Bronce**, patrocinio total valorado en **600€**: logo mediano en tercer puesto y visibilidad en RRSS.
 
-- **🥇 Oro**, donación total valorada en 2500€: logo grande en primer puesto, máxima visibilidad en RRSS, mención en eventos y posible artículo, vídeo o charla promocional.
-- **🥈 Plata**, donación total valorada en 1200€: logo mediano en segundo puesto, visibilidad media en RRSS y posible artículo o vídeo promocional.
-- **🥉 Bronce**, donación total valorada en 600€: logo mediano en tercer puesto y visibilidad en RRSS.
-
-</details>
-
-<details>
-<summary>¿Para qué se usará mi patrocinio?</summary>
+### ¿Para qué se usará mi patrocinio?
 
 Nuestro hackathon es un evento gratuito, gracias a los patrocinios de Oro, Plata y Bronce podemos garantizar:
 - Tiempo de computación en la nube para todas las personas participantes
@@ -49,70 +42,7 @@ Nuestro hackathon es un evento gratuito, gracias a los patrocinios de Oro, Plata
 - Compensación de ponentes y mentores
 - Buena gestión de este evento internacional online
 
-Ejemplos de vales por premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA, merchandising específicamente creado para el hackathon, tiempo de computación en la nube, créditos de API de LLMs, vale para tiendas de informática, mentorías, etc.
-
-<center><a href="https://forms.gle/YREnJ3p9dNpQRYEg6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a></center>
-
-</details>
-
-
-### 2. 📣 Visibilidad
-
-Los patrocinios de visibilidad son de suma importancia ya que nos permiten llegar a más personas, lo cual es indispensable para nuestra misión de democratizar el PLN en Iberoamérica.
-
-<details>
-<summary>Tipos de visibilidad, requisitos y beneficios</summary>
-
-- **🤗 Comunidad**, mínimo 4 publicaciones: logo pequeño y visibilidad en RRSS.
-- **🎓 Universidad**, mínimo 1 publicación y 5 participantes: logo pequeño y visibilidad en RRSS.
-- La primera publicación debe ser antes del 1 de mayo.
-- El logo se añadirá a la página web del hackathon una vez hecha la primera publicación.
-
-</details>
-
-<details>
-<summary>¿Cómo darle visibilidad al hackathon?</summary>
-
-- Podéis utilizar las plantillas y material de difusión que ponemos a vuestra disposición para facilitar vuestra tarea.
-- Las publicaciones pueden ser en diferentes plataformas: blog, podcast, newsletter, LinkedIn, X, etc.
-- Importante: en redes sociales recuerda etiquetar a SomosNLP para que nos llegue la notificación.
-- En redes sociales, 1 publicación se puede intercambiar por 2 "quotes" en X o 2 . "reposts with your thoughts" en LinkedIn.
-- Podéis publicar en diferentes momentos del hackathon. Por ejemplo, para animar a participar en el hackathon (hasta principios de abril), a asistir a las charlas (durante el mes de abril) y compartir los resultados del hackathon (a principios de mayo).
-- Agradecemos RT / comentarios en las publicaciones en las que os mencionemos.
-
-Enlaces útiles:
-- [🎨 Material de difusión](https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf)
-- [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
-
-<center><a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Rellena el formulario de difusión</a></center>
-
-</details>
-
-<!--
-<details>
-<summary>¿Cómo darle visibilidad a una ponencia o mentoría?</summary>
-
-Form: Expert: Visibilidad de una ponencia o mentoría impartida por alguien de tu organización (mín. 3 publicaciones)
-
-Para que la entidad a la que pertenece la persona que imparte la ponencia/mentoría se considere patrocinadora Expert tiene que:
-- Publicar posts / mencionar en podcast / newsletter animando a participar en el hackathon antes del 15 de febrero (incluido)
-- Publicar posts anunciando la keynote/mentoría una semana antes del evento
-- Publicar posts anunciando la keynote/mentoría un día antes del evento
-- RT / comentar las publicaciones en las que os mencionemos
-
-Disclaimer: si quieres promocionar tu producto en una charla debes contar con un patrocinio de tipo Oro.
-
-¡Contáctanos ya para compartir tu experiencia!
-
-Enlaces útiles:
-- [🔊 Propón una keynote](https://forms.gle/YpUvifDNLG6E56Cy9)
-- [🧑‍🏫 Ofrece una mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9)
-
-<center><a href="https://forms.gle/sEkxstwbJSRYpgDa8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Patrocina el hackathon</a></center>
-</details>
--->
-
-
+Ejemplos de premios y sorteos que podéis patrocinar: beca para un curso de pago, acceso a una plataforma de formación, libros de PLN/IA/lingüística, merchandising específicamente creado para el hackathon, tiempo de computación en la nube, créditos de API de LLMs, suscripciones en plataformas de código, vale para tiendas de informática, mentorías, etc.
 
 ### 👀 Tabla detallada de beneficios
 
@@ -142,21 +72,18 @@ Enlaces útiles:
 
 - Si no se cumplen los requisitos, se eliminará el logo correspondiente
 - En los artículos, vídeos y charlas promocionales podéis compartir vuestros proyectos *relevantes* para la comunidad
-- ¡Agradecemos toda la visibilidad extra! 🤩
-
-## Contacto
-
-Estamos a tu disposición en info@somosnlp.org y Discord.
-
-Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! 💛
+- ¡Agradecemos toda la visibilidad extra!
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina el hackathon</a>
-  <a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Ayúdanos a difundir el hackathon</a>
+  <a href="https://somosnlp.notion.site/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎨 Material de difusión</a>
 </div>
 
 ---
 
-#### 💛 Patrocinio Individual
+## Contacto
 
-Sabemos que hay personas que nos apoyáis desde el comienzo y otras que nos acabáis de conocer y nos apoyaréis en esta nueva etapa. Os queremos agradecer vuestro esfuerzo y confianza añadiendo vuestra foto en la nueva página "Comunidad", ¡mandadnos vuestra info!
+Estamos a tu disposición en info@somosnlp.org y [Discord](https://discord.com/invite/my8w7JUxZR).
+
+Si tienes más ideas de colaboración, te animamos a contarnos cómo crees que nos puedes ayudar o cómo os podemos agradecer vuestro apoyo. ¡Muchas gracias de nuevo! 💛
+

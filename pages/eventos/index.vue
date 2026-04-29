@@ -32,6 +32,8 @@ const { t } = useI18n()
                 </a>
             </div> -->
 
+            <!-- CALENDARIO
+             
             <div class="mt-10 grid gap-4 lg:grid-cols-2">
                 <a :href="localePath('/eventos/calendario')" target="_blank" class="button-accent">
                     <carbon:calendar />
@@ -42,19 +44,30 @@ const { t } = useI18n()
                     <carbon:logo-google />
                     {{ t('events.calendar.join') }}
                 </a>
-            </div>
+            </div> 
 
             <hr class="mx-auto mt-8 mb-12 prose" />
+            -->
+
+
+
             <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">
                 Únete
-                al Hackathon #Somos600M</div>
+                al #HackathonSomosNLP</div>
 
             <div class="mt-10 grid gap-4 lg:grid-cols-1">
 
-                <a :href="localePath('/hackathon')" target="_blank">
-                    <img alt="Hackathon #Somos600M" width="650" height="365"
-                        src="/images/eventos/250401_hackathon_sinfecha.jpg" />
+                <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank">
+                    <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_hackathon_eventbrite.png" />
                 </a>
+                <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank">
+                    <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_sergio_paniego.png" />
+                </a>
+                <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
+                    <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank"
+                        style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝
+                        Inscríbete ya</a>
+                </div>
                 <!-- 
                 <a href="/hackathon-2025/ponencias" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"
@@ -129,12 +142,14 @@ const { t } = useI18n()
                             src="/images/eventos/240307_elena_gonzalez_blanco.png" />
                     </a>
 
-                    <a :href="localePath('/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel')" target="_blank">
+                    <a :href="localePath('/hackathon-2024/crear_datasets_de_calidad_con_argilla_y_distilabel')"
+                        target="_blank">
                         <img alt="Charla de Gabriel Martín" width="650" height="365"
                             src="/images/eventos/240311_gabriel_martin_blazquez.jpg" />
                     </a>
 
-                    <a :href="localePath('/hackathon-2024/importancia_de_la_calidad_de_los_datos_al_entrenar')" target="_blank">
+                    <a :href="localePath('/hackathon-2024/importancia_de_la_calidad_de_los_datos_al_entrenar')"
+                        target="_blank">
                         <img alt="Charla de Manu Romero" width="650" height="365"
                             src="/images/eventos/240311_manu_romero.jpg" />
                     </a>
@@ -149,7 +164,8 @@ const { t } = useI18n()
                             src="/images/eventos/240313_francisco_javier_rodrigo.jpg" />
                     </a>
 
-                    <a :href="localePath('/hackathon-2024/combatiendo_el_discurso_de_odio_mediante_contranarrativas')" target="_blank">
+                    <a :href="localePath('/hackathon-2024/combatiendo_el_discurso_de_odio_mediante_contranarrativas')"
+                        target="_blank">
                         <img alt="Charla de Estrella Vallecillo" width="650" height="365"
                             src="/images/eventos/240313_estrella_vallecillo.jpg" />
                     </a>
@@ -169,12 +185,14 @@ const { t } = useI18n()
                             src="/images/eventos/240319_cristina_vila.jpg" />
                     </a>
 
-                    <a :href="localePath('/hackathon-2024/estimacion_de_la_severidad_de_la_depresion_en_internet')" target="_blank">
+                    <a :href="localePath('/hackathon-2024/estimacion_de_la_severidad_de_la_depresion_en_internet')"
+                        target="_blank">
                         <img alt="Charla de Anxo Pérez" width="650" height="365"
                             src="/images/eventos/240319_anxo_perez.jpg" />
                     </a>
 
-                    <a :href="localePath('/hackathon-2024/como_anotar_corpus_linguisticos_para_entrenar_llms')" target="_blank">
+                    <a :href="localePath('/hackathon-2024/como_anotar_corpus_linguisticos_para_entrenar_llms')"
+                        target="_blank">
                         <img alt="Charla de Marta Guerrero" width="650" height="365"
                             src="/images/eventos/240320_marta_guerrero.jpg" />
                     </a>

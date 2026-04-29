@@ -85,6 +85,10 @@ landing-page:
     twitter: Siga-nos no Twitter
   events:
     all-events: Ver todos os eventos
+    event-description: >-
+      O #HackathonSomosNLP está de volta! Nesta edição, focamos na criação de
+      recursos para avaliar e melhorar a adequação cultural dos LLMs para os
+      países da América Latina e da Península Ibérica.
     join-event: Quero saber mais!
     more-events: Gravações de eventos
     recorded-events: Eventos anteriores
@@ -112,6 +116,7 @@ landing-page:
       Organizamos grande variedade de atividades educativas: contamos com +50
       workshops práticos e palestras de especialistas.
     heading: Somos 600M de hispanófonos
+    job-board: Bolsa de Emprego
     jobs: >-
       Conectamos talento com empresas e grupos de pesquisa graças à nossa
     new-job-board: Bolsa de Emprego

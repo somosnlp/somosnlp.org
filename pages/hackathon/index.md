@@ -2,7 +2,7 @@
 title: "#HackathonSomosNLP 2026"
 description: Vamos a impulsar la creación de modelos de lenguaje alineados con la cultura de los países de LATAM y la Península Ibérica.
 lang: es
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 <script setup>
@@ -14,7 +14,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
   <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
-  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Difunde el evento</a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">🎨 Material de difusión</a>
 </div>
 
 *([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
@@ -81,7 +81,6 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
 <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
-
 </div>
 
 
@@ -113,7 +112,7 @@ Al participar tendrás la oportunidad de:
   title="Difunde el evento"
   description="Ayúdanos a que esta iniciativa llegue a más personas. Con 4 publicaciones añadimos vuestro logo a la web."
   linkText="Difunde"
-  linkUrl="https://somosnlp.org/hackathon/patrocinios"
+  linkUrl="https://somosnlp.org/hackathon/difusion"
 />
 
 <HackathonCard
@@ -160,7 +159,7 @@ Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justi
 
 <!-- #TODO Añadir highlights de 2023 -->
 
-<ProjectCard year="2024" prize="1er Premio" title="📰 NoticIA" description="Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Publicado en SEPLN 2024." />
+<ProjectCard year="2024" prize="1er Premio" title="📰 NoticIA"> Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Paper publicado en <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610" target="_blank" class="text-blue-600 underline"> SEPLN 2024</a>. </ProjectCard>
 
 <ProjectCard year="2024" prize="2do Premio" title="🤝 AsistenciaRefugiados" description="Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España." />
 
@@ -168,7 +167,7 @@ Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justi
 
 <ProjectCard year="2024" prize="1er Premio" title="🤝 Cocina saludable" description="Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
 
-<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight" wide description="Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. Paper #Somos600M publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico El País." />
+<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
 
 <ProjectCard year="2025" prize="Logro colectivo" title="📚 INCLUDE: Benchmark de conocimiento cultural" variant="highlight" wide>
 Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</strong>, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.
@@ -176,15 +175,15 @@ Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</str
 
 </div>
 
-<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más ejemplos</a></center>
+<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más proyectos</a></center>
 
 ---
 
 ## 💡 Ponencias y mentorías
 
-Tendrás la oportunidad de aprender de líderes de la academia y la industria, ¡iremos anunciando nuevas ponencias y mentorías!
+¡Tendrás la oportunidad de aprender de líderes de la academia y la industria!
 
-<SpeakerList :year="2026" :cols="3" />
+<SpeakerList :year="2026" :cols="1" />
 
 ---
 
@@ -194,7 +193,7 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 
 ### 🚀 Organizado por
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px">
 
 <SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
 logo="/images/patrocinios/somosnlp_nobg.png"
@@ -220,7 +219,7 @@ logo_dark="/images/patrocinios/cohere.svg" />
 
 ### 🥇 Patrocinios Oro
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center">
 
 <SponsorInfo sponsor="NextGenerationEU" url="http://somosnlp.org/patrocinios/NextGenerationEU"
 logo="/images/patrocinios/NextGenerationEU.png"
@@ -238,14 +237,14 @@ logo_dark="/images/patrocinios/redes.png" />
 logo="/images/patrocinios/PERTE.png"
 logo_dark="/images/patrocinios/PERTE.png" />
 
-<SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/UNED"
+<!-- <SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/UNED"
 logo="/images/patrocinios/UNED.png"
-logo_dark="/images/patrocinios/UNED.png" />
+logo_dark="/images/patrocinios/UNED.png" /> -->
 
 </div>
 
 
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px">
 
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
 logo="/images/patrocinios/HuggingFace_title.svg"
@@ -282,9 +281,8 @@ logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 Al unirte a este hackathon tendrás la oportunidad de:
 
-- ✅ Comprender cómo funcionan los grandes modelos del lenguaje, tanto textuales (LLMs) como multimodales (VLLMs) y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
+- ✅ Comprender cómo funcionan los grandes modelos del lenguaje y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
 - ✅ Participar en la creación del primer corpus de preferencias de calidad y diverso para alinear LLMs con la cultura de los países de LATAM y la Península Ibérica (top como experiencia y top para el CV)
-- ✅ Ser parte del equipo que cree algunas de las bases de datos de la primera leaderboard abierta de LLMs en español: La Leaderboard
 - ✅ Resolver todas tus dudas sobre PLN durante sesiones de mentoría "Ask My Anything"
 - ✅ Recibir apoyo para presentar tu trabajo en un paper
 - ✅ Ganar premios para seguir creciendo como profesional y conseguir un certificado que poder compartir en LinkedIn
@@ -297,7 +295,7 @@ Al unirte a este hackathon tendrás la oportunidad de:
 
 Desde el equipo de SomosNLP queremos animarte a participar independientemente de tus conocimientos actuales. En ediciones anteriores hemos contado con grupos de institutos de investigación y grupos de estudiantes de grado, ¡todos los proyectos suman!
 
-- 📖 Impartiremos una serie de **talleres prácticos** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia.
+- 📖 Impartiremos un **taller** mostrándote cómo desarrollar un proyecto para que tengas un ejemplo de referencia.
 
 <!-- Para calentar puedes visualizar los de la edición anterior:
 
@@ -332,14 +330,14 @@ No, depende de tu disponibilidad, puedes desarrollar un buen proyecto en una sem
 <details>
 <summary>¿Hasta cuándo puedo crear un equipo?</summary>
 
-EDITADO: Damos la bienvenida a nuevos equipos hasta el 23 de mayo. El día final para entregar proyectos es el 31 de mayo.
+Damos la bienvenida a nuevos equipos hasta el 15 de mayo. El día final para entregar proyectos es el 29 de mayo.
 
 </details>
 
 <details>
 <summary>¿Cómo me uno a un equipo?</summary>
 
-Lee la sección "Para crear un equipo:" al comienzo de esta página y el README en el canal #encuentra-equipo de nuestro servidor de Discord :)
+Lee la sección "Para crear un equipo:" en la página de "retos" y el README en el canal #encuentra-equipo de nuestro servidor de Discord :)
 
 </details>
 
@@ -383,7 +381,6 @@ Sí, aceptamos equipos de 1 a 5 personas.
 <details>
 <summary>¿Cómo puedo dar feedback del evento?</summary>
 
-- Nos puedes dar feedback para mejorar las guías de los retos con este [formulario](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
 - Compartiremos también un formulario de feedback general al final del evento
 
 </details>

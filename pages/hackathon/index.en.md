@@ -2,17 +2,18 @@
 title: "#HackathonSomosNLP 2026"
 description: We are going to drive the creation of language models aligned with the culture of LATAM and the Iberian Peninsula.
 lang: en
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 <script setup>
 import HackathonCard from '../../src/components/HackathonCard.vue'
+import ProjectCard from '../../src/components/ProjectCard.vue'
 </script>
 
 There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each of them rich in culture. Although language models show ever-growing multilingual capabilities, are they truly multicultural? Join the #HackathonSomosNLP now, the largest open-source Natural Language Processing hackathon in Spanish and Portuguese 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
-  <a href="https://forms.gle/d1WBoTNuNEyzHNi86" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
+  <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
   <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Spread the word</a>
 </div>
 
@@ -52,7 +53,7 @@ In this fifth edition we will focus on creating resources that let us **evaluate
 The best part? EVERYONE can contribute! 🎉
 
 ![GIF Hackathon #Somos600M](/images/eventos/260501_hackathon_video.gif)
-<!-- Actualizar al GIF de este año -->
+<!-- Update to this year's GIF -->
 
 ---
 
@@ -79,7 +80,7 @@ The best part? EVERYONE can contribute! 🎉
 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
-<a href="https://somosnlp.org/en/hackathon/registro" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
+<a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
 
 </div>
 
@@ -149,79 +150,29 @@ Hackathon projects generate real-world impact:
 
 <div class="grid gap-5 md:grid-cols-2 my-8">
 
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2022</span>
-    <span class="text-xs text-gray-500">1st Prize</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">🏅 BiomedIA</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Voice-to-voice biomedical Q&A system. It led to a <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper at NAACL 2022</a> that won the Best Poster Presentation Award.</p>
-</div>
+<ProjectCard year="2022" prize="1st Prize" title="🏅 BiomedIA">
+Voice-to-voice biomedical Q&A system. It led to a <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper at NAACL 2022</a> that won the Best Poster Presentation Award.
+</ProjectCard>
 
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2022</span>
-    <span class="text-xs text-gray-500">2nd Prize</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">⚖️ Mexican Legal Model</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Legal knowledge model <strong>used by the Supreme Court of Justice of Mexico</strong>.</p>
-</div>
+<ProjectCard year="2022" prize="2nd Prize" title="⚖️ Mexican Legal Model">
+Legal knowledge model <strong>used by the Supreme Court of Justice of Mexico</strong>.
+</ProjectCard>
 
-<!-- #TODO Añadir highlights de 2023 -->
+<!-- #TODO Add 2023 highlights -->
 
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
-    <span class="text-xs text-gray-500">1st Prize</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">📰 NoticIA</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Corpus of 850 Spanish clickbait news articles with high-quality summaries, tackling digital misinformation. Published at SEPLN 2024.</p>
-</div>
+<ProjectCard year="2024" prize="1st Prize" title="📰 NoticIA" description="Corpus of 850 Spanish clickbait news articles with high-quality summaries, tackling digital misinformation. Published at SEPLN 2024." />
 
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
-    <span class="text-xs text-gray-500">2nd Prize</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">🤝 AsistenciaRefugiados</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Legal assistant for refugees, making legal information in Spain more accessible.</p>
-</div>
+<ProjectCard year="2024" prize="2nd Prize" title="🤝 AsistenciaRefugiados" description="Legal assistant for refugees, making legal information in Spain more accessible." />
 
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
-    <span class="text-xs text-gray-500">1st Prize</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">🤝 Sustainable BERT</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Identification of texts related to climate change and sustainability using pre-trained language models in Spanish. LatinX in AI (LXAI) Research Workshop @NAACL 2024. Best paper at KHIPU 2025.</p>
-</div>
+<ProjectCard year="2024" prize="1st Prize" title="🤝 Sustainable BERT" description="Identification of texts related to climate change and sustainability using pre-trained language models in Spanish. LatinX in AI (LXAI) Research Workshop @NAACL 2024. Best paper at KHIPU 2025." />
 
-<div class="border-l-4 border-blue-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-blue-500 text-white px-2 py-0.5 rounded">2024</span>
-    <span class="text-xs text-gray-500">1st Prize</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">🤝 Healthy Cooking</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">Learning to cook in healthy ways with Large Language Models, Supervised Fine-Tuning and Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024.</p>
-</div>
+<ProjectCard year="2024" prize="1st Prize" title="🤝 Healthy Cooking" description="Learning to cook in healthy ways with Large Language Models, Supervised Fine-Tuning and Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
 
-<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2024</span>
-    <span class="text-xs text-gray-500">Collective achievement</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">📚 Instruction dataset</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">More than 1M instructions generated, creating the largest supervised training dataset in Spanish. #Somos600M paper published at the LatinX in NLP workshop @NAACL 2024. Interview in El País newspaper.</p>
-</div>
+<ProjectCard year="2024" prize="Collective achievement" title="📚 Instruction dataset" variant="highlight" wide description="More than 1M instructions generated, creating the largest supervised training dataset in Spanish. #Somos600M paper published at the LatinX in NLP workshop @NAACL 2024. Interview in El País newspaper." />
 
-<div class="border-l-4 border-accent-500 bg-gray-50 dark:bg-gray-800 rounded-r-lg p-5 md:col-span-2">
-  <div class="flex items-center gap-2 mb-2">
-    <span class="text-xs font-bold bg-accent-500 text-white px-2 py-0.5 rounded">2025</span>
-    <span class="text-xs text-gray-500">Collective achievement</span>
-  </div>
-  <h4 class="font-bold text-base mb-1">📚 INCLUDE: cultural knowledge benchmark</h4>
-  <p class="text-sm text-gray-600 dark:text-gray-400">More than <strong>38,000 exam questions were collected from 23 countries</strong>, creating the largest cultural-knowledge evaluation benchmark for LLMs in Spanish and Portuguese.</p>
-</div>
+<ProjectCard year="2025" prize="Collective achievement" title="📚 INCLUDE: cultural knowledge benchmark" variant="highlight" wide>
+More than <strong>38,000 exam questions were collected from 23 countries</strong>, creating the largest cultural-knowledge evaluation benchmark for LLMs in Spanish and Portuguese.
+</ProjectCard>
 
 </div>
 
@@ -348,10 +299,10 @@ The SomosNLP team encourages you to participate regardless of your current knowl
 
 - 📖 We will run a series of **hands-on workshops** showing you how to build a project so you have a reference example.
 
-<!-- Para calentar puedes visualizar los de la edición anterior:
+<!-- To warm up, you can watch the ones from last edition:
 
   - [Fine-tuning LLMs (Manu Romero)](https://somosnlp.org/hackathon-2023/fine-tuning-llms)
-  - [Etiquetado de datos con Argilla (Daniel Vila)](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) -->
+  - [Data labeling with Argilla (Daniel Vila)](https://somosnlp.org/hackathon-2023/etiquetado-de-datos-con-argilla) -->
 
 - ❓ We will organize **AMAs** (Ask Me Anything) with experts and mentors so they can answer your questions.
 
