@@ -2,7 +2,7 @@
 title: "Project presentation #HackathonSomosNLP 2026: demo, video and paper"
 description: How to present the project you've created during the hackathon.
 lang: en
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 Congratulations on getting this far — all that's left is presenting your great project to the world!

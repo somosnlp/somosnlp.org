@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Call for Talks"
 description: ¡Comparte tu conocimiento con la comunidad!
 lang: es
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 Invitamos a personas del ámbito académico o industrial, expertas y apasionadas del campo de la IA y en particular del PLN, a compartir sus conocimientos y avances en el próximo Hackathon SomosNLP.

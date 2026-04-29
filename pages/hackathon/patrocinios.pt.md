@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Patrocínios e divulgação"
 description: Obrigada por nos ajudares a democratizar o PLN em espanhol e português!
 lang: pt
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 Muito obrigada pelo teu interesse em apoiar-nos a organizar e dar visibilidade a este maravilhoso evento! Nas edições anteriores **contámos cada vez com 500 inscrições de 30 países diferentes e ultrapassámos as 5.000 visualizações dos nossos eventos**. Este ano os nossos desafios são criar dados que nos permitam desenvolver modelos de linguagem inclusivos e de qualidade, adaptados às diversas culturas da América Latina e da Península Ibérica.

@@ -2,7 +2,7 @@
 title: "Desafio #HackathonSomosNLP 2026: BLEND"
 description: Como participar neste desafio e ajudar a melhorar o conhecimento cultural dos modelos de linguagem
 lang: pt
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 A interface de anotação do BLEND recolhe respostas em espanhol — responde apenas a perguntas sobre o país ou países com os quais tenhas um vínculo forte o suficiente para conheceres a cultura local. As guias completas estão disponíveis em [espanhol](https://somosnlp.org/hackathon/retos/blend) e em [inglês](https://somosnlp.org/en/hackathon/retos/blend).

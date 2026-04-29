@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Registro"
 description: "¡Regístrate ya para participar el mayor hackathon open-source de PLN en español y portugués!"
 lang: es
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 En esta quinta edición de nuestro hackathon nos vamos a centrar en la generación de recursos que nos permitan evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica.

@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Sponsorship and outreach"
 description: Thank you for helping us democratize NLP in Spanish and Portuguese!
 lang: en
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 Thank you so much for your interest in helping us organize and promote this wonderful event! In previous editions **we have gathered 500 registrations from 30 different countries each year and surpassed 5,000 views of our events**. This year our challenges focus on creating data that lets us build inclusive, high-quality language models adapted to the diverse cultures of LATAM and the Iberian Peninsula.

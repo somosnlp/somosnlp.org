@@ -2,7 +2,7 @@
 title: "Desafio Principal #HackathonSomosNLP 2026: Alinhamento de LLMs e VLLMs"
 description: Como participar neste desafio e ajudar a melhorar o conhecimento cultural dos modelos de linguagem e visão-linguagem
 lang: pt
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 ## 🎯 Objetivo do desafio

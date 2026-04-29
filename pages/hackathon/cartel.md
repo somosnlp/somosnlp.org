@@ -2,7 +2,7 @@
 title: "Hackathon SomosNLP 2026: Diseña el Cartel"
 description: "¡Diseña el cartel del Hackathon SomosNLP 2026!"
 lang: es
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 Para fomentar distintas habilidades de nuestra comunidad, este año queremos daros la oportunidad de diseñar el cartel del hackathon. Los objetivos del hackathon son la creación un corpus en español de calidad que incluya las variedades de este rico idioma hablado por 600M personas y la creación de una leaderboard que nos permita evaluar los LLMs en español. ¡Muestra tu versión más artística y ayúdanos a crear el cartel!
