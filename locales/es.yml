@@ -75,7 +75,7 @@ jobs:
   title: Bolsa de Empleo de PLN
   total: Total Ofertas Publicadas
 landing-page:
-  banner: ¡Únete ya a nuestro hackathon para incluir tu cultura en los LLMs! 🔥
+  banner: ¡Únete ya a nuestro hackathon de post-entrenamiento de LLMs! 🔥
   contribute:
     blog: Escribe un artículo o un tutorial
     button: Más ideas

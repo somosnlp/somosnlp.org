@@ -81,7 +81,6 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
 <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
-
 </div>
 
 
@@ -160,7 +159,7 @@ Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justi
 
 <!-- #TODO Añadir highlights de 2023 -->
 
-<ProjectCard year="2024" prize="1er Premio" title="📰 NoticIA" description="Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Publicado en SEPLN 2024." />
+<ProjectCard year="2024" prize="1er Premio" title="📰 NoticIA"> Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Paper publicado en <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610" target="_blank" class="text-blue-600 underline"> SEPLN 2024</a>. </ProjectCard>
 
 <ProjectCard year="2024" prize="2do Premio" title="🤝 AsistenciaRefugiados" description="Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España." />
 
@@ -168,7 +167,7 @@ Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justi
 
 <ProjectCard year="2024" prize="1er Premio" title="🤝 Cocina saludable" description="Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
 
-<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight" wide description="Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. Paper #Somos600M publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico El País." />
+<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
 
 <ProjectCard year="2025" prize="Logro colectivo" title="📚 INCLUDE: Benchmark de conocimiento cultural" variant="highlight" wide>
 Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</strong>, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.
@@ -176,15 +175,15 @@ Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</str
 
 </div>
 
-<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más ejemplos</a></center>
+<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más proyectos</a></center>
 
 ---
 
 ## 💡 Ponencias y mentorías
 
-Tendrás la oportunidad de aprender de líderes de la academia y la industria, ¡iremos anunciando nuevas ponencias y mentorías!
+¡Tendrás la oportunidad de aprender de líderes de la academia y la industria!
 
-<SpeakerList :year="2026" :cols="3" />
+<SpeakerList :year="2026" :cols="1" />
 
 ---
 
@@ -194,7 +193,7 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 
 ### 🚀 Organizado por
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px">
 
 <SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
 logo="/images/patrocinios/somosnlp_nobg.png"
@@ -220,7 +219,7 @@ logo_dark="/images/patrocinios/cohere.svg" />
 
 ### 🥇 Patrocinios Oro
 
-<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center">
 
 <SponsorInfo sponsor="NextGenerationEU" url="http://somosnlp.org/patrocinios/NextGenerationEU"
 logo="/images/patrocinios/NextGenerationEU.png"
@@ -238,14 +237,14 @@ logo_dark="/images/patrocinios/redes.png" />
 logo="/images/patrocinios/PERTE.png"
 logo_dark="/images/patrocinios/PERTE.png" />
 
-<SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/UNED"
+<!-- <SponsorInfo sponsor="UNED" url="http://somosnlp.org/patrocinios/UNED"
 logo="/images/patrocinios/UNED.png"
-logo_dark="/images/patrocinios/UNED.png" />
+logo_dark="/images/patrocinios/UNED.png" /> -->
 
 </div>
 
 
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px">
 
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
 logo="/images/patrocinios/HuggingFace_title.svg"
