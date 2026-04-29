@@ -2,7 +2,7 @@
 title: "Challenge #HackathonSomosNLP 2026: Preferences"
 description: How to participate in this challenge and help align language models with your culture
 lang: en
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
 We're only collecting preference prompts in Spanish and Portuguese. If you are from or have lived a long time in LATAM or the Iberian Peninsula, you can check the guidelines in [Spanish](https://somosnlp.org/hackathon/retos/preferencias) and [Portuguese](https://somosnlp.org/pt/hackathon/retos/preferencias).

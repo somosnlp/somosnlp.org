@@ -2,10 +2,10 @@
 title: "Challenge #HackathonSomosNLP 2026: INCLUDE Exams"
 description: How to participate in this challenge and help improve the cultural knowledge of language models
 lang: en
-cover: /images/eventos/260501_hackathon_eventbrite.png
+cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Look for multiple-choice exams to evaluate LLMs' knowledge about your country. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g., history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.
+Look for multiple-choice exams to evaluate LLMs' knowledge from your country. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g., history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.
 
 *April 9 - May 31 (EXTENDED) | max 1 point*
 

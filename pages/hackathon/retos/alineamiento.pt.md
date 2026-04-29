@@ -12,7 +12,7 @@ cover: /images/eventos/260501_hackathon_eventbrite.png
     - B. Adapta um **modelo multimodal visão-linguagem** (VLLM) para gerar descrições de imagens tendo em conta o contexto cultural
 - Em espanhol, português ou qualquer língua da Península Ibérica ou da América Latina
 - Adapta a partir de um modelo já existente (não pré-treines um do zero), recomendamos partir de modelos em torno dos 7B (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) e [Gemma](https://huggingface.co/google/gemma-3-4b-it))
-- Gera o dataset com a ajuda de 500 USD em créditos da API da Cohere! Recomendamos filtrar e estender o dataset de preferências v0 gerado em conjunto na Arena: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
+- Gera o dataset com a ajuda de 500 USD em créditos da API da Cohere! Recomendamos filtrar e estender o dataset de preferências v0 gerado em conjunto na Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
 - Treina o teu modelo diretamente em JupyterLab no hub do Hugging Face — temos GPUs patrocinadas pelo 🤗!
 - Faz upload do(s) modelo(s) juntamente com todos os notebooks utilizados para hf.co/somosnlp-hackathon
 - Escreve a [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), inclui ligações para o dataset e os notebooks utilizados (e.g. pré-processamento, treino)
@@ -29,7 +29,7 @@ cover: /images/eventos/260501_hackathon_eventbrite.png
 1. Contribuir com 100 prompts **de qualidade** para o dataset de [preferências](https://somosnlp.org/pt/hackathon/retos/preferencias)
 2. Responder a 200 perguntas do dataset de avaliação ([BLEND](https://somosnlp.org/pt/hackathon/retos/blend))
 3. Pedir os 500 USD de créditos da API da Cohere (depois de completar os pontos 1 e 2, mencionar @mariagrandury no canal da vossa equipa para receber instruções)
-4. Criar na organização hf.co/somosnlp-hackathon um Space com o template de [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
+4. Criar na organização hf.co/somosnlp-hackathon-2026 um Space com o template de [jupyterlab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
 5. Preencher o [formulário de registo](https://forms.gle/mLKEURUXGiNhq31T9)
 
 </details>
@@ -39,7 +39,7 @@ cover: /images/eventos/260501_hackathon_eventbrite.png
 Os dados são o mais importante no desenvolvimento de um modelo e também lhes daremos maior importância na altura de avaliar os projetos 👀
 
 - Gera um dataset para o teu projeto:
-    - Toma como versão inicial para o teu dataset o que foi gerado em conjunto na Arena: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
+    - Toma como versão inicial para o teu dataset o que foi gerado em conjunto na Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
     - Aproveita os 500 USD de créditos da API da Cohere que cada equipa tem para o filtrar, melhorar e estender com mais prompts e respostas especificamente desenhados para o teu caso de uso
     - Tem em conta que, tratando-se de temas culturais, é muito importante que tudo o que seja gerado sinteticamente seja revisto por uma pessoa (podem usar [Argilla](https://huggingface.co/docs/hub/en/datasets-argilla))
 - Faz upload do dataset para hf.co/somosnlp-hackathon e itera
@@ -60,7 +60,7 @@ Como nomear os datasets:
 
 ### ⚙️ Modelo
 
-1. Cria na organização hf.co/somosnlp-hackathon um Space com o template de [JupyterLab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
+1. Cria na organização hf.co/somosnlp-hackathon-2026 um Space com o template de [JupyterLab](https://huggingface.co/docs/hub/spaces-sdks-docker-jupyter)
 2. A equipa do Hugging Face vai atribuir um grant de uma *L40S* ao Space
     - Configura o tempo de "auto-sleep" para 5 minutos para garantir um uso responsável 🌱
 3. Desenha o notebook de treino
