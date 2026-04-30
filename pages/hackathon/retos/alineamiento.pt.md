@@ -11,11 +11,11 @@ cover: /images/eventos/260511_hackathon_eventbrite.png
     - A. Alinha um **modelo de linguagem** (LLM) para gerar texto de forma culturalmente adequada
     - B. Adapta um **modelo multimodal visão-linguagem** (VLLM) para gerar descrições de imagens tendo em conta o contexto cultural
 - Em espanhol, português ou qualquer língua da Península Ibérica ou da América Latina
-- Adapta a partir de um modelo já existente (não pré-treines um do zero), recomendamos partir de modelos em torno dos 7B (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) e [Gemma](https://huggingface.co/google/gemma-3-4b-it))
+- Adapta a partir de um modelo já existente (não pré-treines um do zero); recomendamos partir de modelos em torno dos 7B (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) e [Gemma](https://huggingface.co/google/gemma-3-4b-it))
 - Gera o dataset com a ajuda de 500 USD em créditos da API da Cohere! Recomendamos filtrar e estender o dataset de preferências v0 gerado em conjunto na Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
 - Treina o teu modelo diretamente em JupyterLab no hub do Hugging Face — temos GPUs patrocinadas pelo 🤗!
-- Faz upload do(s) modelo(s) juntamente com todos os notebooks utilizados para hf.co/somosnlp-hackathon
-- Escreve a [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), inclui ligações para o dataset e os notebooks utilizados (e.g. pré-processamento, treino)
+- Faz upload do(s) modelo(s) juntamente com todos os notebooks utilizados para hf.co/somosnlp-hackathon-2026
+- Escreve a [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool); inclui ligações para o dataset e os notebooks utilizados (e.g. pré-processamento, treino)
 
 ---
 
@@ -36,15 +36,15 @@ cover: /images/eventos/260511_hackathon_eventbrite.png
 
 ### 📚 Dataset
 
-Os dados são o mais importante no desenvolvimento de um modelo e também lhes daremos maior importância na altura de avaliar os projetos 👀
+Os dados são o mais importante no desenvolvimento de um modelo, e também lhes vamos dar mais peso na altura de avaliar os projetos 👀
 
 - Gera um dataset para o teu projeto:
-    - Toma como versão inicial para o teu dataset o que foi gerado em conjunto na Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
-    - Aproveita os 500 USD de créditos da API da Cohere que cada equipa tem para o filtrar, melhorar e estender com mais prompts e respostas especificamente desenhados para o teu caso de uso
+    - Usa como versão inicial do teu dataset o que foi gerado em conjunto na Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
+    - Aproveita os 500 USD de créditos da API da Cohere que cada equipa tem para o filtrar, melhorar e estender com mais prompts e respostas desenhados especificamente para o teu caso de uso
     - Tem em conta que, tratando-se de temas culturais, é muito importante que tudo o que seja gerado sinteticamente seja revisto por uma pessoa (podem usar [Argilla](https://huggingface.co/docs/hub/en/datasets-argilla))
-- Faz upload do dataset para hf.co/somosnlp-hackathon e itera
+- Faz upload do dataset para hf.co/somosnlp-hackathon-2026 e itera
 - Faz upload para o repo do dataset de todos os notebooks e scripts utilizados para gerar e processar o dataset
-    - Se preferires criar um repo no GitHub com todo o código, podes fazê-lo, não te esqueças de incluir uma ligação na Dataset Card
+    - Se preferires criar um repo no GitHub com todo o código, podes fazê-lo — só não te esqueças de incluir uma ligação na Dataset Card
 - Preenche **bem** a Dataset Card
     - "Dataset Card" é o nome da documentação nos datasets do Hugging Face, é o README.md do repositório dos datasets
     - ATENÇÃO: É tido em conta na avaliação do projeto
@@ -64,7 +64,7 @@ Como nomear os datasets:
 2. A equipa do Hugging Face vai atribuir um grant de uma *L40S* ao Space
     - Configura o tempo de "auto-sleep" para 5 minutos para garantir um uso responsável 🌱
 3. Desenha o notebook de treino
-    - Guarda o modelo resultante diretamente em hf.co/somosnlp-hackathon
+    - Guarda o modelo resultante diretamente em hf.co/somosnlp-hackathon-2026
     - Utiliza a biblioteca CodeCarbon para avaliar o impacto climático
 4. Faz testes com modelos pequenos e subconjuntos do dataset para verificar que o código está correto e não encontrar bugs depois de várias horas de treino.
 5. Lança o treino, revê os resultados e itera

@@ -5,13 +5,13 @@ lang: en
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each of them rich in culture. Although language models show ever-growing multilingual capabilities, are they truly multicultural?
+There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages of 29 countries, each with great cultural richness. Language models show ever-growing multilingual capabilities — but are they truly multicultural?
 
-Join the #HackathonSomosNLP, an international online competition whose main goal is to **create diverse and open NLP resources for the languages of Ibero-America** 🚀
+Take part in #HackathonSomosNLP, an international online competition whose main goal is to **create diverse, open NLP resources for the languages of Ibero-America** 🚀
 
 <center><a href="/en/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2026</a></center>
 
-This year we are celebrating the fifth edition — curious about the results from previous years? Read on!
+This year we're celebrating the fifth edition — curious about the results from previous years? Read on!
 
 ---
 
@@ -33,7 +33,7 @@ Finalist teams:
 - 👏 Sabiduría Popular Castellana
 - 👏 Think Paraguayo
 
-Notable collective achievements:
+Standout collective achievements:
 - 📚 INCLUDE: 38,000+ exam questions from 23 countries
 - 📚 BLEND: extension of the cultural-knowledge benchmark
 - 📚 ~1,000 stereotypes collected and validated
@@ -42,20 +42,20 @@ Notable collective achievements:
 
 ## Hackathon SomosNLP 2024: #Somos600M
 
-The three winning projects are:
-- 🥇 NoticIA: Clickbait News Summarization
+The three winning projects:
+- 🥇 NoticIA: Clickbait news summarization
 - 🥈 AsistenciaRefugiados: Legal assistance for refugees
-- 🥉 TraductorInclusivo: Text rewriting using inclusive language
+- 🥉 TraductorInclusivo: Rewriting texts using inclusive language
 
-And the community's favorite project is:
+And the community's favorite project:
 - 💛 AviaciónInteligente: Navigating the Colombian Aeronautical Regulations
 
-Special mentions to the projects:
+Special mentions for these projects:
 - 👏 ThinkParaguayo: Discover Guaraní culture
-- 👏 LenguajeClaro: Administrative language simplification
+- 👏 LenguajeClaro: Simplifying administrative language
 - 👏 BERTIN-ClimID: BERTIN-Base Climate-related text Identification
 
-And to the corpora:
+And for these corpora:
 - 📚 SMC: Spanish Medical Corpus
 - 📚 RecetasDeLaAbuel@: A recipe corpus from Spanish-speaking countries
 - 📚 LingComp_QA: An educational computational-linguistics corpus in Spanish
@@ -65,17 +65,17 @@ And to the corpora:
 
 ## Hackathon SomosNLP 2023: LLMs in Spanish
 
-In this second edition, more than 500 people from 30 countries participated and developed 22 projects and 3 published papers.
+In this second edition, more than 500 people from 30 countries took part and developed 22 projects and 3 published papers.
 
 [More information about Hackathon 2023](/en/blog/hackathon-2023)
 
 ## Hackathon SomosNLP 2022: NLP in Spanish
 
-In the first edition, more than 500 people from 29 countries participated. Featured projects:
-- 🥇 [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): a voice-to-voice biomedical Q&A system, which led to a [paper presented at NAACL 2022](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) that won the Best Poster Presentation Award
-- 🥈 [Mexican Legal Model](https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): a model used by the **Supreme Court of Justice of Mexico**
+In the first edition, more than 500 people from 29 countries took part. Featured projects:
+- 🥇 [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): voice-to-voice biomedical Q&A system, which led to a [paper presented at NAACL 2022](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) that won the Best Poster Presentation Award
+- 🥈 [Mexican Legal Model](https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): model used by the **Supreme Court of Justice of Mexico**
 - 🥉 [Gender Neutralization](https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): rewriting texts in an inclusive way
-- 💜 [Sexism Detector](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): a contribution to removing sexist comments
+- 💜 [Sexism Detector](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): helping remove sexist comments
 
 [More information about Hackathon 2022](/en/blog/hackathon-2022)
 

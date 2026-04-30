@@ -1,17 +1,17 @@
 ---
 title: "#HackathonSomosNLP"
-description: Participe do maior hackathon open-source de Processamento de Linguagem Natural em espanhol e português
+description: Participa no maior hackathon open-source de Processamento de Linguagem Natural em português e espanhol
 lang: pt
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Somos 600M de pessoas que falam espanhol e 265M que falam português no mundo. O espanhol e o português são os idiomas principais em 29 países, cada um com uma grande riqueza cultural. Embora os modelos de linguagem apresentem capacidades multilíngues cada vez maiores, eles são realmente multiculturais?
+Somos 265M de pessoas lusófonas e 600M hispanofalantes no mundo. O português e o espanhol são as línguas principais de 29 países, cada um com uma enorme riqueza cultural. Os modelos de linguagem apresentam capacidades multilíngues cada vez maiores — mas serão mesmo multiculturais?
 
-Participe do #HackathonSomosNLP, uma competição internacional online cujo principal objetivo é **criar recursos diversos e abertos de PLN para as línguas da Ibero-América** 🚀
+Participa no #HackathonSomosNLP, uma competição internacional online cujo principal objetivo é **criar recursos diversos e abertos de PLN para as línguas da Ibero-América** 🚀
 
 <center><a href="/pt/hackathon" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Hackathon 2026</a></center>
 
-Este ano celebramos a quinta edição. Tem curiosidade sobre os resultados dos anos anteriores? Continue lendo!
+Este ano celebramos a quinta edição. Curioso sobre os resultados dos anos anteriores? Continua a ler!
 
 ---
 
@@ -24,7 +24,7 @@ Os três melhores corpora do desafio de preferências são:
 - 🥈 IberoTales
 - 🥉 HoCV-COL
 
-Equipes finalistas:
+Equipas finalistas:
 - 👏 Comida Colombia + Ecuador
 - 👏 Cresia
 - 👏 Equipo LeIA
@@ -36,46 +36,46 @@ Equipes finalistas:
 Conquistas coletivas em destaque:
 - 📚 INCLUDE: mais de 38.000 perguntas de exames de 23 países
 - 📚 BLEND: extensão do benchmark de conhecimento cultural
-- 📚 ~1.000 estereótipos coletados e validados
+- 📚 ~1.000 estereótipos recolhidos e validados
 
 [Mais informações sobre os projetos do Hackathon 2025](/pt/blog/hackathon-2025)
 
 ## Hackathon SomosNLP 2024: #Somos600M
 
-Os três projetos vencedores são:
+Os três projetos vencedores:
 - 🥇 NoticIA: Resumo de Notícias Clickbait
 - 🥈 AsistenciaRefugiados: Assistência jurídica para refugiados
-- 🥉 TraductorInclusivo: Reescrita de textos utilizando linguagem inclusiva
+- 🥉 TraductorInclusivo: Reescrita de textos com linguagem inclusiva
 
-E o projeto favorito da comunidade é:
+E o projeto preferido da comunidade:
 - 💛 AviaciónInteligente: Navegação pelo Regulamento Aeronáutico Colombiano
 
 Menção especial aos projetos:
-- 👏 ThinkParaguayo: Conheça a cultura guarani
+- 👏 ThinkParaguayo: Conhece a cultura guarani
 - 👏 LenguajeClaro: Simplificação da linguagem administrativa
 - 👏 BERTIN-ClimID: BERTIN-Base Climate-related text Identification
 
 E aos corpora:
 - 📚 SMC: Spanish Medical Corpus
 - 📚 RecetasDeLaAbuel@: Corpus de receitas de países hispano-americanos
-- 📚 LingComp_QA: Um corpus educacional de linguística computacional em espanhol
-- 📚 KUNTUR: Constituição política do Peru de 1993
+- 📚 LingComp_QA: Um corpus educativo de linguística computacional em espanhol
+- 📚 KUNTUR: Constituição Política do Peru de 1993
 - 📚 Identificação de províncias e resumos do Corpus Oral e Sonoro do Espanhol Rural
 
 
 ## Hackathon SomosNLP 2023: LLMs em espanhol
 
-Nesta segunda edição, mais de 500 pessoas de 30 países participaram e desenvolveram 22 projetos e 3 papers publicados.
+Nesta segunda edição participaram mais de 500 pessoas de 30 países, que desenvolveram 22 projetos e 3 papers publicados.
 
 [Mais informações sobre o Hackathon 2023](/pt/blog/hackathon-2023)
 
 ## Hackathon SomosNLP 2022: PLN em espanhol
 
-Na primeira edição, mais de 500 pessoas de 29 países participaram. Projetos em destaque:
-- 🥇 [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): sistema voz-a-voz de Q&A biomédico, que resultou em um [paper apresentado no NAACL 2022](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) com o Prêmio de Melhor Apresentação de Pôster
+Na primeira edição participaram mais de 500 pessoas de 29 países. Projetos em destaque:
+- 🥇 [BiomedIA](https://www.youtube.com/watch?v=fOQLPuXewzE&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): sistema voz-a-voz de Q&A biomédico, que deu origem a um [paper apresentado no NAACL 2022](https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf) com o Prémio de Melhor Apresentação de Pôster
 - 🥈 [Modelo Jurídico Mexicano](https://www.youtube.com/watch?v=ZTYAsEHUhPs&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): modelo utilizado pela **Suprema Corte de Justiça da Nação do México**
-- 🥉 [Neutralização de gênero](https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): reescrita de textos de forma inclusiva
-- 💜 [Detector de sexismo](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): contribuição para a eliminação de comentários sexistas
+- 🥉 [Neutralização de género](https://www.youtube.com/watch?v=XOaQKNauySo&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): reescrita de textos de forma inclusiva
+- 💜 [Detetor de sexismo](https://www.youtube.com/watch?v=1LmH6lblxvg&list=PLTA-KAy8nxaAbyaBTYK68TZKQLv9V8L8M): contribuição para a eliminação de comentários sexistas
 
 [Mais informações sobre o Hackathon 2022](/pt/blog/hackathon-2022)
 

@@ -10,20 +10,20 @@ import HackathonCard from '../../src/components/HackathonCard.vue'
 import ProjectCard from '../../src/components/ProjectCard.vue'
 </script>
 
-There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages in 29 countries, each of them rich in culture. Although language models show ever-growing multilingual capabilities, are they truly multicultural? Join the #HackathonSomosNLP now, the largest open-source Natural Language Processing hackathon in Spanish and Portuguese 🚀
+There are 600M Spanish speakers and 265M Portuguese speakers in the world. Spanish and Portuguese are the main languages of 29 countries, each with great cultural richness. Language models show ever-growing multilingual capabilities — but are they truly multicultural? Join the #HackathonSomosNLP, the largest open-source Natural Language Processing hackathon in Spanish and Portuguese 🚀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
   <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Register now</a>
-  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📣 Spread the word</a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">🎨 Outreach material</a>
 </div>
 
 *([In Spanish](https://somosnlp.org/hackathon), [in Portuguese](https://somosnlp.org/pt/hackathon))*
 
 ---
 
-## 📊 We're launching the fifth edition!
+## 📊 The fifth edition is here!
 
-Since 2022, we have brought together...
+Since 2022, we have gathered...
 
 <div class="grid grid-cols-2 md:grid-cols-5 gap-4 my-8">
   <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
@@ -48,7 +48,7 @@ Since 2022, we have brought together...
   </div>
 </div>
 
-In this fifth edition we will focus on creating resources that let us **evaluate and improve the cultural adequacy of large language models for each of the LATAM and Iberian Peninsula countries**.
+In this fifth edition we will focus on building resources that let us **evaluate and improve how culturally adequate large language models are for each of the LATAM and Iberian Peninsula countries**.
 
 The best part? EVERYONE can contribute! 🎉
 
@@ -63,8 +63,8 @@ The best part? EVERYONE can contribute! 🎉
 
 <HackathonCard
   icon="📚"
-  title="Send questions about your culture to LLMs"
-  description="Ask LLMs questions and choose which ones align best with your culture. Open to everyone!"
+  title="Ask LLMs questions about your culture"
+  description="Send prompts to LLMs and choose which ones are best aligned with your culture. Open to everyone!"
   linkText=""
   linkUrl=""
 />
@@ -86,11 +86,11 @@ The best part? EVERYONE can contribute! 🎉
 
 
 By participating you will have the opportunity to:
-- ✨ Learn through live workshops and talks
+- ✨ Learn from live workshops and talks
 - ✨ Access hundreds of USD in GPU and API credits to build your project
 - ✨ Win prizes worth 1500, 1000 or 500 USD (1st, 2nd and 3rd place)
-- ✨ Earn conference tickets and nominations to the Nova talent network
-- ✨ Get mentored by leading people in the NLP field
+- ✨ Win conference tickets and nominations to the Nova talent network
+- ✨ Earn mentorships with leading people in the NLP field
 - ✨ Co-author papers at international NLP conferences
 - ✨ Get a participation (or winning team) certificate for the hackathon
 
@@ -98,7 +98,7 @@ By participating you will have the opportunity to:
 
 Let's go for it!
 
-*Have questions? Check the FAQ and contact info at the bottom of the page.*
+*Got questions? Check the FAQ and contact info at the bottom of the page.*
 
 ---
 
@@ -111,7 +111,7 @@ Help us organize this free, non-profit event!
 <HackathonCard
   icon="📣"
   title="Spread the word"
-  description="Help us reach more people with this initiative. After 4 publications we add your logo to the website."
+  description="Help us reach more people with this initiative. After 4 publications we'll add your logo to the website."
   linkText="Spread the word"
   linkUrl="https://somosnlp.org/en/hackathon/patrocinios"
 />
@@ -119,7 +119,7 @@ Help us organize this free, non-profit event!
 <HackathonCard
   icon="🤗"
   title="Join the team"
-  description="Collaborate by creating content, support resources, tutorials, articles, or by researching Cultural NLP."
+  description="Collaborate by creating content, support resources, tutorials and articles, or by researching Cultural NLP."
   linkText="Join"
   linkUrl="https://forms.gle/vjkLRQVnGF5eVgqq5"
 />
@@ -127,7 +127,7 @@ Help us organize this free, non-profit event!
 <HackathonCard
   icon="🧑‍🏫"
   title="Offer a mentorship"
-  description="Share your experience helping teams build quality datasets and train good LLMs. One-off or ongoing mentorships."
+  description="Share your experience helping teams build quality datasets and train great LLMs. One-off or ongoing mentorships."
   linkText="Offer mentorship"
   linkUrl="https://forms.gle/Cq7CfgxaLTrthZU37"
 />
@@ -135,7 +135,7 @@ Help us organize this free, non-profit event!
 <HackathonCard
   icon="🙌"
   title="Sponsor the event"
-  description="Support our mission through visibility, vouchers or donations. SomosNLP is a non-profit community."
+  description="Support our mission with visibility, vouchers or donations. SomosNLP is a non-profit community."
   linkText="See options"
   linkUrl="https://somosnlp.org/en/hackathon/patrocinios"
 />
@@ -146,12 +146,12 @@ Help us organize this free, non-profit event!
 
 ## 🏆 Success stories
 
-Hackathon projects generate real-world impact:
+The hackathon's projects make a real-world impact:
 
 <div class="grid gap-5 md:grid-cols-2 my-8">
 
 <ProjectCard year="2022" prize="1st Prize" title="🏅 BiomedIA">
-Voice-to-voice biomedical Q&A system. It led to a <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper at NAACL 2022</a> that won the Best Poster Presentation Award.
+Voice-to-voice biomedical Q&A system. Led to a <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper at NAACL 2022</a> that won the Best Poster Presentation Award.
 </ProjectCard>
 
 <ProjectCard year="2022" prize="2nd Prize" title="⚖️ Mexican Legal Model">
@@ -168,7 +168,7 @@ Legal knowledge model <strong>used by the Supreme Court of Justice of Mexico</st
 
 <ProjectCard year="2024" prize="1st Prize" title="🤝 Healthy Cooking" description="Learning to cook in healthy ways with Large Language Models, Supervised Fine-Tuning and Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
 
-<ProjectCard year="2024" prize="Collective achievement" title="📚 Instruction dataset" variant="highlight" wide description="More than 1M instructions generated, creating the largest supervised training dataset in Spanish. #Somos600M paper published at the LatinX in NLP workshop @NAACL 2024. Interview in El País newspaper." />
+<ProjectCard year="2024" prize="Collective achievement" title="📚 Instruction dataset" variant="highlight"> Over 1M instructions were generated, creating the largest supervised training dataset in Spanish. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline">#Somos600M paper</a> published at the LatinX in NLP workshop @NAACL 2024. Interview in <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
 
 <ProjectCard year="2025" prize="Collective achievement" title="📚 INCLUDE: cultural knowledge benchmark" variant="highlight" wide>
 More than <strong>38,000 exam questions were collected from 23 countries</strong>, creating the largest cultural-knowledge evaluation benchmark for LLMs in Spanish and Portuguese.
@@ -176,13 +176,13 @@ More than <strong>38,000 exam questions were collected from 23 countries</strong
 
 </div>
 
-<center><a href="/en/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">More examples</a></center>
+<center><a href="/en/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">More projects</a></center>
 
 ---
 
 ## 💡 Talks and mentorships
 
-You will have the chance to learn from leaders in academia and industry — we will keep announcing new talks and mentorships!
+You'll have the chance to learn from leaders in academia and industry!
 
 <SpeakerList :year="2026" :cols="3" />
 
@@ -190,7 +190,7 @@ You will have the chance to learn from leaders in academia and industry — we w
 
 ## 👏 Acknowledgments
 
-Thank you so much for your time and for helping our initiative reach further. Let's make language models more inclusive!
+Thank you so much for your time and for helping our initiative go further. Let's make language models more inclusive!
 
 ### 🚀 Organized by
 
@@ -332,7 +332,7 @@ UPDATED: We welcome new teams until May 23. The final project submission day is 
 <details>
 <summary>How do I join a team?</summary>
 
-Read the "To create a team:" section at the start of this page and the README in the #encuentra-equipo channel of our Discord server :)
+Read the "To create a team:" section on the [challenges page](https://somosnlp.org/en/hackathon/retos) and the README in the #encuentra-equipo channel of our Discord server :)
 
 </details>
 
@@ -344,13 +344,13 @@ Yes, we accept teams of 1 to 5 people.
 </details>
 
 <details>
-<summary>How do you recommend organizing ourselves?</summary>
+<summary>How do you recommend we organize ourselves?</summary>
 
-- Use your project's Discord channel to communicate and get organized.
-- Since this is an international hackathon, we recommend async communication or splitting the work and holding smaller meetings
-- Schedule meetings or chat spontaneously using the new voice channels in the "MEETING ROOMS" category on Discord
-- Pin the important messages in your project channel, e.g. task allocation, next meeting date, etc. To pin a message click the three dots and select "Pin message"
-- For extra clarity, you can also create a shared document with the team where you write down the project goal, split tasks and so on (and pin the link in the chat)
+- Use your project's Discord channel to communicate and stay organized.
+- Since this is an international hackathon, we recommend async communication, or splitting the work and holding smaller meetings.
+- Schedule meetings or chat spontaneously using the new voice channels in the "SALAS DE REUNIÓN" category on Discord.
+- Pin important messages in your project channel — e.g. task allocation, next meeting date, etc. To pin a message, click the three dots and select "Pin message".
+- For extra clarity, you can also create a shared document with the team to write down the project goal, split tasks and so on (and pin the link in the chat).
 
 </details>
 
@@ -376,21 +376,20 @@ Yes, we accept teams of 1 to 5 people.
 <details>
 <summary>How can I give feedback about the event?</summary>
 
-- You can give us feedback to improve the challenge guides via this [form](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anonymous)
-- We will also share a general feedback form at the end of the event
+- We will share a general feedback form at the end of the event
 
 </details>
 
 
-*If we told you there is info on this page that you can't find, clear the cookies and reload the page.*
+*If we told you there's info on this page you can't find, clear your cookies and reload the page.*
 
 ---
 
 ## 🤗 Connect!
 
-To keep up with all the events and updates:
+To stay up to date with all the events and announcements:
 - Join the community of 2000+ people on [Discord](https://discord.com/invite/my8w7JUxZR) (it's free!)
 - Keep an eye on the Discord channels [#anuncios](https://discord.com/channels/938134488670675055/944255490748207115) and [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
 - Follow us on [X](https://x.com/somosnlp_) and [LinkedIn](https://linkedin.com/company/somosnlp)
 - Subscribe to our [YouTube](https://youtube.com/c/somosnlp?sub_confirmation=1) channel
-- Join the [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Add the [Google Calendar](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)

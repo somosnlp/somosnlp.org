@@ -18,14 +18,14 @@ Below we share more details and tips to maximize your project's visibility 🚀
 
 ## 🖼️ Building a demo
 
-Build a demo of your project in a Hugging Face Space so anyone can interact with your model. On top of that, the best demos will earn an extension of ZeroGPU time sponsored by Hugging Face!
+Build a demo of your project in a Hugging Face Space so anyone can interact with your model. On top of that, the best demos will earn an extension of the ZeroGPU time sponsored by Hugging Face!
 
 *Until May 31 | max 0.5 pts*
 
 - If this is your first demo, we recommend Gradio — it's the easiest.
 - Build the demo directly in a Space at hf.co/somosnlp-hackathon and iterate there.
 <!-- - You can use `Nvidia T4 - small` GPUs sponsored by Hugging Face. -->
-- What to include in the demo: project motivation, impact, future ideas, the corresponding UN Sustainable Development Goal number if applicable, link to the dataset and model, team members, and anything else you find useful to promote your project 🤗
+- What to include in the demo: project motivation, impact, future ideas, the corresponding UN Sustainable Development Goal number if applicable, links to the dataset and model used, team members, and anything else you find useful to promote your project 🤗
 - Build a clear, intuitive demo.
 
 <details>
@@ -51,9 +51,9 @@ Build a demo of your project in a Hugging Face Space so anyone can interact with
 
 ## 🎥 Recording a 5-minute video
 
-Record a 5-minute video presenting your project, upload it to Drive, and share it with mariagrandury [at] gmail [dot] com.
+Record a 5-minute video presenting your project, upload it to Drive and share it with mariagrandury [at] gmail [dot] com.
 
-The recordings will be played live with the jury — we recommend that at least one person from the team tries to attend the live session in case any questions come up. Best of luck! 🤗
+The recordings will be played live with the jury — we recommend at least one person from the team try to join the live session in case any questions come up. Best of luck! 🤗
 
 *Submission until June 1 | max 0.5 pts*
 
@@ -75,20 +75,20 @@ Content:
 - We generally recommend the following outline: motivation, methodology, results, analysis, conclusion, and next steps
 
 Format:
-- Record your screen during a Zoom or Teams meeting (Google Meet is not allowed) in which (ideally) all team members are present
+- Record your screen during a Zoom or Teams meeting (Google Meet is not allowed) in which all team members are present (ideally)
 - Everyone present must speak
-- The video can't be edited — share the raw recording
-- Make sure the audio was recorded along with the video
+- The video can't be edited — share the raw recording directly
+- Confirm the audio was recorded along with the video
 - Upload the recording to Drive and share it with mariagrandury [at] gmail [dot] com
 
 Inspiration:
-- We invite you to watch the project presentations from the 2024 edition in [this playlist](https://www.youtube.com/watch?v=cBDzM0CAwpw&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=14&t=1260s)
+- We invite you to check out the project presentations from the 2024 edition in [this playlist](https://www.youtube.com/watch?v=cBDzM0CAwpw&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=14&t=1260s)
 
 </details>
 
 ---
 
-## 📝 Optional: writing a paper
+## 📝 Optional: write a paper
 
 With the help of researchers, write a paper presenting your project and submit it to a Workshop at an international NLP conference.
 

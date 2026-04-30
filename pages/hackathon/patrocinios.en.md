@@ -5,7 +5,7 @@ lang: en
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Thank you so much for your interest in helping us organize and promote this wonderful event! In previous editions **we have gathered 500 registrations from 30 different countries each year and surpassed 5,000 views of our events**. This year our challenges focus on creating data that lets us build inclusive, high-quality language models adapted to the diverse cultures of LATAM and the Iberian Peninsula.
+Thank you so much for your interest in helping us organize this wonderful event! In previous editions **we have gathered 500 registrations from 30 different countries each year and surpassed 5,000 views of our events**. This year our challenges focus on creating data to build inclusive, high-quality language models adapted to the diverse cultures of LATAM and the Iberian Peninsula.
 
 <div class="flex justify-center">
     <figure>
@@ -14,9 +14,9 @@ Thank you so much for your interest in helping us organize and promote this wond
     </figure>
 </div>
 
-The sponsorship types are explained below. As soon as we receive your form, we will reach out to settle the details and we will add your logo to the website.
+The sponsorship types are explained below. As soon as we receive your form, we will reach out to sort out the details and we will add your logo to the website.
 
-We are at your disposal at info@somosnlp.org — we count on your support! 💪
+We're available at info@somosnlp.org and on [Discord](https://discord.com/invite/my8w7JUxZR) — we're counting on your support! 💪
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/YREnJ3p9dNpQRYEg6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Sponsor the hackathon</a>
@@ -27,7 +27,7 @@ We are at your disposal at info@somosnlp.org — we count on your support! 💪
 
 ### 1. 🚀 Donation
 
-We accept monetary and in-kind donations (e.g., GPU credits, training, books, ...).
+We accept monetary and in-kind donations (e.g. GPU credits, training, books, ...).
 
 <details>
 <summary>Donation tiers and benefits</summary>
@@ -47,9 +47,9 @@ Our hackathon is a free event. Thanks to Gold, Silver and Bronze sponsorships, w
 - Merchandise and giveaways for everyone
 - Quality streaming
 - Compensation for speakers and mentors
-- Solid management of this international online event
+- Smooth running of this international online event
 
-Examples of vouchers for prizes and giveaways you can sponsor: scholarship for a paid course, access to a training platform, NLP/AI books, merchandise specifically created for the hackathon, cloud compute time, LLM API credits, vouchers for tech stores, mentorships, etc.
+Examples of prizes and giveaways you can sponsor: a scholarship for a paid course, access to a training platform, NLP/AI/linguistics books, merchandise made specifically for the hackathon, cloud compute time, LLM API credits, vouchers for tech stores, mentorships, etc.
 
 <center><a href="https://forms.gle/YREnJ3p9dNpQRYEg6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Sponsor the hackathon</a></center>
 
@@ -58,7 +58,7 @@ Examples of vouchers for prizes and giveaways you can sponsor: scholarship for a
 
 ### 2. 📣 Outreach
 
-Outreach sponsorships are crucial because they help us reach more people, which is essential for our mission to democratize NLP in Ibero-America.
+Outreach sponsorships are crucial: they help us reach more people, which is essential for our mission to democratize NLP in Ibero-America.
 
 <details>
 <summary>Outreach types, requirements and benefits</summary>
@@ -73,18 +73,18 @@ Outreach sponsorships are crucial because they help us reach more people, which 
 <details>
 <summary>How can I help spread the word?</summary>
 
-- You can use the templates and outreach material we provide to make your task easier.
-- Publications can be on different platforms: blog, podcast, newsletter, LinkedIn, X, etc.
-- Important: on social media, remember to tag SomosNLP so we receive the notification.
-- On social media, 1 publication can be exchanged for 2 "quotes" on X or 2 "reposts with your thoughts" on LinkedIn.
-- You can publish at different moments of the hackathon. For example, to encourage people to join (until early April), to attend the talks (during April) and to share the hackathon results (early May).
-- We appreciate RTs / comments on the publications where we mention you.
+- Feel free to use the templates and outreach material we provide to make it easier.
+- Publications can go out on different platforms: blog, podcast, newsletter, LinkedIn, X, etc.
+- Important: on social media, remember to tag SomosNLP so we get the notification.
+- On social media, 1 publication can be swapped for 2 "quotes" on X or 2 "reposts with your thoughts" on LinkedIn.
+- You can publish at different moments of the hackathon — for example, to encourage people to join (until early April), to attend the talks (during April), and to share the hackathon results (early May).
+- We appreciate RTs / comments on the publications in which we mention you.
 
 Useful links:
 - [🎨 Outreach material](https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf)
 - [🎓 Info for universities](https://somosnlp.org/en/hackathon/universidades)
 
-<center><a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Fill out the outreach form</a></center>
+<center><a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Fill out the outreach form</a></center>
 
 </details>
 
@@ -140,15 +140,15 @@ Enlaces útiles:
 
 ### ☝️ Notes
 
-- If the requirements are not met, the corresponding logo will be removed
-- In the promotional articles, videos and talks, you can share your *relevant* projects with the community
+- If the requirements aren't met, the corresponding logo will be removed
+- In the promotional articles, videos and talks you can share *relevant* projects of yours with the community
 - We appreciate any extra visibility! 🤩
 
 ## Contact
 
-We are at your disposal at info@somosnlp.org and on Discord.
+We're available at info@somosnlp.org and on [Discord](https://discord.com/invite/my8w7JUxZR).
 
-If you have other ideas for collaboration, we encourage you to tell us how you think you can help or how we can thank you for your support. Thank you so much again! 💛
+If you have other ideas for collaboration, we'd love to hear how you think you can help — or how we can thank you for your support. Thank you so much again! 💛
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Sponsor the hackathon</a>
@@ -159,4 +159,4 @@ If you have other ideas for collaboration, we encourage you to tell us how you t
 
 #### 💛 Individual Sponsorship
 
-We know some of you have supported us from the very beginning, and others have just discovered us and will support us in this new stage. We want to thank you for your effort and trust by adding your photo to the new "Community" page — send us your info!
+We know some of you have supported us from the very beginning, and others have just discovered us and will be with us in this new chapter. We want to thank you for your effort and trust by adding your photo to the new "Community" page — send us your info!

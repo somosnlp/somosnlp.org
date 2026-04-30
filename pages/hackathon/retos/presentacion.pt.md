@@ -18,14 +18,14 @@ A seguir partilhamos mais detalhes e dicas para maximizar a visibilidade do teu 
 
 ## 🖼️ Criação de uma demo
 
-Cria uma demo do teu projeto num Space do Hugging Face para que toda a gente possa interagir com o teu modelo. Além disso, as melhores demos vão ganhar uma extensão de tempo de ZeroGPU patrocinada pelo Hugging Face!
+Cria uma demo do teu projeto num Space do Hugging Face para que toda a gente possa interagir com o teu modelo. Para além disso, as melhores demos vão ganhar uma extensão do tempo de ZeroGPU patrocinada pelo Hugging Face!
 
 *Até 31 de maio | máx. 0,5 pontos*
 
-- Se for a tua primeira demo, recomendamos que uses o Gradio, é mais simples.
+- Se for a tua primeira demo, recomendamos o Gradio — é o mais simples.
 - Cria a demo diretamente num Space em hf.co/somosnlp-hackathon e itera aí.
 <!-- - Podes usar GPUs `Nvidia T4 - small` patrocinadas pelo Hugging Face. -->
-- O que incluir na demo: motivação do projeto, impacto, ideias futuras, número do Objetivo de Desenvolvimento Sustentável se aplicável, link para o dataset e modelo utilizados, membros da equipa, e tudo o que considerares necessário para promover o teu projeto 🤗
+- O que incluir na demo: motivação do projeto, impacto, ideias futuras, número do Objetivo de Desenvolvimento Sustentável (se aplicável), links para o dataset e modelo utilizados, membros da equipa e tudo o que considerares útil para promover o teu projeto 🤗
 - Cria uma demo clara e intuitiva.
 
 <details>
@@ -43,7 +43,7 @@ Cria uma demo do teu projeto num Space do Hugging Face para que toda a gente pos
 - Inspiração: vê os "trending Spaces" ou "Spaces of the week" em hf.co/spaces
 - Docs: [Gradio docs](https://www.gradio.app/docs)
 - Notebook: [Como criar uma demo com Gradio](https://somosnlp.org/recursos/tutoriales/06_demos_con_gradio)
-- Vídeotutoriais: [aqui](https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta) tens tutoriais para criar demos usando Gradio, Streamlit e Flask.
+- Tutoriais em vídeo: [aqui](https://www.youtube.com/watch?v=Q0t1bNoa0tI&list=PLTA-KAy8nxaB-HA79tlOTRl496_XIlJta) tens tutoriais para criar demos com Gradio, Streamlit e Flask.
 
 </details>
 
@@ -53,7 +53,7 @@ Cria uma demo do teu projeto num Space do Hugging Face para que toda a gente pos
 
 Grava um vídeo de 5 minutos a apresentar o teu projeto, faz upload para o Drive e partilha-o com mariagrandury [at] gmail [dot] com.
 
-As gravações vão ser visualizadas em direto com o júri; recomendamos que pelo menos uma pessoa da equipa tente assistir ao direto, caso surjam dúvidas. Muito sucesso! 🤗
+As gravações vão ser vistas em direto com o júri — recomendamos que pelo menos uma pessoa da equipa tente assistir ao direto, caso surjam dúvidas. Muita sorte! 🤗
 
 *Envio até 1 de junho | máx. 0,5 pontos*
 
@@ -71,18 +71,18 @@ As gravações vão ser visualizadas em direto com o júri; recomendamos que pel
 
 Conteúdo:
 - A duração do vídeo tem de ser, no máximo, 5:00 minutos (máximo estrito)
-- O conteúdo da apresentação é livre — podem focar-se no que considerem **que tem mais valor no vosso projeto**
+- O conteúdo da apresentação é livre — podem focar-se no que acharem **que tem mais valor no vosso projeto**
 - Em geral recomendamos o seguinte guião: motivação, metodologia, resultados, análise, conclusão e próximos passos
 
 Formato:
-- Grava o ecrã durante uma reunião de Zoom ou Teams (no Google Meet está proibido) na qual estejam (preferencialmente) todos os membros da equipa
+- Grava o ecrã durante uma reunião de Zoom ou Teams (no Google Meet não é permitido) em que estejam (preferencialmente) todos os membros da equipa
 - Todas as pessoas presentes têm de falar
 - O vídeo não pode ser editado — partilhem diretamente a gravação
 - Confirma que o áudio também ficou gravado, além da imagem
 - Faz upload da gravação para o Drive e partilha-a com mariagrandury [at] gmail [dot] com
 
 Inspiração:
-- Convidamos-te a ver as apresentações dos projetos da edição 2024 [nesta playlist](https://www.youtube.com/watch?v=cBDzM0CAwpw&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=14&t=1260s)
+- Convidamos-te a ver as apresentações dos projetos da edição de 2024 [nesta playlist](https://www.youtube.com/watch?v=cBDzM0CAwpw&list=PLTA-KAy8nxaASMwEUWkkTfMaDxWBxn-8J&index=14&t=1260s)
 
 </details>
 
