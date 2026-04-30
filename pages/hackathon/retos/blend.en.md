@@ -5,8 +5,8 @@ lang: en
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-The BLEND annotation interface collects answers in Spanish — please only answer questions about a country or countries you have a strong enough connection with to know the local culture. The full guidelines are available in [Spanish](https://somosnlp.org/hackathon/retos/blend) and [Portuguese](https://somosnlp.org/pt/hackathon/retos/blend).
+The BLEND annotation interface collects answers in Spanish — please only answer questions about a country or countries you have a strong enough connection with to know the local culture. The full guide is available in [Spanish](https://somosnlp.org/hackathon/retos/blend).
 
-<center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participate now! (Spanish)</a></center>
+<center><a href="https://somosnlp-blend-es.hf.space/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participate now! (in Spanish)</a></center>
 
 <center style="margin-top:40px;"><a href="https://somosnlp.org/en/hackathon/retos" target="_blank" style="background-color:gray; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Back to challenges</a></center>

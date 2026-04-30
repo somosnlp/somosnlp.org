@@ -5,13 +5,13 @@ lang: en
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Look for multiple-choice exams to evaluate LLMs' knowledge from your country. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g., history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.
+Look for multiple-choice exams from your country to evaluate LLMs' knowledge. Prioritize exams in languages other than Spanish and/or focused on cultural topics (e.g. history, literature). We will use these questions and answers to extend the open INCLUDE benchmark.
 
 *April 9 - May 31 (EXTENDED) | max 1 point*
 
 <center><a href="https://docs.google.com/spreadsheets/d/1QLPQ7gah9yzG3-1BPIw5Jp994Rz8L_yZT8obgWH8S2Y" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Participate now!</a></center>
 
-🌎 You can contribute exams from any country regardless of where you're from or live — check the "Prioridad países" sheet.
+🌎 You can contribute exams from any country regardless of where you're from or live — check the "Prioridad países" sheet for priorities.
 
 ✨ Incentives (numbers refer to questions with their corresponding answers):
 - Per team:
@@ -37,10 +37,10 @@ Below, we present the protocol for participating in the INCLUDE project, focused
 ### 1. Search for exams
 
 Check that the exam meets the following requirements:
-- **Not proprietary.** If the license restricts commercial use but allows redistribution for research purposes, then we can use this exam. If the license is unknown, include the exam.
-- **It is a multiple-choice exam** and has 4 options per question.
-- **Contains the answers** and there is only one correct answer per question.
-- The exam topic must be related to a country's **culture** (e.g., history, literature) or be regional information (e.g., driver's license). Exact or natural-science exams (e.g., mathematics, physics) are not valid.
+- **Not proprietary.** If the license restricts commercial use but allows redistribution for research purposes, then we can use the exam. If the license is unknown, include it anyway.
+- **It's a multiple-choice exam** with 4 options per question.
+- **Contains the answers**, with only one correct answer per question.
+- The exam topic must be related to a country's **culture** (e.g. history, literature) or be regional information (e.g. driver's license). Exact or natural-science exams (e.g. mathematics, physics) are not valid.
 - Prioritize exams in **languages** native to LATAM or co-official in Spain.
 - Spanish-language exams from the following countries are also valid:
 
@@ -62,12 +62,12 @@ Check that the exam meets the following requirements:
     | Uruguay               |              |
     | Venezuela             |              |
 
-*Unless it's an exam with a very strong cultural or regional component. In that case, ask first on [Discord](https://discord.com/channels/938134488670675055/1326890438782750852). Either way, we recommend looking for exams from the priority countries.
+*Unless it's an exam with a very strong cultural or regional component. In that case, ask first on [Discord](https://discord.com/channels/938134488670675055/1326890438782750852). Either way, we still recommend looking for exams from the priority countries.
 
 Ideas for finding exams:
 - Language exams
-- Nationalization exams
-- Driver's licenses
+- Naturalization exams
+- Driving theory exams
 - University entrance or university exams
 - Primary or secondary school exams
 - Professional qualifying exams (law, medicine, psychology, etc.)
@@ -86,11 +86,11 @@ Include the following:
 - Your Discord name
 - Exam name (as detailed as possible)
 - Language and country of origin of the exam
-- Exam domain (e.g., Literature, Law, Driving, etc.)
+- Exam domain (e.g. Literature, Law, Driving, etc.)
 - Exam level
 - Number of questions
 - Exam source (URL if available online, book name or URL to the PDF document in your Drive, etc.)
-- Original format (e.g., PDF, web page, textbook, etc.)
+- Original format (e.g. PDF, web page, textbook, etc.)
 
 ### 3. Process the exams
 

@@ -1,11 +1,11 @@
 ---
 title: "Hackathon SomosNLP 2026: Patrocínios e divulgação"
-description: Obrigada por nos ajudares a democratizar o PLN em espanhol e português!
+description: Obrigada por nos ajudares a democratizar o PLN em português e espanhol!
 lang: pt
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Muito obrigada pelo teu interesse em apoiar-nos a organizar e dar visibilidade a este maravilhoso evento! Nas edições anteriores **contámos cada vez com 500 inscrições de 30 países diferentes e ultrapassámos as 5.000 visualizações dos nossos eventos**. Este ano os nossos desafios são criar dados que nos permitam desenvolver modelos de linguagem inclusivos e de qualidade, adaptados às diversas culturas da América Latina e da Península Ibérica.
+Muito obrigada pelo teu interesse em apoiar-nos a organizar este evento maravilhoso! Em edições anteriores **contámos com 500 inscrições de 30 países diferentes em cada edição e ultrapassámos as 5.000 visualizações dos nossos eventos**. Este ano os nossos desafios passam por criar dados que nos permitam desenvolver modelos de linguagem inclusivos e de qualidade, adaptados às diversas culturas da América Latina e da Península Ibérica.
 
 <div class="flex justify-center">
     <figure>
@@ -14,9 +14,9 @@ Muito obrigada pelo teu interesse em apoiar-nos a organizar e dar visibilidade a
     </figure>
 </div>
 
-Os tipos de patrocínio estão explicados abaixo. Assim que recebermos o formulário, entraremos em contacto para definir os detalhes e adicionaremos o vosso logo ao site.
+Os tipos de patrocínio estão explicados abaixo. Assim que recebermos o formulário, entraremos em contacto para acertar os detalhes e adicionaremos o vosso logo ao site.
 
-Estamos à tua disposição em info@somosnlp.org — contamos com o teu apoio! 💪
+Estamos à tua disposição em info@somosnlp.org e no [Discord](https://discord.com/invite/my8w7JUxZR) — contamos com o teu apoio! 💪
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/YREnJ3p9dNpQRYEg6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina o hackathon</a>
@@ -27,7 +27,7 @@ Estamos à tua disposição em info@somosnlp.org — contamos com o teu apoio! �
 
 ### 1. 🚀 Donativo
 
-Aceitamos donativos monetários e em espécie (e.g., créditos para GPUs, formação, livros, ...).
+Aceitamos donativos monetários e em espécie (e.g. créditos para GPUs, formação, livros, ...).
 
 <details>
 <summary>Categorias de donativo e benefícios</summary>
@@ -41,7 +41,7 @@ Aceitamos donativos monetários e em espécie (e.g., créditos para GPUs, forma�
 <details>
 <summary>Para que será usado o meu patrocínio?</summary>
 
-O nosso hackathon é um evento gratuito. Graças aos patrocínios Ouro, Prata e Bronze, podemos garantir:
+O nosso hackathon é um evento gratuito. Graças aos patrocínios Ouro, Prata e Bronze, conseguimos garantir:
 - Tempo de computação na cloud para todas as pessoas participantes
 - Prémios para as equipas vencedoras
 - Merchandising e sorteios para toda a gente
@@ -49,7 +49,7 @@ O nosso hackathon é um evento gratuito. Graças aos patrocínios Ouro, Prata e 
 - Compensação dos oradores e mentores
 - Boa gestão deste evento internacional online
 
-Exemplos de vales para prémios e sorteios que podes patrocinar: bolsa para um curso pago, acesso a uma plataforma de formação, livros de PLN/IA, merchandising criado especificamente para o hackathon, tempo de computação na cloud, créditos de API de LLMs, vale para lojas de informática, mentorias, etc.
+Exemplos de prémios e sorteios que podes patrocinar: bolsa para um curso pago, acesso a uma plataforma de formação, livros de PLN/IA/linguística, merchandising criado especificamente para o hackathon, tempo de computação na cloud, créditos de API de LLMs, vales para lojas de informática, mentorias, etc.
 
 <center><a href="https://forms.gle/YREnJ3p9dNpQRYEg6" target="_blank" style="background-color:#FACC15; color:white; margin:20px 20px; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina o hackathon</a></center>
 
@@ -58,7 +58,7 @@ Exemplos de vales para prémios e sorteios que podes patrocinar: bolsa para um c
 
 ### 2. 📣 Visibilidade
 
-Os patrocínios de visibilidade são extremamente importantes, pois permitem-nos chegar a mais pessoas, o que é indispensável para a nossa missão de democratizar o PLN na Ibero-América.
+Os patrocínios de visibilidade são fundamentais: permitem-nos chegar a mais pessoas, o que é indispensável para a nossa missão de democratizar o PLN na Ibero-América.
 
 <details>
 <summary>Tipos de visibilidade, requisitos e benefícios</summary>
@@ -73,18 +73,18 @@ Os patrocínios de visibilidade são extremamente importantes, pois permitem-nos
 <details>
 <summary>Como dar visibilidade ao hackathon?</summary>
 
-- Podes utilizar os modelos e o material de divulgação que disponibilizamos para facilitar a tua tarefa.
+- Podes utilizar os templates e o material de divulgação que disponibilizamos para facilitar a tua tarefa.
 - As publicações podem ser feitas em diferentes plataformas: blog, podcast, newsletter, LinkedIn, X, etc.
 - Importante: nas redes sociais, lembra-te de etiquetar a SomosNLP para recebermos a notificação.
 - Nas redes sociais, 1 publicação pode ser trocada por 2 "quotes" no X ou 2 "reposts with your thoughts" no LinkedIn.
-- Podes publicar em diferentes momentos do hackathon. Por exemplo, para incentivar a participação no hackathon (até início de abril), a assistir às palestras (durante o mês de abril) e a partilhar os resultados do hackathon (no início de maio).
+- Podes publicar em diferentes momentos do hackathon — por exemplo, para incentivar a participação (até início de abril), a assistir às palestras (durante abril) e a partilhar os resultados do hackathon (início de maio).
 - Agradecemos RTs / comentários nas publicações em que vos mencionarmos.
 
 Links úteis:
 - [🎨 Material de divulgação](https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf)
 - [🎓 Info para universidades](https://somosnlp.org/hackathon/universidades)
 
-<center><a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-d∫ecoration:none; border-radius:5px;">📣 Preenche o formulário de divulgação</a></center>
+<center><a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Preenche o formulário de divulgação</a></center>
 
 </details>
 
@@ -141,14 +141,14 @@ Enlaces útiles:
 ### ☝️ Avisos
 
 - Se os requisitos não forem cumpridos, o logo correspondente será removido
-- Nos artigos, vídeos e palestras promocionais podem partilhar os vossos projetos *relevantes* para a comunidade
+- Nos artigos, vídeos e palestras promocionais podem partilhar com a comunidade os vossos projetos *relevantes*
 - Agradecemos toda a visibilidade extra! 🤩
 
 ## Contacto
 
-Estamos à tua disposição em info@somosnlp.org e no Discord.
+Estamos à tua disposição em info@somosnlp.org e no [Discord](https://discord.com/invite/my8w7JUxZR).
 
-Se tiveres outras ideias de colaboração, encorajamos-te a contares-nos como achas que nos podes ajudar ou como podemos agradecer o vosso apoio. Muito obrigada novamente! 💛
+Se tiveres outras ideias de colaboração, conta-nos como achas que nos podes ajudar ou como podemos agradecer o vosso apoio. Muito obrigada novamente! 💛
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/B8d5Z81xreioKfWC8" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🙌 Patrocina o hackathon</a>
@@ -159,4 +159,4 @@ Se tiveres outras ideias de colaboração, encorajamos-te a contares-nos como ac
 
 #### 💛 Patrocínio Individual
 
-Sabemos que há pessoas que nos apoiam desde o início e outras que nos acabaram de conhecer e nos vão apoiar nesta nova etapa. Queremos agradecer-vos o vosso esforço e confiança adicionando a vossa foto à nova página "Comunidade" — enviem-nos a vossa info!
+Sabemos que há pessoas que nos apoiam desde o início e outras que acabaram de nos conhecer e nos vão apoiar nesta nova etapa. Queremos agradecer-vos o vosso esforço e confiança adicionando a vossa foto à nova página "Comunidade" — enviem-nos a vossa informação!
