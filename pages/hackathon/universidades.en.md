@@ -7,20 +7,20 @@ cover: /images/eventos/260511_hackathon_eventbrite.png
 
 Hi prof! 👋
 
-This hackathon is an ideal experience for your students to grow their knowledge of Artificial Intelligence, and in particular of language models in the real world: challenges, development, applications, risks and much more 🤓
+This hackathon is an ideal experience for your students to deepen their knowledge of Artificial Intelligence, and in particular of language models in the real world: challenges, development, applications, risks, and much more 🤓
 
-## ❓ Questions you have asked us
+## ❓ Questions you've asked us
 
-- **Can I use the hackathon as a classroom activity?** Yes, as long as the dates and conditions set for the rest of participants are respected.
+- **Can I use the hackathon as a classroom activity?** Yes, as long as the dates and conditions set for everyone else are respected.
 - **Is there a maximum number of teams per university or professor?** No, the more the better! The maximum number of people per team is 5.
 - **Can you give an introductory talk about the community and the event for my university or class?** Yes, of course — get in touch as soon as possible to set a date.
-- **As a professor, can I give a talk or run a mentorship during the hackathon?** Of course! It will be a pleasure to have your students AND faculty involved. Fill in the corresponding form to propose a [talk](https://forms.gle/LEMe61A91WTfiYH28) or a [mentorship](https://forms.gle/Cq7CfgxaLTrthZU37).
-- **Some of my students don't speak Spanish, is that a problem?** No, everyone is welcome — in this edition [the instructions are translated into English](https://somosnlp.org/en/hackathon/retos).
-- *NEW!* **Can we host the hackathon in person at the university?** Yes, universities that wish to do so can offer their students (and participants from the same city) a room where they can meet and develop their projects in person. Let us know so we can help.
+- **As a professor, can I give a talk or run a mentorship during the hackathon?** Absolutely! It would be a pleasure to have your students AND faculty involved. Fill in the corresponding form to propose a [talk](https://forms.gle/LEMe61A91WTfiYH28) or a [mentorship](https://forms.gle/Cq7CfgxaLTrthZU37).
+- **Some of my students don't speak Spanish — is that a problem?** No, everyone is welcome. In this edition [the instructions are translated into English](https://somosnlp.org/en/hackathon/retos).
+- *NEW!* **Can we host the hackathon in person at the university?** Yes — universities that wish to do so can offer their students (and participants from the same city) a room where they can meet and work on their projects in person. Let us know so we can help.
 
-➡️ Send us an email at info@somosnlp.org — we count on you and your students!
+➡️ Send us an email at info@somosnlp.org — we're counting on you and your students!
 
-If you are a student and you would like your university to take part in the hackathon, tell your professor!
+If you're a student and you'd like your university to take part in the hackathon, tell your professor!
 
 ## ✨ Collaboration and benefits
 
@@ -30,9 +30,9 @@ What we ask of partner universities:
 
 Publication ideas:
 - Publish posts on social media, the website or newsletter encouraging participation
-- Publish posts / an article announcing the hackathon results (they can absolutely focus on their students' projects!)
+- Publish posts / an article announcing the hackathon results (feel free to focus on your students' projects!)
 
-By giving the hackathon visibility and bringing at least 1 student team to the hackathon, the university becomes a sponsor and gets the corresponding benefits:
+By giving the hackathon visibility and bringing at least 1 student team to it, the university becomes a sponsor and gets the corresponding benefits:
 - University logo on the hackathon website (*)
 - University logo on the "Community" page (*)
 - Acknowledgment on social media

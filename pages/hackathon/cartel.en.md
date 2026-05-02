@@ -5,7 +5,7 @@ lang: en
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-To foster different skills within our community, this year we want to give you the opportunity to design the hackathon poster. The goals of the hackathon are to create a quality Spanish corpus that captures the varieties of this rich language spoken by 600M people and to build a leaderboard that lets us evaluate LLMs in Spanish. Show us your most artistic side and help us create the poster!
+To showcase the different skills in our community, this year we want to give you the chance to design the hackathon poster. The hackathon's goals are to build a quality Spanish corpus that captures the varieties of this rich language spoken by 600M people, and to launch a leaderboard that lets us evaluate LLMs in Spanish. Show us your most artistic side and help us create the poster!
 
 ## 🎨 How to participate
 
@@ -26,10 +26,10 @@ To foster different skills within our community, this year we want to give you t
 
 ## 📝 Notes
 
-- Creations must be original
-- You can use any type of design tool, including AI systems
-- You will need to be transparent about any use of AI
-- Everyone's participation will be publicly acknowledged
+- Submissions must be original
+- You can use any kind of design tool, including AI systems
+- You'll need to be transparent about any use of AI
+- We will publicly acknowledge everyone's participation
 
 We can't wait to see your posters! 🤩
 

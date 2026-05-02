@@ -5,17 +5,17 @@ lang: en
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-## 🎯 Challenge Objective
+## 🎯 Challenge objective
 
 - Choose one of the following options:
-    - A. Align a **language model** (LLM) to generate text in a culturally appropriate manner
-    - B. Adapt a **multimodal vision-language model** (VLLM) to generate image descriptions taking into account the cultural context
-- In Spanish, Portuguese, or any language of the Iberian Peninsula or LATAM
-- Adapt from an existing model (do not pre-train one from scratch), we recommend using models around 7B as a base (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) and [Gemma](https://huggingface.co/google/gemma-3-4b-it))
+    - A. Align a **language model** (LLM) to generate text in a culturally appropriate way
+    - B. Adapt a **multimodal vision-language model** (VLLM) to generate image descriptions that take cultural context into account
+- In Spanish, Portuguese or any language of the Iberian Peninsula or LATAM
+- Adapt an existing model (don't pre-train one from scratch); we recommend starting from models around 7B (e.g. [Salamandra](https://huggingface.co/BSC-LT/salamandra-7b-instruct), [Mistral](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) and [Gemma](https://huggingface.co/google/gemma-3-4b-it))
 - Generate the dataset with the help of 500 USD in Cohere API credits! We recommend filtering and extending the v0 preferences dataset generated collectively in the Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
 - Train your model directly in JupyterLab on the Hugging Face hub — we have GPUs sponsored by 🤗!
-- Upload the model(s) along with all notebooks used to hf.co/somosnlp-hackathon-2026
-- Write the [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool), include links to the dataset and notebooks used (e.g. preprocessing, training)
+- Upload the model(s) along with all the notebooks used to hf.co/somosnlp-hackathon-2026
+- Write the [Model Card](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool); include links to the dataset and the notebooks used (e.g. preprocessing, training)
 
 ---
 
@@ -36,22 +36,22 @@ cover: /images/eventos/260511_hackathon_eventbrite.png
 
 ### 📚 Dataset
 
-Data is the most important thing in model development, and we will also give it greater importance when evaluating projects 👀
+Data is the most important thing in developing a model, and we'll also give it more weight when evaluating the projects 👀
 
 - Generate a dataset for your project:
-    - Use as the initial version for your dataset the one generated collectively in the Arena: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
-    - Take advantage of the 500 USD in Cohere API credits that each team has to filter, improve, and extend it with more prompts and responses specifically designed for your use case
-    - Keep in mind that when dealing with cultural topics, it is very important that everything generated synthetically is reviewed by a person (you can use [Argilla](https://huggingface.co/docs/hub/en/datasets-argilla))
+    - Use the one generated collectively in the Arena as the initial version for your dataset: [somosnlp-hackathon-2025/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon-2025/dataset-preferencias-dpo-v0)
+    - Take advantage of the 500 USD in Cohere API credits that each team has to filter, improve and extend it with more prompts and responses specifically designed for your use case
+    - Keep in mind that, since this is about cultural topics, it's very important that everything generated synthetically is reviewed by a person (you can use [Argilla](https://huggingface.co/docs/hub/en/datasets-argilla))
 - Upload the dataset to hf.co/somosnlp-hackathon-2026 and iterate
-- Upload all notebooks and scripts used to generate and process the dataset to the dataset repo
-    - If you prefer to create a GitHub repo with all the code, you can do so — don't forget to include a link in the Dataset Card
+- Upload all the notebooks and scripts used to generate and process the dataset to the dataset repo
+    - If you prefer to create a GitHub repo with all the code, you can — just don't forget to include a link in the Dataset Card
 - Fill out the Dataset Card **properly**
-    - "Dataset Card" is the name of the documentation for Hugging Face datasets, it is the README.md of the dataset repository
-    - NOTE: This is taken into account for project evaluation
-    - Include in the introduction the project motivation and impact
+    - "Dataset Card" is the name of the documentation for Hugging Face datasets — it's the README.md of the dataset repository
+    - NOTE: This is taken into account when evaluating the project
+    - Include the project motivation and impact in the introduction
     - Detail the generation and processing pipeline, include the libraries used and mention the tests done, include links to the code
-    - Specify the license: preferably `apache-2.0`, if not, explain why
-    - Evaluate the dataset biases, whether it is balanced, what language varieties or opinions it represents, etc.
+    - Specify the license: preferably `apache-2.0`; if not, explain why
+    - Evaluate the dataset's biases, whether it's balanced, what language varieties or opinions it represents, etc.
 
 How to name datasets:
 - The name of the dataset with the (minimum 100) prompts you submitted to the LLM Arena must contain `prompt`. For example: `normas_culturales_colombia_prompts`
@@ -65,20 +65,20 @@ How to name datasets:
     - Set the "auto-sleep" time to 5 minutes to ensure responsible use 🌱
 3. Design the training notebook
     - Save the resulting model directly to hf.co/somosnlp-hackathon-2026
-    - Use the CodeCarbon library to evaluate the climate impact
-4. Run tests with small models and dataset subsets to verify the code is correct and avoid finding bugs after several hours of training.
-5. Launch the training, review the results, and iterate
+    - Use the CodeCarbon library to assess the climate impact
+4. Run tests with small models and dataset subsets to verify the code is correct, so you don't run into bugs after several hours of training.
+5. Launch the training, review the results and iterate
     - You can try e.g. different algorithms or base models
-    - You don't need to create a different repo for each model; if you push to the same repo, the updated model will be saved as a new commit (which you can link from the Model Card if you want)
+    - You don't need to create a different repo for each model — if you push to the same repo, the updated model will be saved as a new commit (which you can link to from the Model Card if you want)
 6. **Download the dataset processing and model training notebooks, upload them to the model repo** (VERY IMPORTANT) and delete the JupyterLab Space
 7. Fill out the Model Card **properly**
-    - "Model Card" is the name of the documentation for Hugging Face models, it is the README.md of the model repository
-    - NOTE: This is taken into account for project evaluation
-    - Recommendation: Describe the tests as you do them, as well as the dataset improvement and model training process
-    - Include in the introduction the project motivation and impact
+    - "Model Card" is the name of the documentation for Hugging Face models — it's the README.md of the model repository
+    - NOTE: This is taken into account when evaluating the project
+    - Recommendation: describe the tests as you do them, as well as the dataset improvement and model training process
+    - Include the project motivation and impact in the introduction
     - Detail the training process, include the libraries used and mention the tests done, include links to the code
-    - Specify the license: preferably `apache-2.0`, if not, explain why
-    - Evaluate the model biases
+    - Specify the license: preferably `apache-2.0`; if not, explain why
+    - Evaluate the model's biases
     - Evaluate the environmental impact
 
 ---
