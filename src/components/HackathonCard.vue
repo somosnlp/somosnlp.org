@@ -20,11 +20,8 @@ defineProps<{
         <p class="text-sm mb-4" :class="variant === 'highlight' ? 'opacity-90' : 'text-gray-600 dark:text-gray-400'">
             {{ description }}
         </p>
-        <a v-if="linkUrl" :href="linkUrl" target="_blank"
-            class="inline-block px-4 py-2 rounded text-sm font-semibold transition-colors no-underline"
-            :class="variant === 'highlight'
-                ? 'bg-yellow-400 text-gray-900 hover:bg-yellow-300'
-                : 'bg-yellow-400 text-white hover:bg-yellow-500'"
+        <a v-if="linkUrl" :href="linkUrl" target="_blank" rel="noopener"
+            class="inline-block px-4 py-2 rounded text-sm font-semibold transition-colors no-underline bg-yellow-400 text-gray-900 hover:bg-yellow-300"
         >
             {{ linkText || 'Saber más' }}
         </a>
