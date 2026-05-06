@@ -5,19 +5,32 @@ lang: es
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Diseña prompts que evalúen la adecuación cultural con tu país y elige la mejor respuesta en un LLM Arena. Los prompts y las respuestas serán recolectados y compartidos con todos los equipos participantes como dataset de preferencias v0 para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios.
+Vamos a escribir entre todos los equipos **preguntas culturales** sobre nuestros países y a elegir cuál de las dos respuestas que da un modelo es mejor. Con eso crearemos una base de datos abierta para enseñar a los modelos a hablar mejor sobre nuestras culturas.
 
-<!-- *14 de abril - 21 de mayo (EXTENDIDA) | máx 3 ptos* -->
+<!-- Relación con el reto principal: Las preguntas y las respuestas serán recolectadas y compartidas con todos los equipos participantes para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios. -->
 
-1. **Lee la guía a continuación para aprender a diseñar prompts de calidad.**
+## 📖 **Glosario**
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">2. Verifica que has comprendido la guía</a>
-  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">3. Valida prompts de otros equipos</a>
-  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">4. Manda tus prompts a la Arena</a>
-</div>
+- **Modelo de lenguaje (LLM)**: modelo de IA que genera texto, realmente es un modelo estadístico que genera secuencias de palabras probables.
+- **Prompt**: pregunta o instrucción que le escribimos al modelo.
+- **Dataset**: colección de datos (en este caso, prompts y respuestas).
+- **LLM Arena**: web donde mandas un prompt y recibes la respuesta de dos modelos a la vez sin saber cuál es cuál; tú eliges la mejor.
+- **Adecuación cultural**: que la respuesta encaje con la cultura del país (vocabulario, costumbres, contexto).
+- **Alineamiento**: el proceso de "afinar" un modelo para que responda según preferencias humanas (en este caso, adecuado a la cultura).
 
-🌎 Genera **solo** prompts relacionados con el país o países con los que tengas un vínculo lo suficientemente fuerte como para conocer la cultura local.
+---
+
+## 👣 Paso a paso
+
+1. **Lee esta guía** (te llevará menos de 10 minutos) para aprender a escribir prompts de calidad.
+2. **Haz un mini-test** que confirma que has entendido la guía.
+3. **Manda tus prompts al LLM Arena**.
+4. **Valida prompts de otros equipos**.
+5. **Elige la mejor respuesta** entre las dos generadas para cada prompt validado.
+
+<!-- TODO enlaces -->
+
+🌎 **Importante:** escribe prompts **solo** sobre países que conozcas bien (porque has vivido ahí, has crecido ahí o tienes vínculos fuertes). Si no conoces la cultura, no podrás juzgar qué respuesta es mejor.
 
 <!-- ✨ Incentivos (los números se refieren a prompts respondidos validados):
 - 100 por equipo = requisito para acceder a los 500 USD de la API de Cohere para el reto principal
@@ -32,16 +45,8 @@ Recursos:
 - Definiciones, ejemplos de prompts y datasets de preferencias a continuación
 - [Charla sobre Red Teaming de Luis Vasquez](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) -->
 
----
+🚨 **Lee esta guía con calma.** Te llevará menos de 10 minutos. Es importante para que los datos que generemos entre todos los equipos sean de calidad. Los prompts y respuestas de equipos que no hayan seguido las instrucciones no se incluirán en el dataset final y no puntuarán.
 
-## 🎯 Objetivo
-
-El objetivo de este reto es crear entre todos los equipos un dataset que permita alinear LLMs con la cultura de los países de LATAM y la Península Ibérica. Para ello, cada equipo tiene que:
-
-1. Diseñar prompts siguiendo la guía a continuación
-2. Mandar sus prompts a un LLM Arena y elegir la mejor respuesta
-3. Simultáneamente, ir validando los prompts y respuestas de otros equipos
-4. Publicaremos el conjunto de prompts y respuestas
 <!-- 
 : [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
 5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros. 
@@ -52,90 +57,79 @@ Para acceder a los créditos API y GPUs:
 - Hay que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
 -->
 
-🚨 **Lee con atención las guías a continuación para más detalles de cada paso.** Toma menos de 10 minutos y es imprescindible para asegurar la calidad y homogeneidad de los datos, muy importante para continuar vuestro proyecto. No se considerarán prompts y respuestas de equipos que no hayan seguido las instrucciones.
+---
 
-## 🤗 Cómo crear equipos
+## 🤗 Cómo organizar tu equipo
+
+Vuestro equipo puede ser:
+
+- **Homogéneo** (todas las personas del mismo país). Los prompts representan una misma cultura, pero puede haber varias respuestas culturalmente válidas según la región. Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes regiones.
+- **Heterogéneo** (personas de distintos países). Habrá variedad tanto en los prompts como en las respuestas que cada cultura considera adecuadas. Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes países.
+
+> 💡 **Recomendación:** equipos de 2 o 3 países (un punto medio).
+
+## 👀 1. ¿Qué es la "adecuación cultural"?
+
+Este es el concepto clave del reto. **Adecuación cultural** quiere decir que una respuesta encaje bien con la cultura del país: usa el vocabulario adecuado, tiene en cuenta las costumbres y resulta natural para alguien de allí.
+
+La mayoría de los modelos de IA se han entrenado sobre todo con datos en inglés y de cultura estadounidense. Cuando los usamos en español, las respuestas a veces **suenan raras**, no usan nuestro vocabulario o asumen costumbres que no son las nuestras. Crear datos como los de este reto sirve para corregir este comportamiento.
+
+*Para saber más, haz click en las secciones desplegables a continuación.*
 
 <details>
-<summary>Cómo crear equipos</summary>
+<summary>📚 Definición académica de "cultura"</summary>
 
-- Pueden ser homogéneos (todas las personas son del mismo país) o heterogéneos (distintos países de origen)
-    - Equipos homogéneos
-        - Lo más probable es que los prompts sean más o menos estándares, ya que estarán representando a una misma cultura. Las respuestas, sin embargo, puede que haya más de una que se considere culturalmente adecuada dependiendo de la región.
-        - Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes regiones.
-    - Equipos heterogéneos
-        - Es probable que haya variedad tanto en los prompts como en las respuestas que se consideran culturalmente adecuadas.
-        - Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes países.
-- No es necesario que los prompts que mandéis al LLM Arena estén relacionados con el objetivo final con el que queráis alinear vuestro LLM.
+> *En su sentido etnográfico amplio, la cultura es ese todo complejo que incluye el conocimiento, la creencia, el arte, la moral, el derecho, la costumbre y cualquier otra capacidad y hábito adquirido por el hombre como miembro de la sociedad.* ([referencia](https://books.google.co.uk/books/about/Through_the_Language_Glass.html?id=6NOjIzNZvosC&redir_esc=y))
 
-> 💡 Recomendación
->
-> 1. Decidir si desean trabajar en un equipo homogéneo o heterogéneo. Recomendamos un punto medio: equipos que incluyan 2 o 3 países.
-> 2. Empezar a diseñar prompts representando diferentes enfoques de la cultura de los países representados.
-> 3. Decidir el tema del proyecto (¡relacionado con la adecuación cultural!) para tenerlo en cuenta, si queréis, en el diseño de prompts. Igualmente tendréis créditos para extender el dataset común con más prompts específicamente creados para vuestro caso de uso.
+> *Solamente podemos considerar elementos de la cultura tradicional aquellos que la comunidad conserva y transmite. [...] Esta aceptación, y por tanto la literariedad tradicional, popular o folclórica, dependerá de si el texto se ajusta a un lenguaje determinado, a estructuras específicas, coincide con determinados temas, y se crea desde una estética colectiva.* ([referencia](https://books.google.co.uk/books/about/M%C3%A9xico_tradicional.html?id=kbowDQAAQBAJ&redir_esc=y))
 
 </details>
 
-## 👀 1. Las definiciones
-
-
-El principal objetivo del hackathon, y en particular de este reto, es mejorar la “adecuación cultural” de los LLMs, veamos qué significa esto. Comenzamos con unas definiciones:
-
-<details>
-<summary>Cultura</summary>
-
-> *En su sentido etnográfico amplio, la cultura es ese todo complejo que incluye el conocimiento, la creencia, el arte, la moral, el derecho, la costumbre y cualquier otra capacidad y hábito adquirido por el hombre como miembro de la sociedad. ([ref](https://books.google.co.uk/books/about/Through_the_Language_Glass.html?id=6NOjIzNZvosC&redir_esc=y))*
-> 
-
-> *Solamente podemos considerar elementos de la cultura tradicional, aquellos que la comunidad conserva y transmite. […] Esta aceptación, y por tanto, la literariedad tradicional, popular o folclórica, dependerá de si el texto se ajusta a un lenguaje determinado, a estructuras específicas, coincide con determinados temas, y se crea desde una estética colectiva. ([ref](https://books.google.co.uk/books/about/M%C3%A9xico_tradicional.html?id=kbowDQAAQBAJ&redir_esc=y))*
-> 
-
-</details>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="/images/infografias/adecuacion_cultural/es/1.jpg" alt="Adecuación Cultural 1" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/2.jpg" alt="Adecuación Cultural 2" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/3.jpg" alt="Adecuación Cultural 3" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/4.jpg" alt="Adecuación Cultural 4" style="width: 100%;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:10px;">
+    <img src="/images/infografias/adecuacion_cultural/es/1.jpg" alt="Infografía 1: definición de cultura" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/2.jpg" alt="Infografía 2: definición de cultura" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/3.jpg" alt="Infografía 3: definición de cultura" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/4.jpg" alt="Infografía 4: definición de cultura" loading="lazy" style="width: 100%;">
 </div>
 
 <details>
-<summary>Multiculturalidad</summary>
+<summary>📚 Multiculturalidad</summary>
 
-> Existencia de varias culturas que conviven en un mismo espacio físico, geográfico o social. Abarca todas las diferencias que se enmarcan dentro de la cultura, ya sea, religiosa, lingüística, racial, étnica o de género. ([ref](https://www.significados.com/multiculturalidad/))
+> Existencia de varias culturas que conviven en un mismo espacio físico, geográfico o social. Abarca todas las diferencias que se enmarcan dentro de la cultura, ya sea religiosa, lingüística, racial, étnica o de género. ([referencia](https://www.significados.com/multiculturalidad/))
 > 
-
 > Ante la comunidad se reconoce la diversidad en todos los ámbitos y reconoce el respeto hacia ella misma, promoviendo derechos hacia cada una de las culturas incluidas.
-> 
 
 </details>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-    <img src="/images/infografias/adecuacion_cultural/es/5.jpg" alt="Adecuación Cultural 5" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/6.jpg" alt="Adecuación Cultural 6" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/7.jpg" alt="Adecuación Cultural 7" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/8.jpg" alt="Adecuación Cultural 8" style="width: 100%;">
-    <img src="/images/infografias/adecuacion_cultural/es/9.jpg" alt="Adecuación Cultural 9" style="width: 100%;">
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:10px;">
+    <img src="/images/infografias/adecuacion_cultural/es/5.jpg" alt="Infografía 5: multiculturalidad" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/6.jpg" alt="Infografía 6: multiculturalidad" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/7.jpg" alt="Infografía 7: multiculturalidad" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/8.jpg" alt="Infografía 8: multiculturalidad" loading="lazy" style="width: 100%;">
+    <img src="/images/infografias/adecuacion_cultural/es/9.jpg" alt="Infografía 9: multiculturalidad" loading="lazy" style="width: 100%;">
 </div>
 
 <details>
-<summary>Adecuación cultural</summary>
+<summary>📚 Adecuación cultural en detalle (propósito comunicativo y medios lingüísticos)</summary>
 
-- Algo es adecuado en relación al propósito de lo que se hace. En el caso del lenguaje, la adecuación puede entenderse como una relación entre el **propósito comunicativo** (intención o motivación del remitente al destinatario al comunicarse) ****y los **medios lingüísticos** elegidos.
-- El **propósito comunicativo** se relaciona con qué y cómo queremos comunicar un mensaje. Los **medios lingüísticos** son las palabras y formas gramaticales que utilizamos. Por ejemplo, las siguientes dos oraciones cumplen el propósito de solicitar una explicación:
-    1. *¿Me podrías explicar, por favor?*
-    2. *Explícame.*
-    
-    La oración #1 transmite una petición indirecta y cortés por medio del uso condicional simple (”podrías”). La inclusión de la frase “por favor” refuerza la cortesía. La oración #2 transmite una petición directa por medio de la forma gramatical del imperativo afirmativo del verbo “explicar”. Es menos cortés que la oración #1.
+Algo es **adecuado** en relación al propósito que tiene. En el lenguaje, la adecuación se entiende como la relación entre:
+
+- El **propósito comunicativo**: qué quieres transmitir y con qué intención.
+- Los **medios lingüísticos**: las palabras y formas gramaticales que eliges.
+
+Por ejemplo, estas dos frases tienen el mismo propósito (pedir una explicación), pero usan medios lingüísticos distintos:
+
+1. *¿Me podrías explicar, por favor?*: petición indirecta y cortés (uso del condicional, "por favor").
+2. *Explícame.*: petición directa (imperativo). Menos cortés que la #1.
 
 </details>
 
 <details>
-<summary>¿Cómo influye la cultura en la elección de medios lingüísticos?</summary>
+<summary>📚 ¿Cómo influye la cultura en las palabras y la gramática que usamos?</summary>
 
-- La cultura influye en las palabras (i.e., elecciones **léxicas**) y las **formas gramaticales** que utilizamos. Algunos ejemplos:
+La cultura afecta tanto a las **elecciones léxicas** (palabras) como las **formas gramaticales**. Algunos ejemplos:
 
-Elecciones léxicas
+**Vocabulario**
 
 | Español peninsular | Español de América |
 | --- | --- |
@@ -145,21 +139,21 @@ Elecciones léxicas
 | Entrar *en* | Entrar *a* |
 | Me da *vergüenza* | Me da *pena* |
 
-Formas gramaticales
+**Gramática**
 
 | Español peninsular | Español de América |
 | --- | --- |
-| Pretérito compuesto (e.g., *se ha ido*) | Pretérito simple (e.g., *se fue*) |
+| Pretérito compuesto (*se ha ido*) | Pretérito simple (*se fue*) |
 
-Distintos propósitos comunicativos
+**Mismas palabras, distintos propósitos comunicativos**
 
 | Propósito comunicativo | Medio lingüístico | Ejemplo |
 | --- | --- | --- |
 | Calidez | Forma gramatical: Diminutivo | *¿Cómo estás, Edgarcito?* |
 | Minimizar | Forma gramatical: Diminutivo | *En aquella casita.* |
-| Afirmación | Elección léxica: Bueno | *Ah, bueno;* *Bueno…está bien* |
+| Afirmación | Elección léxica: Bueno | *Ah, bueno. Bueno… está bien* |
 | Re-orientación | Elección léxica: Bueno | *Bueno…como te iba diciendo* |
-| Corrección | Elección léxica: Bueno | *Bueno, nosotros lo decimos así no?* |
+| Corrección | Elección léxica: Bueno | *Bueno, nosotros lo decimos así, ¿no?* |
 
 </details>
 
@@ -170,10 +164,10 @@ Distintos propósitos comunicativos
 </div>
 
 <details>
-<summary>¿Cómo afecta la cultura en la capacidad de un LLM de entender un lenguaje?</summary>
+<summary>📚 ¿Cómo afecta la cultura en la capacidad de un LLM de entender un lenguaje?</summary>
 
-- En la comunicación: Los propósitos comunicativos se ven directamente afectados por las palabras y formas gramaticales usadas. Mientras más palabras de un país específico tenga una oración (por ejemplo, de Colombia), más difícil puede ser entenderla para alguien (o algo: un LLM) que no esté familiarizado con esa cultura.
-- En la percepción del mundo: Códigos morales (i.e., qué es bueno, qué es malo), actividades comunes (e.g., ir a la lucha libre), etc.
+- **En la comunicación:** cuantas más palabras o expresiones específicas de un país tenga una frase (por ejemplo, modismos colombianos), más difícil le será entenderla a una persona o a un modelo que no esté familiarizado con esa cultura.
+- **En la visión del mundo:** códigos morales (qué es bueno, qué es malo), actividades comunes (*ir a la lucha libre*, *ir de tapas*), referencias compartidas, etc.
 
 </details>
 
@@ -190,16 +184,20 @@ Distintos propósitos comunicativos
 
 ### 2.1. Características generales
 
-Los prompts deben ser:
+Tus prompts deben cumplir estas tres reglas:
 
-- **No triviales**: evitar preguntas factual simples (e.g. “¿Cuál es la capital de Colombia?”).
-- **Culturalmente situados**: tocan temas comunes en una región específica. **Utiliza** **roles para contextualizar tu pregunta**.
-- **Neutrales**: no deben inducir una preferencia política, religiosa, o ideológica fuerte. Estos temas sí se pueden tratar pero sin incluir opiniones sobre cuál es “mejor”.
+- ✅ **No triviales**: evita preguntas con una sola respuesta correcta y obvia, tipo *"¿Cuál es la capital de Colombia?"*.
+- ✅ **Culturalmente situados**: tocan algo propio de un país o región. **Usa "roles"** para dar contexto al modelo (ver abajo qué es un rol).
+- ✅ **Neutrales**: no induzcas una opinión política, religiosa o ideológica fuerte. Estos temas se pueden tratar, pero sin pedirle al modelo que diga cuál es "mejor".
+
+**¿Qué es un "rol"?** Indicar al modelo qué papel asumir antes de responder, por ejemplo: *"Eres una persona de Argentina de 30 años"*. Esto ayuda a que su respuesta encaje con esa cultura.
+
+En la Arena, escribe el rol en el campo "System prompt". Te recomendamos también pedirle que la respuesta sea **concisa y culturalmente adecuada**.
 
 <details>
-<summary>💡 ¿Qué es un rol?</summary>
+<summary>📚 Más detalles académico sobres los roles (opcional)</summary>
 
-Es una función que una **persona** desempeña en un lugar o en una situación. En el PLN, este concepto se empezó a adoptar en el área de diálogo y sistemas interactivos. De hecho, es común encontrar que se usa el término “persona” y no “rol”, aunque hacen referencia a lo mismo.
+Un rol es una función que una **persona** desempeña en un lugar o en una situación. En el PLN, este concepto se empezó a adoptar en el área de diálogo y sistemas interactivos. De hecho, es común encontrar que se usa el término “persona” y no “rol”, aunque hacen referencia a lo mismo.
 
 *¿Por qué es un concepto importante en los LLMs?*
 
@@ -212,85 +210,74 @@ Un ejemplo de caso #1 es si queremos simular la interacción entre personas de E
 
 En el caso #2, por el contrario, sí puede haber interacción humana. Al igual que en #1, existe un diseñador que define el rol que el LLM debe desempeñar. El LLM interactúa con un humano, respondiendo desde la perspectiva del rol asignado.
 
-*¿Cómo definir un rol en el LLM Arena?*
-
-Inclúyelo en el “System prompt”. Además del rol, recomendamos explicitar en el System prompt que la respuesta del LLM sea concisa y culturalmente adecuada.
-
 </details>
 
-### 2.2. Ejemplos de prompt (no exhaustivos)
+### 2.2. Cuatro tipos de prompt (con ejemplos)
 
-💡 Los prompts que se muestran a continuación son sólo una guía
+💡 **Estos son solo ejemplos.** Cada equipo puede inventar sus propios formatos. Los roles pueden incluir solo el país (*"una persona de Argentina"*) o ser tan detallados como queráis (género, edad, clase social, etc.). Las preguntas pueden venir de un dataset o encuesta existente o ser totalmente originales.
 
-- Respecto a los roles: ¡Cada equipo puede hacer su propia definición! Puede ser algo simple (e.g., sólo especificar el país de origen) o algo más elaborado (i.e., incluir género, edad, etc)
-- Respecto a las preguntas: Tomar preguntas de un dataset o una encuesta es sólo una opción. ¡También pueden redactar sus propias preguntas!
-
-
-#### 1. **Definir un rol, mostrar una situación con múltiples reacciones posibles** (como en [MultiTP](https://openreview.net/pdf?id=vrHErHkCNo))
+#### Tipo 1: Situación con varias reacciones posibles
+*Inspirado en [MultiTP](https://openreview.net/pdf?id=vrHErHkCNo).*
     
 <details>
-<summary>Por ejemplo…</summary>
+<summary>Ver ejemplo</summary>
 
-Rol: Persona de México
+**Rol:** Persona de México
+**Situación:** Uso de espacios exclusivos en el transporte público
 
-Situación: Uso de espacios exclusivos
-
-```python
-Imagina que estás en el transporte público y observas que alguien 
-se sienta y/o pone sus cosas en uno de los asientos reservados 
-para mujeres embarazadas, adultos mayores y personas 
+```text
+Imagina que estás en el transporte público y observas que alguien
+se sienta y/o pone sus cosas en uno de los asientos reservados
+para mujeres embarazadas, adultos mayores y personas
 con discapacidad.
 
-Si ingresa una persona que tiene derecho a hacer uso de dichos 
-asientos y no le es posible utilizarlos, los demás 
-pasajeros reaccionan... 
+Si ingresa una persona que tiene derecho a hacer uso de dichos
+asientos y no le es posible utilizarlos, los demás
+pasajeros reaccionan...
 ```
 
-Respuesta 1 (siguiendo el rol pre-definido)
+**Posible respuesta A** (coherente con el rol):
 
-```python
+```text
 Con agresividad, exigiendo a la persona que está haciendo mal uso
 de los asientos que se retire.
 ```
 
-Respuesta 2
+**Posible respuesta B:**
 
-```python
-Con indiferencia. Nadie dice nada. 
+```text
+Con indiferencia. Nadie dice nada.
 ```
 
 </details>
 
-#### 2. **Definir un rol y presentar una pregunta abierta/subjetiva** (similar a lo que hizo [Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)) 
+#### Tipo 2: Pregunta abierta o subjetiva
+*Similar a [Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm).*
 
 <details>
-<summary>Por ejemplo…</summary>
+<summary>Ver ejemplo</summary>
 
-Pregunta: generada por alguien de México
+**Rol:** Persona de México
 
-Rol: país de origen
-
-```python
-System prompt: Eres un asistente de IA. Responde como si fueras 
-una persona nativa de {pais_de_origen}.
+```text
+System prompt: Eres un asistente de IA. Responde como si fueras
+una persona nativa de México.
 
 Pregunta: ¿Es mejor ir en coche o en metro al zócalo de la CDMX?
 
-Respuesta (ejemplo):
-                    Lo mejor es tomar el metro. Es más rápido y más seguro,
-                    ya que es difícil encontrar un lugar para estacionarse.
-                    Hay varios estacionamientos públicos, pero no son muy
-                    seguros.
+Posible respuesta:
+Lo mejor es tomar el metro. Es más rápido y más seguro,
+ya que es difícil encontrar un lugar para estacionarse.
+Hay varios estacionamientos públicos, pero no son muy seguros.
 ```
 
-ó
+O bien:
 
-```python
+```text
 Pregunta: Quiero salir con mis amigos el fin de semana en CDMX.
-                    ¿Qué podemos hacer para convivir y divertirnos?
-                    Dame cinco ideas.
-                    
-Respuesta (ejemplo):
+¿Qué podemos hacer para convivir y divertirnos? Dame cinco ideas.
+
+Posible respuesta:
 Si quieres pasar un fin de semana divertido con tus amigos, puedes:
 1. Andar en bicicleta el domingo en Paseo de la Reforma
 2. Ir por un café a Coyoacán
@@ -301,75 +288,78 @@ Si quieres pasar un fin de semana divertido con tus amigos, puedes:
 
 </details>
 
-#### 3. **Definir un rol, un comportamiento y presentar una pregunta de opción múltiple** (como en [este paper](https://arxiv.org/pdf/2402.13231))
+#### Tipo 3: Pregunta de opción múltiple con un perfil detallado
+*Inspirado en [este paper](https://arxiv.org/pdf/2402.13231).*
 
 <details>
-<summary>💡 Por ejemplo…</summary>
+<summary>Ver ejemplo</summary>
 
-- Rol (características): Género, país de origen, educación, edad, clase social
-- Pregunta: Pregunta abierta
-- Set de respuestas: Hay dos posibilidades:
-    1. Todas las opciones son culturalmente adecuadas, el modelo tendría que elegir la más adecuada para el rol y explicar por qué
-    2. Sólo 1 de las opciones es culturalmente adecuada
-- Comportamiento (la respuesta del LLM): Debe ser congruente con el rol
+- **Rol detallado:** género, país, educación, edad, clase social.
+- **Pregunta:** abierta.
+- **Opciones:** o bien todas son culturalmente adecuadas (el modelo elige la mejor para el rol y la justifica), o solo una lo es.
+- **Lo que esperas del modelo:** una respuesta coherente con el rol.
 
-```python
+```text
 Imagina que eres una persona {género} de {país}.
 Tienes {edad} años y completaste el nivel educativo {educación}.
-Te auto-defines como parte de una clase social {clase_social}. 
+Te auto-defines como parte de una clase social {clase_social}.
 
 Responde a la siguiente pregunta desde esta perspectiva.
-Considera que otras personas leerán lo que elijas; tu objetivo es 
-convencerlos de que la elección se hizo desde la perspectiva de la
+Considera que otras personas leerán lo que elijas; tu objetivo es
+convencerlas de que la elección se hizo desde la perspectiva de la
 persona descrita arriba.
 
-Selecciona sólo una opción y explica tu elección.
+Selecciona solo una opción y explica tu elección.
 
 Pregunta: {pregunta}
-Opciones: {set de respuestas}
+Opciones: {opciones}
 ```
 
 </details>
 
 
-#### 4. **Diálogos** (como hizo [OpenAssistant](https://arxiv.org/pdf/2304.07327))
+#### Tipo 4: Diálogo de varias interacciones
+*Como hizo [OpenAssistant](https://arxiv.org/pdf/2304.07327).*
 
 <details>
-<summary>💡 Por ejemplo…</summary>
+<summary>Ver ejemplo</summary>
 
-Para generar un diálogo, simplemente continúa la conversación en el LLM Arena un par de interacciones.
+Para crear un diálogo, continúa la conversación en la Arena durante un par de turnos.
 
-```python
-# Prompt
-Recomiéndame lugares para salir con mis amigos el fin de semana en CDMX
+```text
+# Tú
+Recomiéndame lugares para salir con mis amigos el fin de semana en CDMX.
 
-# Respuesta (assistant)
-Esta recomendación depende mucho del tipo de actividades que a ti y a
-tus amigos les gusta hacer. Necesito más información, como el si
-prefieren espacios abiertos o espacios cerrados.
+# Modelo
+Esta recomendación depende mucho del tipo de actividades que a ti
+y a tus amigos les gusta hacer. ¿Prefieren espacios abiertos
+o cerrados?
 
-# Respuesta (prompter)
+# Tú
 Buen punto. Preferimos los espacios abiertos.
 
-# Respuesta (assistant)
-¡Muy bien! En ese caso, podrían ir a La Marquesa. Ahí encontrarán 
-opciones para comer y divertirse al aire libre. 
+# Modelo
+¡Muy bien! En ese caso podrían ir a La Marquesa. Ahí encontrarán
+opciones para comer y divertirse al aire libre.
 ```
 
 </details>
 
-### 2.3. Crea tu dataset de prompts
+### 2.3. Guarda tus prompts y publícalos
 
-- Recomendamos guardar tus prompts en un archivo CSV
-- Columnas:
-    - necesarias: `prompt` y `pais`
-    - opcional: añade las columnas que necesites, por ejemplo si has creado una plantilla con diferentes características sociales (e.g. `edad`) o regiones, `origen` si las preguntas vienen de un dataset existente, etc.
-- Tendrás que crear un dataset de prompts en la org de Hugging Face del hackathon: https://huggingface.co/somosnlp-hackathon (si todavía no te has unido, utiliza esta [invitación](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD))
+1. Guarda tus prompts en un archivo **CSV** (lo puedes hacer en una hoja de cálculo y exportarlo). El número máximo de prompts por **persona** (no por equipo) son 100.
+2. Incluye al menos estas columnas:
+   - `prompt`: el texto de la pregunta.
+   - `pais`: el país al que se refiere.
+3. *(Opcional)* Añade columnas con diferentes características demográficas: `edad`, `genero`, `region`, etc.
+4. **Sube el archivo** como un dataset en la [organización del hackathon en Hugging Face](https://huggingface.co/somosnlp-hackathon). Si todavía no formas parte, [únete con esta invitación](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD).
 
-### 2.4. Recursos
+**Preguntas sintéticas:** Si sabes programar, puedes generar **y revisar** preguntas con ayuda de LLMs. En este caso, es obligatorio verificar que la licencia del modelo permite entrenar otros LLMs con sus outputs e incluir una columna `modelo_gen` indicando el nombre del modelo. Recuerda que los prompts solo puntuarán si son validados por otras personas participantes, por favor, no hagáis perder el tiempo a compañeros/as mandando prompts sin revisar. Si detectamos este comportamiento, el equipo será eliminado.
+
+### 2.4. Recursos para inspirarte
 
 <details>
-<summary>Datasets relacionados (podéis tomar las categorías para las preguntas)</summary>
+<summary>📁 Datasets de los que podéis sacar categorías de preguntas</summary>
 
 - [BLEnD](https://arxiv.org/pdf/2406.09948): comida, deportes, familia, educación, días festivos/celebraciones/ocio, vida laboral
 - [CoScript](https://aclanthology.org/2023.acl-long.236.pdf): 19 categorías derivadas de wikiHow (Fig 8)
@@ -384,7 +374,7 @@ opciones para comer y divertirse al aire libre.
 </details>
 
 <details>
-<summary>Ideas de categorías para preguntas abiertas</summary>
+<summary>💡 Ideas de categorías para preguntas abiertas</summary>
 
 - Normas culturales
     - *¿Cómo responderías educadamente a un desconocido que se saltó la fila en un banco en Argentina?*
@@ -397,7 +387,7 @@ opciones para comer y divertirse al aire libre.
 </details>
 
 <details>
-<summary>Ejemplos de prompts NO válidos</summary>
+<summary>🚫 Ejemplos de prompts NO válidos</summary>
 
 - Muy generales o universales: *“Explica la fotosíntesis.”*
 - Demasiado subjetivos o sin marco cultural: *“¿Cuál es el mejor valor humano?”*
@@ -405,34 +395,53 @@ opciones para comer y divertirse al aire libre.
 
 </details>
 
-## ✅ 3. Cómo elegir la mejor respuesta en el LLM Arena
+## 🔍 3. Valida prompts
 
-- Una vez diseñes los prompts, utiliza el LLM Arena para generar respuestas con LLMs. No hace falta que guardes las respuestas, las guardamos automáticamente y las liberaremos a todos los equipos el 21 de abril.
-- Lee con atención las dos respuestas generadas por el LLM. Luego, elige la opción que consideres **más adecuada** cultural y comunicativamente
-- Para votar, ten en cuenta:
-    - ✅ **Conocimiento cultural correcto,** la información objetiva tiene que ser correcta
-    - ✅ **Adecuación cultural** al país y rol definidos
-    - ✅ **Uso correcto del español local** (voseo, leísmo, modismos, etc.), la respuesta generada debería utilizar la misma variedad del español que la pregunta
-        - Nota: No evalúes por gramática perfecta o estilo “neutro”, sino por lo que suena natural y correcto para la cultura del prompt.
-- Selecciona:
-    - **Respuesta A / B**: Si una es claramente más adecuada que la otra.
-    - **Ambas buenas**: Si ambas son correctas, naturales y culturalmente adecuadas.
-    - **Ambas malas**: Si ambas tienen errores graves de tono, contenido o adecuación cultural.
+Validar prompts de otros equipos es **igual de importante** que generar tus propios prompts. Te ayuda a aprender lo que funciona y mejora la calidad del dataset común.
 
-## 🔍 4. Validar preguntas y respuestas de otros equipos
+Pasos:
 
-- Abre el [espacio de validación](https://huggingface.co/spaces/somosnlp/validacion-preferencias) y selecciona el país para el cual puedas valorar la adecuación cultural
-- En el espacio podrás ver lo siguiente:
-    - una pregunta
-    - las dos respuestas generadas por LLMs
-    - la respuesta elegida originalmente
-- Tendrás que anotar:
-    1. Si la pregunta te parece que está bien diseñada teniendo en cuenta la guía anterior
-    2. Si también elegirías esa respuesta o cambiarías
-    3. Opcionalmente, puedes editar y mejorar la respuesta generada elegida
-- Consideraciones para la validación:
-    - Evita sesgos personales, evalúa desde la perspectiva del rol definido
-    - Si el prompt no tiene anclaje cultural o ambas respuestas no se pueden evaluar razonablemente, repórtalo como inválido
+1. Abre el [espacio de validación](https://huggingface.co/spaces/somosnlp/validacion-preferencias) y elige un país cuya cultura conozcas bien.
+2. Verás una pregunta.
+3. Selecciona "OK" si:
+   - La **pregunta** está bien diseñada según esta guía y el prompt **tiene anclaje cultural**
+   - *(Opcional)* Edita y mejora la pregunta para que sea aún mejor.
+
+
+## ✅ 4. Cómo elegir la mejor respuesta
+
+En el Arena, verás respuestas de **dos modelos** sin saber cuál es cuál. Tu tarea es elegir cuál encaja mejor con la cultura del prompt. (No hace falta que guardes nada, todo se guarda automáticamente.)
+
+**Lee las dos respuestas con calma y fíjate en:**
+
+- ✅ **¿Es información correcta?** Los datos objetivos no pueden estar mal.
+- ✅ **¿Encaja con la cultura del país y del rol?** Evalúa **desde la perspectiva del rol definido** en el prompt, no desde la tuya.
+- ✅ **¿Suena natural en el español local?** (voseo, leísmo, modismos…). La respuesta debe usar la misma variedad de español que la pregunta. **No** evalúes buscando gramática "perfecta" o un español "neutro" (¡no existe!) busca lo que suene natural para esa cultura.
+
+Después, elige una opción:
+
+- **Respuesta A** o **B**: si una es claramente mejor.
+- **Ambas buenas**: si las dos son correctas y naturales.
+- **Ambas malas**: si las dos tienen errores graves de tono, contenido o adecuación cultural.
+
+<!-- TODO opcionalmente mejorar la respuesta correcta, no? -->
+
+---
+
+## 🚀 ¿Empezamos?
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
+  <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Hacer el test de comprensión ↗</a>
+  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Ir a la LLM Arena ↗</a>
+  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Validar prompts ↗</a>
+</div>
+
+<div style="text-align:center; margin-top:24px;">
+  <a href="https://somosnlp.org/hackathon/retos" style="background-color:#4b5563; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; display:inline-block;">← Volver a todos los retos</a>
+</div>
+
+<!-- TODO enlaces -->
+
 <!-- 
 ## 🌍 5. Más retos
 
