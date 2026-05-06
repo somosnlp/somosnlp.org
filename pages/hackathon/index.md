@@ -10,20 +10,23 @@ import HackathonCard from '../../src/components/HackathonCard.vue'
 import ProjectCard from '../../src/components/ProjectCard.vue'
 </script>
 
-Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno con una gran riqueza cultural. Los modelos de lenguaje (la tecnología detrás de ChatGPT, Gemini, etc.) hablan cada vez más idiomas, pero **¿realmente entienden nuestras culturas?** Vamos a comprobarlo y a mejorarlo juntas y juntos en el **#HackathonSomosNLP**, el mayor hackathon abierto y gratuito de inteligencia artificial en español y portugués 🚀
+Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
-  <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; padding:14px 28px; text-decoration:none; border-radius:6px; font-weight:700; font-size:1.1em; display:inline-block;">📝 Inscríbete ya ↗</a>
-  <a href="/hackathon/retos" style="background-color:#1e3a8a; color:white; padding:14px 28px; text-decoration:none; border-radius:6px; font-weight:700; font-size:1.1em; display:inline-block;">🔥 Ver los retos</a>
+  <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">🎨 Material de difusión</a>
+
+  <!-- <a href="/hackathon/retos" style="background-color:#1e3a8a; color:white; padding:14px 28px; text-decoration:none; border-radius:6px; font-weight:700; font-size:1.1em; display:inline-block;">🔥 Ver los retos</a> -->
 </div>
 
 *([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
 
+<!--
 ---
 
 ## 🧭 ¿Cómo te gustaría participar?
 
-<div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4 my-8">
+<div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
 <HackathonCard
   icon="👩‍💻"
@@ -35,8 +38,8 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 <HackathonCard
   icon="🧑‍🏫"
-  title="Soy mentor o ponente"
-  description="Quiero compartir mi experiencia con los equipos en una sesión de mentoría o una charla."
+  title="Soy mentor/a"
+  description="Quiero compartir mi experiencia con los equipos en una sesión de mentoría."
   linkText="Apuntarme"
   linkUrl="https://forms.gle/Cq7CfgxaLTrthZU37"
 />
@@ -57,7 +60,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
   linkUrl="/hackathon/universidades"
 />
 
-</div>
+</div> -->
 
 ---
 
@@ -92,20 +95,18 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
-<img src="/images/eventos/260501_hackathon_video.gif" alt="Vídeo resumen del Hackathon #Somos600M de SomosNLP, mostrando momentos de las ediciones anteriores." loading="lazy" />
+<img src="/images/eventos/260501_hackathon_video.gif" alt="Vídeo Hackathon." loading="lazy" />
 <!-- Actualizar al GIF de este año -->
 
 ---
 
 ## 🚀 Cómo participar
 
-**Tres pasos para apuntarte:**
-
 1. 📝 [**Inscríbete**](https://hackathon-somosnlp-2026.eventbrite.com) en Eventbrite (gratis, ~2 minutos).
 2. 💬 Únete a [**Discord**](https://discord.com/invite/my8w7JUxZR) para hablar con la comunidad y enterarte de los talleres.
-3. 🔥 Lee los [**retos**](/hackathon/retos) y elige por cuál empezar.
+<!-- 3. 🔥 Lee los [**retos**](/hackathon/retos) y elige por cuál empezar. -->
 
-**Hay dos vías de participación, elige según tu nivel:**
+Hay dos vías de participación, elige según tu nivel:
 
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
@@ -113,26 +114,24 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
   icon="📚"
   title="Mini retos (cualquier nivel)"
   description="Manda preguntas culturales a modelos de IA y elige las mejores respuestas. Sin programar y desde el navegador. ¡Apto para todos los públicos!"
-  linkText="Ver mini retos"
-  linkUrl="/hackathon/retos#-mini-retos"
 />
 
 <HackathonCard
   icon="💻"
   title="Reto principal (sé programar)"
-  description="En equipos de 1 a 5 personas: crea un dataset, post-entrena un modelo y publica una demo. Te acompañamos con talleres y mentorías."
-  linkText="Ver reto principal"
-  linkUrl="/hackathon/retos#-reto-principal"
+  description="En equipos de 1 a 5 personas: crea un dataset, post-entrena un modelo y publica una demo. ¡Te apoyamos con talleres y mentorías!"
 />
+
+<!-- TODO: update linkUrl -->
 </div>
 
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
-  <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; padding:14px 28px; text-decoration:none; border-radius:6px; font-weight:700; font-size:1.1em; display:inline-block;">📝 Inscríbete ya ↗</a>
+  <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
 </div>
 
 
-**Al participar tendrás la oportunidad de:**
+Al participar tendrás la oportunidad de:
 - ✨ Aprender con talleres y charlas en directo
 - ✨ Acceder a cientos de USD en créditos GPU y API para tu proyecto
 - ✨ Ganar premios de 1500, 1000 o 500 USD (1º, 2º y 3º)
@@ -145,13 +144,13 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 ¡A por ello! 🚀
 
-*¿Tienes dudas? Mira las [preguntas frecuentes](#-preguntas-frecuentes) más abajo.*
+*¿Tienes dudas? Revisa las preguntas frecuentes e información de contacto al final.*
 
 ---
 
 ## 🙌 Otras formas de apoyar
 
-¿No quieres participar pero quieres echar una mano? El hackathon es un evento gratuito y sin ánimo de lucro, así que cualquier ayuda suma.
+¿No puedes participar pero quieres echar una mano? El hackathon es un evento gratuito y sin ánimo de lucro, toda ayuda suma!
 
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
@@ -165,8 +164,8 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 <HackathonCard
   icon="🤗"
-  title="Únete al equipo organizador"
-  description="Colabora creando contenido, tutoriales, recursos de apoyo o investigando sobre Cultural NLP."
+  title="Únete al equipo"
+  description="Colabora creando contenido, tutoriales y recursos de apoyo."
   linkText="Apuntarme"
   linkUrl="https://forms.gle/vjkLRQVnGF5eVgqq5"
 />
@@ -180,7 +179,19 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 />
 
 <HackathonCard
-  icon="💎"
+  icon="🎓"
+  title="Invita a tu alumnado"
+  description="Quiero que mi universidad colabore con el hackathon o difundirlo entre el alumnado."
+  linkText="Cómo colaborar"
+  linkUrl="/hackathon/universidades"
+/>
+
+</div>
+
+<div class="grid gap-6 sm:grid-cols-1 lg:grid-cols-1 my-8 mx-40">
+
+<HackathonCard
+  icon="🙌"
   title="Patrocina el hackathon"
   description="Apoya nuestra misión con visibilidad, créditos, premios o donaciones. SomosNLP es una asociación sin ánimo de lucro."
   linkText="Ver opciones"
@@ -188,6 +199,7 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 />
 
 </div>
+
 
 ---
 
@@ -223,9 +235,7 @@ Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</str
 
 </div>
 
-<div style="text-align:center; margin:24px 0;">
-  <a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:#1f2937; padding:12px 24px; text-decoration:none; border-radius:6px; font-weight:600; display:inline-block;">Ver más proyectos</a>
-</div>
+<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más proyectos</a></center>
 
 ---
 
@@ -331,59 +341,67 @@ logo_dark="/images/patrocinios/CENIA.jpeg" />
 
 Al unirte a este hackathon tendrás la oportunidad de:
 
-- ✅ Comprender cómo funcionan los grandes modelos del lenguaje y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
+- ✅ Comprender cómo funcionan los grandes modelos del lenguaje, tanto textuales (LLMs) como multimodales (VLLMs) y descubrir los retos de cada etapa de su desarrollo: creación del corpus, entrenamiento, alineamiento y evaluación
 - ✅ Participar en la creación del primer corpus de preferencias de calidad y diverso para alinear LLMs con la cultura de los países de LATAM y la Península Ibérica (top como experiencia y top para el CV)
-- ✅ Resolver todas tus dudas sobre PLN durante sesiones de mentoría "Ask My Anything"
+- ✅ Ser parte del equipo que cree algunas de las bases de datos de la primera leaderboard abierta de LLMs en español: La Leaderboard
+- ✅ Resolver tus dudas sobre PLN durante sesiones de mentoría "Ask My Anything"
 - ✅ Recibir apoyo para presentar tu trabajo en un paper
 - ✅ Ganar premios para seguir creciendo como profesional y conseguir un certificado que poder compartir en LinkedIn
-- ✅ Unirte a la mayor comunidad de hispanohablantes que estudian, trabajan e investigan en PLN
+- ✅ Unirte a la mayor comunidad open-source iberoamericana de PLN
 
 </details>
 
 <details>
 <summary>¿Qué nivel necesito tener?</summary>
 
-**Cualquier nivel.** En ediciones anteriores han participado desde grupos de investigación con doctorado hasta estudiantes que estaban aprendiendo. Si nunca has hecho un proyecto de IA, los **mini retos** son un buen punto de partida — solo tienes que buscar información o responder preguntas sobre tu cultura.
+**Cualquier nivel.** En ediciones anteriores han participado desde grupos de investigación con doctorado hasta estudiantes de grado. Si nunca has hecho un proyecto de IA, los **mini retos** son un buen punto de partida.
 
 Para acompañarte tendrás:
 
-- 📖 Un **taller práctico** que muestra paso a paso cómo desarrollar el proyecto.
-- ❓ Sesiones **AMA** ("Ask Me Anything", o "pregúntame lo que quieras") con personas expertas para resolver tus dudas.
+- 📖 **Talleres prácticos** que te enseñan paso a paso cómo desarrollar el proyecto y notebooks de ejemplo.
+- ❓ **Sesiones AMA** ("Ask Me Anything", o sea "pregúntame lo que quieras") con personas expertas que resolverán tus dudas.
 
 </details>
 
 <details>
 <summary>¿Cómo de difícil es el reto principal?</summary>
 
-Depende de vosotros. Os daremos un **ejemplo base** que enseña paso a paso cómo crear un dataset, entrenar un modelo y publicar una demo. A partir de ahí, cada equipo decide cuánto profundizar: el tema, de dónde sacar los datos, qué técnica de entrenamiento usar, lo elaborada que sea la demo… ¡Tenéis libertad total!
+Tú decides. Os daremos un **ejemplo base** que muestra paso a paso cómo crear un dataset, entrenar un modelo y publicar una demo. A partir de ahí, cada equipo decide cuánto quiere profundizar: el tema, de dónde sacar los datos, qué técnica de entrenamiento usar, lo elaborada que sea la demo… ¡Tenéis libertad total!
 
 </details>
+
+<!-- <details>
+<summary>¿Cómo se elige la temática de las bases de datos/modelos?</summary>
+
+La temática de los proyectos es siempre libre. Este año el enfoque es representar la riqueza del español, por lo que os animamos a crear proyectos relacionados con vuestro país (leyes, manera de hablar, cultura, ...). Además, como es habitual, os animamos a que los proyectos tengan impacto social y estén relacionados con alguno de los Objetivos de Desarrollo Sostenibles de la ONU. Si buscas inspiración, en el canal #encuentra-equipo de Discord puedes encontrar temas propuestos.
+
+</details> -->
 
 <details>
 <summary>¿Necesito de verdad 4 semanas?</summary>
 
-No. Con buena dedicación se puede sacar un proyecto en **una semana**. Damos un plazo amplio porque sabemos que la mayoría de la gente estudia o trabaja, y queremos que tengáis tiempo de asistir a los talleres y mentorías en directo.
+No. Dependiendo de tu disponibilidad se puede sacar un buen proyecto en **una semana**. Damos un plazo amplio porque sabemos que la mayoría de la gente estudia o trabaja, por lo que dejamos más tiempo del necesario para que todo el mundo pueda participar.
 
 </details>
 
 <details>
 <summary>¿Hasta cuándo puedo crear un equipo?</summary>
 
-Puedes crear un equipo nuevo **hasta el 23 de mayo**. La fecha límite para entregar los proyectos es el **31 de mayo**.
+Puedes crear un equipo nuevo **hasta el 15 de mayo**. La fecha límite para entregar los proyectos es el **31 de mayo**.
 
 </details>
 
 <details>
 <summary>¿Cómo me uno a un equipo?</summary>
 
-Lee la sección "Forma un equipo" en la [página de retos](/hackathon/retos#-primeros-pasos) y el README del canal [#encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611) en Discord. Allí puedes presentarte y ver qué buscan otras personas.
+Lee la sección "Para crear un equipo:" al comienzo de esta página y el README en el canal #encuentra-equipo de nuestro servidor de Discord :)
 
 </details>
 
 <details>
 <summary>¿Puede haber equipos de 1 persona?</summary>
 
-Sí, aceptamos equipos de **1 a 5 personas**.
+Sí, aceptamos equipos de 1 a 5 personas.
 
 </details>
 
@@ -401,26 +419,27 @@ Sí, aceptamos equipos de **1 a 5 personas**.
 <details>
 <summary>Es mi primera vez en Discord, ¿qué canales miro?</summary>
 
-- 📣 [**#anuncios**](https://discord.com/channels/938134488670675055/944255490748207115) — publicamos 2 o 3 veces por semana. **Activa las notificaciones**.
-- 🆘 [**#pide-ayuda**](https://discord.com/channels/938134488670675055/1051997272356966430) — pregunta aquí tus dudas; si tú la tienes, seguramente otras personas también.
-- 📅 [**#eventos**](https://discord.com/channels/938134488670675055/939934987581534228) — anunciamos talleres y mentorías. También puedes [añadir nuestro calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+- 📣 [**#anuncios**](https://discord.com/channels/938134488670675055/944255490748207115): publicamos aprox 2 veces por semana. Te recomendamos **activar las notificaciones** de este canal.
+- 🆘 [**#pide-ayuda**](https://discord.com/channels/938134488670675055/1051997272356966430): pregunta aquí tus dudas. Si una persona tiene tu duda, seguramente otras también la tengan, así la respuesta sirve para todo el mundo.
+- 📅 [**#eventos**](https://discord.com/channels/938134488670675055/939934987581534228): anunciamos talleres y mentorías. También puedes [añadir nuestro calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) al tuyo.
 
 </details>
 
 <details>
-<summary>¿Cómo me entero de los eventos en directo?</summary>
+<summary>¿Cómo me puedo enterar de los eventos?</summary>
 
-- Los anunciamos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228) de Discord.
-- Están en nuestro [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
-- También avisamos en redes ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_)).
-- [Suscríbete al canal de YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) y guarda la [playlist del Hackathon 2026](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6).
+- Anunciamos los eventos en el canal [#eventos](https://discord.com/channels/938134488670675055/939934987581534228)
+- Los añadimos al [calendario de Google](https://calendar.google.com/calendar/u/0?cid=ZWM3MGZhODIzNmYyNzBlMTYwYzFiMjdhNDgzZWMyMjA1ZjQwYzUyN2E5N2MwZTJhZmY0OTcwZDZmZjBkYzQyMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- Los anunciamos en redes sociales ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_))
+- [Síguenos en YouTube](https://www.youtube.com/c/somosnlp?sub_confirmation=1) y guarda la [playlist del hackathon 2026](https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
 
 </details>
 
 <details>
 <summary>¿Cómo puedo dar feedback del evento?</summary>
 
-Al final del hackathon compartiremos un formulario de feedback. Tu opinión nos ayuda muchísimo a mejorar la siguiente edición.
+- Nos puedes dar feedback para mejorar las guías de los retos con este [formulario](https://forms.gle/LjQBb8B3XGqPs8Ws9) (anónimo)
+- Compartiremos también un formulario de feedback general al final del evento
 
 </details>
 
