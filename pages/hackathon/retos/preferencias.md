@@ -5,68 +5,77 @@ lang: es
 cover: /images/eventos/260511_hackathon_eventbrite.png
 ---
 
-Vamos a escribir entre todos los equipos **preguntas culturales** sobre nuestros países y a elegir cuál de las dos respuestas que da un modelo es mejor. Con eso crearemos una base de datos abierta para enseñar a los modelos a hablar mejor sobre nuestras culturas.
+Vamos a escribir entre todos los equipos **preguntas culturales** sobre nuestros países y a elegir cuál de las dos respuestas que da un modelo es mejor. Con eso crearemos una base de datos abierta para alinear a los modelos con nuestras culturas.
 
 <!-- Relación con el reto principal: Las preguntas y las respuestas serán recolectadas y compartidas con todos los equipos participantes para la fase de alineamiento. Para este reto tendrás acceso a un LLM Arena con 5 modelos de gran tamaño o propietarios. -->
+
+---
+
+## 👣 Paso a paso
+
+1. **Lee esta guía** (te llevará menos de 10 minutos) para aprender los conceptos clave y cómo escribir preguntas ("prompts") de calidad.
+2. **Haz un test** de auto-evaluación que confirma que has entendido la guía.
+3. **Escribe tus prompts** para que varios LLMs generen respuestas.
+    - Si sabes programar, súbelos como CSV a la org de Hugging Face del hackathon (invitación).
+    - Si prefieres utilizar una interfaz, mándalos aquí.
+4. **Valida prompts** de otros equipos.
+5. **Elige la mejor respuesta** entre las dos generadas para cada prompt validado.
+
+
+<!-- TODO enlaces -->
+
+🌎 **Importante:** escribe prompts **solo** sobre países que conozcas bien (porque has vivido ahí, has crecido ahí o tienes vínculos fuertes). Si no conoces la cultura, no podrás juzgar qué respuesta es mejor.
+
+🚨 **Lee esta guía con calma.** Te llevará menos de 10 minutos. Es importante para que los datos que generemos entre todos los equipos sean de calidad. Los prompts y respuestas de personas que no hayan pasado el test o no hayan seguido las instrucciones no se incluirán en el dataset final y no puntuarán.
+
+Recursos:
+- Definiciones, ejemplos de prompts y datasets de preferencias a continuación
+- [Charla sobre Red Teaming de Luis Vasquez @BSC](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6)
+
+<!-- 
+: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
+5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros. 
+-->
+
+---
+
+## 🚀 Relación con el Hackathon
+
+Esta recolección de datos está enmarcada en el #HackathonSomosNLP 2026 pero no es necesario participar en el reto principal.
+
+### ✨ Incentivos
+
+- Requisito para acceder a las GPUs = 100 prompts por equipo
+- Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos)
+- Cada 100 prompts por persona = 40 USD en créditos en el Hub de HF o libros de IA/PLN/lingüística (independientes del premio si vuestro equipo gana)
+- Tendréis acceso a los datos generados por todos los equipos para utilizarlos en la fase de alineamiento, **una mayor calidad de los datos implica una mayor calidad de vuestro proyecto.**
+
+Notas:
+- Los números se refieren a prompts **validados**.
+- **Antes** de mandar and validar prompts, es obligatorio haber aprobado el test de comprensión.
+
+
+### 🤗 Cómo organizar tu equipo
+
+Cada equipo es de 1-5 personas. Vuestro equipo puede ser:
+
+- **Homogéneo** (todas las personas del mismo país). Los prompts representan una misma cultura, pero puede haber varias respuestas culturalmente válidas según la región. Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes regiones.
+- **Heterogéneo** (personas de distintos países). Habrá variedad tanto en los prompts como en las respuestas que cada cultura considera adecuadas. Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes países.
+
+💡 **Recomendación:** equipos con participantes de de 2 o 3 países.
+
+---
 
 ## 📖 **Glosario**
 
 - **Modelo de lenguaje (LLM)**: modelo de IA que genera texto, realmente es un modelo estadístico que genera secuencias de palabras probables.
 - **Prompt**: pregunta o instrucción que le escribimos al modelo.
 - **Dataset**: colección de datos (en este caso, prompts y respuestas).
-- **LLM Arena**: web donde mandas un prompt y recibes la respuesta de dos modelos a la vez sin saber cuál es cuál; tú eliges la mejor.
-- **Adecuación cultural**: que la respuesta encaje con la cultura del país (vocabulario, costumbres, contexto).
+- **LLM Arena**: web donde mandas un prompt y recibes la respuesta de dos modelos, tú eliges la mejor.
 - **Alineamiento**: el proceso de "afinar" un modelo para que responda según preferencias humanas (en este caso, adecuado a la cultura).
+- **Adecuación cultural**: que la respuesta encaje con la cultura del país (vocabulario, costumbres, contexto).
 
 ---
-
-## 👣 Paso a paso
-
-1. **Lee esta guía** (te llevará menos de 10 minutos) para aprender a escribir prompts de calidad.
-2. **Haz un mini-test** que confirma que has entendido la guía.
-3. **Manda tus prompts al LLM Arena**.
-4. **Valida prompts de otros equipos**.
-5. **Elige la mejor respuesta** entre las dos generadas para cada prompt validado.
-
-<!-- TODO enlaces -->
-
-🌎 **Importante:** escribe prompts **solo** sobre países que conozcas bien (porque has vivido ahí, has crecido ahí o tienes vínculos fuertes). Si no conoces la cultura, no podrás juzgar qué respuesta es mejor.
-
-<!-- ✨ Incentivos (los números se refieren a prompts respondidos validados):
-- 100 por equipo = requisito para acceder a los 500 USD de la API de Cohere para el reto principal
-- Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos, el otro punto se obtiene de evaluar cómo utilicéis la API de Cohere para mejorar el dataset)
-- Tendréis acceso a los datos generados por todos los equipos para tomarlos de base para vuestro alineamiento, **una mayor calidad de los datos implica una mayor calidad de vuestro proyecto**
-
-🙌 Muchísimas gracias a:
-- CENIA: Créditos API para los LLMs de la Arena
-- El equipo: Gonzalo Fuentes, Diana Galván, Eugenio Herrera, Sebastián Cifuentes, Clemente, María Grandury, Luis Vasquez y Valle Ruiz
-
-Recursos:
-- Definiciones, ejemplos de prompts y datasets de preferencias a continuación
-- [Charla sobre Red Teaming de Luis Vasquez](https://www.youtube.com/watch?v=pGOXE4rrO9M&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6) -->
-
-🚨 **Lee esta guía con calma.** Te llevará menos de 10 minutos. Es importante para que los datos que generemos entre todos los equipos sean de calidad. Los prompts y respuestas de equipos que no hayan seguido las instrucciones no se incluirán en el dataset final y no puntuarán.
-
-<!-- 
-: [somosnlp-hackathon/dataset-preferencias-dpo-v0](https://huggingface.co/datasets/somosnlp-hackathon/dataset-preferencias-dpo-v0)
-5. Durante las siguientes 2 semanas cada equipo tendrá acceso a 500 USD en créditos de Cohere para procesar, filtrar y extender el dataset inicial v0 (v0 = versión 0 = versión inicial) y a GPUs L40S de Hugging Face para alinear un LLMs de 7B de parámetros. 
-
-Para acceder a los créditos API y GPUs:
-- El equipo debe contribuir en total 100 prompts **de calidad** al dataset de preferencias y 200 respuestas al dataset de evaluación ([BLEND](https://somosnlp.org/hackathon/retos/blend))
-- La(s) persona(s) que mande(n) los prompts al Arena tienen que haber completado el [test de comprensión de la guía](https://forms.gle/itbDvVxD2iG5nzsC6)
-- Hay que [registrar el equipo](https://forms.gle/mLKEURUXGiNhq31T9)
--->
-
----
-
-## 🤗 Cómo organizar tu equipo
-
-Vuestro equipo puede ser:
-
-- **Homogéneo** (todas las personas del mismo país). Los prompts representan una misma cultura, pero puede haber varias respuestas culturalmente válidas según la región. Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes regiones.
-- **Heterogéneo** (personas de distintos países). Habrá variedad tanto en los prompts como en las respuestas que cada cultura considera adecuadas. Podéis reutilizar prompts y responderlos teniendo en cuenta la perspectiva de diferentes países.
-
-> 💡 **Recomendación:** equipos de 2 o 3 países (un punto medio).
 
 ## 👀 1. ¿Qué es la "adecuación cultural"?
 
@@ -179,6 +188,8 @@ La cultura afecta tanto a las **elecciones léxicas** (palabras) como las **form
     <img src="/images/infografias/adecuacion_cultural/es/17.jpg" alt="Adecuación Cultural 17" style="width: 100%;">
     <img src="/images/infografias/adecuacion_cultural/es/18.jpg" alt="Adecuación Cultural 18" style="width: 100%;">
 </div>
+
+---
 
 ## 🎨 2. Cómo diseñar los prompts
 
@@ -395,6 +406,8 @@ opciones para comer y divertirse al aire libre.
 
 </details>
 
+---
+
 ## 🔍 3. Valida prompts
 
 Validar prompts de otros equipos es **igual de importante** que generar tus propios prompts. Te ayuda a aprender lo que funciona y mejora la calidad del dataset común.
@@ -407,6 +420,7 @@ Pasos:
    - La **pregunta** está bien diseñada según esta guía y el prompt **tiene anclaje cultural**
    - *(Opcional)* Edita y mejora la pregunta para que sea aún mejor.
 
+---
 
 ## ✅ 4. Cómo elegir la mejor respuesta
 
@@ -430,15 +444,22 @@ Después, elige una opción:
 
 ## 🚀 ¿Empezamos?
 
+Lee la guía de diseño de prompts de preferencias
+Completa este test de auto-evaluación
+Si no te queda algo claro pregúntanos
+Diseña tus prompts y súbelos como dataset a la org de Hugging Face del hackathon (invitación)
+Evalúa prompts de otros equipos
+Vota cuáles son las mejores respuestas
+
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
   <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Hacer el test de comprensión ↗</a>
-  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Ir a la LLM Arena ↗</a>
-  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Validar prompts ↗</a>
+  <!-- <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Ir a la LLM Arena ↗</a>
+  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Validar prompts ↗</a> -->
 </div>
 
-<div style="text-align:center; margin-top:24px;">
+<!-- <div style="text-align:center; margin-top:24px;">
   <a href="https://somosnlp.org/hackathon/retos" style="background-color:#4b5563; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; display:inline-block;">← Volver a todos los retos</a>
-</div>
+</div> -->
 
 <!-- TODO enlaces -->
 

@@ -10,7 +10,11 @@ import HackathonCard from '../../src/components/HackathonCard.vue'
 import ProjectCard from '../../src/components/ProjectCard.vue'
 </script>
 
-Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural en español y portugués 🚀
+Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El español y el portugués son los idiomas principales en 29 países, cada uno de ellos con una gran riqueza cultural. Aunque los modelos de lenguaje muestran cada vez mayores capacidades multilingües, ¿son realmente multiculturales? Únete ya al #HackathonSomosNLP, el mayor hackathon open-source de Procesamiento del Lenguaje Natural para Iberoamérica 🚀
+
+El enfoque de esta edición es generar recursos y utilizar técnicas de post-entrenamiento para mejorar la calidad de las respuestas de los LLMs en las lenguas de Iberoamérica. ¿Cómo definimos "calidad"? Razonamiento correcto, respuestas seguras y adaptadas al contexto cultural.
+
+La participación es **gratuita y a tu ritmo, con acceso a cómputo y premios de hasta 1500 USD, con retos para todos los niveles**. Inscripciones abiertas hasta el 15 de mayo, entrega de proyectos el 29.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
   <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
@@ -87,7 +91,7 @@ Desde 2022, sumamos...
   </div>
   <div class="bg-blue-900 text-white rounded-lg p-5 text-center">
     <div class="text-3xl font-bold">60</div>
-    <div class="text-sm opacity-80 mt-1">Eventos</div>
+    <div class="text-sm opacity-80 mt-1">Charlas</div>
   </div>
 </div>
 
@@ -103,24 +107,24 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 ## 🚀 Cómo participar
 
 1. 💬 Únete a [**Discord**](https://discord.com/invite/my8w7JUxZR) para hablar con tu equipo y la comunidad.
-2. 🤗 Únete a [**HuggingFace**](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/DNcqoZrtSmEkyLLOiSYTQCzkcrquceDoVY), el hub de IA abierta donde subiremos todos los recursos.
+2. 🤗 Únete a [**HuggingFace**](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/DNcqoZrtSmEkyLLOiSYTQCzkcrquceDoVY), el hub de IA abierta al que subiremos los recursos.
 3. 📝 [**Inscríbete**](https://hackathon-somosnlp-2026.eventbrite.com) en Eventbrite (gratis, ~2 minutos).
 
 <!-- 3. 🔥 Lee los [**retos**](/hackathon/retos) y elige por cuál empezar. -->
 
-Hay dos vías de participación, elige según tu nivel:
+Hay dos vías de participación, elige según tu nivel y formación:
 
 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 my-8">
 
 <HackathonCard
   icon="📚"
-  title="Mini retos (cualquier nivel)"
+  title="Mini retos (toda la comunidad)"
   description="Manda preguntas culturales a modelos de IA y elige las mejores respuestas. Sin programar y desde el navegador. ¡Apto para todos los públicos!"
 />
 
 <HackathonCard
   icon="💻"
-  title="Reto principal (sé programar)"
+  title="Reto principal (comunidad techie)"
   description="En equipos de 1 a 5 personas: crea un dataset, post-entrena un modelo y publica una demo. ¡Te apoyamos con talleres y mentorías!"
 />
 
@@ -202,50 +206,17 @@ Al participar tendrás la oportunidad de:
 
 </div>
 
-
----
-
-## 🏆 Casos de éxito
-
-Los proyectos del hackathon generan impacto real:
-
-<div class="grid gap-5 md:grid-cols-2 my-8">
-
-<ProjectCard year="2022" prize="1er Premio" title="🏅 BiomedIA">
-Sistema voz-a-voz de Q&A biomédico. Dio lugar a un <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">paper en NAACL 2022</a> con el Premio a la Mejor Presentación de Póster.
-</ProjectCard>
-
-<ProjectCard year="2022" prize="2do Premio" title="⚖️ Modelo Jurídico Mexicano">
-Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.
-</ProjectCard>
-
-<!-- #TODO Añadir highlights de 2023 -->
-
-<ProjectCard year="2024" prize="1er Premio" title="📰 NoticIA"> Corpus de 850 artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Paper publicado en <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610" target="_blank" class="text-blue-600 underline"> SEPLN 2024</a>. </ProjectCard>
-
-<ProjectCard year="2024" prize="2do Premio" title="🤝 AsistenciaRefugiados" description="Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España." />
-
-<ProjectCard year="2024" prize="1er Premio" title="🤝 BERT Sostenible" description="Identificación de textos relacionados al cambio climático y sustentabilidad utilizando modelos de lenguaje preentrenados en español. LatinX in AI (LXAI) Research Workshop @NAACL 2024. Best paper en KHIPU 2025." />
-
-<ProjectCard year="2024" prize="1er Premio" title="🤝 Cocina saludable" description="Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
-
-<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Generamos más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
-
-<ProjectCard year="2025" prize="Logro colectivo" title="📚 INCLUDE: Benchmark de conocimiento cultural" variant="highlight" wide>
-Recolectamos más de <strong>38.000 preguntas de exámenes de 23 países</strong>, contribuyendo al mayor benchmark de evaluación de conocimiento cultural para LLMs.
-</ProjectCard>
-
-</div>
-
-<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más proyectos</a></center>
-
 ---
 
 ## 💡 Ponencias y mentorías
 
 ¡Tendrás la oportunidad de aprender de líderes de la academia y la industria!
 
-<SpeakerList :year="2026" :cols="1" />
+<!-- <SpeakerList :year="2026" :cols="1" /> -->
+
+<a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank">
+  <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_sergio_paniego.png" />
+</a>
 
 Para refrescar conceptos, te recomendamos estas charlas:
 
@@ -256,6 +227,42 @@ Para refrescar conceptos, te recomendamos estas charlas:
 - <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI">IA y PLN: Una apasionante encrucijada, Cris Aranda</a>
 
 <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más charlas</a></center>
+
+---
+
+## 🏆 Casos de éxito
+
+Los proyectos del hackathon generan impacto real:
+
+<div class="grid gap-5 md:grid-cols-2 my-8">
+
+<ProjectCard year="2022" prize="1er Premio" title="🏅 BiomedIA">
+Sistema voz-a-voz de Q&A biomédico. <a href="https://research.latinxinai.org/papers/naacl/2022/pdf/paper_06.pdf" target="_blank" class="text-blue-600 underline">Paper en NAACL 2022</a> con el Premio a la Mejor Presentación de Póster.
+</ProjectCard>
+
+<ProjectCard year="2022" prize="2do Premio" title="⚖️ Modelo Jurídico Mexicano">
+Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justicia de la Nación de México</strong>.
+</ProjectCard>
+
+<!-- #TODO Añadir highlights de 2023 -->
+
+<ProjectCard year="2024" prize="1er Premio" title="📰 NoticIA"> Corpus artículos de noticias clickbait en español con resúmenes de alta calidad, abordando la desinformación digital. Paper en <a href="http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6610" target="_blank" class="text-blue-600 underline"> SEPLN 2024</a>. </ProjectCard>
+
+<ProjectCard year="2024" prize="2do Premio" title="🤝 AsistenciaRefugiados" description="Asistente legal para personas en situación de refugio, facilitando el acceso a información sobre legislación en España." />
+
+<ProjectCard year="2024" prize="1er Premio" title="🤝 BERT Sostenible" description="Identificación de textos sobre cambio climático y sustentabilidad en español. LatinX in AI (LXAI) Workshop @NAACL 2024. Best paper @KHIPU 2025." />
+
+<ProjectCard year="2024" prize="1er Premio" title="🤝 Cocina saludable" description="Aprendiendo a cocinar de manera saludable con LLMs, SFT y RAG. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
+
+<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Generamos más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
+
+<ProjectCard year="2025" prize="Logro colectivo" title="📚 INCLUDE: Benchmark de conocimiento cultural" variant="highlight" wide>
+Recolectamos más de <strong>38.000 preguntas de exámenes de 23 países</strong>, contribuyendo al mayor benchmark de evaluación de conocimiento cultural para LLMs.
+</ProjectCard>
+
+</div>
+
+<center><a href="/hackathon/ediciones-anteriores" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más proyectos</a></center>
 
 ---
 
