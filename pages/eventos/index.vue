@@ -100,17 +100,32 @@ const { t } = useI18n()
             <h3 id="hackathon-2025">{{ t('events.sections.hackathon-2025') }}</h3>
             <div class="mx-auto my-8 text-center">
                 <div class="grid grid-cols-2 gap-8 my-1">
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
-                        <img alt="Alfonso Amayuelas" width="650" height="365"
-                            src="/images/eventos/250415_alfonso_amayuelas.png" />
-                    </a>
-
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                    <a href="https://www.youtube.com/watch?v=TC9tOEyPqy8&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6"
+                        target="_blank">
                         <img alt="Selene Baez" width="650" height="365" src="/images/eventos/250410_selene_baez.png" />
                     </a>
 
-                    <a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">
+                    <a href="https://www.youtube.com/watch?v=wI6yjbed_1Q&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6"
+                        target="_blank">
                         <img alt="Luis Vasquez" width="650" height="365" src="/images/eventos/250410_luis_vasquez.png" />
+                    </a>
+
+                    <a href="https://www.youtube.com/watch?v=KgaPmIQmGes&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6"
+                        target="_blank">
+                        <img alt="Gabriela Arriagada" width="650" height="365"
+                            src="/images/eventos/250423_gabriela_arriagada_bruneau.png" />
+                    </a>
+
+                    <a href="https://www.youtube.com/watch?v=PjOXDCe_3kg&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6"
+                        target="_blank">
+                        <img alt="Andres Marafioti" width="650" height="365"
+                            src="/images/eventos/250422_andres_marafioti.png" />
+                    </a>
+
+                    <a href="https://www.youtube.com/watch?v=Jk70bSw4tTo&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6&index=9&t=2371s"
+                        target="_blank">
+                        <img alt="Alfonso Amayuelas" width="650" height="365"
+                            src="/images/eventos/250415_alfonso_amayuelas.png" />
                     </a>
                 </div>
             </div>

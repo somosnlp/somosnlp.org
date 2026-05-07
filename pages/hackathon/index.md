@@ -19,7 +19,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
   <!-- <a href="/hackathon/retos" style="background-color:#1e3a8a; color:white; padding:14px 28px; text-decoration:none; border-radius:6px; font-weight:700; font-size:1.1em; display:inline-block;">🔥 Ver los retos</a> -->
 </div>
 
-*([In Portuguese](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
+*([Em português](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
 
 <!--
 ---
@@ -102,8 +102,10 @@ En esta quinta edición nos vamos a centrar en la creación de recursos que nos 
 
 ## 🚀 Cómo participar
 
-1. 📝 [**Inscríbete**](https://hackathon-somosnlp-2026.eventbrite.com) en Eventbrite (gratis, ~2 minutos).
-2. 💬 Únete a [**Discord**](https://discord.com/invite/my8w7JUxZR) para hablar con la comunidad y enterarte de los talleres.
+1. 💬 Únete a [**Discord**](https://discord.com/invite/my8w7JUxZR) para hablar con tu equipo y la comunidad.
+2. 🤗 Únete a [**HuggingFace**](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/DNcqoZrtSmEkyLLOiSYTQCzkcrquceDoVY), el hub de IA abierta donde subiremos todos los recursos.
+3. 📝 [**Inscríbete**](https://hackathon-somosnlp-2026.eventbrite.com) en Eventbrite (gratis, ~2 minutos).
+
 <!-- 3. 🔥 Lee los [**retos**](/hackathon/retos) y elige por cuál empezar. -->
 
 Hay dos vías de participación, elige según tu nivel:
@@ -134,7 +136,7 @@ Hay dos vías de participación, elige según tu nivel:
 Al participar tendrás la oportunidad de:
 - ✨ Aprender con talleres y charlas en directo
 - ✨ Acceder a cientos de USD en créditos GPU y API para tu proyecto
-- ✨ Ganar premios de 1500, 1000 o 500 USD (1º, 2º y 3º)
+- ✨ Ganar hasta 1500, 1000 o 500 USD en premios
 - ✨ Ganar entradas a conferencias y una nominación a la red de talento Nova
 - ✨ Ganar mentorías con personas relevantes del campo
 - ✨ Co-publicar papers en conferencias internacionales de PLN
@@ -227,10 +229,10 @@ Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justi
 
 <ProjectCard year="2024" prize="1er Premio" title="🤝 Cocina saludable" description="Aprendiendo a cocinar de manera saludable con Large Language Models, Supervised Fine Tuning y Retrieval Augmented Generation. LatinX in AI (LXAI) Research Workshop @NAACL 2024." />
 
-<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Se generaron más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
+<ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Generamos más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
 
 <ProjectCard year="2025" prize="Logro colectivo" title="📚 INCLUDE: Benchmark de conocimiento cultural" variant="highlight" wide>
-Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</strong>, creando el mayor benchmark de evaluación de conocimiento cultural para LLMs en español y portugués.
+Recolectamos más de <strong>38.000 preguntas de exámenes de 23 países</strong>, contribuyendo al mayor benchmark de evaluación de conocimiento cultural para LLMs.
 </ProjectCard>
 
 </div>
@@ -245,6 +247,16 @@ Se recolectaron más de <strong>38.000 preguntas de exámenes de 23 países</str
 
 <SpeakerList :year="2026" :cols="1" />
 
+Para refrescar conceptos, te recomendamos estas charlas:
+
+- <a href="https://www.youtube.com/watch?v=wI6yjbed_1Q&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Red teaming para LLMs, Luis Vasquez @Barcelona Supercomputing Center</a>
+- <a href="https://www.youtube.com/watch?v=KgaPmIQmGes&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Desafíos éticos del PLN, Gabriela Arriagada @Centro Nacional de IA, Chile</a>
+- <a href="https://www.youtube.com/watch?v=PjOXDCe_3kg&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Cómo hacer un modelo Vision-Language eficiente, Andres Marafioti @HuggingFace</a>
+- <a href="https://www.youtube.com/watch?v=0j0kjNg5QDw&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">De RNNs a Transformers: Cómo cambió el paradigma, Dr. Manuel Medina @IBM Japan</a>
+- <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI">IA y PLN: Una apasionante encrucijada, Cris Aranda</a>
+
+<center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más charlas</a></center>
+
 ---
 
 ## 👏 Agradecimientos 
@@ -253,7 +265,7 @@ Muchísimas gracias por vuestro tiempo y por apoyarnos para que nuestra iniciati
 
 ### 🚀 Organizado por
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 50px; max-width: 80%; margin-left: auto; margin-right: auto;">
 
 <SponsorInfo sponsor="SomosNLP" url="http://somosnlp.org"
 logo="/images/patrocinios/somosnlp_nobg.png"
@@ -265,21 +277,9 @@ logo_dark="/images/patrocinios/UNEDNLP.png" />
 
 </div>
 
-<!--
-### 💎 Platino
+Con el apoyo de
 
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
-
-<SponsorInfo sponsor="Cohere For AI" url=""
-logo="/images/patrocinios/cohere.svg"
-logo_dark="/images/patrocinios/cohere.svg" />
-
-</div>
--->
-
-### 🥇 Patrocinios Oro
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 50px; justify-items: center; align-items: center">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px 50px; justify-items: center; align-items: center; max-width: 80%; margin-left: auto; margin-right: auto;">
 
 <SponsorInfo sponsor="NextGenerationEU" url="http://somosnlp.org/patrocinios/NextGenerationEU"
 logo="/images/patrocinios/NextGenerationEU.png"
@@ -303,8 +303,21 @@ logo_dark="/images/patrocinios/UNED.png" /> -->
 
 </div>
 
+<!--
+### 💎 Platino
 
-<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px">
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+
+<SponsorInfo sponsor="Cohere For AI" url=""
+logo="/images/patrocinios/cohere.svg"
+logo_dark="/images/patrocinios/cohere.svg" />
+
+</div>
+-->
+
+### 🥇 Patrocinios Oro
+
+<div style="display: grid; grid-template-columns: repeat(1, 1fr); gap: 10px 50px; justify-items: center; align-items: center; margin-bottom: 100px; max-width: 80%; margin-left: auto; margin-right: auto;">
 
 <SponsorInfo sponsor="Hugging Face" url="http://somosnlp.org/patrocinios/huggingface"
 logo="/images/patrocinios/HuggingFace_title.svg"
@@ -314,7 +327,7 @@ logo_dark="/images/patrocinios/HuggingFace_title.svg" />
 
 ### 🥈 Patrocinios Plata
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center; max-width: 80%; margin-left: auto; margin-right: auto;">
 
 <SponsorInfo sponsor="Universidad Politécnica de Madrid" url="http://somosnlp.org/patrocinios/upm"
 logo="/images/patrocinios/UPM.jpeg"
