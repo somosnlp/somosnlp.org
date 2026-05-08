@@ -218,7 +218,9 @@ Al participar tendrás la oportunidad de:
   <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_sergio_paniego.png" />
 </a>
 
-Para refrescar conceptos, te recomendamos estas charlas:
+Para una revisión completa de todos los conceptos, recomendamos el curso gratuito online de la UPM ["Introducción a la IA generativa a través de LLMs"](https://eventos.upm.es/141616/detail/introduccion-a-la-inteligencia-artificial-generativa-a-traves-de-los-grandes-modelos-de-lenguaje-ed.html) (50h).
+
+Para refrescar conceptos, te recomendamos estas charlas (< 1h):
 
 - <a href="https://www.youtube.com/watch?v=wI6yjbed_1Q&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Red teaming para LLMs, Luis Vasquez @Barcelona Supercomputing Center</a>
 - <a href="https://www.youtube.com/watch?v=KgaPmIQmGes&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Desafíos éticos del PLN, Gabriela Arriagada @Centro Nacional de IA, Chile</a>
