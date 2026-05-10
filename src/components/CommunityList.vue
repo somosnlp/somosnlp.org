@@ -9,7 +9,7 @@ const founder_routes = router.getRoutes()
             || (
                 i.path.startsWith('/comunidad/')
                 && (i.meta as any).frontmatter.community
-                && (i.meta as any).frontmatter.community.includes('Equipo 2025')
+                && (i.meta as any).frontmatter.community.includes('Equipo 2026')
             )
     )
     .sort(
@@ -23,7 +23,7 @@ const routes = router.getRoutes()
             && !i.path.startsWith('/comunidad/maria-grandury')
             && (i.meta as any).frontmatter.community
             && !(i.meta as any).frontmatter.community.includes('Ponente')
-            && !(i.meta as any).frontmatter.community.includes('Equipo 2025')
+            && !(i.meta as any).frontmatter.community.includes('Equipo 2026')
     )
     .sort(
         (a, b) =>
@@ -35,7 +35,7 @@ const routes = router.getRoutes()
 <template>
 
     <div class="flex flex-col justify-center m-auto text-center prose ">
-        <h2>Equipo Hackathon 2025</h2>
+        <h2>Equipo Hackathon 2026</h2>
         <br />
     </div>
     <div class="auto-rows-fr mx-12 grid gap-6 lg:mx-36 lg:grid-cols-3">

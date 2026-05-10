@@ -218,6 +218,9 @@ Al participar tendrás la oportunidad de:
   <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_sergio_paniego.png" />
 </a>
 
+<center><a href="https://hackathon-somosnlp-2026.eventbrite.com" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📝 Inscríbete ya</a></center>
+
+
 Para una revisión completa de todos los conceptos, recomendamos el curso gratuito online de la UPM ["Introducción a la IA generativa a través de LLMs"](https://eventos.upm.es/141616/detail/introduccion-a-la-inteligencia-artificial-generativa-a-traves-de-los-grandes-modelos-de-lenguaje-ed.html) (50h).
 
 Para refrescar conceptos, te recomendamos estas charlas (< 1h):

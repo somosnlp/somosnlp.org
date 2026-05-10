@@ -5,5 +5,5 @@ cover: /images/comunidad/sebastian_cifuentes.jpeg
 twitter: 
 linkedin: 
 website: 
-community: 2. Equipo 2025
+community: Equipo 2025
 ---

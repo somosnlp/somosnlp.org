@@ -30,8 +30,13 @@ useHead({
 
         <div class="flex justify-center">
             <a href="https://discord.com/invite/my8w7JUxZR" target="_blank">
-                <img src="/images/blog/ya_somos_2000.gif" alt="¡Ya Somos 2000!"
-                    width="500" height="289.71" />
+                <img src="/images/blog/ya_somos_2000.gif" alt="¡Ya Somos 2000!" width="500" height="289.71" />
+            </a>
+        </div>
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0px;">
+            <a href="https://discord.com/invite/my8w7JUxZR" target="_blank" class="button-accent">
+                <carbon:user-multiple />
+                {{ t('landing-page.join-us-discord') }}
             </a>
         </div>
 
@@ -58,7 +63,7 @@ useHead({
                 </p>
             </div>
             <br />
-            <SpeakerList />
+            <SpeakerList :cols="3" />
             <div class="mx-auto mt-8 prose grid gap-4 lg:grid-cols-2">
                 <router-link :to="localePath('/eventos')" target="_blank" class="button-accent">
                     <carbon:logoYoutube />
@@ -85,7 +90,8 @@ useHead({
         <div>
             <p class="m-auto text-center prose text-lg">
                 {{ t('community.contact.questions') }}
-                <a class="contents" :href="localePath('/nuestra-mision')" target="_blank">{{ t('community.contact.mission') }}</a>
+                <a class="contents" :href="localePath('/nuestra-mision')" target="_blank">{{ t('community.contact.mission')
+                }}</a>
                 <br /><br />
                 {{ t('community.contact.contact_us') }}
                 <a class="contents" href="https://discord.com/invite/my8w7JUxZR" target="_blank">Discord</a>

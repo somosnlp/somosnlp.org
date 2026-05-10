@@ -5,5 +5,5 @@ cover: /images/comunidad/gonzalo_fuentes.webp
 twitter: 
 linkedin: 
 website: 
-community: 2. Equipo 2025
+community: 4. Equipo 2026, Equipo 2025
 ---

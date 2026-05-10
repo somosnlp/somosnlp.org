@@ -5,5 +5,5 @@ cover: /images/comunidad/carlos_arriaga.webp
 twitter: 
 linkedin: 
 website: 
-community: 3. Equipo 2025 
+community: Equipo 2025
 ---

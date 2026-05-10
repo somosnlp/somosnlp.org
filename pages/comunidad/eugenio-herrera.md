@@ -5,7 +5,7 @@ cover: /images/comunidad/eugenio_herrera.webp
 twitter: 
 linkedin: 
 website: 
-community: 1. Equipo 2025
+community: 2. Equipo 2026,  Equipo 2025
 ---
 
 ## Biografía

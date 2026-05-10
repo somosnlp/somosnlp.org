@@ -5,5 +5,5 @@ cover: /images/comunidad/karen_collantes.jpeg
 twitter: 
 linkedin: 
 website: 
-community: 2. Equipo 2025
+community: Equipo 2025
 ---

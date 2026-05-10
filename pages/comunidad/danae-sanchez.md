@@ -6,5 +6,5 @@ website:
 twitter: 
 linkedin: 
 github: 
-community: Ponente 2025
+community: 5. Equipo 2026, Ponente 2025
 ---

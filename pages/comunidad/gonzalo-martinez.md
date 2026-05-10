@@ -5,5 +5,5 @@ cover: /images/comunidad/gonzalo_martinez.jpeg
 twitter: 
 linkedin: 
 website: 
-community: 3. Equipo 2025
+community: 3. Equipo 2026, Equipo 2025
 ---
