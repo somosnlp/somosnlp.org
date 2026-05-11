@@ -25,7 +25,7 @@ Si eres estudiante y te gustaría que tu universidad participara en el hackathon
 ## ✨ Colaboración y beneficios
 
 Lo que pedimos a las universidades colaboradoras:
-- Mínimo 1 publicación antes del 1 de mayo
+- Mínimo 1 publicación antes del 15 de mayo
 - Presentar mínimo 5 estudiantes al hackathon
 
 Ideas de publicaciones:
@@ -39,6 +39,11 @@ Al dar visibilidad al hackathon y presentar al menos 1 equipo de estudiantes al 
 - Etiquetas en posts de redes sociales (x5)
 
 (*) Los logos de las universidades colaboradoras se ordenarán por número de estudiantes participantes.
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Patrocinio de visibilidad </a>
+  <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎨 Material de difusión</a>
+</div>
 
 <!--
 ## Universidades colaboradoras

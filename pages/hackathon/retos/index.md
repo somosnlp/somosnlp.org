@@ -32,7 +32,7 @@ const miniChallenges = [
     description: "Escribe preguntas culturales (prompts) sobre tu país y, en una web tipo \"arena\", elige cuál de las dos respuestas que da el modelo es mejor. Lo que recopilemos entre todas las personas participantes servirá para enseñar a los modelos a responder de manera más alineada con las preferencias humanas.",
     dates: "11 - 21 de mayo",
     points: "3 ptos",
-    requirements: "Apto para toda la comunidad",
+    requirements: "Apto para todo el mundo",
     link: "https://somosnlp.org/hackathon/retos/preferencias",
     cover: "/images/eventos/260511_hackathon_eventbrite.png"
   },
