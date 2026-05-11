@@ -9,40 +9,40 @@ cover: /images/eventos/260511_hackathon_eventbrite.png
 import ChallengesGrid from '../../../src/components/ChallengesGrid.vue'
 
 const miniChallenges = [
-  {
-    title: "Exámenes (INCLUDE)",
-    description: "Busca exámenes tipo test (de opción múltiple) de tu país. Servirán para comprobar cuánto saben los modelos de lenguaje sobre la historia, la literatura o la cultura de tu país.",
-    dates: "4 de mayo - 31 de mayo",
-    points: "1 pto",
-    requirements: "Saber buscar en internet",
-    link: "https://somosnlp.org/hackathon/retos/include",
+  // {
+  //   title: "Exámenes (INCLUDE)",
+  //   description: "Busca exámenes tipo test (de opción múltiple) de tu país. Servirán para comprobar cuánto saben los modelos de lenguaje sobre la historia, la literatura o la cultura de tu país.",
+  //   dates: "4 de mayo - 31 de mayo",
+  //   points: "1 pto",
+  //   requirements: "Saber buscar en internet",
+  //   link: "https://somosnlp.org/hackathon/retos/include",
+  //   cover: "/images/eventos/260511_hackathon_eventbrite.png"
+  // },
+  // {
+  //   title: "Preguntas culturales (BLEND)",
+  //   description: "Responde preguntas sencillas sobre la cultura de tu país (comida, tradiciones, refranes…). Tus respuestas servirán para crear un examen abierto que mida cuánto saben los modelos sobre cada cultura.",
+  //   dates: "11 de mayo - 31 de mayo",
+  //   points: "2 ptos",
+  //   requirements: "Haber vivido bastante tiempo en un país",
+  //   link: "https://somosnlp.org/hackathon/retos/blend",
+  //   cover: "/images/eventos/260511_hackathon_eventbrite.png"
+  // }
+    {
+    title: "1. Crea un dataset de preferencias",
+    description: "Escribe preguntas culturales (prompts) sobre tu país y, en una web tipo \"arena\", elige cuál de las dos respuestas que da el modelo es mejor. Lo que recopilemos entre todas las personas participantes servirá para enseñar a los modelos a responder de manera más alineada con las preferencias humanas.",
+    dates: "11 - 21 de mayo",
+    points: "3 ptos",
+    requirements: "Apto para toda la comunidad",
+    link: "https://somosnlp.org/hackathon/retos/preferencias",
     cover: "/images/eventos/260511_hackathon_eventbrite.png"
   },
-  {
-    title: "Preguntas culturales (BLEND)",
-    description: "Responde preguntas sencillas sobre la cultura de tu país (comida, tradiciones, refranes…). Tus respuestas servirán para crear un examen abierto que mida cuánto saben los modelos sobre cada cultura.",
-    dates: "11 de mayo - 31 de mayo",
-    points: "2 ptos",
-    requirements: "Haber vivido bastante tiempo en un país",
-    link: "https://somosnlp.org/hackathon/retos/blend",
-    cover: "/images/eventos/260511_hackathon_eventbrite.png"
-  }
 ]
 
 const mainChallenges = [
   {
-    title: "1. Crea un dataset de preferencias",
-    description: "Escribe preguntas culturales (prompts) sobre tu país y, en una web tipo \"arena\", elige cuál de las dos respuestas que da el modelo es mejor. Lo que recopilemos entre todas las personas participantes servirá para enseñar a los modelos a responder de manera más alineada con las preferencias humanas.",
-    dates: "4 de mayo - 21 de mayo",
-    points: "3 ptos",
-    requirements: "Haber vivido en un país y tener ganas de aprender qué es la \"adecuación cultural\"",
-    link: "https://somosnlp.org/hackathon/retos/preferencias",
-    cover: "/images/eventos/260511_hackathon_eventbrite.png"
-  },
-  {
     title: "2.A. Alinea un modelo de texto (LLM)",
     description: "Usa datasets (incluyendo, si quieres, el del paso 1) para post-entrenar un modelo de lenguaje que genere respuestas de mejor calidad (razonamiento correcto, seguras, adecuadas al contexto cultural). Utiliza técnicas y algoritmos como LoRA, cuantización, DPO, RLVR o test-time learning, ¡explora lo que quieras!",
-    dates: "21 de abril - 31 de mayo (Máx. 2 semanas)",
+    dates: "11 - 31 de mayo",
     points: "3 ptos",
     requirements: "Saber programar en Python",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
@@ -51,7 +51,7 @@ const mainChallenges = [
   {
     title: "2.B. Mejora un modelo multimodal (texto + imagen)",
     description: "Crea un dataset de imágenes con descripciones y entrena un modelo que sepa describir imágenes teniendo en cuenta el contexto cultural.",
-    dates: "21 de abril - 31 de mayo (Máx. 2 semanas)",
+    dates: "11 - 31 de mayo",
     points: "3 ptos",
     requirements: "Tener experiencia previa con modelos de lenguaje",
     link: "https://somosnlp.org/hackathon/retos/alineamiento",
@@ -65,7 +65,7 @@ const finalChallenges = [
     description: "Crea una demo de tu proyecto en un Space de HuggingFace para que todo el mundo pueda ver tu trabajo.",
     dates: "Hasta el 3 de junio",
     points: "0.5 ptos",
-    requirements: "Haber completado algún reto principal",
+    requirements: "Haber completado algún reto 2",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
     cover: "/images/eventos/260511_hackathon_eventbrite.png"
   },
@@ -74,7 +74,7 @@ const finalChallenges = [
     description: "Graba un vídeo de 5 minutos presentando tu proyecto al jurado y a la comunidad.",
     dates: "Envío hasta el 3 de junio",
     points: "0.5 ptos",
-    requirements: "Haber completado algún reto principal",
+    requirements: "Haber completado algún reto 2",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
     cover: "/images/eventos/260511_hackathon_eventbrite.png"
   },
@@ -82,8 +82,8 @@ const finalChallenges = [
     title: "5. (Opcional) Escribe un paper",
     description: "Escribe un artículo científico (paper) sobre tu proyecto. Si te interesa, te ayudamos para enviarlo a un workshop de una conferencia de PLN.",
     dates: "A partir de junio",
-    points: "0.5 ptos",
-    requirements: "Haber completado algún reto principal",
+    points: "",
+    requirements: "Haber completado algún reto 2",
     link: "https://somosnlp.org/hackathon/retos/presentacion",
     cover: "/images/eventos/260511_hackathon_eventbrite.png"
   }
@@ -96,8 +96,8 @@ El hackathon de este año se centra en la última fase de entrenamiento de model
 
 En esta página encontrarás:
 - 👣 Primeros pasos
-- 🧭 ¿Por dónde empiezo?
 - 👏 Incentivos y premios
+- 🧭 ¿Por dónde empiezo?
 - ✨ Mini retos
 - 🔥 Reto principal
 - ❓ Preguntas frecuentes
@@ -113,14 +113,31 @@ Antes de empezar, haz estas 4 cosas (te llevará menos de 10 minutos):
 1. ✅ Únete a nuestro [Discord](https://discord.com/invite/my8w7JUxZR) (es donde nos comunicamos durante el hackathon)
 2. ✅ Crea una cuenta gratuita en [Hugging Face](https://huggingface.co/join) (la plataforma donde se publican los datos y modelos)
 3. ✅ Rellena el [formulario de registro](https://hackathon-somosnlp-2026.eventbrite.com)
-4. ✅ Únete a la [organización del hackathon en Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon/share/BMALwncoPyZLRdPuzwugnsDzXHsbLnjjGD)
+4. ✅ Únete a la [organización del hackathon en Hugging Face](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/DNcqoZrtSmEkyLLOiSYTQCzkcrquceDoVY)
 
 Después, **forma un equipo (de 1 a 5 personas):**
 
-- Puedes apuntarte con gente que ya conozcas (compañeros/as de clase, del trabajo…) o conocer a otra gente de la comunidad en el canal [#encuentra-equipo](https://discord.com/channels/938134488670675055/1082369575666073611) de Discord.
-- Cuando tengáis el equipo formado, **una persona** debe [registrar el equipo en este formulario](https://forms.gle/mLKEURUXGiNhq31T9).
+- Puedes apuntarte con gente que ya conozcas (compañeros/as de clase, del trabajo…) o conocer a otra gente de la comunidad en el canal [#equipos-proyectos](https://discord.com/channels/938134488670675055/1082369575666073611) de Discord.
+- Cuando tengáis el equipo formado, **una persona** debe [registrar el equipo en este formulario](https://forms.gle/6Zw1y3CryWQVUoxs5).
+- Tendréis un canal de Discord y una organización de Hugging Face con recursos por cada equipo
 
-<!-- TODO formulario -->
+---
+
+## 👏 Incentivos y premios
+
+Al participar tendrás la oportunidad de:
+- ✨ Aprender con talleres y charlas
+- ✨ Acceder a cientos de USD en créditos GPU y API para tu proyecto
+- ✨ Ganar premios de 1000, 600 y 300 USD (por equipo)
+- ✨ Ganar nominaciones a la red de talento Nova (personales)
+- ✨ Ganar sesiones de mentoría con personas relevantes del campo
+- ✨ Participar en sorteos de libros y entradas a conferencias
+- ✨ Co-publicar papers en conferencias internacionales de PLN
+- ✨ Conseguir un certificado de participación (¡o de equipo ganador!)
+
+<!-- - ✨ Ganar acceso a un Máster online de IA -->
+
+¡A por ello! 🚀
 
 ---
 
@@ -128,50 +145,15 @@ Después, **forma un equipo (de 1 a 5 personas):**
 
 Elige el camino que mejor se adapte a ti. **No tienes que hacer todos los retos**, puedes hacer solo los que te apetezcan y sumar puntos.
 
-- 🟢 **Es mi primera vez con IA / no sé programar** → empieza por los **mini retos**. Solo tienes que buscar información o evaluar el conocimiento cultural de modelos de lenguaje.
-- 🟡 **Sé algo de programación y quiero aprender** → empieza por los mini retos, haz el **reto principal opción A** (modelo de texto) y no te pierdas el taller inaugural.
+- 🟢 **Es mi primera vez con IA / no sé programar** → empieza por los **retos de datos** y evalúa el conocimiento cultural de modelos de lenguaje.
+- 🟡 **Sé algo de programación y quiero aprender** → empieza por la generación de dataset, haz el **reto principal opción A** (modelo de texto) y no te pierdas el taller inaugural.
 - 🔴 **Tengo experiencia con modelos de lenguaje** → utiliza técnicas tan avanzadas como quieras para el reto principal (A o B). Si ya controlas SFT y DPO, explora test-time learning!
 
 ---
 
-## 👏 Incentivos y premios
+## 🔥 Reto
 
-Al participar tendrás la oportunidad de:
-- ✨ Aprender con talleres y charlas en directo
-- ✨ Conseguir acceso a 500 USD de la API de Cohere
-- ✨ Conseguir acceso a una GPU L40S de Hugging Face
-- ✨ Ganar 1000 USD en créditos de la API de Mistral
-- ✨ Ganar cientos de USD en créditos GPU y libros de IA y lenguaje
-- ✨ Ganar acceso a un Máster online de IA
-- ✨ Ganar una entrada para la conferencia online de WomenTech Network
-- ✨ Ganar una nominación a la red de talento Nova
-- ✨ Ganar mentorías con personas relevantes en el campo del PLN
-- ✨ Co-publicar papers en conferencias de PLN internacionales
-- ✨ Conseguir un certificado de participación (o equipo ganador) del hackathon
-
-¡A por ello! 🚀
-
-<!-- TODO premios -->
-
----
-
-## ✨ Puntuación
-
-💡 Puedes conseguir hasta **10 puntos en total**: 3 por los mini retos, 6 por el reto principal y 1 por la presentación final.
-
----
-
-## ✨ Mini retos
-
-Tareas cortas que puedes hacer sin programar. Ayudan a crear bases de datos para evaluar y mejorar cuánto saben los modelos de lenguaje sobre nuestra cultura. **Acumulan puntos y dan acceso a premios extra.**
-
-<ChallengesGrid :challenges="miniChallenges" />
-
----
-
-## 🔥 Reto principal
-
-Un proyecto completo en 5 pasos. Te guiaremos con talleres y mentorías:
+Puedes decidir cuántos pasos avanzar, todas las opciones son bienvenidas y válidas:
 
 1. **Crea un dataset de preferencias**, diseña preguntas culturales y elige las mejores respuestas
 2. **Mejora un modelo de IA** para que responda de manera precisa, segura y contextualizada
@@ -179,7 +161,27 @@ Un proyecto completo en 5 pasos. Te guiaremos con talleres y mentorías:
 4. **Graba un vídeo** de 5 minutos presentando tu trabajo
 5. *(Opcional)* **Escribe un paper** científico
 
+💡 Puedes conseguir hasta **10 puntos en total**: 3 de los datos, 6 por el post-entrenamiento del modelo y 1 por la presentación final. Las contribuciones al dataset se compensan monetariamente independientemente de si se continúa con los siguientes pasos.
+
+---
+
+## 🔥 Retos de datos
+
+Se pueden realizar sin programar.
+
+<ChallengesGrid :challenges="miniChallenges" />
+
+---
+
+## 🔥 Retos de post-entrenamiento
+
 <ChallengesGrid :challenges="mainChallenges" />
+
+---
+
+## 🔥 Retos finales
+
+<!-- Necesarios para optar a los premios finales. -->
 
 <ChallengesGrid :challenges="finalChallenges" />
 
@@ -302,12 +304,13 @@ Sí, aceptamos equipos de 1 a 5 personas.
 <details>
 <summary>¿Cómo puedo colaborar?</summary>
 
-- Comparte las publicaciones de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_)) e invita a colegas y compañeros/as de clase a formar un equipo.
-<!-- - ¿Tienes 2 horitas para ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/radg18NMLRZMPu38A). -->
-- ¿Estás en la uni? [Comparte esta info con tu profe](https://somosnlp.org/hackathon/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
-<!-- - ¿Te gustaría compartir tu conocimiento con la comunidad? Propón una [ponencia](https://forms.gle/YpUvifDNLG6E56Cy9) o una [mentoría](https://forms.gle/7UmsVDnFmNo1pCrf9). 
-- ¿Formas parte de un grupo de investigación? Igual os interesa [colaborar donando un corpus](https://somosnlp.org/donatucorpus).-->
-- ¿Quieres apoyar la iniciativa dando visibilidad, patrocinando vales o con una donación económica? ¡[Patrocina el hackathon](https://forms.gle/sEkxstwbJSRYpgDa8)!
+- Comparte las publicaciones de @SomosNLP ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X (Twitter)](https://x.com/somosnlp_)) e invita a compañeros/as a formar un equipo. 
+- [Difunde el evento](https://somosnlp.org/hackathon/difusion) en tu cuenta personal y entra en el sorteo de 3 vales de 50 USD en cómputo o libros de IA/PLN/lingüística.
+- ¿Quieres ayudarnos con la organización de este increíble evento? Te estamos esperando, [únete al equipo](https://forms.gle/vjkLRQVnGF5eVgqq5).
+- ¿Estás en la universidad? [Comparte esta info con tu profe](https://somosnlp.org/hackathon/universidades) o alguien del grupo de IA/informática para que tu universidad colabore con el evento.
+- ¿Te gustaría compartir tu conocimiento con la comunidad? Apoya con una sesión de [mentoría](https://forms.gle/Cq7CfgxaLTrthZU37). 
+- ¿Formas parte de un grupo de investigación? Igual os interesa participar en la generación del [dataset de preferencias](https://somosnlp.org/hackathon/retos/preferencias) y ser co-autores del paper.
+- ¿Quieres que el logo de tu organización aparezca entre los patrocinios? Apoyar la iniciativa dando [visibilidad](https://forms.gle/i1MG2F1BGZSg2CpR6) o [patrocina el hackathon](https://forms.gle/YREnJ3p9dNpQRYEg6).
 
 </details>
 

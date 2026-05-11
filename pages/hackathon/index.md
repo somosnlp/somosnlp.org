@@ -14,7 +14,7 @@ Somos 600M de hispanohablantes y 265M de personas lusófonas en el mundo. El esp
 
 El enfoque de esta edición es generar recursos y utilizar técnicas de post-entrenamiento para mejorar la calidad de las respuestas de los LLMs en las lenguas de Iberoamérica. ¿Cómo definimos "calidad"? Razonamiento correcto, respuestas seguras y adaptadas al contexto cultural.
 
-La participación es **gratuita y a tu ritmo, con acceso a cómputo y premios de hasta 1500 USD, con retos para todos los niveles**. Inscripciones abiertas hasta el 15 de mayo, entrega de proyectos el 29.
+La participación es **gratuita y a tu ritmo, con acceso a cómputo y premios de hasta 1000 USD, con retos para todos los niveles**.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
   <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank" style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝 Inscríbete ya</a>
@@ -23,7 +23,14 @@ La participación es **gratuita y a tu ritmo, con acceso a cómputo y premios de
   <!-- <a href="/hackathon/retos" style="background-color:#1e3a8a; color:white; padding:14px 28px; text-decoration:none; border-radius:6px; font-weight:700; font-size:1.1em; display:inline-block;">🔥 Ver los retos</a> -->
 </div>
 
+Fechas importantes:
+- 11 de mayo: Taller inaugural de Sergio Paniego @Hugging Face, sorteo de libros, [inscríbete](https://hackathon-somosnlp-2026.eventbrite.com) en el mismo enlace ⬆️ 
+- 17 de mayo: Cierre de inscripciones y [sorteo entre las personas que hayan difundido el evento](https://somosnlp.org/hackathon/difusion)
+- 29 de mayo: Entrega de los proyectos 
+
+
 *([Em português](https://somosnlp.org/pt/hackathon), [in English](https://somosnlp.org/en/hackathon))*
+
 
 <!--
 ---
@@ -95,7 +102,7 @@ Desde 2022, sumamos...
   </div>
 </div>
 
-En esta quinta edición nos vamos a centrar en la creación de recursos que nos permitan **evaluar y mejorar la adecuación cultural de los grandes modelos de lenguaje respecto a cada uno de los países de LATAM y la Península Ibérica**.
+En esta quinta edición nos vamos a centrar en la creación de recursos que nos permitan mejorar la calidad de las respuestas de los LLMs en las lenguas de Iberoamérica. Además de la capacidad de razonamiento, queremos mejorar la adecuación cultural de los modelos respecto a cada uno de los países de LATAM y la Península Ibérica.
 
 ¿Lo mejor? ¡TODO EL MUNDO puede colaborar! 🎉
 
@@ -118,14 +125,14 @@ Hay dos vías de participación, elige según tu nivel y formación:
 
 <HackathonCard
   icon="📚"
-  title="Mini retos (toda la comunidad)"
+  title="Preferencias (toda la comunidad)"
   description="Manda preguntas culturales a modelos de IA y elige las mejores respuestas. Sin programar y desde el navegador. ¡Apto para todos los públicos!"
 />
 
 <HackathonCard
   icon="💻"
-  title="Reto principal (comunidad techie)"
-  description="En equipos de 1 a 5 personas: crea un dataset, post-entrena un modelo y publica una demo. ¡Te apoyamos con talleres y mentorías!"
+  title="Post-entrenamiento (comunidad techie)"
+  description="En equipos de 1 a 5 personas: crea un dataset, post-entrena un modelo (SFT, DPO, RLVR) y publica una demo. ¡Te apoyamos con recursos y mentorías!"
 />
 
 <!-- TODO: update linkUrl -->
@@ -138,13 +145,14 @@ Hay dos vías de participación, elige según tu nivel y formación:
 
 
 Al participar tendrás la oportunidad de:
-- ✨ Aprender con talleres y charlas en directo
+- ✨ Aprender con talleres y charlas
 - ✨ Acceder a cientos de USD en créditos GPU y API para tu proyecto
-- ✨ Ganar hasta 1500, 1000 o 500 USD en premios
-- ✨ Ganar entradas a conferencias y una nominación a la red de talento Nova
-- ✨ Ganar mentorías con personas relevantes del campo
+- ✨ Ganar premios de 1000, 600 y 300 USD (por equipo)
+- ✨ Ganar nominaciones a la red de talento Nova (personales)
+- ✨ Ganar sesiones de mentoría con personas relevantes del campo
+- ✨ Participar en sorteos de libros y entradas a conferencias
 - ✨ Co-publicar papers en conferencias internacionales de PLN
-- ✨ Conseguir un certificado de participación (o de equipo ganador)
+- ✨ Conseguir un certificado de participación (¡o de equipo ganador!)
 
 <!-- - ✨ Ganar acceso a un Máster online de IA -->
 
@@ -179,7 +187,7 @@ Al participar tendrás la oportunidad de:
 <HackathonCard
   icon="🧑‍🏫"
   title="Ofrece una mentoría"
-  description="Comparte tu experiencia con los equipos. Puede ser una sesión puntual o un acompañamiento continuo."
+  description="Comparte tu experiencia con los equipos. Puede ser una sesión puntual o un acompañamiento semanal durante mayo."
   linkText="Ofrecer mentoría"
   linkUrl="https://forms.gle/Cq7CfgxaLTrthZU37"
 />
@@ -227,8 +235,8 @@ Para refrescar conceptos, te recomendamos estas charlas (< 1h):
 
 - <a href="https://www.youtube.com/watch?v=wI6yjbed_1Q&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Red teaming para LLMs, Luis Vasquez @Barcelona Supercomputing Center</a>
 - <a href="https://www.youtube.com/watch?v=KgaPmIQmGes&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Desafíos éticos del PLN, Gabriela Arriagada @Centro Nacional de IA, Chile</a>
-- <a href="https://www.youtube.com/watch?v=PjOXDCe_3kg&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Cómo hacer un modelo Vision-Language eficiente, Andres Marafioti @HuggingFace</a>
-- <a href="https://www.youtube.com/watch?v=0j0kjNg5QDw&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">De RNNs a Transformers: Cómo cambió el paradigma, Dr. Manuel Medina @IBM Japan</a>
+- <a href="https://www.youtube.com/watch?v=PjOXDCe_3kg&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">Cómo hacer un modelo Vision-Language (VLM) eficiente, Andrés Marafioti @HuggingFace</a>
+- <a href="https://www.youtube.com/watch?v=0j0kjNg5QDw&list=PLTA-KAy8nxaDHyJyPlrDMCkwTsJZpMNK6" target="_blank">De RNNs a Transformers: Cómo cambió el paradigma, Dr. Manuel Medina @IBM</a>
 - <a href="https://www.youtube.com/watch?v=GX4l3WhOy4o&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI">IA y PLN: Una apasionante encrucijada, Cris Aranda</a>
 
 <center><a href="https://www.youtube.com/playlist?list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">Más charlas</a></center>
@@ -262,7 +270,7 @@ Modelo de conocimiento jurídico <strong>utilizado por la Suprema Corte de Justi
 <ProjectCard year="2024" prize="Logro colectivo" title="📚 Dataset de instrucciones" variant="highlight"> Generamos más de 1M instrucciones, creando el mayor dataset de entrenamiento supervisado en español. <a href="https://arxiv.org/pdf/2407.17479" target="_blank" class="text-blue-600 underline"> Paper #Somos600M </a> publicado en el workshop LatinX in NLP @NAACL 2024. Entrevista en el periódico <a href="https://elpais.com/tecnologia/2024-05-10/la-larga-marcha-de-un-grupo-de-voluntarios-por-lograr-un-chatgpt-hispano-un-modelo-entrenado-en-espanol-seria-increible.html" target="_blank" class="text-blue-600 underline">El País</a>. </ProjectCard>
 
 <ProjectCard year="2025" prize="Logro colectivo" title="📚 INCLUDE: Benchmark de conocimiento cultural" variant="highlight" wide>
-Recolectamos más de <strong>38.000 preguntas de exámenes de 23 países</strong>, contribuyendo al mayor benchmark de evaluación de conocimiento cultural para LLMs.
+Recolectamos más de <strong>38.000 preguntas de exámenes de 23 países</strong>, contribuyendo al mayor benchmark de evaluación de conocimiento cultural para LLMs. Paper WIP.
 </ProjectCard>
 
 </div>

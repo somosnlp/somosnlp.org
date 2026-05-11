@@ -14,7 +14,7 @@ cover: /images/eventos/260511_hackathon_eventbrite.png
     </figure>
 </div>
 
-Puedes **difundir el evento como institución o a nivel personal**. Estamos a tu disposición en info@somosnlp.org y [Discord](https://discord.com/invite/my8w7JUxZR), ¡contamos con tu apoyo!
+Puedes **difundir el evento como institución** (patrocinio de visibilidad) **o a nivel personal** (sorteo de 3 x $50). Más información a continuación. Estamos a tu disposición en info@somosnlp.org y [Discord](https://discord.com/invite/my8w7JUxZR), ¡contamos con tu apoyo!
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://forms.gle/i1MG2F1BGZSg2CpR6" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">📣 Patrocinio de visibilidad </a>
@@ -29,19 +29,20 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 
 ### Tipos de visibilidad, requisitos y beneficios
 
-- **🤗 Comunidad**, mínimo 4 publicaciones: logo pequeño y visibilidad en RRSS.
-- **🎓 Universidad**, mínimo 1 publicación y 5 participantes: logo pequeño y visibilidad en RRSS. [Más información](https://somosnlp.org/hackathon/universidades).
-- La primera publicación debe ser antes del 6 de mayo.
+- **🤗 Comunidad**, mínimo 4 publicaciones
+- **🎓 Universidad**, mínimo 1 publicación y 5 participantes. [Más información](https://somosnlp.org/hackathon/universidades).
+- Beneficios para patrocinadores: añadimos vuestro logo en la web del hackathon y os etiquetamos en publicaciones relacionadas con el mismo en RRSS.
+- La primera publicación debe ser antes del 15 de mayo.
 - El logo se añadirá a la página web del hackathon una vez hecha la primera publicación.
 
-### ¿Cómo darle visibilidad al hackathon?
+### ¿Cómo darle visibilidad al hackathon? Preguntas frecuentes
 
 - Podéis utilizar las [plantillas y material de difusión](https://somosnlp.notion.site/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf) que ponemos a vuestra disposición para facilitar vuestra tarea 🎨
 - Las publicaciones pueden ser en diferentes plataformas: blog, podcast, newsletter, LinkedIn, X, etc.
 - Importante: en redes sociales recuerda etiquetar a SomosNLP para que nos llegue la notificación.
 - En redes sociales, 1 publicación se puede intercambiar por 2 "quotes" en X o 2 . "reposts with your thoughts" en LinkedIn.
 - Podéis publicar en diferentes momentos del hackathon. Por ejemplo, para animar a participar en el hackathon o asistir a la charla inaugural (hasta el 11 de mayo) y compartir los resultados del hackathon (a principios de mayo).
-- Agradecemos RT / comentarios en las publicaciones en las que os mencionemos.
+- Agradecemos que compartáis y comentéis en las publicaciones en las que os mencionemos.
 
 <details>
 <summary>👀 Tabla detallada de beneficios</summary>
@@ -83,9 +84,9 @@ Los patrocinios de visibilidad son de suma importancia ya que nos permiten llega
 
 Hay personas que nos apoyáis desde el comienzo y otras que nos acabáis de conocer y nos apoyaréis en esta nueva etapa. Os queremos agradecer vuestro esfuerzo y confianza añadiendo vuestra foto en la página "[Comunidad](https://somosnlp.org/comunidad)", ¡mandadnos vuestra info!
 
-Además, vamos a sortear **3 vales de $50** de créditos en el Hub de Hugging Face o un libro de PLN/IA/lingüística entre todas las cuentas personales que hagan publicaciones en redes sociales (LinkedIn, X, Instagram, TikTok) anunciando el #HackathonSomosNLP 2026. Las publicaciones deben incluir el cartel, enlace, #HackathonSomosNLP y un texto de longitud adecuada a la red social. Solo las publicaciones en DIFERENTES redes sociales dan más oportunidades en el sorteo (i.e., máximo 4 papeletas por persona).
+Además, vamos a sortear **3 vales de $50** de créditos en el Hub de Hugging Face o un libro de PLN/IA/lingüística entre todas las cuentas personales que hagan publicaciones en redes sociales (LinkedIn, X, Instagram, Threads, TikTok) anunciando el #HackathonSomosNLP 2026. Las publicaciones deben incluir el cartel, enlace, #HackathonSomosNLP y un texto de longitud adecuada a la red social. Solo las publicaciones en DIFERENTES redes sociales dan más oportunidades en el sorteo (es decir, máximo 5 papeletas por persona).
 
-No hace falta que rellenes el formulario. Publica y comparte el enlace al post en el canal de Discord #rt-post-like para entrar en el sorteo. Anunciaremos las cuentas premiadas el último día del Hackathon. ¡Muchas gracias y mucha suerte! 🍀
+No hace falta que rellenes el formulario de "Patrocinio de visibilidad", es para empresas. **Publica y comparte el enlace al post en el canal de Discord** [#rt-post-like](https://discord.com/channels/938134488670675055/1214408984002433064) para entrar en el sorteo. Anunciaremos las cuentas premiadas el último día del Hackathon. ¡Muchas gracias y mucha suerte! 🍀
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px">
   <a href="https://www.notion.so/Visibilidad-Hackathon-2026-dfbb662bc3d483fe9330812ccece7bbf" target="_blank" style="background-color:#FACC15; color:white; padding:10px 20px; text-decoration:none; border-radius:5px;">🎨 Material de difusión</a>

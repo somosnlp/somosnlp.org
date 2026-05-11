@@ -18,8 +18,14 @@ defineProps<{
 
 <template>
     <div class="full-width-container ">
-        <div class="grid gap-4 <sm:grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-            <ChallengeItem v-for="challenge in challenges" :key="challenge.title" :challenge="challenge" />
+        <div class="flex flex-wrap justify-center gap-4 max-w-1200px mx-auto">
+            <div
+                v-for="challenge in challenges"
+                :key="challenge.title"
+                class="flex w-full sm:w-[calc((100%-1rem)/2)] lg:w-[calc((100%-2rem)/3)]"
+            >
+                <ChallengeItem :challenge="challenge" />
+            </div>
         </div>
     </div>
 </template> 
