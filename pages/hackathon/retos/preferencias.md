@@ -14,10 +14,10 @@ Vamos a escribir entre todos los equipos **preguntas culturales** sobre nuestros
 ## 👣 Paso a paso
 
 1. **Lee esta guía** (te llevará menos de 10 minutos) para aprender los conceptos clave y cómo escribir preguntas ("prompts") de calidad.
-2. **Haz un test** de auto-evaluación que confirma que has entendido la guía.
+2. **Haz un test** de auto-evaluación para confirmar que has entendido la guía.
 3. **Escribe tus prompts** para que varios LLMs generen respuestas.
-   - Si sabes programar, súbelos como CSV a la org de Hugging Face del hackathon (invitación).
-   - Si prefieres utilizar una interfaz, mándalos aquí.
+   - Si sabes programar, súbelos como CSV a la org de Hugging Face del hackathon ([invitación](https://huggingface.co/organizations/somosnlp-hackathon-2026/share/DNcqoZrtSmEkyLLOiSYTQCzkcrquceDoVY)).
+   - Si prefieres utilizar una interfaz, mándalos [aquí](https://huggingface.co/spaces/somosnlp-hackathon-2026/cultural-preferences).
 4. **Valida prompts** de otros equipos.
 5. **Elige la mejor respuesta** entre las dos generadas para cada prompt validado.
 
@@ -39,21 +39,32 @@ Recursos:
 
 ---
 
+## ✨ Compensación
+
+Esta recolección de datos está enmarcada en el [#HackathonSomosNLP 2026](https://somosnlp.org/hackathon) pero no es necesario participar en el hackathon para colaborar con esta iniciativa de generar un dataset de preferencias.
+
+Compensaremos el tiempo que dediques a esta iniciativa:
+
+- Cada 50 prompts mandados = 25 USD
+- Cada 50 validaciones = 10 USD
+- Cada 50 votaciones = 10 USD
+- 50 prompts + 150 validaciones + 150 votaciones = co-autoría paper
+
+Cada persona puede mandar 50 prompts, validar 150 y votar 150. Este es el requisito para ser co-autor/a del paper en el que se presente este dataset. Si llegas al máximo y quieres colaborar más avísanos.
+
+Las cuentas son por persona y los vales pueden ser canjeados por créditos en el Hub de HF y/o un libro de IA/PLN/lingüística.
+
+🚨 Los números se refieren a prompts **validados**, es decir, prompts que otras personas participantes validen como relevantes para comprender la cultura de tu país. Puedes ver el contador en la pestaña "Ranking".
+
 ## 🚀 Relación con el Hackathon
 
-Esta recolección de datos está enmarcada en el #HackathonSomosNLP 2026 pero no es necesario participar en el reto principal.
+Participar en este reto es **requisito** para participar en el reto de post-training del hackathon. Publicaremos el dataset de preferencias en la org del hackathon para que todos los equipos lo podáis utilizar para la fase de alineamiento con preferencias (DPO).
 
 ### ✨ Incentivos
 
-- Requisito para acceder a las GPUs = 100 prompts por equipo
-- Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos)
-- Cada 100 prompts por persona = 40 USD en créditos en el Hub de HF o libros de IA/PLN/lingüística (independientes del premio si vuestro equipo gana)
+- Requisito para acceder a las GPUs para el reto de post-training de LLMs = 100 prompts por equipo. La repartición entre miembros del equipo debe ser equitativa, no puede mandar ni validar todos los prompts una misma persona.
+- Cada 50 prompts por equipo = 0.5 ptos (máx 2 ptos).
 - Tendréis acceso a los datos generados por todos los equipos para utilizarlos en la fase de alineamiento, **una mayor calidad de los datos implica una mayor calidad de vuestro proyecto.**
-
-Notas:
-
-- Los números se refieren a prompts **validados**.
-- **Antes** de mandar y validar prompts, es obligatorio haber aprobado el test de comprensión.
 
 ### 🤗 Cómo organizar tu equipo
 
@@ -521,7 +532,7 @@ Por cada prompt, elige una de **siete categorías**: las tres primeras lo rechaz
 ### 🚫 Rechazo (3 categorías)
 
 - **Trivial / factual**: tiene una sola respuesta correcta y obvia, o se puede responder consultando una enciclopedia. No requiere haber vivido la cultura.
-- **Reproduce / induce un estereotipo**: el prompt _asume_ un estereotipo como si fuera cierto y le pide al modelo que lo elabore (no es lo mismo que la _trampa de sesgo_, que es un prompt neutral; ver tabla abajo).
+- **Reproduce un estereotipo**: el prompt _asume_ un estereotipo como si fuera cierto y le pide al modelo que lo elabore (no es lo mismo que la _trampa de sesgo_, que es un prompt neutral; ver tabla abajo).
 - **Sin anclaje cultural en el país**: la pregunta puede estar bien planteada, pero no tiene relación con la cultura del país asignado.
 
 ### ✅ Aceptación (4 categorías)
@@ -596,18 +607,21 @@ Si detectas qué dimensión está probando el prompt (ver §1.5 y §3), aplica a
 
 ## 🚀 ¿Empezamos?
 
-1. Aprueba el [test de comprensión](https://forms.gle/itbDvVxD2iG5nzsC6).
-2. Escribe tus prompts (§2) y súbelos como dataset.
-3. Valida prompts de otros equipos (§3).
-4. Vota la mejor respuesta de cada par (§4).
+1. Abre la aplicación: https://huggingface.co/spaces/somosnlp-hackathon-2026/cultural-preferences
+2. Aprueba el "Test de acceso": vuelve al principio de esta página, haz click en la pestaña correspondiente y desbloquea los siguientes pasos.
+3. Escribe tus prompts siguiendo esta guía (§2).
+4. Valida prompts de otros equipos (§3).
+5. Vota la mejor respuesta de cada par (§4).
 
-¿Algo no te queda claro? Pregúntanos.
+¿Algo no te queda claro? Pregúntanos cualquier duda en [Discord](https://discord.com/invite/my8w7JUxZR).
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
+<!--
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:24px 0;">
   <a href="https://forms.gle/itbDvVxD2iG5nzsC6" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Hacer el test de comprensión ↗</a>
-  <!-- <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Ir a la LLM Arena ↗</a>
-  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Validar prompts ↗</a> -->
+  <a href="https://fastchat-webui-908374066028.us-central1.run.app/gradio/" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Ir a la LLM Arena ↗</a>
+  <a href="https://huggingface.co/spaces/somosnlp/validacion-preferencias" target="_blank" rel="noopener" style="background-color:#FACC15; color:#1f2937; font-weight:600; padding:12px 20px; text-decoration:none; border-radius:6px; display:inline-block;">Validar prompts ↗</a>
 </div>
+-->
 
 <!-- <div style="text-align:center; margin-top:24px;">
   <a href="https://somosnlp.org/hackathon/retos" style="background-color:#4b5563; color:white; padding:10px 20px; text-decoration:none; border-radius:6px; display:inline-block;">← Volver a todos los retos</a>
