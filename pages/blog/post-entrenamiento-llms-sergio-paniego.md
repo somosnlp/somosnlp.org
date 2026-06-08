@@ -5,7 +5,7 @@ date: 2026-05-11T18:00:00.000+00:00
 lang: es
 duration: 4min
 cover: /images/blog/Charla-Sergio-Paniego.JPG
-author: Firdaous Boulahfa El ourabit
+author: Firdaous Boulahfa El Mourabit
 bio: Lingüista Computacional & NLP Engineer
 linkedin: https://www.linkedin.com/in/firdaous-boulahfa-el-mourabit-871b11343/
 ---
