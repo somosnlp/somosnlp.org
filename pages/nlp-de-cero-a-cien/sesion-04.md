@@ -39,4 +39,10 @@ author: Lewis Tunstall
 
 ---
 
-➡️ Siguiente sesión: [Transformers y Generación de Texto](/nlp-de-cero-a-cien/sesion-05)
+<div class="text-center">
+    ➡️ Sesión siguiente: <a href="/nlp-de-cero-a-cien/sesion-05" class="text-blue-500">Transformers y Generación de Texto</a>
+</div>
+
+<div class="text-center mt-4">
+    ⬅️ Sesión anterior: <a href="/nlp-de-cero-a-cien/sesion-03" class="text-blue-500">Arquitectura Transformer</a>
+</div>

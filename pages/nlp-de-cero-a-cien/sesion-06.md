@@ -25,4 +25,11 @@ author: Manuel Romero
 
 ---
 
-➡️ Siguiente sesión: [NLP en Producción con 🤗 Spaces](/nlp-de-cero-a-cien/sesion-07)
+
+<div class="text-center">
+    ➡️ Sesión siguiente: <a href="/nlp-de-cero-a-cien/sesion-07" class="text-blue-500">NLP en Producción con 🤗 Spaces</a>
+</div>
+
+<div class="text-center mt-4">
+    ⬅️ Sesión anterior: <a href="/nlp-de-cero-a-cien/sesion-05" class="text-blue-500">Transformers y Generación de Texto</a>
+</div>
