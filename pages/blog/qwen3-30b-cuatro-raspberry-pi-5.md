@@ -23,6 +23,10 @@ Cuatro Raspberry Pi 5 de 16 GB, cada una con su disipador activo y un disco NVMe
 
 Cada token pasa por las cuatro placas: distributed-llama reparte cada capa entre ellas y las sincroniza varias veces por capa. La memoria que marca el dibujo, 12 GB en la raíz y 6,3 GB en cada trabajador, es la de la configuración con contexto largo (32.768 tokens); las mediciones de velocidad usan un contexto de 4.096 tokens, con unos 5,5 GB por placa.
 
+![Despiece de un nodo: Raspberry Pi 5 de 16 GB con disipador activo, HAT PoE+ y disco NVMe, y la placa con sus componentes](/images/blog/qwen3-raspberry-pi-anatomia.png)
+
+Ninguna de las cuatro capas de un nodo es un acelerador. La GPU de la Pi 5 no ofrece cálculo para esta carga y la placa no tiene NPU, así que cada token se calcula en los cuatro núcleos Cortex-A76 de cada nodo, alimentados por una memoria LPDDR4X de unos 17 GB/s teóricos.
+
 ## Por qué el modelo grande genera más rápido que el pequeño
 
 | | Qwen3-30B-A3B | DeepSeek-R1-Distill-Llama-8B |
@@ -35,6 +39,10 @@ En el modelo denso, lo que más pesa en el tiempo de cada token es la lectura de
 
 En el modelo de mezcla de expertos, la memoria ya no es lo único que pesa. El ajuste de firmware `SDRAM_BANKLOW=1`, que sube un 50 % el ancho de banda de lectura, de 8,3 a 12,5 GB/s por placa, sube su generación solo un 5,9 %: según el perfilado del estudio, casi la mitad del tiempo de cada token se va en coordinar las cuatro placas, esperar en las barreras de sincronización y atender llamadas al sistema.
 
+![Tarjeta que compara la cifra pública anterior, 13,04 tokens por segundo en cuatro placas de 8 GB, con este trabajo, 15,143 en cuatro placas de 16 GB](/images/blog/qwen3-raspberry-pi-record.png)
+
+La tarjeta compara dos montajes distintos: placas de 8 GB con el programa sin modificar frente a placas de 16 GB con la versión modificada. En las mismas placas de 16 GB, distributed-llama sin modificar genera 13,15 tokens por segundo.
+
 ## Qué aceleró el sistema
 
 En las mismas placas, distributed-llama sin modificar genera 13,15 tokens por segundo con el modelo de 30.000 millones. Los cambios que llevaron a 15,14 fueron de dos tipos:
@@ -45,6 +53,14 @@ En las mismas placas, distributed-llama sin modificar genera 13,15 tokens por se
 Cada mejora se midió por separado y en momentos distintos del trabajo, así que los porcentajes no se suman: el total, de 13,15 a 15,14, es un 15,1 %.
 
 En el modelo denso de 8.000 millones, esos mismos cambios en el código no modifican la velocidad de generación con cuatro hilos por placa. Sí casi duplican el procesamiento del prompt (*prefill*), que pasa de 8,52 a 15,81 tokens por segundo, porque en esa fase cada dato leído de memoria alimenta mucho más cálculo.
+
+![Gráfico de barras de cinco palancas medidas por separado en el modelo de 30.000 millones: arquitectura del modelo 59 %, configuración de ejecución 10,3 %, entrelazado de memoria 5,9 %, parches de código 5,6 %, telemetría apagada 5,18 %](/images/blog/qwen3-raspberry-pi-levers.png)
+
+Cada barra es una prueba A/B medida por separado, contra su propia base y en un momento distinto del trabajo, así que las barras no se suman. La primera compara Qwen3-30B-A3B con el modelo denso Llama 3.1 8B con el que empezó el proyecto.
+
+![Gráfico circular del tiempo de cada token en el modelo de 30.000 millones: multiplicaciones de matrices 56 %, orquestación 23 %, barreras de sincronización 17 %, llamadas al sistema 5 %](/images/blog/qwen3-raspberry-pi-token.png)
+
+En el modelo de 30.000 millones, las multiplicaciones de matrices ocupan algo más de la mitad del tiempo de cada token; el resto se reparte entre coordinar las cuatro placas, esperar en las barreras de sincronización y atender llamadas al sistema.
 
 ## Dónde está el límite
 
