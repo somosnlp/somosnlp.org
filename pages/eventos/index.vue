@@ -51,23 +51,27 @@ const { t } = useI18n()
 
 
 
-            <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">
+            <!-- <div class="text-center font-medium text-xl tracking-wider text-accent-500 uppercase" dark="text-accent-400">
                 Únete
-                al #HackathonSomosNLP</div>
+                al #HackathonSomosNLP</div> -->
 
             <div class="mt-10 grid gap-4 lg:grid-cols-1">
 
-                <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank">
-                    <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_hackathon_eventbrite.png" />
+                <a href="https://www.youtube.com/watch?v=CCpl_EV5Ri0&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
+                    target="_blank">
+                    <img alt="Hackathon" width="650" height="365" src="/images/eventos/261020_ia_y_cultura_utec.png" />
                 </a>
-                <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank">
+                <a href="https://www.youtube.com/watch?v=dWk4Rq-2esA&list=PLTA-KAy8nxaCGGYz5CWiLZNzc31ilPDyI"
+                    target="_blank">
                     <img alt="Hackathon" width="650" height="365" src="/images/eventos/260511_sergio_paniego.png" />
                 </a>
+                <!--
                 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 30px; margin-top: 30px;">
                     <a href="https://hackathon-somosnlp-2026.eventbrite.com" target="_blank"
                         style="background-color:#FACC15; color:white; padding:12px 28px; text-decoration:none; border-radius:5px; font-weight:bold; font-size:1.1em;">📝
                         Inscríbete ya</a>
                 </div>
+                -->
                 <!-- 
                 <a href="/hackathon-2025/ponencias" target="_blank">
                     <img alt="Hackathon #Somos600M" width="650" height="365"

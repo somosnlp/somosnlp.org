@@ -44,6 +44,8 @@ Organizado por Ana Rocío Cárdenas Maita (UTEC), con el auspicio de NAACL, UTEC
 - NAACL: https://naacl.org
 - SomosNLP: https://somosnlp.org
 
+---
+
 ## 🕘 Agenda
 
 | Hora (local)  | Actividad                                            | Ponente                                                               |
@@ -56,6 +58,91 @@ Organizado por Ana Rocío Cárdenas Maita (UTEC), con el auspicio de NAACL, UTEC
 | 11:10 – 11:30 | Coffee break y networking                            |                      |
 | 11:30 – 12:00 | Discusión de LLMs y NLP | Moderadoras: Diana Galván (Universidad de Cambridge), María Grandury (EPFL y SomosNLP) |
 | 12:00 – 12:15 | Cierre y almuerzo                       | Ana Cárdenas (UTEC)                                                       |
+
+
+### 💡 Charla 1: Lingüística Social
+
+#### Oscar Hidalgo
+
+*Docente del Departamento de Humanidades, Artes y Ciencias Sociales de UTEC (Perú)*
+
+Oscar Hidalgo es docente lingüista, con estudios de maestría en Fonoaudiología y más de veinte años de experiencia en docencia universitaria y en edición y traducción de textos de ciencias sociales.
+Sus áreas de interés son la interfaz entre lenguaje y cerebro, en relación con los estudios actuales de señales e imágenes cerebrales, y las representaciones que en el lenguaje se hacen de las categorías de poder político a lo largo de la historia del Perú.
+También escribe poesía y le interesan las relaciones entre la descripción del lenguaje y el estatuto del lenguaje creativo en términos de la descripción de las lenguas naturales.
+
+Sitio personal: https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest/
+
+### 💡 Charla 2: IA desde una vista antropológica
+
+#### Mayane Batista
+
+*Postdoctoranda en Inclusión y Diversidad en el Centro de Inteligencia Artificial de la Universidade de São Paulo (Brasil)*
+
+Mayane Batista Lima es doctora en Antropología Social por la Universidad Federal de Amazonas (PPGAS/UFAM), con estancia doctoral de investigación en la Facultad de Filosofía, Letras y Ciencias Humanas de la Universidad de São Paulo (FFLCH-USP).
+Es investigadora visitante del Centro de Inteligencia Artificial de la USP (C4AI/USP/FAPESP), en el Comité de Inclusión y Diversidad, e investigadora del Laboratorio de Antropología de la Vida, Ecología y Política (COLAR/PPGAS-UFAM).
+Posee una especialización en Machine Learning y es estudiante de grado en Ciencias de la Computación en el Centro Universitario de las Facultades Metropolitanas Unidas (FMU).
+Es magíster en Ciencias de la Comunicación (PPGCCOM-UFAM), especialista en Marketing, Publicidad y Propaganda y en Gestión de Personas por UniNorte, y licenciada en Periodismo por la misma institución.
+En 2026 recibió el Premio a la Mejor Tesis de Doctorado del Programa de Posgrado en Antropología Social (PPGAS) de la UFAM.
+En 2025 recibió el Premio de Incentivo a la Investigación en Derechos Humanos, otorgado por el CNPq y el Ministerio de Derechos Humanos y Ciudadanía (MDHC), y una Mención Honorífica en la 8.ª edición del Concurso de Ensayismo de la Revista Serrote, del Instituto Moreira Salles (São Paulo).
+
+### 💬 Sesión de discusión
+
+#### Diana Galván
+
+*Research Associate en la Universidad de Cambridge (Reino Unido)*
+
+Diana Galvan Sosa es investigadora en Procesamiento del Lenguaje Natural (PLN), especializada en IA educativa, comprensión del lenguaje y evaluación de modelos de lenguaje.
+Es Research Associate en la Universidad de Cambridge y cuenta con un PhD y un máster en Information Science por Tohoku University.
+Su investigación explora cómo el NLP y los LLMs pueden apoyar el aprendizaje de idiomas, la generación de feedback y la comprensión lectora.
+También trabaja en razonamiento de sentido común, diversidad lingüística y cultural, y evaluación de explicaciones generadas por modelos de IA.
+Su trayectoria combina investigación interdisciplinaria, desarrollo de tecnologías educativas y contribuciones a la comunidad internacional de NLP e inteligencia artificial.
+
+Sitio personal: https://dianags.github.io
+
+#### María Grandury
+
+*Doctoranda en NLP en EPFL (Suiza) y fundadora de SomosNLP*
+
+María Grandury es investigadora en Procesamiento del Lenguaje Natural (NLP), especializada en IA responsable, multilingüe y evaluación de LLMs.
+Es doctoranda en NLP en EPFL, bajo la supervisión del profesor Antoine Bosselut, y cuenta con formación en Matemáticas, Física y Tecnologías del Lenguaje.
+Es fundadora de SomosNLP, una comunidad que impulsa recursos abiertos para representar la diversidad lingüística y cultural de Latinoamérica, el Caribe y España.
+Como Hugging Face Fellow, desarrolla investigación sobre evaluación multicultural y multilingüe, con especial interés en sesgos lingüísticos y culturales en modelos de lenguaje.
+También trabaja como speaker y asesora independiente en IA, combinando investigación, divulgación y proyectos orientados a construir sistemas de IA más inclusivos y responsables.
+
+Sitio personal: https://mariagrandury.ai ([LinkedIn](https://linkedin.com/in/mariagrandury/), [X](https://x.com/mariagrandury))
+
+### ⚙️ Organización
+
+#### Ana Rocío Cárdenas Maita
+
+*Docente investigadora en UTEC (Perú) y organizadora del evento*
+
+Ana Rocío Cárdenas Maita es doctora y máster en Ciencias en Sistemas de Información por la Universidad de São Paulo (Brasil), donde también cursó un MBA en Analítica de Datos.
+Es ingeniera en Informática y Sistemas por la Universidad Nacional de San Antonio Abad del Cusco (Perú).
+Trabajó cerca de 10 años en proyectos de investigación científica para salud y en desarrollo de software para la industria financiera.
+Actualmente trabaja como investigadora postdoctoral en el Centro de Inteligencia Artificial y Machine Learning de la Universidad de São Paulo.
+Sus áreas de investigación son la interpretabilidad y explicabilidad en aprendizaje automático, la minería de procesos de negocio, la ciencia de datos y los grandes modelos de lenguaje (LLMs).
+
+LinkedIn: https://www.linkedin.com/in/ana-rocio-cardenas-maita
+
+#### NAACL
+
+NAACL (Nations of the Americas Chapter of the Association for Computational Linguistics) es el capítulo regional de ACL que reúne a la comunidad de lingüística computacional de Norte, Centro y Sudamérica.
+La organización promueve la investigación, colaboración e intercambio de conocimiento en Procesamiento del Lenguaje Natural (NLP) y lingüística computacional.
+Organiza conferencias y actividades científicas que conectan a investigadores, estudiantes y profesionales de toda América.
+
+Sitio web: https://naacl.org
+
+#### SomosNLP
+
+SomosNLP es una comunidad internacional de personas hispanohablantes apasionadas por el Procesamiento del Lenguaje Natural (NLP), con el objetivo de acercar la IA a más de 600 millones de personas.
+Su misión es democratizar y avanzar el NLP en español mediante la creación de recursos abiertos que representen la diversidad lingüística y cultural de España, Latinoamérica y el Caribe.
+La comunidad desarrolla proyectos de código abierto, datasets, herramientas de evaluación y recursos para mejorar la representación del español y las lenguas cooficiales en los modelos de lenguaje.
+
+Sitio web: https://somosnlp.org ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X](https://x.com/somosnlp_))
+
+
+---
 
 ## 🌎 Redes sociales
 
