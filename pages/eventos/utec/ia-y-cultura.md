@@ -3,7 +3,7 @@ title: ¿Puede la IA entender nuestra cultura?
 date: 2026-10-20T09:00:00.000+00:00
 time: 9h PE / 16h CEST
 duration: 3 horas
-cover: /images/eventos/241217_evaluacion_llm_upm.png 
+cover: /images/eventos/261020_ia_y_cultura_utec.png 
 author: Ana Rocío Cárdenas Maita
 twitter: 
 linkedin:
@@ -20,6 +20,10 @@ El 20 de octubre nos encontramos para conversar y reflexionar sobre este gran de
 - 🕘 Hora: 9h PE / 16h CEST
 - 📍 En persona: Concept Lab de UTEC (Lima, Perú)
 - 📍 En directo: https://www.youtube.com/watch?v=CCpl_EV5Ri0
+
+<div class="flex justify-center">
+    <img src="/images/eventos/261020_ia_y_cultura_utec.png" alt="ia-y-cultura-utec" width="400"/>
+</div>
 
 ## 🎙️ Especialistas
 
