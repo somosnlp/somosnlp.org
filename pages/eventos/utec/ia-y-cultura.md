@@ -87,12 +87,17 @@ En 2025 recibió el Premio de Incentivo a la Investigación en Derechos Humanos,
 
 Sitio personal: https://www.linkedin.com/in/mayanebatista
 
+<div class="flex justify-center">
+    <img src="/images/comunidad/mayane_batista.jpg" alt="Mayane Batista" width="200"/>
+</div>
 
 ### 💬 Mini-hackathon y sesión de discusión
 
+<!--
 <div class="flex justify-center">
     <img src="/images/eventos/261020_llms.png" alt="ia-y-cultura-utec-llms" width="500"/>
 </div>
+-->
 
 #### Diana Galván
 
@@ -106,6 +111,10 @@ Su trayectoria combina investigación interdisciplinaria, desarrollo de tecnolog
 
 Sitio personal: https://dianags.github.io ([LinkedIn](https://www.linkedin.com/in/diana-galv%C3%A1n-sosa-984069175/))
 
+<div class="flex justify-center">
+    <img src="/images/comunidad/diana_galvan.png" alt="Diana Galván" width="200"/>
+</div>
+
 #### María Grandury
 
 *Doctoranda en NLP en EPFL (Suiza) y fundadora de SomosNLP*
@@ -117,6 +126,10 @@ Como Hugging Face Fellow, desarrolla investigación sobre evaluación multicultu
 También trabaja como speaker y asesora independiente en IA, combinando investigación, divulgación y proyectos orientados a construir sistemas de IA más inclusivos y responsables.
 
 Sitio personal: https://mariagrandury.ai ([LinkedIn](https://linkedin.com/in/mariagrandury/), [X](https://x.com/mariagrandury))
+
+<div class="flex justify-center">
+    <img src="/images/comunidad/maria_grandury.png" alt="María Grandury" width="200"/>
+</div>
 
 ### ⚙️ Organización
 
@@ -131,6 +144,10 @@ Actualmente trabaja como investigadora postdoctoral en el Centro de Inteligencia
 Sus áreas de investigación son la interpretabilidad y explicabilidad en aprendizaje automático, la minería de procesos de negocio, la ciencia de datos y los grandes modelos de lenguaje (LLMs).
 
 LinkedIn: https://www.linkedin.com/in/ana-rocio-cardenas-maita
+
+<div class="flex justify-center">
+    <img src="/images/comunidad/ana_rocio_cardenas.jpeg" alt="Ana Rocío Cárdenas" width="200"/>
+</div>
 
 ### Apoyo institucional
 
@@ -179,14 +196,19 @@ Si preferís, podéis comentar en las siguientes publicaciones:
 
 ## 🔗 Feedback
 
-Con el objetivo de evaluar la calidad de las actividades y mejorar en próximas ediciones, te invitamos a completar esta [breve encuesta](https://forms.gle/xm2LfGZyCT5z1dM59) (3-5 minutos).
+(Propongo quitar esta sección o cambiarla por comentarios reales de los participantes, obviamente con su previo acuerdo.)
+
+Con el objetivo de evaluar la calidad de las actividades y mejorar en próximas ediciones, te invitamos a completar esta [breve encuesta](https://forms.gle/xm2LfGZyCT5z1dM59) (3-5 minutos). 
 
 Agradecemos de antemano tus valiosos comentarios y sugerencias, ¡hasta la próxima!
 
 
 ## 🤗 Equipo
 
-Organizado por Ana Rocío Cárdenas Maita (UTEC), con el auspicio de NAACL, UTEC y SomosNLP.
+Evento ideado por Ana Rocío Cárdenas Maita (UTEC), Diana Galván Sosa (Universidad de Cambridge) y María Grandury (EPFL). Organización liderada por Ana Rocío, con el auspicio de NAACL, UTEC y SomosNLP.
+
+<!-- Dado que la idea original fue desarrollada conjuntamente por las tres, me parece justo que cualquiera de nosotras tenga la libertad de organizar ediciones o formatos similares en otras instituciones con nuevos colaboradores. Sin embargo, para proteger la autoría intelectual del formato original, propongo acordar que la primera edición que acabamos de realizar mantenga un sitio web o registro oficial donde nos reconozca explícitamente a las tres como co-fundadoras/organizadoras originales. De esta manera, si en el futuro alguna decide replicar o adaptar la iniciativa de manera independiente, la precedencia y la contribución de cada una quedará reflejada de forma transparente. -->
+
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px 50px; justify-items: center; align-items: center; max-width: 80%; margin-left: auto; margin-right: auto;">
 
