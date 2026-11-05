@@ -70,7 +70,7 @@ Oscar Hidalgo es docente lingüista, con estudios de maestría en Fonoaudiologí
 Sus áreas de interés son la interfaz entre lenguaje y cerebro, en relación con los estudios actuales de señales e imágenes cerebrales, y las representaciones que en el lenguaje se hacen de las categorías de poder político a lo largo de la historia del Perú.
 También escribe poesía y le interesan las relaciones entre la descripción del lenguaje y el estatuto del lenguaje creativo en términos de la descripción de las lenguas naturales.
 
-Sitio personal: https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest/
+Sitio personal: https://cris.utec.edu.pe/es/persons/oscar-hidalgo-wuest
 
 ### 💡 Charla 2: IA desde una vista antropológica
 
@@ -85,7 +85,14 @@ Es magíster en Ciencias de la Comunicación (PPGCCOM-UFAM), especialista en Mar
 En 2026 recibió el Premio a la Mejor Tesis de Doctorado del Programa de Posgrado en Antropología Social (PPGAS) de la UFAM.
 En 2025 recibió el Premio de Incentivo a la Investigación en Derechos Humanos, otorgado por el CNPq y el Ministerio de Derechos Humanos y Ciudadanía (MDHC), y una Mención Honorífica en la 8.ª edición del Concurso de Ensayismo de la Revista Serrote, del Instituto Moreira Salles (São Paulo).
 
-### 💬 Sesión de discusión
+Sitio personal: https://www.linkedin.com/in/mayanebatista
+
+
+### 💬 Mini-hackathon y sesión de discusión
+
+<div class="flex justify-center">
+    <img src="/images/eventos/261020_llms.png" alt="ia-y-cultura-utec-llms" width="500"/>
+</div>
 
 #### Diana Galván
 
@@ -97,7 +104,7 @@ Su investigación explora cómo el NLP y los LLMs pueden apoyar el aprendizaje d
 También trabaja en razonamiento de sentido común, diversidad lingüística y cultural, y evaluación de explicaciones generadas por modelos de IA.
 Su trayectoria combina investigación interdisciplinaria, desarrollo de tecnologías educativas y contribuciones a la comunidad internacional de NLP e inteligencia artificial.
 
-Sitio personal: https://dianags.github.io
+Sitio personal: https://dianags.github.io ([LinkedIn](https://www.linkedin.com/in/diana-galv%C3%A1n-sosa-984069175/))
 
 #### María Grandury
 
@@ -125,11 +132,23 @@ Sus áreas de investigación son la interpretabilidad y explicabilidad en aprend
 
 LinkedIn: https://www.linkedin.com/in/ana-rocio-cardenas-maita
 
+### Apoyo institucional
+
+#### UTEC
+
+Universidad de Ingeniería y Tecnología (UTEC) es ...
+
+UTEC apoyó con la logística del evento, incluyendo merchandising, la comida y bebida de la pausa de networking y la disposición de la sala donde se celebró el evento, así como la reserva del transporte y alojamiento de los alumnos becados.
+
+Sitio web: https://utec.edu.pe 
+
 #### NAACL
 
 NAACL (Nations of the Americas Chapter of the Association for Computational Linguistics) es el capítulo regional de ACL que reúne a la comunidad de lingüística computacional de Norte, Centro y Sudamérica.
 La organización promueve la investigación, colaboración e intercambio de conocimiento en Procesamiento del Lenguaje Natural (NLP) y lingüística computacional.
 Organiza conferencias y actividades científicas que conectan a investigadores, estudiantes y profesionales de toda América.
+
+NAACL financió becas de viaje para que alumnos de diversas regiones de Perú pudieran acudir al evento en Lima.
 
 Sitio web: https://naacl.org
 
@@ -138,6 +157,8 @@ Sitio web: https://naacl.org
 SomosNLP es una comunidad internacional de personas hispanohablantes apasionadas por el Procesamiento del Lenguaje Natural (NLP), con el objetivo de acercar la IA a más de 600 millones de personas.
 Su misión es democratizar y avanzar el NLP en español mediante la creación de recursos abiertos que representen la diversidad lingüística y cultural de España, Latinoamérica y el Caribe.
 La comunidad desarrolla proyectos de código abierto, datasets, herramientas de evaluación y recursos para mejorar la representación del español y las lenguas cooficiales en los modelos de lenguaje.
+
+SomosNLP apoyó con la difusión en redes del evento y la gestión del streaming en directo.
 
 Sitio web: https://somosnlp.org ([LinkedIn](https://www.linkedin.com/company/somosnlp), [X](https://x.com/somosnlp_))
 
