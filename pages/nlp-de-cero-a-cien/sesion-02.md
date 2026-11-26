@@ -22,7 +22,7 @@ author: María Grandury
 
 ## Notebook
 
-<a href="https://github.com/somosnlp/nlp-de-cero-a-cien/blob/main/2_modelos_secuenciales/LSTM_NLP_clasificador_novelas_espa%C3%B1ol.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/nlp-en-es/nlp-de-cero-a-cien/blob/main/2_modelos_secuenciales/LSTM_NLP_clasificador_novelas_espa%C3%B1ol.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Recursos adicionales
 - [Understanding The Recurrent Neural Network | Post by Amit Shekhar](https://medium.com/mindorks/understanding-the-recurrent-neural-network-44d593f112a2)
@@ -36,4 +36,10 @@ author: María Grandury
 
 ---
 
-➡️ Siguiente sesión: [Arquitectura Transformer](/nlp-de-cero-a-cien/sesion-03)
+<div class="text-center">
+    ➡️ Sesión siguiente: <a href="/nlp-de-cero-a-cien/sesion-03" class="text-blue-500">Arquitectura Transformer</a>
+</div>
+
+<div class="text-center mt-4">
+    ⬅️ Sesión anterior: <a href="/nlp-de-cero-a-cien/sesion-01" class="text-blue-500">Introducción al NLP y Word Embeddings</a>
+</div>

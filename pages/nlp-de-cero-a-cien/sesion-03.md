@@ -28,4 +28,10 @@ author: María Grandury
 
 ---
 
-➡️ Siguiente sesión: [Transformers y Aprendizaje por Transferencia](/nlp-de-cero-a-cien/sesion-04)
+<div class="text-center">
+    ➡️ Sesión siguiente: <a href="/nlp-de-cero-a-cien/sesion-04" class="text-blue-500">Transformers y Aprendizaje por Transferencia</a>
+</div>
+
+<div class="text-center mt-4">
+    ⬅️ Sesión anterior: <a href="/nlp-de-cero-a-cien/sesion-02" class="text-blue-500">Modelos Secuenciales (RNNs y LSTMs)</a>
+</div>
